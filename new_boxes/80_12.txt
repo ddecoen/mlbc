@@ -1,0 +1,336 @@
+Team22 vs Team17 (Day 80)
+
+Date of game:  June 19, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Edmonton           0 1 0  0 3 1  1 5 0    11 19  2
+Scranton           0 0 0  1 0 0  0 2 2     5 12  0
+
+
+Edmonton                           AB  R  H BI BB SO LO   AVG
+
+Claude Holmon ss                    5  2  2  3  0  1  1  .244
+Dallas Romeo 2b                     4  1  1  0  1  2  2  .325
+Stefan Fleischacker cf              4  1  1  1  0  0  1  .281
+Charlie Martinez 1b                 5  1  2  2  0  2  2  .234
+  Mark Patterson 1b                 0  0  0  0  0  0  0  .222
+Carl Felarca dh                     5  0  4  1  0  0  2  .295
+Larry Brooks lf                     5  1  1  0  0  0  0  .377
+  Elbert Brooks lf                  0  0  0  0  0  0  0  .273
+Salvatore Blanca 3b                 5  2  3  1  0  0  4  .326
+Wes Edes c                          4  2  2  0  1  1  0  .214
+  Howie Stjean c                    0  0  0  0  0  0  0  .299
+Josh Williams rf                    4  1  3  2  0  0  1  .299
+  Joseph Kelly ph-pr                1  0  0  0  0  0  0  .260
+
+TOTALS:                            42 11 19 10  2  6 13
+
+
+BATTING
+2B: Brooks (16, Johnson); Holmon (6, Stem).  HR: Holmon (6, 5th inning off
+Johnson, 2 on, 1 out).  RBI: Blanca (47); Holmon 3 (25); Williams 2 (34);
+Martinez 2 (40); Fleischacker (29); Felarca (46).  2-OUT RBI: Williams;
+Martinez 2; Felarca.  Runners left in scoring position, 2 outs: Holmon; Blanca
+2.  GIDP: Brooks 2.  Team LOB: 7.  
+
+FIELDING
+E: Patterson 2 (5, throw, ground ball).  
+
+
+Scranton                           AB  R  H BI BB SO LO   AVG
+
+Cash Case 2b                        4  0  0  0  0  1  4  .277
+Jeffrey Whitney c                   5  1  1  0  0  0  0  .316
+Sergei Bobinsky 3b                  5  1  3  1  0  1  2  .344
+Ray Massar lf                       4  1  1  2  1  0  1  .248
+Jose Largen ss                      4  1  2  0  1  2  1  .242
+Dominick Konarski 1b                5  1  2  0  0  0  2  .308
+Brandon Eubanks cf                  5  0  1  1  0  1  4  .300
+Mark Hamill rf                      2  0  1  0  0  0  0  .275
+  Danny Allen ph-rf                 2  0  1  0  0  0  4  .288
+Salvador Maxwell dh                 3  0  0  0  0  1  1  .298
+  Joss Whedon ph-dh                 1  0  0  0  0  0  0  .231
+
+TOTALS:                            40  5 12  4  2  6 19
+
+
+BATTING
+2B: Hamill (11, Saeteun); Bobinsky (30, Saeteun); Whitney (21, Fairless).  3B:
+Konarski (6, Saeteun).  HR: Bobinsky (10, 8th inning off Waligora, 0 on, 0
+out); Massar (6, 9th inning off Fairless, 1 on, 2 out).  RBI: Eubanks (35);
+Bobinsky (46); Massar 2 (38).  2-OUT RBI: Eubanks; Massar 2.  Runners left in
+scoring position, 2 outs: Konarski; Case 2; Eubanks; Bobinsky; Allen.  GIDP:
+Konarski.  Team LOB: 11.  
+
+
+Edmonton                         IP     H  R ER BB SO HR   ERA
+
+Ed Saeteun (W, 2-2)             7       6  1  1  2  5  0  5.93
+Gary Waligora                     2/3   2  2  1  0  0  1  3.98
+Victor Fairless                 1       2  2  2  0  0  1  7.40
+Gordon Jefferson                  1/3   2  0  0  0  1  0  6.80
+
+
+Scranton                         IP     H  R ER BB SO HR   ERA
+
+Scott Johnson (L, 2-7)          4 1/3   7  4  4  0  5  1  8.44
+Don Grant                       1 2/3   5  1  1  0  0  0  4.20
+Irwin Stem                      1       4  2  2  0  0  0  5.93
+Nick McDonald                     2/3   2  4  4  2  0  0  7.39
+Hugh Gorsline                   1 1/3   1  0  0  0  1  0  9.57
+
+Stem pitched to 1 batter in the 8th.  
+
+WP: Gorsline.  Balk: Saeteun.  HBP: Case (by Saeteun).  Pitches-Strikes: 
+Johnson 72-60; Grant 30-24; Stem 23-21; McDonald 28-20; Gorsline 19-17; Saeteun
+103-81; Waligora 22-16; Fairless 18-13; Jefferson 10-8.  Ground balls-Fly
+balls:  Johnson 8-6; Grant 6-2; Stem 1-6; McDonald 2-2; Gorsline 3-1; Saeteun
+6-15; Waligora 3-3; Fairless 1-4; Jefferson 2-0.  Batters faced:  Johnson 19;
+Grant 8; Stem 7; McDonald 6; Gorsline 5; Saeteun 29; Waligora 6; Fairless 5;
+Jefferson 3.  
+
+Umpires:  HP: Tony Peng.  1B: Mike Dunhour.  2B: Mike Coustier.  3B: Mike
+Mangano.  T: 3:44.  Att: 4,919.  Weather: 79 degrees, clear.  Wind: 4 mph, out
+to left-center.  
+
+
+High Heat Baseball Player of the Game:  Claude Holmon
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Edmonton batting
+
+Claude Holmon struck out looking.
+Dallas Romeo struck out looking.
+Stefan Fleischacker singled.
+Charlie Martinez struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Edmonton 0, Scranton 0
+
+
+Bottom of the 1st inning:  Scranton batting
+
+Cash Case grounded out to shortstop.
+Jeffrey Whitney flied out to left.
+Sergei Bobinsky singled.
+Ray Massar walked, Bobinsky to second.
+Jose Largen struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Edmonton 0, Scranton 0
+
+
+Top of the 2nd inning:  Edmonton batting
+
+Carl Felarca flied out to center.
+Larry Brooks doubled.
+Salvatore Blanca singled, Brooks SCORED.
+Wes Edes grounded out to pitcher, Blanca to second.
+Josh Williams grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Edmonton 1, Scranton 0
+
+
+Bottom of the 2nd inning:  Scranton batting
+
+Dominick Konarski popped out to first.
+Brandon Eubanks grounded out to shortstop.
+Mark Hamill doubled.
+Ed Saeteun committed a balk, Hamill to third.
+Salvador Maxwell grounded out to catcher.
+
+0 Runs, 1 Hit, 0 Errors
+Edmonton 1, Scranton 0
+
+
+Top of the 3rd inning:  Edmonton batting
+
+Claude Holmon flied out to right.
+Dallas Romeo struck out looking.
+Stefan Fleischacker popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Edmonton 1, Scranton 0
+
+
+Bottom of the 3rd inning:  Scranton batting
+
+Cash Case struck out looking.
+Jeffrey Whitney flied out to right.
+Sergei Bobinsky struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Edmonton 1, Scranton 0
+
+
+Top of the 4th inning:  Edmonton batting
+
+Charlie Martinez struck out swinging.
+Carl Felarca singled.
+Larry Brooks grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Edmonton 1, Scranton 0
+
+
+Bottom of the 4th inning:  Scranton batting
+
+Ray Massar flied out to left.
+Jose Largen struck out swinging.
+Dominick Konarski tripled.
+Brandon Eubanks singled, Konarski SCORED.
+Mark Hamill fouled out to left.
+
+1 Run, 2 Hits, 0 Errors
+Edmonton 1, Scranton 1
+
+
+Top of the 5th inning:  Edmonton batting
+
+Salvatore Blanca flied out to center.
+Wes Edes singled.
+Josh Williams singled, Edes to third.
+Claude Holmon HOMERED, Edes SCORED, Williams SCORED.
+Don Grant relieved Scott Johnson.
+Dallas Romeo singled.
+Stefan Fleischacker flied out to left.
+Charlie Martinez grounded out to first.
+
+3 Runs, 4 Hits, 0 Errors
+Edmonton 4, Scranton 1
+
+
+Bottom of the 5th inning:  Scranton batting
+
+Salvador Maxwell fouled out to third.
+Cash Case grounded out to pitcher.
+Jeffrey Whitney popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Edmonton 4, Scranton 1
+
+
+Top of the 6th inning:  Edmonton batting
+
+Carl Felarca singled.
+Larry Brooks grounded into double play to third.
+Salvatore Blanca singled.
+Wes Edes singled, Blanca to third.
+Josh Williams singled, Blanca SCORED.
+
+1 Run, 4 Hits, 0 Errors
+Edmonton 5, Scranton 1
+
+
+Bottom of the 6th inning:  Scranton batting
+
+Sergei Bobinsky doubled.
+Ray Massar flied out to center.
+Jose Largen walked.
+Dominick Konarski grounded into double play to third, Largen to second.
+
+0 Runs, 1 Hit, 0 Errors
+Edmonton 5, Scranton 1
+
+
+Top of the 7th inning:  Edmonton batting
+
+Irwin Stem relieved Don Grant.
+Claude Holmon doubled.
+Dallas Romeo flied out to center.
+Stefan Fleischacker fouled out to third.
+Charlie Martinez singled, Holmon SCORED.
+Carl Felarca singled, Martinez to second.
+Larry Brooks flied out to center.
+
+1 Run, 3 Hits, 0 Errors
+Edmonton 6, Scranton 1
+
+
+Bottom of the 7th inning:  Scranton batting
+
+Brandon Eubanks flied out to left.
+Danny Allen hit for Mark Hamill.
+Danny Allen singled.
+Salvador Maxwell struck out looking.
+Cash Case hit by pitch, Allen to second.
+Jeffrey Whitney grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Edmonton 6, Scranton 1
+
+
+Top of the 8th inning:  Edmonton batting
+
+Salvatore Blanca singled.
+Nick McDonald relieved Irwin Stem.
+Wes Edes walked, Blanca to second.
+Josh Williams singled, Blanca SCORED, Edes to third.
+Josh Williams was injured on the play.
+Joseph Kelly hit for Josh Williams.
+Joseph Kelly ran for Josh Williams.
+Claude Holmon popped out to third.
+Dallas Romeo walked, Kelly to second.
+Stefan Fleischacker grounded into fielder's choice to second, Edes SCORED,
+Charlie Martinez singled, Romeo SCORED, Fleischacker to third.
+Hugh Gorsline relieved Nick McDonald.
+Carl Felarca singled, Fleischacker SCORED, Martinez to third.
+Wild pitch by Hugh Gorsline, Martinez SCORED, Felarca to second.
+Larry Brooks flied out to center.
+
+5 Runs, 4 Hits, 0 Errors
+Edmonton 11, Scranton 1
+
+
+Bottom of the 8th inning:  Scranton batting
+
+Gary Waligora relieved Ed Saeteun.
+Mark Patterson came in for Charlie Martinez at first.
+Elbert Brooks came in for Larry Brooks in left.
+Sergei Bobinsky HOMERED.
+Ray Massar was safe after Mark Patterson committed a throwing error.
+Jose Largen singled, Massar to second.
+Dominick Konarski grounded into fielder's choice to third, Largen to second.
+Brandon Eubanks fouled out to catcher.
+Danny Allen was safe after Mark Patterson committed a fielding error, Largen
+Joss Whedon hit for Salvador Maxwell.
+Victor Fairless relieved Gary Waligora.
+Joss Whedon flied out to right.
+
+2 Runs, 2 Hits, 2 Errors
+Edmonton 11, Scranton 3
+
+
+Top of the 9th inning:  Edmonton batting
+
+Salvatore Blanca grounded out to first.
+Wes Edes struck out looking.
+Joseph Kelly grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Edmonton 11, Scranton 3
+
+
+Bottom of the 9th inning:  Scranton batting
+
+Howie Stjean came in for Wes Edes at catcher.
+Cash Case grounded out to first.
+Jeffrey Whitney doubled.
+Sergei Bobinsky popped out to third.
+Ray Massar HOMERED, Whitney SCORED.
+Gordon Jefferson relieved Victor Fairless.
+Jose Largen singled.
+Dominick Konarski singled, Largen to third.
+Brandon Eubanks struck out looking.
+
+2 Runs, 4 Hits, 0 Errors
+Edmonton 11, Scranton 5
+
+
+END

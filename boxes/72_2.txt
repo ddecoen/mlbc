@@ -1,0 +1,300 @@
+
+Date of game:  June 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Amarillo           1 0 0  0 0 0  0 0 0     1  4  0
+Omaha              0 0 0  0 6 0  1 3 X    10 11  1
+
+
+Amarillo                           AB  R  H BI BB SO LO   AVG
+
+John Grant 3b                       3  1  0  0  1  0  1  .364
+  Edwin Gobble 3b                   0  0  0  0  0  0  0  .247
+Wayne Pipkins 1b                    4  0  1  0  0  0  3  .296
+  Rube Easton 1b                    0  0  0  0  0  0  0  .233
+John McCauley dh                    3  0  0  0  1  0  1  .335
+George Laurenzano rf                4  0  1  1  0  0  1  .271
+  Abraham Liv rf                    0  0  0  0  0  0  0  .175
+Brock Heishman ss                   4  0  0  0  0  1  0  .261
+Bryan Breheny 2b                    4  0  1  0  0  0  2  .243
+Mike Rexroat lf                     2  0  0  0  1  1  2  .365
+  Charlie Notti lf                  1  0  0  0  0  0  0  .218
+Isiah Rann cf                       4  0  1  0  0  2  2  .242
+Willie Schuett c                    2  0  0  0  1  0  3  .301
+
+TOTALS:                            31  1  4  1  4  4 15
+
+
+BATTING
+2B: Breheny (15, Suchy).  RBI: Laurenzano (48).  Runners left in scoring
+position, 2 outs: Rexroat; Schuett.  GIDP: Grant.  Team LOB: 7.  
+
+BASERUNNING
+SB: Rann (10, 2nd base off Richmond/Strachan).  
+
+
+Omaha                              AB  R  H BI BB SO LO   AVG
+
+Paul Burkhart dh                    5  1  2  0  0  0  1  .276
+Jerry Bush 3b                       3  2  2  3  2  0  2  .325
+Gordon Shumway ss                   5  1  2  0  0  1  1  .275
+Hosea Fox 2b                        3  2  1  1  2  0  3  .248
+Lynn Disanti 1b                     3  1  1  2  2  1  3  .288
+Alphonso Navarro lf                 5  1  1  3  0  1  1  .265
+Vincent Strachan c                  3  0  0  0  1  0  2  .253
+Scott Carmichael rf                 3  1  1  0  1  2  1  .235
+Peter Schepers cf                   4  1  1  0  0  1  3  .249
+
+TOTALS:                            34 10 11  9  8  6 17
+
+
+BATTING
+2B: Shumway (14, Garcia).  HR: Bush (14, 5th inning off Silvia, 2 on, 1 out);
+Navarro (9, 5th inning off Silvia, 2 on, 2 out).  RBI: Bush 3 (41); Navarro 3
+(32); Fox (28); Disanti 2 (24).  2-OUT RBI: Navarro 3; Disanti 2.  Runners left
+in scoring position, 2 outs: Schepers 2; Disanti; Strachan.  GIDP: Schepers. 
+Team LOB: 8.  
+
+FIELDING
+E: Navarro (1, fly ball).  
+
+
+Amarillo                         IP     H  R ER BB SO HR   ERA
+
+Pepe Silvia (L, 4-1)            4 2/3   5  6  6  5  4  2  5.30
+Cleveland Garcia                2 2/3   5  2  2  1  2  0  8.13
+Gregory Frye                      1/3   1  2  2  2  0  0  6.94
+Phil Demers                       1/3   0  0  0  0  0  0  4.99
+
+
+Omaha                            IP     H  R ER BB SO HR   ERA
+
+Victor Richmond (W, 3-4)        8       3  1  1  4  3  0  4.27
+Gale Suchy                      1       1  0  0  0  1  0  4.42
+
+
+WP: Demers.  Pitches-Strikes:  Richmond 116-83; Suchy 11-8; Silvia 91-58;
+Garcia 49-37; Frye 19-10; Demers 6-3.  Ground balls-Fly balls:  Richmond 17-7;
+Suchy 0-3; Silvia 9-6; Garcia 6-4; Frye 0-2; Demers 1-0.  Batters faced: 
+Richmond 31; Suchy 4; Silvia 24; Garcia 13; Frye 4; Demers 1.  
+
+Umpires:  HP: Brian Nestor.  1B: Mike Mangano.  2B: James Coliz, Jr.  3B: Paul
+Terry.  T: 3:09.  Att: 31,989.  Weather: 76 degrees, cloudy.  Wind: 1 mph,
+across, right to left and slightly in.  
+
+
+High Heat Baseball Player of the Game:  Jerry Bush
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Amarillo batting
+
+John Grant walked.
+Wayne Pipkins grounded out to shortstop, Grant to second.
+John McCauley walked.
+George Laurenzano singled, Grant SCORED, McCauley to third.
+Brock Heishman struck out looking.
+Bryan Breheny grounded out to second.
+
+1 Run, 1 Hit, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Bottom of the 1st inning:  Omaha batting
+
+Paul Burkhart grounded out to third.
+Jerry Bush walked.
+Gordon Shumway struck out looking.
+Hosea Fox grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Top of the 2nd inning:  Amarillo batting
+
+Mike Rexroat flied out to center.
+Isiah Rann singled.
+Rann stole second base.
+Willie Schuett walked.
+John Grant grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Bottom of the 2nd inning:  Omaha batting
+
+Lynn Disanti walked.
+Alphonso Navarro struck out looking.
+Vincent Strachan grounded out to first, Disanti to second.
+Scott Carmichael struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Top of the 3rd inning:  Amarillo batting
+
+Wayne Pipkins grounded out to shortstop.
+John McCauley grounded out to third.
+George Laurenzano grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Bottom of the 3rd inning:  Omaha batting
+
+Peter Schepers grounded out to third.
+Paul Burkhart grounded out to shortstop.
+Jerry Bush singled.
+Gordon Shumway singled, Bush to third.
+Hosea Fox grounded out to third.
+
+0 Runs, 2 Hits, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Top of the 4th inning:  Amarillo batting
+
+Brock Heishman grounded out to second.
+Bryan Breheny was safe after Alphonso Navarro committed a fielding error.
+Mike Rexroat struck out swinging.
+Isiah Rann grounded out to first.
+
+0 Runs, 0 Hits, 1 Error
+Amarillo 1, Omaha 0
+
+
+Bottom of the 4th inning:  Omaha batting
+
+Lynn Disanti struck out swinging.
+Alphonso Navarro flied out to center.
+Vincent Strachan popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Top of the 5th inning:  Amarillo batting
+
+Willie Schuett grounded out to second.
+John Grant popped out to first.
+Wayne Pipkins singled.
+John McCauley grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Amarillo 1, Omaha 0
+
+
+Bottom of the 5th inning:  Omaha batting
+
+Scott Carmichael walked.
+Peter Schepers singled, Carmichael to third.
+Paul Burkhart flied out to shortstop.
+Jerry Bush HOMERED, Carmichael SCORED, Schepers SCORED.
+Gordon Shumway grounded out to first.
+Hosea Fox walked.
+Lynn Disanti walked, Fox to second.
+Alphonso Navarro HOMERED, Fox SCORED, Disanti SCORED.
+Cleveland Garcia relieved Pepe Silvia.
+Vincent Strachan grounded out to second.
+
+6 Runs, 3 Hits, 0 Errors
+Amarillo 1, Omaha 6
+
+
+Top of the 6th inning:  Amarillo batting
+
+George Laurenzano flied out to left.
+Brock Heishman flied out to center.
+Bryan Breheny grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 6
+
+
+Bottom of the 6th inning:  Omaha batting
+
+Scott Carmichael singled.
+Peter Schepers grounded into double play to first.
+Paul Burkhart singled.
+Jerry Bush grounded out to first.
+
+0 Runs, 2 Hits, 0 Errors
+Amarillo 1, Omaha 6
+
+
+Top of the 7th inning:  Amarillo batting
+
+Mike Rexroat walked.
+Isiah Rann struck out looking.
+Willie Schuett popped out to first.
+John Grant grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 6
+
+
+Bottom of the 7th inning:  Omaha batting
+
+Gordon Shumway doubled.
+Hosea Fox singled, Shumway SCORED.
+Lynn Disanti flied out to center.
+Alphonso Navarro popped out to second.
+Vincent Strachan walked, Fox to second.
+Scott Carmichael struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Amarillo 1, Omaha 7
+
+
+Top of the 8th inning:  Amarillo batting
+
+Wayne Pipkins grounded out to pitcher.
+John McCauley fouled out to first.
+George Laurenzano flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 1, Omaha 7
+
+
+Bottom of the 8th inning:  Omaha batting
+
+Edwin Gobble came in for John Grant at third.
+Rube Easton came in for Wayne Pipkins at first.
+Abraham Liv came in for George Laurenzano in right.
+Charlie Notti came in for Mike Rexroat in left.
+Peter Schepers struck out swinging.
+Paul Burkhart singled.
+Gregory Frye relieved Cleveland Garcia.
+Jerry Bush walked, Burkhart to second.
+Gordon Shumway fouled out to first.
+Hosea Fox walked, Bush to second, Burkhart to third.
+Lynn Disanti singled, Burkhart SCORED, Bush SCORED, Fox to third.
+Phil Demers relieved Gregory Frye.
+Wild pitch by Phil Demers, Fox SCORED, Disanti to second.
+Alphonso Navarro grounded out to first.
+
+3 Runs, 2 Hits, 0 Errors
+Amarillo 1, Omaha 10
+
+
+Top of the 9th inning:  Amarillo batting
+
+Gale Suchy relieved Victor Richmond.
+Brock Heishman flied out to left.
+Bryan Breheny doubled.
+Charlie Notti flied out to left.
+Isiah Rann struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Amarillo 1, Omaha 10
+
+
+END

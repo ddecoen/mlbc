@@ -1,0 +1,390 @@
+Team8 vs Team3 (Day 78)
+
+Date of game:  June 17, 1987
+
+FINAL IN 11        1 2 3  4 5 6  7 8 9 1011    R  H  E
+
+Peoria             3 1 0  0 3 0  0 1 0  0 1    9 19  0
+Hartford           2 4 0  0 0 0  0 2 0  0 0    8 16  0
+
+
+Peoria                             AB  R  H BI BB SO LO   AVG
+
+Ken Slaney ss                       6  1  4  2  2  0  5  .346
+Francisco Stewart 3b                4  0  1  2  0  0  2  .259
+Walt Pidgeon 1b                     6  1  1  0  1  1  4  .267
+Mike Roche c                        3  0  1  1  1  0  5  .338
+Jimmie McKinney 2b                  6  3  4  0  0  0  3  .343
+James Vonbargen dh                  6  0  3  3  0  0  2  .289
+Zager Evans lf                      6  2  2  0  0  0  4  .275
+Juan Gregory rf                     3  2  2  1  1  0  6  .225
+  Ron Zukowski ph-rf                1  0  0  0  0  0  0  .353
+Ruben Auna cf                       6  0  1  0  0  0  3  .301
+
+TOTALS:                            47  9 19  9  5  1 34
+
+
+BATTING
+2B: Slaney (16, Momon); Vonbargen 2 (12, Momon, Deroberts); Auna (13, Grove). 
+S: Roche; Zukowski.  SF: Roche.  RBI: Roche (58); Vonbargen 3 (29); Stewart 2
+(9); Gregory (13); Slaney 2 (45).  2-OUT RBI: Vonbargen 3; Slaney 2; Stewart. 
+Runners left in scoring position, 2 outs: Gregory 3; Auna; McKinney; Evans;
+Roche.  Team LOB: 14.  
+
+BASERUNNING
+Picked off: Slaney (1st base, Deroberts).  
+
+FIELDING
+PB: Roche.  
+
+
+Hartford                           AB  R  H BI BB SO LO   AVG
+
+Dave Ingwerson cf                   5  3  4  0  1  0  1  .348
+Dwight Crosby rf                    4  2  3  1  0  0  0  .277
+  Bill Korn ph-rf                   1  0  0  1  0  0  0  .000
+Guy Chancy dh                       3  1  1  1  3  0  1  .261
+Marshall Sleestak ss                6  0  2  2  0  0  2  .270
+Paul Baumer 3b                      5  0  1  2  0  0  4  .307
+Harold Dildy 2b                     3  0  2  0  0  0  1  .244
+  Jack Compton ph-2b                3  0  1  0  0  0  1  .307
+Charlie Nancy 1b                    4  0  1  0  0  0  0  .289
+  Silas McGinnis ph-1b              1  0  0  0  0  0  1  .257
+Woody Selley lf                     5  0  0  0  0  1  5  .252
+Bennie Ronda c                      4  2  1  0  1  0  1  .278
+
+TOTALS:                            44  8 16  7  5  1 17
+
+
+BATTING
+2B: Chancy (5, Jacobs); Crosby (11, Jacobs); Sleestak (9, Flock); Ingwerson 2
+(25, Kane, Nickelson).  SF: Baumer; Korn.  RBI: Chancy (14); Baumer 2 (50);
+Crosby (25); Sleestak 2 (35); Korn (1).  Runners left in scoring position, 2
+outs: Selley 3; Sleestak; Baumer; Chancy; McGinnis.  GIDP: Ronda.  Team LOB:
+10.  
+
+BASERUNNING
+SB: Chancy (15, 2nd base off Flock/Roche); Compton (8, 2nd base off
+Nickelson/Roche); Sleestak (20, 2nd base off Thorton/Roche).  CS: Sleestak 2
+(10, 2nd base by Flock/Roche, 3rd base by Flock/Roche).  
+
+
+Peoria                           IP     H  R ER BB SO HR   ERA
+
+Glenn Jacobs                    1 1/3   8  6  6  1  1  0  3.88
+Paul Flock                      6       5  1  1  3  0  0  4.00
+George Kane (BS, 1)               2/3   1  1  1  0  0  0  4.40
+Larry Nickelson (W, 4-0)        2       2  0  0  0  0  0  5.02
+Alberto Thorton (S, 2)          1       0  0  0  1  0  0  4.41
+
+
+Hartford                         IP     H  R ER BB SO HR   ERA
+
+Eliseo Momon                    1 1/3   5  4  4  1  0  0  6.55
+Fernando Grove                  3 1/3   7  3  3  0  1  0  3.42
+Ruben Deroberts                 3       3  1  1  2  0  0  6.03
+Nicholas Watkinson (L, 2-2)     3       4  1  1  1  0  0  4.98
+Scott Humbird                     1/3   0  0  0  0  0  0  4.37
+
+
+IBB: Slaney (by Watkinson).  HBP: Stewart (by Grove).  Pitches-Strikes:  Momon
+33-24; Grove 69-52; Deroberts 52-34; Watkinson 49-37; Humbird 5-4; Jacobs
+58-43; Flock 99-60; Kane 14-12; Nickelson 22-18; Thorton 17-10.  Ground
+balls-Fly balls:  Momon 6-3; Grove 11-5; Deroberts 7-4; Watkinson 8-5; Humbird
+0-1; Jacobs 6-5; Flock 13-7; Kane 1-2; Nickelson 5-3; Thorton 2-1.  Batters
+faced:  Momon 10; Grove 18; Deroberts 14; Watkinson 14; Humbird 1; Jacobs 13;
+Flock 23; Kane 3; Nickelson 8; Thorton 4.  
+
+Umpires:  HP: Chuck Woo.  1B: Sam Sheth.  2B: Brian Nestor.  3B: Mike Dunhour. 
+T: 4:18.  Att: 26,861.  Weather: 72 degrees, partly cloudy.  Wind: 4 mph, out
+to left-center.  
+
+
+High Heat Baseball Player of the Game:  Ken Slaney
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Peoria batting
+
+Ken Slaney doubled.
+Francisco Stewart grounded out to shortstop, Slaney to third.
+Walt Pidgeon walked.
+Mike Roche hit a sacrifice fly, Slaney SCORED.
+Jimmie McKinney singled, Pidgeon to third.
+James Vonbargen doubled, Pidgeon SCORED, McKinney SCORED.
+Zager Evans grounded out to third.
+
+3 Runs, 3 Hits, 0 Errors
+Peoria 3, Hartford 0
+
+
+Bottom of the 1st inning:  Hartford batting
+
+Dave Ingwerson singled.
+Dwight Crosby singled, Ingwerson to third.
+Guy Chancy doubled, Ingwerson SCORED, Crosby to third.
+Marshall Sleestak flied out to right.
+Paul Baumer hit a sacrifice fly, Crosby SCORED.
+Harold Dildy singled, Chancy to third.
+Charlie Nancy grounded out to first.
+
+2 Runs, 4 Hits, 0 Errors
+Peoria 3, Hartford 2
+
+
+Top of the 2nd inning:  Peoria batting
+
+Juan Gregory singled.
+Ruben Auna popped out to first.
+Ken Slaney singled, Gregory to third.
+Fernando Grove relieved Eliseo Momon.
+Francisco Stewart grounded into fielder's choice to pitcher, Gregory SCORED.
+Walt Pidgeon flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Peoria 4, Hartford 2
+
+
+Bottom of the 2nd inning:  Hartford batting
+
+Woody Selley struck out looking.
+Bennie Ronda singled.
+Dave Ingwerson singled, Ronda to second.
+Dwight Crosby doubled, Ronda SCORED, Ingwerson to third.
+Guy Chancy walked.
+Marshall Sleestak singled, Ingwerson SCORED, Crosby SCORED, Chancy to third.
+Paul Flock relieved Glenn Jacobs.
+Sleestak caught stealing second base.
+Paul Baumer singled, Chancy SCORED.
+Harold Dildy singled, Baumer to third.
+Charlie Nancy grounded out to third.
+
+4 Runs, 6 Hits, 0 Errors
+Peoria 4, Hartford 6
+
+
+Top of the 3rd inning:  Peoria batting
+
+Mike Roche grounded out to second.
+Jimmie McKinney singled.
+James Vonbargen singled, McKinney to third.
+Zager Evans grounded into fielder's choice to second.
+Juan Gregory grounded out to pitcher.
+
+0 Runs, 2 Hits, 0 Errors
+Peoria 4, Hartford 6
+
+
+Bottom of the 3rd inning:  Hartford batting
+
+Woody Selley grounded out to shortstop.
+Bennie Ronda grounded out to pitcher.
+Dave Ingwerson walked.
+Dwight Crosby singled, Ingwerson to second.
+Guy Chancy grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 4, Hartford 6
+
+
+Top of the 4th inning:  Peoria batting
+
+Ruben Auna doubled.
+Ken Slaney flied out to center.
+Francisco Stewart hit by pitch.
+Walt Pidgeon struck out looking.
+Mike Roche grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 4, Hartford 6
+
+
+Bottom of the 4th inning:  Hartford batting
+
+Marshall Sleestak doubled.
+Sleestak caught stealing third base.
+Paul Baumer fouled out to third.
+Harold Dildy fouled out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 4, Hartford 6
+
+
+Top of the 5th inning:  Peoria batting
+
+Jimmie McKinney singled.
+James Vonbargen popped out to first.
+Zager Evans singled, McKinney to second.
+Juan Gregory singled, McKinney SCORED, Evans to second.
+Ruben Auna grounded out to first, Gregory to second, Evans to third.
+Ken Slaney singled, Evans SCORED, Gregory SCORED.
+Ruben Deroberts relieved Fernando Grove.
+Slaney was picked off first base by Deroberts.
+
+3 Runs, 4 Hits, 0 Errors
+Peoria 7, Hartford 6
+
+
+Bottom of the 5th inning:  Hartford batting
+
+Charlie Nancy singled.
+Woody Selley flied out to right.
+Bennie Ronda grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 7, Hartford 6
+
+
+Top of the 6th inning:  Peoria batting
+
+Walt Pidgeon grounded out to third.
+Mike Roche singled.
+Jimmie McKinney singled, Roche to third.
+James Vonbargen grounded into fielder's choice to third.
+Zager Evans flied out to right.
+
+0 Runs, 2 Hits, 0 Errors
+Peoria 7, Hartford 6
+
+
+Bottom of the 6th inning:  Hartford batting
+
+Dave Ingwerson flied out to right.
+Dwight Crosby grounded out to shortstop.
+Guy Chancy walked.
+Chancy stole second base.
+Marshall Sleestak grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 7, Hartford 6
+
+
+Top of the 7th inning:  Peoria batting
+
+Juan Gregory walked.
+Ruben Auna flied out to right.
+Ken Slaney flied out to left.
+Francisco Stewart grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 7, Hartford 6
+
+
+Bottom of the 7th inning:  Hartford batting
+
+Paul Baumer grounded out to first.
+Jack Compton hit for Harold Dildy.
+Jack Compton grounded out to first.
+Charlie Nancy popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 7, Hartford 6
+
+
+Top of the 8th inning:  Peoria batting
+
+Walt Pidgeon flied out to center.
+Mike Roche walked.
+Jimmie McKinney grounded into fielder's choice to shortstop.
+James Vonbargen doubled, McKinney SCORED.
+Nicholas Watkinson relieved Ruben Deroberts.
+Zager Evans grounded out to first.
+
+1 Run, 1 Hit, 0 Errors
+Peoria 8, Hartford 6
+
+
+Bottom of the 8th inning:  Hartford batting
+
+Woody Selley flied out to center.
+Bennie Ronda walked.
+George Kane relieved Paul Flock.
+Dave Ingwerson doubled, Ronda to third.
+Bill Korn hit for Dwight Crosby.
+Passed ball by Mike Roche, Ronda SCORED, Ingwerson to third.
+Bill Korn hit a sacrifice fly, Ingwerson SCORED.
+Guy Chancy grounded out to second.
+
+2 Runs, 1 Hit, 0 Errors
+Peoria 8, Hartford 8
+
+
+Top of the 9th inning:  Peoria batting
+
+Ron Zukowski hit for Juan Gregory.
+Ron Zukowski flied out to right.
+Ruben Auna fouled out to first.
+Ken Slaney singled.
+Francisco Stewart flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 8, Hartford 8
+
+
+Bottom of the 9th inning:  Hartford batting
+
+Larry Nickelson relieved George Kane.
+Marshall Sleestak grounded out to second.
+Paul Baumer grounded out to third.
+Jack Compton singled.
+Silas McGinnis hit for Charlie Nancy.
+Compton stole second base.
+Silas McGinnis grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 8, Hartford 8
+
+
+Top of the 10th inning:  Peoria batting
+
+Walt Pidgeon singled.
+Mike Roche sacrificed, Pidgeon to second.
+Jimmie McKinney grounded out to second, Pidgeon to third.
+James Vonbargen fouled out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 8, Hartford 8
+
+
+Bottom of the 10th inning:  Hartford batting
+
+Woody Selley flied out to left.
+Bennie Ronda flied out to right.
+Dave Ingwerson doubled.
+Bill Korn grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 8, Hartford 8
+
+
+Top of the 11th inning:  Peoria batting
+
+Zager Evans singled.
+Ron Zukowski sacrificed, Evans to second.
+Ruben Auna flied out to left.
+Ken Slaney was walked intentionally.
+Francisco Stewart singled, Evans SCORED, Slaney to third.
+Scott Humbird relieved Nicholas Watkinson.
+Walt Pidgeon flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Peoria 9, Hartford 8
+
+
+Bottom of the 11th inning:  Hartford batting
+
+Alberto Thorton relieved Larry Nickelson.
+Guy Chancy walked.
+Marshall Sleestak grounded into fielder's choice to shortstop.
+Sleestak stole second base.
+Paul Baumer flied out to shortstop.
+Jack Compton grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 9, Hartford 8
+
+
+END

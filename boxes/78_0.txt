@@ -1,0 +1,336 @@
+
+Date of game:  June 17, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Peninsula          2 1 2  0 2 0  1 2 1    11 13  1
+Lynchburg          1 0 0  2 1 0  2 0 0     6  8  1
+
+
+Peninsula                          AB  R  H BI BB SO LO   AVG
+
+Johnny Drama lf                     5  1  2  1  1  1  3  .308
+Frederick Haughey cf                4  1  0  0  1  2  2  .260
+  Mike Stanford cf                  0  0  0  0  1  0  0  .302
+Bo Jackson rf                       5  2  1  0  0  2  3  .298
+Lyndon Turner 3b                    4  2  3  1  0  0  1  .337
+  Guadalupe Stgermain 3b            0  0  0  0  0  0  1  .300
+Eric Saglibene 1b                   5  1  3  5  0  1  1  .313
+LeRon Johnson dh                    3  2  1  0  2  2  1  .265
+Jeffrey Fiorini ss                  5  2  3  2  0  1  1  .350
+  Scott Muske ss                    0  0  0  0  0  0  0  .333
+Squints Palledorous 2b              3  0  0  1  0  0  2  .270
+  Tom Spence 2b                     0  0  0  0  0  0  0  .304
+Aaron Cabrera c                     3  0  0  1  1  0  3  .267
+
+TOTALS:                            37 11 13 11  6  9 18
+
+
+BATTING
+2B: Fiorini (22, Dobbs Jr); Saglibene (18, Dobbs Jr); Jackson (10, Bird).  3B:
+Turner (4, Dobbs Jr).  HR: Fiorini (6, 5th inning off Brasil, 1 on, 2 out);
+Saglibene (16, 8th inning off Bird, 1 on, 1 out); Drama (11, 9th inning off
+Armes, 0 on, 2 out).  S: Palledorous; Turner.  SF: Cabrera; Palledorous.  RBI:
+Turner (46); Saglibene 5 (46); Cabrera (20); Fiorini 2 (36); Palledorous (26);
+Drama (40).  2-OUT RBI: Turner; Saglibene; Fiorini 2; Drama.  Runners left in
+scoring position, 2 outs: Drama; Haughey; Jackson.  Team LOB: 10.  
+
+FIELDING
+E: Palledorous (27, ground ball).  
+
+
+Lynchburg                          AB  R  H BI BB SO LO   AVG
+
+Gilbert Palmer cf                   4  3  1  0  1  0  2  .318
+Crenshaw Thomas 1b                  5  1  2  0  0  0  1  .346
+Lev Beniov dh                       3  0  1  1  0  1  1  .277
+  Sheridan Whiteside ph-dh          1  0  0  0  0  0  0  .283
+B.J. Blazkowicz ss                  3  1  2  4  0  1  4  .262
+Frank Castle rf                     4  0  0  0  0  0  1  .232
+Braxton Uber 2b                     4  0  0  0  0  0  3  .197
+Dave Hershenson 3b                  4  1  1  1  0  0  0  .230
+Micheal Delprincipe lf              3  0  1  0  0  0  0  .296
+  Puddnhead Wilson ph-lf            1  0  0  0  0  0  0  .305
+Normand Dagg c                      3  0  0  0  1  1  0  .328
+
+TOTALS:                            35  6  8  6  2  3 12
+
+
+BATTING
+2B: Thomas (15, Moore); Delprincipe (1, Moore).  3B: Blazkowicz (2, Pugh).  HR:
+Blazkowicz (13, 4th inning off Moore, 0 on, 0 out); Hershenson (14, 4th inning
+off Moore, 0 on, 2 out).  RBI: Blazkowicz 4 (46); Hershenson (33); Beniov (48).
+ 2-OUT RBI: Hershenson; Blazkowicz 2.  Runners left in scoring position, 2
+outs: Uber 2; Palmer.  Team LOB: 5.  
+
+FIELDING
+E: Thomas (2, ground ball).  
+
+
+Peninsula                        IP     H  R ER BB SO HR   ERA
+
+Jacob Moore (W, 5-4)            6       6  4  4  1  3  2  4.47
+Bill Lee                          1/3   0  1  1  1  0  0  7.20
+Gerald Pugh                     1 2/3   2  1  1  0  0  0  8.17
+Matthew Countryman              1       0  0  0  0  0  0 11.46
+
+
+Lynchburg                        IP     H  R ER BB SO HR   ERA
+
+George Dobbs Jr (L, 3-7)        2       6  5  5  1  1  0  5.12
+George Brasil                   2 2/3   2  2  2  1  3  1  7.29
+Rollie Fingers                  2       2  1  1  3  2  0  4.99
+Max Bird                        1 1/3   2  2  2  0  2  1  5.85
+Tim Armes                         2/3   1  1  1  0  0  1  6.75
+Jim Weimar                        1/3   0  0  0  1  1  0  4.34
+
+Dobbs Jr pitched to 3 batters in the 3rd.  
+
+HBP: Jackson (by Dobbs Jr).  Pitches-Strikes:  Dobbs Jr 54-40; Brasil 46-39;
+Fingers 53-30; Bird 21-19; Armes 11-11; Weimar 11-7; Moore 86-66; Lee 10-6;
+Pugh 22-17; Countryman 8-6.  Ground balls-Fly balls:  Dobbs Jr 5-6; Brasil 4-4;
+Fingers 3-3; Bird 1-3; Armes 0-3; Weimar 0-0; Moore 13-9; Lee 1-0; Pugh 2-5;
+Countryman 3-0.  Batters faced:  Dobbs Jr 14; Brasil 12; Fingers 11; Bird 6;
+Armes 3; Weimar 2; Moore 26; Lee 2; Pugh 7; Countryman 3.  
+
+Umpires:  HP: Tony Peng.  1B: Alice Qiao.  2B: Mike Saperstein.  3B: Scott
+Barcik.  T: 3:26.  Att: 15,980.  Weather: 77 degrees, clear.  Wind: 9 mph, in
+from left.  
+
+
+High Heat Baseball Player of the Game:  Eric Saglibene
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Peninsula batting
+
+Johnny Drama grounded out to second.
+Frederick Haughey walked.
+Bo Jackson flied out to right.
+Lyndon Turner tripled, Haughey SCORED.
+Eric Saglibene singled, Turner SCORED.
+LeRon Johnson struck out swinging.
+
+2 Runs, 2 Hits, 0 Errors
+Peninsula 2, Lynchburg 0
+
+
+Bottom of the 1st inning:  Lynchburg batting
+
+Gilbert Palmer singled.
+Crenshaw Thomas doubled, Palmer to third.
+Lev Beniov flied out to right.
+B.J. Blazkowicz grounded out to shortstop, Palmer SCORED.
+Frank Castle grounded out to third.
+
+1 Run, 2 Hits, 0 Errors
+Peninsula 2, Lynchburg 1
+
+
+Top of the 2nd inning:  Peninsula batting
+
+Jeffrey Fiorini doubled.
+Squints Palledorous sacrificed, Fiorini to third.
+Aaron Cabrera hit a sacrifice fly, Fiorini SCORED.
+Johnny Drama singled.
+Frederick Haughey flied out to right.
+
+1 Run, 2 Hits, 0 Errors
+Peninsula 3, Lynchburg 1
+
+
+Bottom of the 2nd inning:  Lynchburg batting
+
+Braxton Uber flied out to right.
+Dave Hershenson flied out to right.
+Micheal Delprincipe doubled.
+Normand Dagg grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Peninsula 3, Lynchburg 1
+
+
+Top of the 3rd inning:  Peninsula batting
+
+Bo Jackson hit by pitch.
+Lyndon Turner singled, Jackson to third.
+Eric Saglibene doubled, Jackson SCORED, Turner SCORED.
+George Brasil relieved George Dobbs Jr.
+LeRon Johnson walked.
+Jeffrey Fiorini struck out looking.
+Squints Palledorous grounded out to shortstop, Johnson to second, Saglibene to third.
+Aaron Cabrera grounded out to first.
+
+2 Runs, 2 Hits, 0 Errors
+Peninsula 5, Lynchburg 1
+
+
+Bottom of the 3rd inning:  Lynchburg batting
+
+Gilbert Palmer grounded out to shortstop.
+Crenshaw Thomas grounded out to second.
+Lev Beniov struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Peninsula 5, Lynchburg 1
+
+
+Top of the 4th inning:  Peninsula batting
+
+Johnny Drama popped out to first.
+Frederick Haughey flied out to center.
+Bo Jackson struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Peninsula 5, Lynchburg 1
+
+
+Bottom of the 4th inning:  Lynchburg batting
+
+B.J. Blazkowicz HOMERED.
+Frank Castle grounded out to pitcher.
+Braxton Uber grounded out to shortstop.
+Dave Hershenson HOMERED.
+Micheal Delprincipe was safe after Squints Palledorous committed a fielding error.
+Normand Dagg struck out looking.
+
+2 Runs, 2 Hits, 1 Error
+Peninsula 5, Lynchburg 3
+
+
+Top of the 5th inning:  Peninsula batting
+
+Lyndon Turner flied out to shortstop.
+Eric Saglibene struck out swinging.
+LeRon Johnson singled.
+Jeffrey Fiorini HOMERED, Johnson SCORED.
+Squints Palledorous was safe after Crenshaw Thomas committed a fielding error.
+Rollie Fingers relieved George Brasil.
+Aaron Cabrera walked, Palledorous to second.
+Johnny Drama struck out looking.
+
+2 Runs, 2 Hits, 1 Error
+Peninsula 7, Lynchburg 3
+
+
+Bottom of the 5th inning:  Lynchburg batting
+
+Gilbert Palmer walked.
+Crenshaw Thomas grounded out to shortstop, Palmer to second.
+Lev Beniov singled, Palmer SCORED.
+B.J. Blazkowicz struck out looking.
+Frank Castle grounded out to shortstop.
+
+1 Run, 1 Hit, 0 Errors
+Peninsula 7, Lynchburg 4
+
+
+Top of the 6th inning:  Peninsula batting
+
+Frederick Haughey struck out looking.
+Bo Jackson flied out to center.
+Lyndon Turner singled.
+Eric Saglibene grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Peninsula 7, Lynchburg 4
+
+
+Bottom of the 6th inning:  Lynchburg batting
+
+Braxton Uber grounded out to third.
+Dave Hershenson fouled out to third.
+Micheal Delprincipe grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Peninsula 7, Lynchburg 4
+
+
+Top of the 7th inning:  Peninsula batting
+
+LeRon Johnson walked.
+Jeffrey Fiorini singled, Johnson to third.
+Squints Palledorous hit a sacrifice fly, Johnson SCORED.
+Aaron Cabrera grounded into fielder's choice to shortstop.
+Johnny Drama walked, Cabrera to second.
+Max Bird relieved Rollie Fingers.
+Frederick Haughey struck out swinging.
+
+1 Run, 1 Hit, 0 Errors
+Peninsula 8, Lynchburg 4
+
+
+Bottom of the 7th inning:  Lynchburg batting
+
+Bill Lee relieved Jacob Moore.
+Normand Dagg walked.
+Gilbert Palmer grounded into fielder's choice to first.
+Bill Lee was injured on the play.
+Gerald Pugh relieved Bill Lee.
+Crenshaw Thomas singled, Palmer to second.
+Sheridan Whiteside hit for Lev Beniov.
+Sheridan Whiteside fouled out to catcher.
+B.J. Blazkowicz tripled, Palmer SCORED, Thomas SCORED.
+Frank Castle popped out to third.
+
+2 Runs, 2 Hits, 0 Errors
+Peninsula 8, Lynchburg 6
+
+
+Top of the 8th inning:  Peninsula batting
+
+Bo Jackson doubled.
+Lyndon Turner sacrificed, Jackson to third.
+Eric Saglibene HOMERED, Jackson SCORED.
+LeRon Johnson struck out looking.
+Jeffrey Fiorini fouled out to third.
+
+2 Runs, 2 Hits, 0 Errors
+Peninsula 10, Lynchburg 6
+
+
+Bottom of the 8th inning:  Lynchburg batting
+
+Mike Stanford came in for Frederick Haughey in center.
+Guadalupe Stgermain came in for Lyndon Turner at third.
+Scott Muske came in for Jeffrey Fiorini at shortstop.
+Braxton Uber flied out to center.
+Dave Hershenson grounded out to pitcher.
+Puddnhead Wilson hit for Micheal Delprincipe.
+Puddnhead Wilson fouled out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Peninsula 10, Lynchburg 6
+
+
+Top of the 9th inning:  Peninsula batting
+
+Tim Armes relieved Max Bird.
+Squints Palledorous flied out to right.
+Aaron Cabrera flied out to left.
+Johnny Drama HOMERED.
+Tim Armes was injured on the play.
+Jim Weimar relieved Tim Armes.
+Mike Stanford walked.
+Bo Jackson struck out swinging.
+
+1 Run, 1 Hit, 0 Errors
+Peninsula 11, Lynchburg 6
+
+
+Bottom of the 9th inning:  Lynchburg batting
+
+Matthew Countryman relieved Gerald Pugh.
+Tom Spence came in for Squints Palledorous at second.
+Normand Dagg grounded out to third.
+Gilbert Palmer grounded out to first.
+Crenshaw Thomas grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Peninsula 11, Lynchburg 6
+
+
+END

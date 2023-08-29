@@ -1,0 +1,376 @@
+Team11 vs Team12 (Day 72)
+
+Date of game:  June 11, 1987
+
+FINAL IN 11        1 2 3  4 5 6  7 8 9 1011    R  H  E
+
+San Jose           0 0 0  0 0 0  0 1 4  0 1    6 12  0
+Lake Elsinore      0 0 1  1 0 0  1 1 1  0 0    5 15  0
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Todd Brumit dh                      5  1  3  2  0  0  2  .304
+Lee Defoore c                       6  1  2  3  0  1  2  .276
+Ezra Snyder rf                      5  1  1  0  1  3  1  .203
+Anthony DiNozzo Jr. lf              2  0  1  0  3  0  2  .254
+Carl Heath 1b                       5  0  1  1  0  2  0  .293
+Dave Ramos 2b                       3  0  0  0  0  0  5  .216
+  Ricky Spanish ph                  1  0  0  0  0  0  0  .290
+  Harold Wayman 2b                  1  0  0  0  0  0  2  .250
+Howard Bruns cf                     4  0  0  0  0  1  7  .136
+  Jaden Miedema ph-cf               1  0  0  0  0  0  0  .225
+George Fogler ss                    5  1  3  0  0  0  2  .249
+Clem Stanforth 3b                   3  2  1  0  2  1  0  .229
+
+TOTALS:                            41  6 12  6  6  8 23
+
+
+BATTING
+HR: Defoore (4, 9th inning off Cheers, 2 on, 0 out).  RBI: Heath (48); Brumit 2
+(19); Defoore 3 (23).  Runners left in scoring position, 2 outs: Bruns 2;
+Defoore 2; Fogler.  GIDP: Defoore.  Team LOB: 9.  
+
+BASERUNNING
+SB: Fogler 2 (20, 2nd base off Antee/Descoteaux, 2nd base off
+Antee/Descoteaux); Stanforth 2 (7, 2nd base off Antee/Descoteaux, 2nd base off
+Antee/Descoteaux).  CS: DiNozzo Jr. (3, 2nd base by Cheers/Descoteaux).  Picked
+off: Fogler (2nd base, Antee).  
+
+
+Lake Elsinore                      AB  R  H BI BB SO LO   AVG
+
+Ken Masker rf                       6  0  3  0  0  2  3  .190
+Bret Thomas 2b                      6  1  2  0  0  0  3  .288
+Carlos Rinehart lf                  4  0  1  1  0  2  2  .111
+  Bradley Fabry lf                  2  0  1  1  0  1  2  .203
+Shawn Spencer 3b                    4  0  0  0  1  1  4  .258
+Seth Corazza dh                     4  2  2  1  1  1  2  .289
+Charles Milles 1b                   5  0  1  0  0  2  1  .204
+Jesse Descoteaux c                  5  0  2  0  0  0  2  .276
+Bob Alexander cf                    4  1  2  2  1  0  3  .321
+Geoff Treadwell ss                  5  1  1  0  0  1  3  .286
+
+TOTALS:                            45  5 15  5  3 10 25
+
+
+BATTING
+HR: Alexander (2, 7th inning off Hayes, 0 on, 0 out); Corazza (10, 8th inning
+off Decoteau, 0 on, 1 out).  RBI: Rinehart (1); Alexander 2 (8); Corazza (34);
+Fabry (4).  2-OUT RBI: Rinehart; Fabry.  Runners left in scoring position, 2
+outs: Treadwell; Thomas; Spencer 2.  GIDP: Descoteaux; Rinehart.  Team LOB: 10.
+ 
+
+BASERUNNING
+SB: Treadwell (18, 2nd base off Hayes/Defoore); Thomas (20, 2nd base off
+Connell/Defoore).  CS: Masker (4, 2nd base by Hayes/Defoore).  
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Glenn Hayes                     7      10  3  3  2  8  1  5.03
+Thaddeus Decoteau               1       2  1  1  0  0  1  7.58
+Jackie Daytona (H, 2)             2/3   1  1  1  0  0  0  1.87
+Myron Connell (W, 2-0) (BS, 1)  1 1/3   1  0  0  0  1  0  4.04
+Bill Rodgers (H, 1)               1/3   1  0  0  1  0  0  3.73
+Francisco Rolfes (S, 2)           2/3   0  0  0  0  1  0  5.11
+
+
+Lake Elsinore                    IP     H  R ER BB SO HR   ERA
+
+Lew Antee                       7 1/3   6  1  1  5  6  0  2.25
+Fred Fuentes (H, 2)               2/3   3  2  2  0  0  0  5.91
+Ryan Cheers (BS, 1)             1       3  2  2  0  2  1  4.47
+Will Trujillo (L, 2-2)          2       0  1  1  1  0  0  3.27
+
+Fuentes pitched to 2 batters in the 9th.  
+
+WP: Connell; Trujillo.  Pitches-Strikes:  Antee 135-93; Fuentes 20-15; Cheers
+23-19; Trujillo 34-23; Hayes 122-90; Decoteau 15-11; Daytona 9-7; Connell
+17-14; Rodgers 11-6; Rolfes 7-4.  Ground balls-Fly balls:  Antee 12-8; Fuentes
+3-2; Cheers 2-1; Trujillo 3-3; Hayes 13-7; Decoteau 2-3; Daytona 3-0; Connell
+1-3; Rodgers 1-1; Rolfes 0-1.  Batters faced:  Antee 31; Fuentes 5; Cheers 6;
+Trujillo 7; Hayes 30; Decoteau 5; Daytona 3; Connell 5; Rodgers 3; Rolfes 2.  
+
+Umpires:  HP: Mike Mangano.  1B: Mike Saperstein.  2B: Chuck Woo.  3B: Ross
+Borden.  T: 4:12.  Att: 16,686.  Weather: 84 degrees, clear.  Wind: 9 mph, in
+from center.  
+
+
+High Heat Baseball Player of the Game:  Lee Defoore
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  San Jose batting
+
+Todd Brumit singled.
+Lee Defoore singled, Brumit to third.
+Ezra Snyder struck out swinging.
+Anthony DiNozzo Jr. walked, Defoore to second.
+Carl Heath flied out to center.
+Dave Ramos flied out to center.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 0, Lake Elsinore 0
+
+
+Bottom of the 1st inning:  Lake Elsinore batting
+
+Ken Masker singled.
+Masker caught stealing second base.
+Bret Thomas grounded out to shortstop.
+Carlos Rinehart struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Lake Elsinore 0
+
+
+Top of the 2nd inning:  San Jose batting
+
+Howard Bruns grounded out to second.
+George Fogler singled.
+Fogler was picked off second base by Antee, Fogler stole second base.
+Clem Stanforth struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Lake Elsinore 0
+
+
+Bottom of the 2nd inning:  Lake Elsinore batting
+
+Shawn Spencer walked.
+Seth Corazza fouled out to first.
+Charles Milles singled, Spencer to third.
+Jesse Descoteaux grounded into fielder's choice to shortstop.
+Bob Alexander grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Lake Elsinore 0
+
+
+Top of the 3rd inning:  San Jose batting
+
+Todd Brumit singled.
+Lee Defoore grounded into double play to third.
+Ezra Snyder struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Lake Elsinore 0
+
+
+Bottom of the 3rd inning:  Lake Elsinore batting
+
+Geoff Treadwell singled.
+Treadwell stole second base, Ken Masker struck out looking, Treadwell to second.
+Bret Thomas flied out to left.
+Carlos Rinehart singled, Treadwell SCORED.
+Shawn Spencer popped out to third.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 0, Lake Elsinore 1
+
+
+Top of the 4th inning:  San Jose batting
+
+Anthony DiNozzo Jr. flied out to right.
+Carl Heath struck out looking.
+Dave Ramos flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Lake Elsinore 1
+
+
+Bottom of the 4th inning:  Lake Elsinore batting
+
+Seth Corazza walked.
+Charles Milles struck out swinging.
+Jesse Descoteaux singled, Corazza to second.
+Bob Alexander singled, Corazza SCORED, Descoteaux to third.
+Geoff Treadwell struck out looking.
+Ken Masker struck out looking.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 0, Lake Elsinore 2
+
+
+Top of the 5th inning:  San Jose batting
+
+Howard Bruns grounded out to first.
+George Fogler singled.
+Clem Stanforth flied out to center.
+Fogler stole second base.
+Todd Brumit grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Lake Elsinore 2
+
+
+Bottom of the 5th inning:  Lake Elsinore batting
+
+Bret Thomas grounded out to second.
+Carlos Rinehart struck out swinging.
+Shawn Spencer struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Lake Elsinore 2
+
+
+Top of the 6th inning:  San Jose batting
+
+Lee Defoore struck out looking.
+Ezra Snyder walked.
+Anthony DiNozzo Jr. walked, Snyder to second.
+Carl Heath fouled out to third.
+Dave Ramos fouled out to third.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Lake Elsinore 2
+
+
+Bottom of the 6th inning:  Lake Elsinore batting
+
+Seth Corazza singled.
+Charles Milles struck out looking.
+Jesse Descoteaux grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Lake Elsinore 2
+
+
+Top of the 7th inning:  San Jose batting
+
+Howard Bruns struck out looking.
+George Fogler grounded out to first.
+Clem Stanforth walked.
+Stanforth stole second base.
+Todd Brumit grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Lake Elsinore 2
+
+
+Bottom of the 7th inning:  Lake Elsinore batting
+
+Bob Alexander HOMERED.
+Geoff Treadwell flied out to left.
+Ken Masker singled.
+Bret Thomas singled, Masker to third.
+Carlos Rinehart grounded into double play to third.
+
+1 Run, 3 Hits, 0 Errors
+San Jose 0, Lake Elsinore 3
+
+
+Top of the 8th inning:  San Jose batting
+
+Bradley Fabry came in for Carlos Rinehart in left.
+Lee Defoore flied out to center.
+Ezra Snyder singled.
+Anthony DiNozzo Jr. walked, Snyder to second.
+Fred Fuentes relieved Lew Antee.
+Carl Heath singled, Snyder SCORED, DiNozzo Jr. to second.
+Ricky Spanish hit for Dave Ramos.
+Ricky Spanish flied out to left.
+Howard Bruns popped out to second.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 1, Lake Elsinore 3
+
+
+Bottom of the 8th inning:  Lake Elsinore batting
+
+Thaddeus Decoteau relieved Glenn Hayes.
+Harold Wayman came in for Ricky Spanish at second.
+Shawn Spencer grounded out to third.
+Seth Corazza HOMERED.
+Charles Milles popped out to second.
+Jesse Descoteaux singled.
+Bob Alexander grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 1, Lake Elsinore 4
+
+
+Top of the 9th inning:  San Jose batting
+
+George Fogler singled.
+Clem Stanforth singled, Fogler to third.
+Ryan Cheers relieved Fred Fuentes.
+Todd Brumit singled, Fogler SCORED, Stanforth to third.
+Lee Defoore HOMERED, Stanforth SCORED, Brumit SCORED.
+Ezra Snyder struck out looking.
+Anthony DiNozzo Jr. singled.
+Carl Heath struck out looking.
+DiNozzo Jr. caught stealing second base.
+
+4 Runs, 5 Hits, 0 Errors
+San Jose 5, Lake Elsinore 4
+
+
+Bottom of the 9th inning:  Lake Elsinore batting
+
+Jackie Daytona relieved Thaddeus Decoteau.
+Geoff Treadwell grounded out to shortstop.
+Ken Masker grounded out to shortstop.
+Bret Thomas singled.
+Myron Connell relieved Jackie Daytona.
+Wild pitch by Myron Connell, Thomas stole second base.
+Bradley Fabry singled, Thomas SCORED.
+Shawn Spencer flied out to left.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 5, Lake Elsinore 5
+
+
+Top of the 10th inning:  San Jose batting
+
+Will Trujillo relieved Ryan Cheers.
+Harold Wayman grounded out to third.
+Jaden Miedema hit for Howard Bruns.
+Jaden Miedema flied out to right.
+George Fogler popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 5, Lake Elsinore 5
+
+
+Bottom of the 10th inning:  Lake Elsinore batting
+
+Seth Corazza struck out looking.
+Charles Milles flied out to center.
+Jesse Descoteaux grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 5, Lake Elsinore 5
+
+
+Top of the 11th inning:  San Jose batting
+
+Clem Stanforth walked.
+Wild pitch by Will Trujillo, Stanforth stole second base.
+Todd Brumit grounded out to third, Stanforth SCORED.
+Lee Defoore grounded out to second.
+Ezra Snyder flied out to shortstop.
+
+1 Run, 0 Hits, 0 Errors
+San Jose 6, Lake Elsinore 5
+
+
+Bottom of the 11th inning:  Lake Elsinore batting
+
+Bill Rodgers relieved Myron Connell.
+Bob Alexander walked.
+Geoff Treadwell flied out to left.
+Ken Masker singled, Alexander to third.
+Francisco Rolfes relieved Bill Rodgers.
+Bret Thomas fouled out to third.
+Bradley Fabry struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 6, Lake Elsinore 5
+
+
+END

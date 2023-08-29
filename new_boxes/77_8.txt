@@ -1,0 +1,364 @@
+Team11 vs Team0 (Day 77)
+
+Date of game:  June 16, 1987
+
+FINAL IN 11        1 2 3  4 5 6  7 8 9 1011    R  H  E
+
+San Jose           0 0 0  1 1 0  0 1 0  0 0    3  9  0
+Richmond           0 0 0  1 0 0  1 0 1  0 1    4 18  0
+
+One out when winning run scored.
+
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Todd Brumit dh                      5  0  0  0  0  2  3  .290
+Lee Defoore c                       5  1  2  1  0  0  3  .278
+Ricky Spanish rf                    5  0  1  1  0  1  0  .305
+Anthony DiNozzo Jr. lf              4  1  1  0  1  2  1  .253
+Carl Heath 1b                       4  0  0  0  1  1  1  .282
+Dave Ramos 2b                       2  0  1  1  0  0  0  .217
+  Harold Wayman ph-pr               3  0  0  0  0  0  2  .222
+Jaden Miedema cf                    4  0  1  0  0  1  1  .236
+George Fogler ss                    4  1  3  0  0  0  2  .253
+Clem Stanforth 3b                   4  0  0  0  0  0  1  .235
+
+TOTALS:                            40  3  9  3  2  7 14
+
+
+BATTING
+2B: Defoore (9, Mante).  3B: Defoore (1, Martin).  RBI: Ramos (39); Defoore
+(26); Spanish (30).  2-OUT RBI: Ramos; Defoore.  Runners left in scoring
+position, 2 outs: Defoore 2; Fogler; DiNozzo Jr.; Miedema.  GIDP: Heath.  Team
+LOB: 6.  
+
+BASERUNNING
+SB: Fogler 2 (23, 2nd base off Martin/Robinson, 2nd base off Martin/Robinson). 
+CS: Miedema (4, 2nd base by Jansen/Robinson).  
+
+
+Richmond                           AB  R  H BI BB SO LO   AVG
+
+Leap Day William cf                 6  2  3  0  0  0  5  .389
+Terry Kincaid 1b                    6  1  3  0  0  0  0  .319
+Dalton Trumbull lf                  5  0  2  1  1  0  2  .348
+Ken Griffey VII rf                  6  0  1  1  0  3  2  .279
+Glen Caron 3b                       5  0  2  0  0  0  4  .301
+  Leon Paris pr-3b                  0  0  0  0  0  0  0  .125
+Phil Robinson c                     5  1  2  0  0  0  2  .248
+Wilbur Shaw 2b                      5  0  3  1  0  0  1  .329
+Alfred Harrison dh                  4  0  2  0  1  0  2  .320
+Jack Gallegos ss                    3  0  0  0  0  1  1  .225
+  Patrick Alvarez ph-ss             2  0  0  0  0  0  0  .321
+
+TOTALS:                            47  4 18  3  2  4 19
+
+
+BATTING
+2B: Caron (11, Hayes); Robinson (7, Hayes).  3B: Shaw (2, Hayes).  RBI: Shaw
+(34); Trumbull (77); Griffey VII (57).  2-OUT RBI: Shaw.  Runners left in
+scoring position, 2 outs: Harrison; Griffey VII; William 2; Gallegos; Robinson;
+Caron; Paris.  GIDP: Shaw; Robinson.  Team LOB: 14.  
+
+BASERUNNING
+SB: William (23, 2nd base off Hayes/Defoore).  
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Glenn Hayes                     8      11  2  2  1  3  0  4.79
+Jackie Daytona (H, 4)             1/3   1  1  1  0  0  0  2.22
+Allen Whittington (L, 2-8) (BS, 2)2       6  1  1  1  1  0  4.91
+
+
+Richmond                         IP     H  R ER BB SO HR   ERA
+
+Don Martin                      6       5  2  2  1  4  0  4.10
+Steve Mante                     1       3  1  1  0  1  0  5.67
+Skeeter Davis                   1       0  0  0  0  1  0  0.00
+Chris Jansen (W, 3-2)           3       1  0  0  1  1  0  3.14
+
+Mante pitched to 2 batters in the 8th.  
+
+WP: Hayes; Davis; Whittington.  Pitches-Strikes:  Martin 94-69; Mante 20-17;
+Davis 14-12; Jansen 38-27; Hayes 135-102; Daytona 4-3; Whittington 45-32. 
+Ground balls-Fly balls:  Martin 10-9; Mante 4-1; Davis 0-2; Jansen 3-4; Hayes
+17-14; Daytona 2-0; Whittington 5-5.  Batters faced:  Martin 24; Mante 6; Davis
+3; Jansen 9; Hayes 35; Daytona 2; Whittington 12.  
+
+Umpires:  HP: Joe Damon.  1B: Brian Nestor.  2B: Tony Ragano.  3B: James Coliz,
+Jr.  T: 3:57.  Att: 41,830.  Weather: 84 degrees, clear.  Wind: 6 mph, across,
+left to right and slightly in.  
+
+
+High Heat Baseball Player of the Game:  Dalton Trumbull
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  San Jose batting
+
+Todd Brumit struck out looking.
+Lee Defoore grounded out to third.
+Ricky Spanish grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Richmond 0
+
+
+Bottom of the 1st inning:  Richmond batting
+
+Leap Day William grounded out to pitcher.
+Terry Kincaid flied out to right.
+Dalton Trumbull grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Richmond 0
+
+
+Top of the 2nd inning:  San Jose batting
+
+Anthony DiNozzo Jr. struck out swinging.
+Carl Heath struck out looking.
+Dave Ramos flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Richmond 0
+
+
+Bottom of the 2nd inning:  Richmond batting
+
+Ken Griffey VII flied out to shortstop.
+Glen Caron doubled.
+Phil Robinson singled, Caron to third.
+Wilbur Shaw grounded into double play to shortstop.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 0, Richmond 0
+
+
+Top of the 3rd inning:  San Jose batting
+
+Jaden Miedema struck out looking.
+George Fogler singled.
+Fogler stole second base.
+Clem Stanforth grounded out to second.
+Todd Brumit grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Richmond 0
+
+
+Bottom of the 3rd inning:  Richmond batting
+
+Alfred Harrison singled.
+Jack Gallegos grounded into fielder's choice to second.
+Leap Day William singled, Gallegos to third.
+William stole second base.
+Terry Kincaid grounded out to third.
+Dalton Trumbull flied out to center.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 0, Richmond 0
+
+
+Top of the 4th inning:  San Jose batting
+
+Lee Defoore grounded out to shortstop.
+Ricky Spanish grounded out to shortstop.
+Anthony DiNozzo Jr. singled.
+Carl Heath walked, DiNozzo Jr. to second.
+Dave Ramos singled, DiNozzo Jr. SCORED, Heath to third.
+Dave Ramos was injured on the play.
+Harold Wayman hit for Dave Ramos.
+Harold Wayman ran for Dave Ramos.
+Jaden Miedema flied out to left.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 1, Richmond 0
+
+
+Bottom of the 4th inning:  Richmond batting
+
+Ken Griffey VII flied out to right.
+Glen Caron flied out to center.
+Phil Robinson doubled.
+Wild pitch by Glenn Hayes, Robinson to third.
+Wilbur Shaw singled, Robinson SCORED.
+Alfred Harrison singled, Shaw to third.
+Jack Gallegos grounded out to shortstop.
+
+1 Run, 3 Hits, 0 Errors
+San Jose 1, Richmond 1
+
+
+Top of the 5th inning:  San Jose batting
+
+George Fogler singled.
+Fogler stole second base.
+Clem Stanforth fouled out to right.
+Todd Brumit flied out to left.
+Lee Defoore tripled, Fogler SCORED.
+Ricky Spanish grounded out to second.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 2, Richmond 1
+
+
+Bottom of the 5th inning:  Richmond batting
+
+Leap Day William fouled out to right.
+Terry Kincaid grounded out to pitcher.
+Dalton Trumbull walked.
+Ken Griffey VII struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 2, Richmond 1
+
+
+Top of the 6th inning:  San Jose batting
+
+Anthony DiNozzo Jr. flied out to center.
+Carl Heath flied out to center.
+Harold Wayman fouled out to first.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 2, Richmond 1
+
+
+Bottom of the 6th inning:  Richmond batting
+
+Glen Caron grounded out to pitcher.
+Phil Robinson flied out to left.
+Wilbur Shaw tripled.
+Alfred Harrison grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 2, Richmond 1
+
+
+Top of the 7th inning:  San Jose batting
+
+Steve Mante relieved Don Martin.
+Jaden Miedema grounded out to shortstop.
+George Fogler singled.
+Clem Stanforth grounded out to third, Fogler to second.
+Todd Brumit struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 2, Richmond 1
+
+
+Bottom of the 7th inning:  Richmond batting
+
+Jack Gallegos struck out looking.
+Leap Day William singled.
+Terry Kincaid singled, William to third.
+Dalton Trumbull singled, William SCORED, Kincaid to third.
+Ken Griffey VII struck out swinging.
+Glen Caron grounded out to first.
+
+1 Run, 3 Hits, 0 Errors
+San Jose 2, Richmond 2
+
+
+Top of the 8th inning:  San Jose batting
+
+Lee Defoore doubled.
+Ricky Spanish singled, Defoore SCORED.
+Skeeter Davis relieved Steve Mante.
+Wild pitch by Skeeter Davis, Spanish to second.
+Anthony DiNozzo Jr. struck out looking.
+Carl Heath fouled out to first.
+Harold Wayman flied out to left.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 3, Richmond 2
+
+
+Bottom of the 8th inning:  Richmond batting
+
+Phil Robinson grounded out to third.
+Wilbur Shaw grounded out to third.
+Alfred Harrison flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 3, Richmond 2
+
+
+Top of the 9th inning:  San Jose batting
+
+Chris Jansen relieved Skeeter Davis.
+Jaden Miedema singled.
+Miedema caught stealing second base.
+George Fogler popped out to third.
+Clem Stanforth grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 3, Richmond 2
+
+
+Bottom of the 9th inning:  Richmond batting
+
+Jackie Daytona relieved Glenn Hayes.
+Patrick Alvarez hit for Jack Gallegos.
+Patrick Alvarez grounded out to second.
+Leap Day William singled.
+Allen Whittington relieved Jackie Daytona.
+Terry Kincaid singled, William to third.
+Wild pitch by Allen Whittington, William SCORED, Kincaid to second.
+Dalton Trumbull flied out to left.
+Ken Griffey VII struck out looking.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 3, Richmond 3
+
+
+Top of the 10th inning:  San Jose batting
+
+Todd Brumit grounded out to second.
+Lee Defoore flied out to center.
+Ricky Spanish struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 3, Richmond 3
+
+
+Bottom of the 10th inning:  Richmond batting
+
+Glen Caron singled.
+Leon Paris ran for Glen Caron.
+Phil Robinson grounded into double play to second.
+Wilbur Shaw singled.
+Alfred Harrison walked, Shaw to second.
+Patrick Alvarez flied out to center.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 3, Richmond 3
+
+
+Top of the 11th inning:  San Jose batting
+
+Anthony DiNozzo Jr. walked.
+Carl Heath grounded into double play to third.
+Harold Wayman flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 3, Richmond 3
+
+
+Bottom of the 11th inning:  Richmond batting
+
+Leap Day William fouled out to first.
+Terry Kincaid singled.
+Dalton Trumbull singled, Kincaid to third.
+Ken Griffey VII singled, Kincaid SCORED, Trumbull to third.
+
+1 Run, 3 Hits, 0 Errors
+San Jose 3, Richmond 4
+
+
+END

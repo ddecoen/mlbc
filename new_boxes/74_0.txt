@@ -1,0 +1,443 @@
+Team1 vs Team2 (Day 74)
+
+Date of game:  June 13, 1987
+
+FINAL IN 14        1 2 3  4 5 6  7 8 9 101112 1314    R  H  E
+
+Chattanooga        2 1 0  0 0 0  0 1 0  0 0 0  0 4    8 20  0
+Bangor             0 0 0  0 2 0  1 0 1  0 0 0  0 1    5 13  0
+
+
+Chattanooga                        AB  R  H BI BB SO LO   AVG
+
+Bill Lanctot rf                     7  1  3  0  0  0  1  .270
+Mike Haroldsen ss                   7  2  2  1  0  1  5  .347
+Damon Marshall cf                   7  1  3  1  0  0  5  .325
+John Edwards 1b                     6  1  0  0  1  0  4  .238
+John Childress dh                   7  1  4  5  0  0  6  .263
+Charlie Dooley 3b                   4  0  1  0  0  1  1  .251
+  Archie Cobbs Jr ph-3b             3  0  1  0  0  0  0  .339
+Eugene Schissler c                  7  1  2  0  0  4  2  .333
+  Booker Crosno c                   0  0  0  0  0  0  0  .352
+Reagan Hathaway lf                  5  0  2  0  1  0  4  .310
+Cooter Stith 2b                     5  1  2  1  0  0  3  .362
+
+TOTALS:                            58  8 20  8  2  6 31
+
+
+BATTING
+2B: Childress (16, Herring); Marshall 2 (17, Benson, Shubin); Hathaway 2 (11,
+Shubin, Shubin).  HR: Childress (14, 8th inning off Jennings, 0 on, 0 out). 
+RBI: Childress 5 (46); Stith (29); Haroldsen (40); Marshall (47).  2-OUT RBI:
+Childress 4.  Runners left in scoring position, 2 outs: Schissler 2; Marshall;
+Edwards; Stith; Childress; Haroldsen; Hathaway.  GIDP: Lanctot; Edwards;
+Hathaway; Haroldsen.  Team LOB: 11.  
+
+BASERUNNING
+SB: Haroldsen 2 (26, 2nd base off Herring/Rowles, 2nd base off Herring/Rowles).
+ 
+
+FIELDING
+Outfield assist: Marshall (Slender at 3rd base).  
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Jeffery Houston rf                  7  0  1  1  0  0  3  .286
+Frederic Oromocto dh                5  0  0  0  1  1  1  .347
+Gerald Rodriguez 2b                 6  0  0  0  0  0  3  .331
+King Slender 1b                     6  0  4  0  0  0  1  .294
+Shosei Go cf                        6  0  2  0  0  0  0  .300
+Emilio Rowles c                     5  1  2  0  1  1  4  .287
+Teodoro St. Croix lf                6  2  1  1  0  1  2  .286
+Ron Saults 3b                       2  1  1  2  0  1  3  .264
+  Emil Salzman ph-3b                3  1  1  1  1  0  2  .314
+Alexis Whaley ss                    5  0  1  0  1  1  0  .290
+
+TOTALS:                            51  5 13  5  4  5 19
+
+
+BATTING
+2B: Slender (8, Barrett); Rowles (7, Yount); Go (22, Yount).  HR: Saults (7,
+5th inning off Barrett, 1 on, 1 out); St. Croix (4, 9th inning off Villamar, 0
+on, 1 out); Salzman (3, 14th inning off Yount, 0 on, 1 out).  RBI: Saults 2
+(32); Houston (19); St. Croix (28); Salzman (15).  2-OUT RBI: Houston.  Runners
+left in scoring position, 2 outs: Saults; Rodriguez 2; Salzman; St. Croix. 
+GIDP: St. Croix.  Team LOB: 8.  
+
+BASERUNNING
+CS: Whaley (4, 2nd base by Villamar/Schissler).  Picked off: Oromocto (1st
+base, McGeachy).  
+
+
+Chattanooga                      IP     H  R ER BB SO HR   ERA
+
+Kyle Barrett                    5       3  2  2  2  3  1  6.03
+Peach McGeachy (BS, 3)          1 2/3   4  1  1  1  0  0  3.53
+Cody Rowe Jr                    1 1/3   0  0  0  0  0  0  5.36
+Odell Villamar (BS, 2)          2       1  1  1  1  1  1  3.81
+Chris Yount (W, 3-1)            3 1/3   5  1  1  0  1  1  6.81
+Jeffrey Burt                      2/3   0  0  0  0  0  0  7.18
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Wolfie Herring                  6       9  3  3  2  4  0  4.17
+Paul Jennings                   1       2  1  1  0  0  1  4.22
+Tom Benson                      2       3  0  0  0  0  0  0.00
+Jerry Shubin (L, 3-3)           4 2/3   5  4  4  0  1  0  3.75
+Paul Kimball                      1/3   1  0  0  0  1  0  6.52
+
+Herring pitched to 1 batter in the 7th.  Jennings pitched to 1 batter in the
+8th.  Benson pitched to 1 batter in the 10th.  Barrett pitched to 1 batter in
+the 6th.  
+
+HBP: Stith (by Shubin).  Pitches-Strikes:  Herring 113-82; Jennings 14-11;
+Benson 19-15; Shubin 81-63; Kimball 7-5; Barrett 75-58; McGeachy 26-19; Rowe Jr
+15-11; Villamar 26-20; Yount 43-36; Burt 6-6.  Ground balls-Fly balls:  Herring
+14-7; Jennings 1-4; Benson 6-1; Shubin 6-12; Kimball 1-0; Barrett 4-11;
+McGeachy 5-2; Rowe Jr 2-2; Villamar 4-1; Yount 6-7; Burt 0-2.  Batters faced: 
+Herring 27; Jennings 5; Benson 7; Shubin 20; Kimball 2; Barrett 20; McGeachy 8;
+Rowe Jr 4; Villamar 7; Yount 14; Burt 2.  
+
+Umpires:  HP: Paul Terry.  1B: Mike Dunhour.  2B: Mike Saperstein.  3B: John
+Bolton.  T: 5:01.  Att: 37,472.  Weather: 78 degrees, clear.  Wind: 11 mph,
+across, left to right.  
+
+
+High Heat Baseball Player of the Game:  John Childress
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Chattanooga batting
+
+Bill Lanctot singled.
+Mike Haroldsen grounded into fielder's choice to first.
+Haroldsen stole second base.
+Damon Marshall grounded out to first, Haroldsen to third.
+John Edwards walked.
+John Childress doubled, Haroldsen SCORED, Edwards SCORED.
+Charlie Dooley fouled out to third.
+
+2 Runs, 2 Hits, 0 Errors
+Chattanooga 2, Bangor 0
+
+
+Bottom of the 1st inning:  Bangor batting
+
+Jeffery Houston popped out to third.
+Frederic Oromocto flied out to right.
+Gerald Rodriguez flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 2, Bangor 0
+
+
+Top of the 2nd inning:  Chattanooga batting
+
+Eugene Schissler singled.
+Reagan Hathaway walked, Schissler to second.
+Cooter Stith singled, Schissler SCORED, Hathaway to third.
+Bill Lanctot grounded into double play to second.
+Mike Haroldsen struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Bottom of the 2nd inning:  Bangor batting
+
+King Slender doubled.
+Shosei Go flied out to center.
+Emilio Rowles popped out to second.
+Teodoro St. Croix flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Top of the 3rd inning:  Chattanooga batting
+
+Damon Marshall singled.
+John Edwards grounded into double play to first.
+John Childress grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Bottom of the 3rd inning:  Bangor batting
+
+Ron Saults struck out looking.
+Alexis Whaley struck out looking.
+Jeffery Houston grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Top of the 4th inning:  Chattanooga batting
+
+Charlie Dooley struck out looking.
+Eugene Schissler struck out looking.
+Reagan Hathaway grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Bottom of the 4th inning:  Bangor batting
+
+Frederic Oromocto grounded out to second.
+Gerald Rodriguez popped out to third.
+King Slender singled.
+Shosei Go grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Top of the 5th inning:  Chattanooga batting
+
+Cooter Stith grounded out to third.
+Bill Lanctot flied out to right.
+Mike Haroldsen singled.
+Haroldsen stole second base.
+Damon Marshall grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 3, Bangor 0
+
+
+Bottom of the 5th inning:  Bangor batting
+
+Emilio Rowles walked.
+Teodoro St. Croix struck out looking.
+Ron Saults HOMERED, Rowles SCORED.
+Alexis Whaley flied out to center.
+Jeffery Houston flied out to left.
+
+2 Runs, 1 Hit, 0 Errors
+Chattanooga 3, Bangor 2
+
+
+Top of the 6th inning:  Chattanooga batting
+
+John Edwards fouled out to right.
+John Childress singled.
+Charlie Dooley singled, Childress to third.
+Eugene Schissler struck out looking.
+Reagan Hathaway popped out to third.
+
+0 Runs, 2 Hits, 0 Errors
+Chattanooga 3, Bangor 2
+
+
+Bottom of the 6th inning:  Bangor batting
+
+Frederic Oromocto walked.
+Kyle Barrett was injured on the play.
+Peach McGeachy relieved Kyle Barrett.
+Oromocto was picked off first base by McGeachy.
+Gerald Rodriguez flied out to right.
+King Slender singled.
+Shosei Go singled, King Slender out at third base.
+
+0 Runs, 2 Hits, 0 Errors
+Chattanooga 3, Bangor 2
+
+
+Top of the 7th inning:  Chattanooga batting
+
+Cooter Stith singled.
+Paul Jennings relieved Wolfie Herring.
+Bill Lanctot singled, Stith to third.
+Mike Haroldsen popped out to catcher.
+Damon Marshall flied out to shortstop.
+John Edwards flied out to left.
+
+0 Runs, 2 Hits, 0 Errors
+Chattanooga 3, Bangor 2
+
+
+Bottom of the 7th inning:  Bangor batting
+
+Emilio Rowles singled.
+Teodoro St. Croix grounded into fielder's choice to shortstop.
+Emil Salzman hit for Ron Saults.
+Emil Salzman walked, St. Croix to second.
+Alexis Whaley flied out to center.
+Jeffery Houston singled, St. Croix SCORED, Salzman to third.
+Cody Rowe Jr relieved Peach McGeachy.
+Frederic Oromocto popped out to first.
+
+1 Run, 2 Hits, 0 Errors
+Chattanooga 3, Bangor 3
+
+
+Top of the 8th inning:  Chattanooga batting
+
+John Childress HOMERED.
+Tom Benson relieved Paul Jennings.
+Charlie Dooley grounded out to shortstop.
+Eugene Schissler singled.
+Reagan Hathaway grounded into double play to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Chattanooga 4, Bangor 3
+
+
+Bottom of the 8th inning:  Bangor batting
+
+Gerald Rodriguez grounded out to shortstop.
+King Slender flied out to left.
+Shosei Go grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 4, Bangor 3
+
+
+Top of the 9th inning:  Chattanooga batting
+
+Cooter Stith grounded out to shortstop.
+Bill Lanctot singled.
+Mike Haroldsen grounded into double play to first.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 4, Bangor 3
+
+
+Bottom of the 9th inning:  Bangor batting
+
+Odell Villamar relieved Cody Rowe Jr.
+Emilio Rowles grounded out to shortstop.
+Teodoro St. Croix HOMERED.
+Emil Salzman grounded out to first.
+Alexis Whaley walked.
+Whaley caught stealing second base.
+
+1 Run, 1 Hit, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Top of the 10th inning:  Chattanooga batting
+
+Damon Marshall doubled.
+Jerry Shubin relieved Tom Benson.
+John Edwards grounded out to second, Marshall to third.
+John Childress flied out to center.
+Archie Cobbs Jr hit for Charlie Dooley.
+Archie Cobbs Jr grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Bottom of the 10th inning:  Bangor batting
+
+Jeffery Houston grounded out to second.
+Frederic Oromocto struck out looking.
+Gerald Rodriguez grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Top of the 11th inning:  Chattanooga batting
+
+Eugene Schissler struck out swinging.
+Reagan Hathaway doubled.
+Cooter Stith flied out to right.
+Bill Lanctot flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Bottom of the 11th inning:  Bangor batting
+
+Chris Yount relieved Odell Villamar.
+King Slender singled.
+Shosei Go fouled out to third.
+Emilio Rowles doubled, Slender to third.
+
+0 Runs, 2 Hits, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Top of the 12th inning:  Chattanooga batting
+
+Mike Haroldsen grounded out to first.
+Damon Marshall flied out to right.
+John Edwards fouled out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Bottom of the 12th inning:  Bangor batting
+
+Emil Salzman grounded out to shortstop.
+Alexis Whaley singled.
+Jeffery Houston grounded out to shortstop, Whaley to second.
+Frederic Oromocto grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Top of the 13th inning:  Chattanooga batting
+
+John Childress flied out to right.
+Archie Cobbs Jr flied out to right.
+Eugene Schissler grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Bottom of the 13th inning:  Bangor batting
+
+Gerald Rodriguez fouled out to right.
+King Slender grounded out to first.
+Shosei Go doubled.
+Emilio Rowles struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 4, Bangor 4
+
+
+Top of the 14th inning:  Chattanooga batting
+
+Reagan Hathaway doubled.
+Cooter Stith hit by pitch.
+Bill Lanctot grounded into fielder's choice to third, Stith to second.
+Mike Haroldsen singled, Stith SCORED, Lanctot to third.
+Damon Marshall doubled, Lanctot SCORED, Haroldsen to third.
+John Edwards flied out to right.
+John Childress singled, Haroldsen SCORED, Marshall SCORED.
+Paul Kimball relieved Jerry Shubin.
+Archie Cobbs Jr singled, Childress to third.
+Eugene Schissler struck out looking.
+
+4 Runs, 5 Hits, 0 Errors
+Chattanooga 8, Bangor 4
+
+
+Bottom of the 14th inning:  Bangor batting
+
+Booker Crosno came in for Eugene Schissler at catcher.
+Teodoro St. Croix flied out to center.
+Emil Salzman HOMERED.
+Jeffrey Burt relieved Chris Yount.
+Alexis Whaley flied out to center.
+Jeffery Houston flied out to left.
+
+1 Run, 1 Hit, 0 Errors
+Chattanooga 8, Bangor 5
+
+
+END

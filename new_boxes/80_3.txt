@@ -1,0 +1,329 @@
+Team14 vs Team7 (Day 80)
+
+Date of game:  June 19, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Las Vegas          2 1 1  2 1 0  0 1 0     8 13  0
+Amarillo           1 0 3  3 0 3  3 0 X    13 16  1
+
+
+Las Vegas                          AB  R  H BI BB SO LO   AVG
+
+Darrel Dawson 1b                    5  0  2  0  0  0  2  .249
+Tara Strong lf                      4  2  2  1  1  0  3  .286
+Colt Seavers cf                     4  2  2  4  0  0  4  .303
+Guillermo Guerrero 3b               5  0  1  0  0  0  2  .267
+Justin Meany dh                     5  1  2  1  0  0  6  .276
+Jeffrey Sumpter rf                  4  1  0  0  1  0  1  .198
+Ray Koenig 2b                       5  1  2  1  0  0  3  .259
+Rich Bateman c                      3  0  1  0  0  0  2  .320
+  Shawn Wallace ph                  1  0  0  0  0  0  0  .238
+  Phillip Vasquez c                 0  0  0  0  0  0  0  .206
+Jose Saldana ss                     3  1  1  0  1  0  1  .273
+
+TOTALS:                            39  8 13  7  3  0 24
+
+
+BATTING
+2B: Strong 2 (9, Gonzalez, Demers); Seavers (14, Gonzalez); Koenig (7,
+Gonzalez).  HR: Seavers (19, 4th inning off Neal, 1 on, 1 out).  RBI: Seavers 4
+(55); Meany (18); Koenig (28); Strong (21).  2-OUT RBI: Meany; Seavers. 
+Runners left in scoring position, 2 outs: Meany 2; Dawson.  GIDP: Strong.  Team
+LOB: 8.  
+
+BASERUNNING
+SB: Sumpter (30, 2nd base off Neal/Schuett).  CS: Koenig (9, 2nd base by
+Neal/Schuett).  
+
+
+Amarillo                           AB  R  H BI BB SO LO   AVG
+
+John Grant 3b                       4  0  1  0  0  0  1  .359
+  Edwin Gobble 3b                   0  0  0  0  0  0  0  .275
+Wayne Pipkins 1b                    5  4  3  5  0  0  4  .295
+  Rube Easton 1b                    0  0  0  0  0  0  0  .234
+John McCauley dh                    4  3  3  0  1  0  3  .329
+George Laurenzano rf                4  2  2  5  0  0  0  .263
+  Abraham Liv rf                    0  0  0  0  0  0  0  .167
+Brock Heishman ss                   5  0  1  0  0  3  1  .268
+Bryan Breheny 2b                    5  1  2  1  0  0  1  .244
+Mike Rexroat lf                     4  1  1  1  0  0  2  .309
+  Charlie Notti lf                  1  0  0  0  0  0  0  .217
+Isiah Rann cf                       3  1  2  1  1  0  1  .261
+Willie Schuett c                    3  1  1  0  1  0  0  .286
+
+TOTALS:                            38 13 16 13  3  3 13
+
+
+BATTING
+2B: McCauley (20, Davis); Breheny (17, Davis); Rexroat (11, Davis).  HR:
+Pipkins 3 (17, 4th inning off Barnum, 0 on, 0 out, 6th inning off Stewart, 0
+on, 0 out, 7th inning off von der Ahe, 2 on, 1 out); Laurenzano 2 (24, 4th
+inning off Barnum, 1 on, 0 out, 6th inning off Guzman, 1 on, 0 out).  SF:
+Laurenzano.  RBI: Laurenzano 5 (55); Breheny (48); Rexroat (12); Rann (28);
+Pipkins 5 (55).  2-OUT RBI: Breheny; Rexroat; Rann.  Runners left in scoring
+position, 2 outs: Rexroat; McCauley; Pipkins.  GIDP: Notti.  Team LOB: 6.  
+
+FIELDING
+E: Rexroat (1, fly ball).  
+
+
+Las Vegas                        IP     H  R ER BB SO HR   ERA
+
+Lefty Davis                     2 2/3   8  4  4  1  0  0  4.43
+Mel Barnum                      1 1/3   2  3  3  1  1  2  6.50
+Dennis Stewart (L, 1-1)         1       1  1  1  0  0  1  3.20
+Jerrick Guzman                  1       2  2  2  0  1  1  6.32
+Chris von der Ahe               1       2  3  3  1  0  1  4.67
+Marcos Sampson                  1       1  0  0  0  1  0  5.63
+
+
+Amarillo                         IP     H  R ER BB SO HR   ERA
+
+Elliott Gonzalez                3 1/3   6  5  4  2  0  0  4.54
+Nathan Neal                     1 2/3   2  2  2  1  0  1  7.91
+Phil Demers (W, 2-1)            4       5  1  1  0  0  0  4.45
+
+Stewart pitched to 1 batter in the 6th.  
+
+HBP: Grant (by Davis); Seavers (by Gonzalez).  Pitches-Strikes:  Gonzalez
+77-51; Neal 26-19; Demers 58-46; Davis 58-49; Barnum 26-20; Stewart 11-9;
+Guzman 21-19; von der Ahe 24-15; Sampson 14-7.  Ground balls-Fly balls: 
+Gonzalez 7-10; Neal 4-2; Demers 8-8; Davis 7-9; Barnum 2-3; Stewart 1-3; Guzman
+3-1; von der Ahe 2-3; Sampson 2-0.  Batters faced:  Gonzalez 20; Neal 7; Demers
+16; Davis 18; Barnum 7; Stewart 4; Guzman 5; von der Ahe 6; Sampson 3.  
+
+Umpires:  HP: James Coliz, Jr.  1B: Mike Mangano.  2B: Tony Peng.  3B: Ed
+Montague.  T: 3:22.  Att: 19,313.  Weather: 80 degrees, partly cloudy.  Wind: 7
+mph, across, left to right and slightly in.  
+
+
+High Heat Baseball Player of the Game:  Wayne Pipkins
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Las Vegas batting
+
+Darrel Dawson grounded out to third.
+Tara Strong doubled.
+Colt Seavers doubled, Strong SCORED.
+Guillermo Guerrero flied out to right.
+Justin Meany singled, Seavers SCORED.
+Jeffrey Sumpter flied out to left.
+
+2 Runs, 3 Hits, 0 Errors
+Las Vegas 2, Amarillo 0
+
+
+Bottom of the 1st inning:  Amarillo batting
+
+John Grant hit by pitch.
+Wayne Pipkins grounded into fielder's choice to shortstop.
+John McCauley singled, Pipkins to third.
+George Laurenzano hit a sacrifice fly, Pipkins SCORED.
+Brock Heishman singled, McCauley to third.
+Bryan Breheny grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Las Vegas 2, Amarillo 1
+
+
+Top of the 2nd inning:  Las Vegas batting
+
+Ray Koenig doubled.
+Rich Bateman singled, Koenig to third.
+Jose Saldana walked, Bateman to second.
+Darrel Dawson flied out to right.
+Tara Strong flied out to left.
+Colt Seavers hit by pitch, Koenig SCORED, Saldana to second, Bateman to third.
+Guillermo Guerrero grounded out to pitcher.
+
+1 Run, 2 Hits, 0 Errors
+Las Vegas 3, Amarillo 1
+
+
+Bottom of the 2nd inning:  Amarillo batting
+
+Mike Rexroat grounded out to first.
+Isiah Rann walked.
+Willie Schuett flied out to left.
+John Grant singled, Rann to third.
+Wayne Pipkins grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Las Vegas 3, Amarillo 1
+
+
+Top of the 3rd inning:  Las Vegas batting
+
+Justin Meany singled.
+Jeffrey Sumpter flied out to center.
+Ray Koenig popped out to third.
+Rich Bateman was safe after Mike Rexroat committed a fielding error, Meany
+Jose Saldana grounded out to second.
+
+1 Run, 1 Hit, 1 Error
+Las Vegas 4, Amarillo 1
+
+
+Bottom of the 3rd inning:  Amarillo batting
+
+John McCauley doubled.
+George Laurenzano flied out to center.
+Brock Heishman flied out to left.
+Bryan Breheny doubled, McCauley SCORED.
+Mike Rexroat doubled, Breheny SCORED.
+Isiah Rann singled, Rexroat SCORED.
+Willie Schuett singled, Rann to third.
+Mel Barnum relieved Lefty Davis.
+John Grant grounded out to first.
+
+3 Runs, 5 Hits, 0 Errors
+Las Vegas 4, Amarillo 4
+
+
+Top of the 4th inning:  Las Vegas batting
+
+Darrel Dawson grounded out to shortstop.
+Tara Strong walked.
+Nathan Neal relieved Elliott Gonzalez.
+Colt Seavers HOMERED, Strong SCORED.
+Guillermo Guerrero grounded out to first.
+Justin Meany grounded out to pitcher.
+
+2 Runs, 1 Hit, 0 Errors
+Las Vegas 6, Amarillo 4
+
+
+Bottom of the 4th inning:  Amarillo batting
+
+Wayne Pipkins HOMERED.
+John McCauley walked.
+George Laurenzano HOMERED, McCauley SCORED.
+Brock Heishman struck out looking.
+Bryan Breheny grounded out to second.
+Mike Rexroat flied out to left.
+
+3 Runs, 2 Hits, 0 Errors
+Las Vegas 6, Amarillo 7
+
+
+Top of the 5th inning:  Las Vegas batting
+
+Jeffrey Sumpter walked.
+Sumpter stole second base.
+Ray Koenig singled, Sumpter SCORED.
+Rich Bateman flied out to center.
+Koenig caught stealing second base.
+Jose Saldana grounded out to first.
+
+1 Run, 1 Hit, 0 Errors
+Las Vegas 7, Amarillo 7
+
+
+Bottom of the 5th inning:  Amarillo batting
+
+Dennis Stewart relieved Mel Barnum.
+Isiah Rann grounded out to second.
+Willie Schuett fouled out to catcher.
+John Grant flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Las Vegas 7, Amarillo 7
+
+
+Top of the 6th inning:  Las Vegas batting
+
+Phil Demers relieved Nathan Neal.
+Darrel Dawson singled.
+Tara Strong grounded into double play to second.
+Colt Seavers flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Las Vegas 7, Amarillo 7
+
+
+Bottom of the 6th inning:  Amarillo batting
+
+Wayne Pipkins HOMERED.
+Jerrick Guzman relieved Dennis Stewart.
+John McCauley singled.
+George Laurenzano HOMERED, McCauley SCORED.
+Brock Heishman struck out looking.
+Bryan Breheny grounded out to third.
+Mike Rexroat grounded out to second.
+
+3 Runs, 3 Hits, 0 Errors
+Las Vegas 7, Amarillo 10
+
+
+Top of the 7th inning:  Las Vegas batting
+
+Guillermo Guerrero singled.
+Justin Meany flied out to right.
+Jeffrey Sumpter flied out to center.
+Ray Koenig flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Las Vegas 7, Amarillo 10
+
+
+Bottom of the 7th inning:  Amarillo batting
+
+Chris von der Ahe relieved Jerrick Guzman.
+Isiah Rann singled.
+Willie Schuett walked, Rann to second.
+John Grant flied out to right.
+Wayne Pipkins HOMERED, Rann SCORED, Schuett SCORED.
+John McCauley grounded out to first.
+George Laurenzano flied out to shortstop.
+
+3 Runs, 2 Hits, 0 Errors
+Las Vegas 7, Amarillo 13
+
+
+Top of the 8th inning:  Las Vegas batting
+
+Edwin Gobble came in for John Grant at third.
+Rube Easton came in for Wayne Pipkins at first.
+Abraham Liv came in for George Laurenzano in right.
+Charlie Notti came in for Mike Rexroat in left.
+Shawn Wallace hit for Rich Bateman.
+Shawn Wallace grounded out to shortstop.
+Jose Saldana singled.
+Darrel Dawson singled, Saldana to third.
+Tara Strong doubled, Saldana SCORED, Dawson to third.
+Colt Seavers grounded out to third.
+Guillermo Guerrero grounded out to second.
+
+1 Run, 3 Hits, 0 Errors
+Las Vegas 8, Amarillo 13
+
+
+Bottom of the 8th inning:  Amarillo batting
+
+Marcos Sampson relieved Chris von der Ahe.
+Phillip Vasquez came in for Shawn Wallace at catcher.
+Brock Heishman struck out looking.
+Bryan Breheny singled.
+Charlie Notti grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Las Vegas 8, Amarillo 13
+
+
+Top of the 9th inning:  Las Vegas batting
+
+Justin Meany flied out to center.
+Jeffrey Sumpter fouled out to right.
+Ray Koenig flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Las Vegas 8, Amarillo 13
+
+
+END

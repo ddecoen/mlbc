@@ -1,0 +1,284 @@
+
+Date of game:  June 17, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bangor             0 0 0  0 0 0  0 1 0     1  6  1
+Sugar Land         0 0 0  0 0 0  2 0 X     2  5  0
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Jeffery Houston rf                  3  1  2  0  1  0  2  .294
+Frederic Oromocto dh                4  0  0  0  0  1  0  .332
+Gerald Rodriguez 2b                 4  0  2  1  0  0  4  .327
+  Emil Salzman pr-2b                0  0  0  0  0  0  0  .319
+King Slender 1b                     3  0  0  0  1  0  1  .282
+Shosei Go cf                        3  0  0  0  1  1  1  .297
+Emilio Rowles c                     4  0  0  0  0  1  2  .280
+Teodoro St. Croix lf                4  0  2  0  0  0  3  .280
+Ron Saults 3b                       3  0  0  0  0  1  1  .261
+  King Hudgins ph                   1  0  0  0  0  1  0  .231
+Alexis Whaley ss                    4  0  0  0  0  0  3  .283
+
+TOTALS:                            33  1  6  1  3  5 17
+
+
+BATTING
+2B: Houston (20, Garcia); Rodriguez (19, Garcia).  RBI: Rodriguez (30). 
+Runners left in scoring position, 2 outs: Slender; Rodriguez; St. Croix.  Team
+LOB: 8.  
+
+BASERUNNING
+SB: Houston (10, 2nd base off Garcia/Alighieri).  
+
+FIELDING
+E: Slender (9, throw).  
+
+
+Sugar Land                         AB  R  H BI BB SO LO   AVG
+
+Ron Alsobrooks lf                   3  0  0  0  1  0  4  .301
+Gus Chiggins cf                     3  0  0  0  1  1  4  .311
+Champ Hockey rf                     4  0  0  0  0  0  3  .297
+Dan Riddle 3b                       4  1  1  0  0  2  1  .294
+Phillip Holub 2b                    4  1  1  0  0  0  2  .336
+Samuel Ratchett ss                  4  0  1  0  0  0  2  .260
+Everett Allen 1b                    3  0  2  1  0  1  2  .311
+Clarence Kunkel dh                  1  0  0  1  0  0  0  .300
+Dante Alighieri c                   3  0  0  0  0  0  0  .262
+
+TOTALS:                            29  2  5  2  2  4 18
+
+
+BATTING
+SF: Kunkel.  RBI: Allen (9); Kunkel (6).  Runners left in scoring position, 2
+outs: Hockey; Chiggins; Allen.  Team LOB: 7.  
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Emmanuel Goldstein (L, 3-4)     6       5  2  2  1  3  0  5.32
+David Copus                     2       0  0  0  1  1  0  4.12
+
+
+Sugar Land                       IP     H  R ER BB SO HR   ERA
+
+Val Garcia (W, 4-3)             7 1/3   6  1  1  2  3  0  4.30
+John Barks (H, 2)                 2/3   0  0  0  1  1  0  1.96
+Tony Amory (S, 10)              1       0  0  0  0  1  0  4.77
+
+Goldstein pitched to 4 batters in the 7th.  
+
+HBP: Kunkel (by Goldstein).  Pitches-Strikes:  Garcia 117-88; Barks 15-8; Amory
+11-9; Goldstein 88-69; Copus 33-23.  Ground balls-Fly balls:  Garcia 18-7;
+Barks 1-0; Amory 2-0; Goldstein 13-7; Copus 2-4.  Batters faced:  Garcia 30;
+Barks 3; Amory 3; Goldstein 25; Copus 8.  
+
+Umpires:  HP: Mike Mangano.  1B: James Coliz, Jr.  2B: Tony Peng.  3B: John
+Bolton.  T: 3:00.  Att: 23,355.  Weather: 82 degrees, clear.  Wind: 10 mph, in
+from right.  
+
+
+High Heat Baseball Player of the Game:  Val Garcia
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bangor batting
+
+Jeffery Houston grounded out to second.
+Frederic Oromocto grounded out to second.
+Gerald Rodriguez singled.
+King Slender fouled out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 1st inning:  Sugar Land batting
+
+Ron Alsobrooks grounded out to shortstop.
+Gus Chiggins grounded out to shortstop.
+Champ Hockey popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Top of the 2nd inning:  Bangor batting
+
+Shosei Go walked.
+Emilio Rowles grounded into fielder's choice to first.
+Teodoro St. Croix flied out to center.
+Ron Saults fouled out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 2nd inning:  Sugar Land batting
+
+Dan Riddle struck out looking.
+Phillip Holub grounded out to pitcher.
+Samuel Ratchett grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Top of the 3rd inning:  Bangor batting
+
+Alexis Whaley grounded out to third.
+Jeffery Houston walked.
+Houston stole second base.
+Frederic Oromocto grounded out to first, Houston to third.
+Gerald Rodriguez grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 3rd inning:  Sugar Land batting
+
+Everett Allen singled.
+Clarence Kunkel hit by pitch, Allen to second.
+Dante Alighieri grounded into fielder's choice to first, Kunkel to second.
+Ron Alsobrooks flied out to left.
+Gus Chiggins grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Top of the 4th inning:  Bangor batting
+
+King Slender grounded out to second.
+Shosei Go struck out looking.
+Emilio Rowles grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 4th inning:  Sugar Land batting
+
+Champ Hockey popped out to catcher.
+Dan Riddle grounded out to first.
+Phillip Holub popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Top of the 5th inning:  Bangor batting
+
+Teodoro St. Croix singled.
+Ron Saults struck out looking.
+Alexis Whaley grounded into fielder's choice to first.
+Jeffery Houston singled, Whaley to second.
+Frederic Oromocto struck out swinging.
+
+0 Runs, 2 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 5th inning:  Sugar Land batting
+
+Samuel Ratchett flied out to left.
+Everett Allen struck out looking.
+Clarence Kunkel grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Top of the 6th inning:  Bangor batting
+
+Gerald Rodriguez grounded out to shortstop.
+King Slender flied out to center.
+Shosei Go popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 6th inning:  Sugar Land batting
+
+Dante Alighieri flied out to right.
+Ron Alsobrooks walked.
+Gus Chiggins struck out looking.
+Champ Hockey grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Top of the 7th inning:  Bangor batting
+
+Emilio Rowles grounded out to third.
+Teodoro St. Croix singled.
+Ron Saults grounded into fielder's choice to pitcher.
+Alexis Whaley grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 0, Sugar Land 0
+
+
+Bottom of the 7th inning:  Sugar Land batting
+
+Dan Riddle singled.
+Phillip Holub singled, Riddle to second.
+Samuel Ratchett singled, Holub to second, Riddle to third.
+Everett Allen singled, Riddle SCORED, Ratchett to second, Holub to third.
+David Copus relieved Emmanuel Goldstein.
+Clarence Kunkel hit a sacrifice fly, Holub SCORED.
+Dante Alighieri grounded into fielder's choice to third, Allen to second.
+Ron Alsobrooks flied out to center.
+
+2 Runs, 4 Hits, 0 Errors
+Bangor 0, Sugar Land 2
+
+
+Top of the 8th inning:  Bangor batting
+
+Jeffery Houston doubled.
+Frederic Oromocto grounded out to first, Houston to third.
+Gerald Rodriguez doubled, Houston SCORED.
+John Barks relieved Val Garcia.
+King Slender walked.
+Emil Salzman ran for Gerald Rodriguez.
+Shosei Go grounded out to first, Slender to second, Salzman to third.
+Emilio Rowles struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 1, Sugar Land 2
+
+
+Bottom of the 8th inning:  Sugar Land batting
+
+Gus Chiggins walked.
+Champ Hockey was safe after King Slender committed a throwing error, Chiggins
+Dan Riddle struck out swinging.
+Phillip Holub flied out to center.
+Samuel Ratchett grounded out to first.
+
+0 Runs, 0 Hits, 1 Error
+Bangor 1, Sugar Land 2
+
+
+Top of the 9th inning:  Bangor batting
+
+Tony Amory relieved John Barks.
+Teodoro St. Croix grounded out to second.
+King Hudgins hit for Ron Saults.
+King Hudgins struck out swinging.
+Alexis Whaley grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, Sugar Land 2
+
+
+END

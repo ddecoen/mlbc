@@ -1,0 +1,413 @@
+Team15 vs Team19 (Day 80)
+
+Date of game:  June 19, 1987
+
+FINAL IN 13        1 2 3  4 5 6  7 8 9 101112 13    R  H  E
+
+Maine              2 0 0  0 1 1  2 1 0  0 0 0  0    7 15  0
+Bowie              0 0 0  0 2 3  2 0 0  0 0 0  1    8 17  0
+
+One out when winning run scored.
+
+
+
+Maine                              AB  R  H BI BB SO LO   AVG
+
+Dwight Manfredi 1b                  6  1  3  1  0  0  2  .297
+Casey Paul Jr. 3b                   6  1  2  0  2  0  1  .298
+Shawn Martin c                      6  2  2  0  0  1  3  .333
+Billie Murray lf                    4  0  0  0  2  1  5  .271
+Earl Cohen cf                       6  0  2  3  0  1  4  .286
+Arthur Pena ss                      6  0  1  0  0  0  2  .318
+Gus Ashby rf                        6  2  1  0  0  2  3  .307
+Joe Garrett dh                      6  0  3  1  0  1  1  .277
+Elbert Folk 2b                      4  1  1  1  1  0  0  .292
+
+TOTALS:                            50  7 15  6  5  6 21
+
+
+BATTING
+2B: Cohen (15, Vogus).  HR: Folk (7, 5th inning off Vogus, 0 on, 0 out);
+Manfredi (14, 7th inning off Grossman, 0 on, 0 out).  S: Folk.  RBI: Cohen 3
+(33); Folk (30); Garrett (35); Manfredi (42).  2-OUT RBI: Cohen 2; Garrett. 
+Runners left in scoring position, 2 outs: Ashby 2; Pena; Cohen; Murray; Martin.
+ GIDP: Pena; Manfredi.  Team LOB: 10.  
+
+BASERUNNING
+SB: Ashby (10, 2nd base off Vogus/Harness).  
+
+FIELDING
+PB: Martin.  Outfield assist: Ashby (Holden at home plate).  
+
+
+Bowie                              AB  R  H BI BB SO LO   AVG
+
+Ashton Appelbaum lf                 5  1  1  0  1  0  1  .348
+Louis Chevalier 3b                  6  1  1  0  0  2  1  .285
+Jerry Livingston 1b                 5  1  1  1  0  2  3  .138
+James Holden dh                     5  1  2  1  1  1  3  .330
+Hector Moffitt rf                   6  0  2  1  0  2  2  .333
+Johnny Lawrence 2b                  2  1  1  1  1  0  2  .391
+  Adrian Dlouhy ph-2b               2  0  0  0  0  0  0  .190
+Cary Harness c                      6  1  2  0  0  1  1  .306
+Johnnie Edwards ss                  6  1  2  1  0  2  3  .314
+Carl Toro cf                        6  1  5  2  0  0  5  .346
+
+TOTALS:                            49  8 17  7  3 10 21
+
+
+BATTING
+2B: Toro (12, Nowlan); Holden (15, Nowlan); Harness (13, Slovick).  HR:
+Lawrence (15, 6th inning off Pine, 0 on, 0 out); Edwards (7, 6th inning off
+Pine, 0 on, 1 out); Toro (6, 6th inning off Pine, 0 on, 1 out).  SF:
+Livingston.  RBI: Livingston (2); Holden (56); Lawrence (54); Edwards (47);
+Toro 2 (46); Moffitt (6).  2-OUT RBI: Holden.  Runners left in scoring
+position, 2 outs: Toro; Moffitt; Lawrence; Holden.  GIDP: Lawrence.  Team LOB:
+9.  
+
+BASERUNNING
+SB: Toro (8, 2nd base off Yarbo/Martin).  CS: Toro (8, 2nd base by
+Slovick/Martin).  
+
+
+Maine                            IP     H  R ER BB SO HR   ERA
+
+Davis Nowlan                    5       7  2  2  2  3  0  8.72
+Scott Pine (BS, 3)                1/3   3  3  3  0  0  3  4.26
+Carroll Bowden                  1 1/3   3  2  2  1  1  0  5.15
+Hank Yarbo                      2 1/3   1  0  0  0  2  0  5.38
+Bill Slovick (L, 1-4)           3 1/3   3  1  1  0  4  0  7.52
+
+
+Bowie                            IP     H  R ER BB SO HR   ERA
+
+Mason Vogus                     5 2/3   8  4  4  1  4  1  5.01
+Joe Grossman                      2/3   3  2  2  1  0  1  5.21
+Arquimedez Timpone              1 1/3   2  1  1  2  0  0  6.32
+Terry Cohen (W, 1-2)            5 1/3   2  0  0  0  2  0  4.73
+
+
+IBB: Paul Jr. (by Timpone).  Pitches-Strikes:  Vogus 106-78; Grossman 25-19;
+Timpone 22-12; Cohen 58-46; Nowlan 93-66; Pine 18-15; Bowden 22-17; Yarbo
+35-29; Slovick 49-42.  Ground balls-Fly balls:  Vogus 13-8; Grossman 1-4;
+Timpone 3-1; Cohen 9-7; Nowlan 4-14; Pine 0-4; Bowden 4-1; Yarbo 3-3; Slovick
+3-5.  Batters faced:  Vogus 26; Grossman 6; Timpone 6; Cohen 18; Nowlan 23;
+Pine 4; Bowden 7; Yarbo 8; Slovick 12.  
+
+Umpires:  HP: John Yellott.  1B: Scott Barcik.  2B: Ed Montague.  3B: Joe
+Damon.  T: 4:39.  Att: 33,663.  Weather: 84 degrees, cloudy.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Carl Toro
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Maine batting
+
+Dwight Manfredi flied out to right.
+Casey Paul Jr. singled.
+Shawn Martin singled, Paul Jr. to third.
+Billie Murray struck out looking.
+Earl Cohen doubled, Paul Jr. SCORED, Martin SCORED.
+Arthur Pena flied out to shortstop.
+
+2 Runs, 3 Hits, 0 Errors
+Maine 2, Bowie 0
+
+
+Bottom of the 1st inning:  Bowie batting
+
+Ashton Appelbaum flied out to right.
+Louis Chevalier popped out to third.
+Jerry Livingston flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 2, Bowie 0
+
+
+Top of the 2nd inning:  Maine batting
+
+Gus Ashby grounded out to first.
+Joe Garrett struck out looking.
+Elbert Folk fouled out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 2, Bowie 0
+
+
+Bottom of the 2nd inning:  Bowie batting
+
+James Holden singled.
+Hector Moffitt struck out looking.
+Johnny Lawrence walked, Holden to second.
+Cary Harness flied out to right.
+Johnnie Edwards singled, Lawrence to third, James Holden out at home plate.
+
+0 Runs, 2 Hits, 0 Errors
+Maine 2, Bowie 0
+
+
+Top of the 3rd inning:  Maine batting
+
+Dwight Manfredi singled.
+Casey Paul Jr. flied out to right.
+Shawn Martin popped out to second.
+Billie Murray walked, Manfredi to second.
+Earl Cohen struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 2, Bowie 0
+
+
+Bottom of the 3rd inning:  Bowie batting
+
+Carl Toro doubled.
+Ashton Appelbaum walked.
+Louis Chevalier struck out swinging.
+Jerry Livingston flied out to left.
+Passed ball by Shawn Martin, Appelbaum to second, Toro to third.
+James Holden popped out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 2, Bowie 0
+
+
+Top of the 4th inning:  Maine batting
+
+Arthur Pena grounded out to first.
+Gus Ashby struck out looking.
+Joe Garrett flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 2, Bowie 0
+
+
+Bottom of the 4th inning:  Bowie batting
+
+Hector Moffitt singled.
+Johnny Lawrence flied out to center.
+Cary Harness struck out looking.
+Johnnie Edwards grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 2, Bowie 0
+
+
+Top of the 5th inning:  Maine batting
+
+Elbert Folk HOMERED.
+Dwight Manfredi singled.
+Casey Paul Jr. grounded out to first, Manfredi to second.
+Shawn Martin grounded out to third, Manfredi to third.
+Billie Murray grounded out to third.
+
+1 Run, 2 Hits, 0 Errors
+Maine 3, Bowie 0
+
+
+Bottom of the 5th inning:  Bowie batting
+
+Carl Toro grounded out to pitcher.
+Ashton Appelbaum singled.
+Louis Chevalier singled, Appelbaum to third.
+Jerry Livingston hit a sacrifice fly, Appelbaum SCORED.
+James Holden doubled, Chevalier SCORED.
+Hector Moffitt flied out to left.
+
+2 Runs, 3 Hits, 0 Errors
+Maine 3, Bowie 2
+
+
+Top of the 6th inning:  Maine batting
+
+Earl Cohen grounded out to third.
+Arthur Pena singled.
+Gus Ashby grounded into fielder's choice to second.
+Ashby stole second base.
+Joe Garrett singled, Ashby SCORED.
+Joe Grossman relieved Mason Vogus.
+Elbert Folk flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Maine 4, Bowie 2
+
+
+Bottom of the 6th inning:  Bowie batting
+
+Scott Pine relieved Davis Nowlan.
+Johnny Lawrence HOMERED.
+Cary Harness flied out to right.
+Johnnie Edwards HOMERED.
+Carl Toro HOMERED.
+Carroll Bowden relieved Scott Pine.
+Ashton Appelbaum flied out to center.
+Louis Chevalier struck out swinging.
+
+3 Runs, 3 Hits, 0 Errors
+Maine 4, Bowie 5
+
+
+Top of the 7th inning:  Maine batting
+
+Dwight Manfredi HOMERED.
+Casey Paul Jr. flied out to right.
+Shawn Martin singled.
+Billie Murray walked, Martin to second.
+Earl Cohen singled, Martin SCORED, Murray to third.
+Arquimedez Timpone relieved Joe Grossman.
+Arthur Pena grounded into double play to first.
+
+2 Runs, 3 Hits, 0 Errors
+Maine 6, Bowie 5
+
+
+Bottom of the 7th inning:  Bowie batting
+
+Jerry Livingston singled.
+James Holden walked, Livingston to second.
+Hector Moffitt singled, Livingston SCORED, Holden to third.
+Johnny Lawrence grounded into double play to pitcher, Holden SCORED.
+Cary Harness singled.
+Hank Yarbo relieved Carroll Bowden.
+Johnnie Edwards flied out to right.
+
+2 Runs, 3 Hits, 0 Errors
+Maine 6, Bowie 7
+
+
+Top of the 8th inning:  Maine batting
+
+Gus Ashby singled.
+Joe Garrett singled, Ashby to third.
+Elbert Folk walked, Garrett to second.
+Dwight Manfredi grounded into double play to pitcher, Ashby SCORED, Folk to second.
+Casey Paul Jr. was walked intentionally.
+Terry Cohen relieved Arquimedez Timpone.
+Shawn Martin grounded out to pitcher.
+
+1 Run, 2 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Bottom of the 8th inning:  Bowie batting
+
+Carl Toro singled.
+Toro stole second base.
+Ashton Appelbaum grounded out to shortstop, Toro to third.
+Louis Chevalier flied out to center.
+Jerry Livingston struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 7, Bowie 7
+
+
+Top of the 9th inning:  Maine batting
+
+Billie Murray flied out to center.
+Earl Cohen grounded out to second.
+Arthur Pena grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Bottom of the 9th inning:  Bowie batting
+
+James Holden flied out to shortstop.
+Hector Moffitt struck out looking.
+Adrian Dlouhy hit for Johnny Lawrence.
+Adrian Dlouhy grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Top of the 10th inning:  Maine batting
+
+Gus Ashby struck out looking.
+Joe Garrett grounded out to third.
+Elbert Folk grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Bottom of the 10th inning:  Bowie batting
+
+Bill Slovick relieved Hank Yarbo.
+Cary Harness flied out to right.
+Johnnie Edwards struck out looking.
+Carl Toro singled.
+Toro caught stealing second base.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 7, Bowie 7
+
+
+Top of the 11th inning:  Maine batting
+
+Dwight Manfredi fouled out to third.
+Casey Paul Jr. singled.
+Shawn Martin struck out swinging.
+Billie Murray grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 7, Bowie 7
+
+
+Bottom of the 11th inning:  Bowie batting
+
+Ashton Appelbaum popped out to catcher.
+Louis Chevalier grounded out to catcher.
+Jerry Livingston struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Top of the 12th inning:  Maine batting
+
+Earl Cohen flied out to left.
+Arthur Pena grounded out to shortstop.
+Gus Ashby popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Bottom of the 12th inning:  Bowie batting
+
+James Holden struck out looking.
+Hector Moffitt grounded out to first.
+Adrian Dlouhy popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 7, Bowie 7
+
+
+Top of the 13th inning:  Maine batting
+
+Joe Garrett singled.
+Elbert Folk sacrificed, Garrett to second.
+Dwight Manfredi flied out to left.
+Casey Paul Jr. popped out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 7, Bowie 7
+
+
+Bottom of the 13th inning:  Bowie batting
+
+Cary Harness doubled.
+Johnnie Edwards struck out looking.
+Carl Toro singled, Harness SCORED.
+
+1 Run, 2 Hits, 0 Errors
+Maine 7, Bowie 8
+
+
+END

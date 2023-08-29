@@ -1,0 +1,301 @@
+Team9 vs Team1 (Day 80)
+
+Date of game:  June 19, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Sugar Land         0 0 0  0 0 0  0 0 1     1  6  0
+Chattanooga        3 0 0  3 0 2  0 1 X     9 11  0
+
+
+Sugar Land                         AB  R  H BI BB SO LO   AVG
+
+John Cassetti lf                    3  0  0  0  1  1  0  .222
+Gus Chiggins cf                     4  1  2  0  0  1  0  .311
+Champ Hockey rf                     2  0  0  0  0  2  0  .300
+  Matthew Keylon rf                 2  0  1  0  0  0  0  .261
+Dan Riddle 3b                       1  0  0  0  0  0  2  .290
+  Chris Napolitano 3b               2  0  1  0  0  1  1  .255
+Phillip Holub 2b                    3  0  1  1  0  0  1  .339
+Travis Riley ss                     4  0  1  0  0  0  3  .167
+Everett Allen 1b                    4  0  0  0  0  0  2  .290
+Clarence Kunkel dh                  2  0  0  0  0  0  2  .306
+  Ron Alsobrooks ph-dh              1  0  0  0  0  0  2  .297
+Dante Alighieri c                   3  0  0  0  0  1  0  .235
+
+TOTALS:                            31  1  6  1  1  6 13
+
+
+BATTING
+2B: Holub (24, Lewis).  SF: Holub.  RBI: Holub (34).  Runners left in scoring
+position, 2 outs: Riley; Kunkel; Alsobrooks.  GIDP: Holub.  Team LOB: 6.  
+
+FIELDING
+PB: Alighieri.  
+
+
+Chattanooga                        AB  R  H BI BB SO LO   AVG
+
+Bill Lanctot rf                     3  0  1  0  1  0  1  .274
+Mike Haroldsen ss                   3  0  0  0  0  0  0  .337
+Damon Marshall cf                   4  1  1  0  0  1  1  .311
+John Edwards 1b                     2  2  2  1  0  0  0  .241
+  Archie Cobbs Jr 1b                2  0  0  0  0  0  2  .343
+Jaime Krug lf                       4  2  3  2  0  0  2  .274
+John Childress dh                   4  3  2  4  0  0  2  .267
+Eugene Schissler c                  4  1  1  1  0  0  1  .323
+  Booker Crosno c                   0  0  0  0  0  0  0  .333
+Cooter Stith 2b                     3  0  1  1  0  1  0  .353
+  Chris McKendree 2b                1  0  0  0  0  0  0  .345
+Charlie Dooley 3b                   4  0  0  0  0  2  0  .245
+
+TOTALS:                            34  9 11  9  1  4  9
+
+
+BATTING
+2B: Marshall (18, Batchelor); Edwards 2 (16, Batchelor, Batchelor).  3B:
+Schissler (2, Barks).  HR: Krug (1, 1st inning off Batchelor, 1 on, 2 out);
+Childress 2 (17, 4th inning off Batchelor, 2 on, 0 out, 8th inning off Breaux,
+0 on, 0 out).  RBI: Edwards (37); Krug 2 (10); Childress 4 (55); Schissler
+(41); Stith (31).  2-OUT RBI: Edwards; Krug 2; Schissler; Stith.  Runners left
+in scoring position, 2 outs: Lanctot; Childress.  GIDP: Haroldsen.  Team LOB:
+3.  
+
+
+Sugar Land                       IP     H  R ER BB SO HR   ERA
+
+Thomas Batchelor (L, 4-5)       3       6  6  6  0  2  2  5.45
+John Barks                      2 2/3   4  2  2  0  2  0  2.46
+George Simmons                  1 1/3   0  0  0  1  0  0  6.37
+Rich Breaux                     1       1  1  1  0  0  1  5.57
+
+
+Chattanooga                      IP     H  R ER BB SO HR   ERA
+
+Rich Lewis (W, 7-4)             8       3  0  0  1  6  0  4.12
+Cody Rowe Jr                      1/3   2  1  1  0  0  0  5.32
+Peach McGeachy                    2/3   1  0  0  0  0  0  3.38
+
+Batchelor pitched to 3 batters in the 4th.  
+
+HBP: Riddle (by Lewis); Haroldsen (by Simmons).  Pitches-Strikes:  Lewis
+110-78; Rowe Jr 7-6; McGeachy 15-8; Batchelor 55-48; Barks 43-34; Simmons
+25-16; Breaux 12-10.  Ground balls-Fly balls:  Lewis 7-13; Rowe Jr 2-1;
+McGeachy 1-2; Batchelor 5-8; Barks 8-1; Simmons 1-3; Breaux 0-4.  Batters
+faced:  Lewis 28; Rowe Jr 3; McGeachy 3; Batchelor 15; Barks 11; Simmons 6;
+Breaux 4.  
+
+Umpires:  HP: Mike Coustier.  1B: Mike Saperstein.  2B: Ross Borden.  3B: Scott
+Barcik.  T: 2:53.  Att: 22,751.  Weather: 72 degrees, clear.  Wind: 11 mph, in
+from right-center.  
+
+
+High Heat Baseball Player of the Game:  John Childress
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Sugar Land batting
+
+John Cassetti flied out to center.
+Gus Chiggins fouled out to catcher.
+Champ Hockey struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 0
+
+
+Bottom of the 1st inning:  Chattanooga batting
+
+Bill Lanctot grounded out to second.
+Mike Haroldsen popped out to third.
+Damon Marshall doubled.
+John Edwards doubled, Marshall SCORED.
+Jaime Krug HOMERED, Edwards SCORED.
+John Childress grounded out to first.
+
+3 Runs, 3 Hits, 0 Errors
+Sugar Land 0, Chattanooga 3
+
+
+Top of the 2nd inning:  Sugar Land batting
+
+Dan Riddle flied out to left.
+Phillip Holub flied out to center.
+Travis Riley fouled out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 3
+
+
+Bottom of the 2nd inning:  Chattanooga batting
+
+Eugene Schissler grounded out to first.
+Cooter Stith struck out looking.
+Charlie Dooley struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 3
+
+
+Top of the 3rd inning:  Sugar Land batting
+
+Everett Allen fouled out to right.
+Clarence Kunkel flied out to center.
+Dante Alighieri popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 3
+
+
+Bottom of the 3rd inning:  Chattanooga batting
+
+Bill Lanctot flied out to left.
+Mike Haroldsen grounded out to second.
+Damon Marshall flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 3
+
+
+Top of the 4th inning:  Sugar Land batting
+
+John Cassetti walked.
+Gus Chiggins singled, Cassetti to third.
+Champ Hockey struck out looking.
+Dan Riddle hit by pitch, Chiggins to second.
+Phillip Holub grounded into double play to pitcher, Riddle to second, Chiggins
+
+0 Runs, 1 Hit, 0 Errors
+Sugar Land 0, Chattanooga 3
+
+
+Bottom of the 4th inning:  Chattanooga batting
+
+John Edwards doubled.
+Jaime Krug singled, Edwards to third.
+John Childress HOMERED, Edwards SCORED, Krug SCORED.
+John Barks relieved Thomas Batchelor.
+Eugene Schissler grounded out to first.
+Cooter Stith grounded out to third.
+Charlie Dooley struck out swinging.
+
+3 Runs, 3 Hits, 0 Errors
+Sugar Land 0, Chattanooga 6
+
+
+Top of the 5th inning:  Sugar Land batting
+
+Travis Riley popped out to first.
+Everett Allen fouled out to third.
+Clarence Kunkel popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 6
+
+
+Bottom of the 5th inning:  Chattanooga batting
+
+Bill Lanctot singled.
+Mike Haroldsen grounded into double play to second.
+Damon Marshall struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Sugar Land 0, Chattanooga 6
+
+
+Top of the 6th inning:  Sugar Land batting
+
+Archie Cobbs Jr came in for John Edwards at first.
+Dante Alighieri struck out swinging.
+John Cassetti struck out looking.
+Gus Chiggins struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 6
+
+
+Bottom of the 6th inning:  Chattanooga batting
+
+Matthew Keylon came in for Champ Hockey in right.
+Chris Napolitano came in for Dan Riddle at third.
+Archie Cobbs Jr grounded out to pitcher.
+Jaime Krug singled.
+John Childress grounded into fielder's choice to second.
+Eugene Schissler tripled, Childress SCORED.
+Cooter Stith singled, Schissler SCORED.
+George Simmons relieved John Barks.
+Passed ball by Dante Alighieri, Stith to second.
+Charlie Dooley fouled out to catcher.
+
+2 Runs, 3 Hits, 0 Errors
+Sugar Land 0, Chattanooga 8
+
+
+Top of the 7th inning:  Sugar Land batting
+
+Chris McKendree came in for Cooter Stith at second.
+Matthew Keylon singled.
+Chris Napolitano struck out looking.
+Phillip Holub doubled, Keylon to third.
+Travis Riley fouled out to first.
+Everett Allen grounded out to shortstop.
+
+0 Runs, 2 Hits, 0 Errors
+Sugar Land 0, Chattanooga 8
+
+
+Bottom of the 7th inning:  Chattanooga batting
+
+Bill Lanctot walked.
+Mike Haroldsen hit by pitch, Lanctot to second.
+Damon Marshall popped out to third.
+Archie Cobbs Jr grounded out to third, Haroldsen to second, Lanctot to third.
+Jaime Krug flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 8
+
+
+Top of the 8th inning:  Sugar Land batting
+
+Ron Alsobrooks hit for Clarence Kunkel.
+Ron Alsobrooks grounded out to shortstop.
+Dante Alighieri grounded out to third.
+John Cassetti grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 0, Chattanooga 8
+
+
+Bottom of the 8th inning:  Chattanooga batting
+
+Rich Breaux relieved George Simmons.
+John Childress HOMERED.
+Eugene Schissler flied out to left.
+Chris McKendree flied out to left.
+Charlie Dooley flied out to left.
+
+1 Run, 1 Hit, 0 Errors
+Sugar Land 0, Chattanooga 9
+
+
+Top of the 9th inning:  Sugar Land batting
+
+Cody Rowe Jr relieved Rich Lewis.
+Booker Crosno came in for Eugene Schissler at catcher.
+Gus Chiggins singled.
+Matthew Keylon flied out to right.
+Chris Napolitano singled, Chiggins to third.
+Peach McGeachy relieved Cody Rowe Jr.
+Phillip Holub hit a sacrifice fly, Chiggins SCORED.
+Travis Riley singled, Napolitano to second.
+Everett Allen flied out to shortstop.
+
+1 Run, 3 Hits, 0 Errors
+Sugar Land 1, Chattanooga 9
+
+
+END

@@ -1,0 +1,327 @@
+
+Date of game:  June 15, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Lake Elsinore      1 0 0  0 0 0  4 1 1     7 12  0
+Omaha              0 0 0  3 2 6  1 3 X    15 13  0
+
+
+Lake Elsinore                      AB  R  H BI BB SO LO   AVG
+
+John Kruczek rf                     4  2  3  5  0  0  1  .322
+  Ken Masker rf                     1  0  1  1  0  0  0  .210
+Bret Thomas 2b                      5  0  2  0  0  2  1  .294
+Bill Chee lf                        5  0  1  0  0  2  3  .226
+Shawn Spencer 3b                    5  0  0  0  0  0  2  .249
+Seth Corazza dh                     4  0  0  0  0  0  3  .286
+Charles Milles 1b                   3  0  1  0  0  0  0  .223
+  Carlos Rinehart 1b                1  1  1  1  0  0  0  .143
+Bradley Fabry c                     2  1  1  0  2  0  0  .203
+Bob Alexander cf                    2  0  0  0  0  1  0  .279
+  Dan Nitti ph-cf                   2  1  1  0  0  0  0  .246
+Geoff Treadwell ss                  2  2  1  0  2  0  5  .278
+
+TOTALS:                            36  7 12  7  4  5 15
+
+
+BATTING
+2B: Milles (6, Marzano); Treadwell (6, Tucker).  3B: Thomas (2, Marzano).  HR:
+Kruczek 2 (4, 1st inning off Marzano, 0 on, 0 out, 7th inning off Suchy, 3 on,
+2 out); Rinehart (1, 8th inning off Tucker, 0 on, 2 out).  RBI: Kruczek 5 (31);
+Rinehart (2); Masker (5).  2-OUT RBI: Kruczek 4; Rinehart.  Runners left in
+scoring position, 2 outs: Treadwell; Kruczek; Corazza.  GIDP: Kruczek.  Team
+LOB: 6.  
+
+BASERUNNING
+SB: Fabry 2 (6, 2nd base off Marzano/Strachan, 3rd base off Marzano/Strachan). 
+CS: Alexander (1, 2nd base by Marzano/Strachan); Thomas (14, home plate by
+Marzano/Strachan).  
+
+FIELDING
+Outfield assist: Alexander (Fox at home plate).  
+
+
+Omaha                              AB  R  H BI BB SO LO   AVG
+
+Paul Burkhart dh                    4  2  2  1  1  0  0  .277
+Jerry Bush 3b                       3  2  2  1  1  1  0  .327
+Gordon Shumway ss                   3  2  1  2  2  1  1  .281
+Hosea Fox 2b                        4  1  1  2  1  0  2  .248
+Lynn Disanti 1b                     4  2  3  3  1  0  3  .305
+Alphonso Navarro lf                 4  2  1  0  0  1  2  .257
+Vincent Strachan c                  4  2  2  3  0  1  4  .254
+Scott Carmichael rf                 5  1  1  3  0  2  3  .227
+Peter Schepers cf                   4  1  0  0  2  0  2  .253
+
+TOTALS:                            35 15 13 15  8  6 17
+
+
+BATTING
+2B: Bush (12, Cheers); Shumway (15, Cheers); Strachan (9, Metzger); Disanti 2
+(14, Trujillo, Fuentes).  HR: Strachan (3, 4th inning off Handler, 2 on, 1
+out); Burkhart (2, 7th inning off Trujillo, 0 on, 2 out); Carmichael (10, 8th
+inning off Fuentes, 2 on, 2 out).  RBI: Strachan 3 (19); Shumway 2 (23);
+Disanti 3 (30); Bush (44); Fox 2 (30); Burkhart (13); Carmichael 3 (41).  2-OUT
+RBI: Disanti; Burkhart; Carmichael 3.  Runners left in scoring position, 2
+outs: Navarro; Carmichael.  GIDP: Carmichael.  Team LOB: 6.  
+
+
+Lake Elsinore                    IP     H  R ER BB SO HR   ERA
+
+Paul Handler (L, 1-1)           3 1/3   4  3  3  3  2  1  5.61
+Ryan Cheers                     1       2  2  2  0  0  0  4.88
+Eric Metzger                    1       2  4  4  3  1  0  4.68
+Will Trujillo                   1 1/3   3  3  3  1  1  1  3.94
+Fred Fuentes                    1       2  3  3  0  2  1  6.59
+Gerard Barnes                     1/3   0  0  0  0  0  0  7.95
+
+
+Omaha                            IP     H  R ER BB SO HR   ERA
+
+Bobby Marzano (W, 7-6)          6 2/3   6  4  4  4  4  1  4.28
+Gale Suchy                        1/3   2  1  1  0  0  1  5.15
+Frank Tucker                    1 1/3   3  2  2  0  0  1  5.08
+Stephan Langer                    2/3   1  0  0  0  1  0  7.87
+
+
+IBB: Schepers (by Metzger).  HBP: Strachan (by Handler); Bush (by Fuentes);
+Navarro (by Fuentes).  Pitches-Strikes:  Marzano 131-81; Suchy 13-9; Tucker
+31-20; Langer 10-9; Handler 70-48; Cheers 22-12; Metzger 36-23; Trujillo 28-19;
+Fuentes 31-28; Barnes 6-5.  Ground balls-Fly balls:  Marzano 13-6; Suchy 0-3;
+Tucker 4-3; Langer 2-0; Handler 4-6; Cheers 1-4; Metzger 2-2; Trujillo 2-4;
+Fuentes 0-3; Barnes 0-1.  Batters faced:  Marzano 27; Suchy 3; Tucker 7; Langer
+3; Handler 16; Cheers 5; Metzger 8; Trujillo 8; Fuentes 7; Barnes 1.  
+
+Umpires:  HP: Mike Saperstein.  1B: John Yellott.  2B: Brian Nestor.  3B: Ed
+Montague.  T: 3:30.  Att: 23,464.  Weather: 74 degrees, clear.  Wind: 17 mph,
+out to center.  
+
+
+High Heat Baseball Player of the Game:  Vincent Strachan
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Lake Elsinore batting
+
+John Kruczek HOMERED.
+Bret Thomas struck out looking.
+Bill Chee grounded out to second.
+Shawn Spencer grounded out to pitcher.
+
+1 Run, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Bottom of the 1st inning:  Omaha batting
+
+Paul Burkhart fouled out to catcher.
+Jerry Bush singled.
+Gordon Shumway walked, Bush to second.
+Hosea Fox flied out to center.
+Lynn Disanti flied out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Top of the 2nd inning:  Lake Elsinore batting
+
+Seth Corazza grounded out to third.
+Charles Milles doubled.
+Bradley Fabry walked.
+Bob Alexander grounded into fielder's choice to second, Fabry to second.
+Alexander caught stealing second base.
+
+0 Runs, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Bottom of the 2nd inning:  Omaha batting
+
+Alphonso Navarro struck out swinging.
+Vincent Strachan hit by pitch.
+Scott Carmichael grounded into double play to third.
+
+0 Runs, 0 Hits, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Top of the 3rd inning:  Lake Elsinore batting
+
+Geoff Treadwell walked.
+John Kruczek grounded into double play to shortstop.
+Bret Thomas tripled.
+Thomas caught stealing home plate.
+
+0 Runs, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Bottom of the 3rd inning:  Omaha batting
+
+Peter Schepers grounded out to third.
+Paul Burkhart singled.
+Jerry Bush struck out looking.
+Gordon Shumway flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Top of the 4th inning:  Lake Elsinore batting
+
+Bill Chee struck out looking.
+Shawn Spencer flied out to center.
+Seth Corazza grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Lake Elsinore 1, Omaha 0
+
+
+Bottom of the 4th inning:  Omaha batting
+
+Hosea Fox walked.
+Lynn Disanti walked, Fox to second.
+Alphonso Navarro singled, Disanti to second, Hosea Fox out at home plate.
+Vincent Strachan HOMERED, Disanti SCORED, Navarro SCORED.
+Ryan Cheers relieved Paul Handler.
+Scott Carmichael flied out to center.
+Peter Schepers flied out to left.
+
+3 Runs, 2 Hits, 0 Errors
+Lake Elsinore 1, Omaha 3
+
+
+Top of the 5th inning:  Lake Elsinore batting
+
+Charles Milles grounded out to third.
+Bradley Fabry singled.
+Fabry stole second base.
+Bob Alexander struck out looking.
+Fabry stole third base.
+Geoff Treadwell flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 3
+
+
+Bottom of the 5th inning:  Omaha batting
+
+Paul Burkhart grounded out to shortstop.
+Jerry Bush doubled.
+Gordon Shumway doubled, Bush SCORED.
+Eric Metzger relieved Ryan Cheers.
+Hosea Fox grounded out to third, Shumway to third.
+Lynn Disanti singled, Shumway SCORED.
+Alphonso Navarro flied out to center.
+
+2 Runs, 3 Hits, 0 Errors
+Lake Elsinore 1, Omaha 5
+
+
+Top of the 6th inning:  Lake Elsinore batting
+
+John Kruczek singled.
+Bret Thomas grounded into fielder's choice to pitcher.
+Bill Chee struck out looking.
+Shawn Spencer grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Lake Elsinore 1, Omaha 5
+
+
+Bottom of the 6th inning:  Omaha batting
+
+Vincent Strachan doubled.
+Scott Carmichael struck out looking.
+Peter Schepers was walked intentionally.
+Paul Burkhart walked, Schepers to second, Strachan to third.
+Jerry Bush walked, Strachan SCORED, Burkhart to second, Schepers to third.
+Will Trujillo relieved Eric Metzger.
+Gordon Shumway walked, Schepers SCORED, Bush to second, Burkhart to third.
+Hosea Fox singled, Burkhart SCORED, Bush SCORED, Shumway to second.
+Lynn Disanti doubled, Shumway SCORED, Fox SCORED.
+Alphonso Navarro grounded out to shortstop, Disanti to third.
+Vincent Strachan grounded out to third.
+
+6 Runs, 3 Hits, 0 Errors
+Lake Elsinore 1, Omaha 11
+
+
+Top of the 7th inning:  Lake Elsinore batting
+
+Seth Corazza grounded out to third.
+Charles Milles grounded out to shortstop.
+Bradley Fabry walked.
+Dan Nitti hit for Bob Alexander.
+Dan Nitti singled, Fabry to third.
+Geoff Treadwell walked, Nitti to second.
+Gale Suchy relieved Bobby Marzano.
+John Kruczek HOMERED, Fabry SCORED, Nitti SCORED, Treadwell SCORED.
+Bret Thomas singled.
+Bill Chee flied out to left.
+
+4 Runs, 3 Hits, 0 Errors
+Lake Elsinore 5, Omaha 11
+
+
+Bottom of the 7th inning:  Omaha batting
+
+Ken Masker came in for John Kruczek in right.
+Carlos Rinehart came in for Charles Milles at first.
+Scott Carmichael struck out swinging.
+Peter Schepers flied out to center.
+Paul Burkhart HOMERED.
+Fred Fuentes relieved Will Trujillo.
+Jerry Bush hit by pitch.
+Gordon Shumway struck out swinging.
+
+1 Run, 1 Hit, 0 Errors
+Lake Elsinore 5, Omaha 12
+
+
+Top of the 8th inning:  Lake Elsinore batting
+
+Frank Tucker relieved Gale Suchy.
+Shawn Spencer flied out to center.
+Seth Corazza grounded out to shortstop.
+Carlos Rinehart HOMERED.
+Bradley Fabry grounded out to third.
+
+1 Run, 1 Hit, 0 Errors
+Lake Elsinore 6, Omaha 12
+
+
+Bottom of the 8th inning:  Omaha batting
+
+Hosea Fox flied out to left.
+Lynn Disanti doubled.
+Alphonso Navarro hit by pitch.
+Vincent Strachan struck out looking.
+Scott Carmichael HOMERED, Disanti SCORED, Navarro SCORED.
+Gerard Barnes relieved Fred Fuentes.
+Peter Schepers flied out to left.
+
+3 Runs, 2 Hits, 0 Errors
+Lake Elsinore 6, Omaha 15
+
+
+Top of the 9th inning:  Lake Elsinore batting
+
+Dan Nitti grounded out to shortstop.
+Geoff Treadwell doubled.
+Ken Masker singled, Treadwell SCORED.
+Stephan Langer relieved Frank Tucker.
+Bret Thomas struck out looking.
+Bill Chee singled, Masker to third.
+Shawn Spencer grounded out to shortstop.
+
+1 Run, 3 Hits, 0 Errors
+Lake Elsinore 7, Omaha 15
+
+
+END

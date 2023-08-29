@@ -1,0 +1,360 @@
+
+Date of game:  June 11, 1987
+
+FINAL IN 11        1 2 3  4 5 6  7 8 9 1011    R  H  E
+
+Casper             0 0 0  1 0 1  0 0 0  0 1    3 11  0
+Maine              0 0 0  0 1 0  0 0 1  0 2    4  8  0
+
+Two outs when winning run scored.
+
+
+
+Casper                             AB  R  H BI BB SO LO   AVG
+
+Michael Dodge ss                    4  0  1  0  1  0  1  .346
+  Xander Jones pr-ss                1  0  0  0  0  1  0  .301
+George Knouff dh                    4  0  1  0  1  1  2  .387
+Varvatos Vex 3b                     4  0  0  0  1  2  2  .319
+Newsy Lalonde 1b                    5  1  1  1  0  2  3  .332
+Peter LaFleur 2b                    5  1  2  0  0  0  3  .278
+Pete Moller c                       4  0  1  0  0  2  2  .235
+  Jorge Orta pr                     0  1  0  0  0  0  0  .200
+  Mo Jacobs c                       0  0  0  0  0  0  0  .170
+Harry Sauro lf                      3  0  2  1  1  0  1  .400
+  Billy Hand ph-lf                  1  0  1  0  0  0  0  .306
+Tim Kono rf                         5  0  0  0  0  1  2  .250
+James Kanae cf                      4  0  2  1  0  1  7  .343
+
+TOTALS:                            40  3 11  3  4 10 23
+
+
+BATTING
+2B: Dodge (16, Browning); Knouff (22, Browning); LaFleur (10, Browning).  HR:
+Lalonde (11, 4th inning off Browning, 0 on, 0 out).  S: Kanae.  RBI: Lalonde
+(35); Sauro (24); Kanae (25).  2-OUT RBI: Sauro.  Runners left in scoring
+position, 2 outs: LaFleur; Kanae; Lalonde; Moller; Knouff.  GIDP: Kono; Dodge. 
+Team LOB: 10.  
+
+BASERUNNING
+SB: Jones (5, 2nd base off Ward/Martin).  
+
+
+Maine                              AB  R  H BI BB SO LO   AVG
+
+Dwight Manfredi dh                  5  0  0  0  0  1  1  .282
+Casey Paul Jr. 3b                   4  0  0  0  1  0  3  .298
+Shawn Martin c                      4  0  1  0  1  1  2  .326
+Billie Murray lf                    4  0  0  0  1  2  3  .268
+Earl Cohen cf                       5  1  1  0  0  1  2  .284
+John Dorian 1b                      4  2  1  1  1  2  2  .338
+Gus Ashby rf                        3  1  2  1  2  0  0  .309
+Leon Czolgosz ss                    5  0  2  0  0  1  1  .273
+Elbert Folk 2b                      3  0  1  2  1  0  3  .281
+
+TOTALS:                            37  4  8  4  7  8 17
+
+
+BATTING
+2B: Czolgosz (1, Wargrave).  HR: Dorian (4, 9th inning off Loncaric, 0 on, 2
+out).  SF: Folk.  RBI: Folk 2 (27); Dorian (22); Ashby (38).  2-OUT RBI:
+Dorian; Folk.  Runners left in scoring position, 2 outs: Paul Jr.; Manfredi 2;
+Murray.  GIDP: Martin.  Team LOB: 9.  
+
+BASERUNNING
+CS: Ashby (4, 2nd base by Wargrave/Moller).  
+
+
+Casper                           IP     H  R ER BB SO HR   ERA
+
+Justice Wargrave                7       3  1  1  5  6  0  4.70
+Ray Minecci (H, 3)              1       0  0  0  0  1  0  4.19
+Rod Loncaric (BS, 1)            1       1  1  1  0  1  1  2.32
+Walter Miller (L, 2-1)          1 1/3   2  2  2  2  0  0  3.94
+Glen Obringer (BS, 3)             1/3   2  0  0  0  0  0  5.45
+
+
+Maine                            IP     H  R ER BB SO HR   ERA
+
+Bill Browning                   6       8  2  2  2  5  1  6.13
+Cole Ward                       3 1/3   2  0  0  2  3  0  5.40
+Bill Slovick (W, 1-3)           1 2/3   1  1  1  0  2  0  8.22
+
+
+HBP: Moller (by Slovick).  Pitches-Strikes:  Browning 100-75; Ward 57-41;
+Slovick 34-30; Wargrave 126-86; Minecci 12-10; Loncaric 11-9; Miller 35-22;
+Obringer 8-7.  Ground balls-Fly balls:  Browning 8-11; Ward 4-4; Slovick 3-1;
+Wargrave 8-8; Minecci 1-1; Loncaric 0-3; Miller 3-3; Obringer 2-1.  Batters
+faced:  Browning 26; Ward 13; Slovick 7; Wargrave 27; Minecci 3; Loncaric 4;
+Miller 8; Obringer 3.  
+
+Umpires:  HP: Mike Mangano.  1B: Ross Borden.  2B: Joe Damon.  3B: Mike
+Coustier.  T: 3:50.  Att: 23,566.  Weather: 80 degrees, partly cloudy.  Wind: 3
+mph, in from right-center.  
+
+
+High Heat Baseball Player of the Game:  Gus Ashby
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Casper batting
+
+Michael Dodge doubled.
+George Knouff fouled out to first.
+Varvatos Vex struck out looking.
+Newsy Lalonde struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Casper 0, Maine 0
+
+
+Bottom of the 1st inning:  Maine batting
+
+Dwight Manfredi flied out to center.
+Casey Paul Jr. flied out to center.
+Shawn Martin walked.
+Billie Murray struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 0, Maine 0
+
+
+Top of the 2nd inning:  Casper batting
+
+Peter LaFleur singled.
+Pete Moller singled, LaFleur to third.
+Harry Sauro popped out to catcher.
+Tim Kono grounded into double play to third.
+
+0 Runs, 2 Hits, 0 Errors
+Casper 0, Maine 0
+
+
+Bottom of the 2nd inning:  Maine batting
+
+Earl Cohen struck out looking.
+John Dorian grounded out to shortstop.
+Gus Ashby singled.
+Ashby caught stealing second base.
+
+0 Runs, 1 Hit, 0 Errors
+Casper 0, Maine 0
+
+
+Top of the 3rd inning:  Casper batting
+
+James Kanae struck out looking.
+Michael Dodge grounded out to shortstop.
+George Knouff walked.
+Varvatos Vex flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 0, Maine 0
+
+
+Bottom of the 3rd inning:  Maine batting
+
+Leon Czolgosz struck out looking.
+Elbert Folk grounded out to pitcher.
+Dwight Manfredi struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 0, Maine 0
+
+
+Top of the 4th inning:  Casper batting
+
+Newsy Lalonde HOMERED.
+Peter LaFleur grounded out to shortstop.
+Pete Moller grounded out to third.
+Harry Sauro walked.
+Tim Kono struck out swinging.
+
+1 Run, 1 Hit, 0 Errors
+Casper 1, Maine 0
+
+
+Bottom of the 4th inning:  Maine batting
+
+Casey Paul Jr. walked.
+Shawn Martin grounded into double play to second.
+Billie Murray walked.
+Earl Cohen grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 1, Maine 0
+
+
+Top of the 5th inning:  Casper batting
+
+James Kanae singled.
+Michael Dodge grounded into double play to first.
+George Knouff doubled.
+Varvatos Vex flied out to right.
+
+0 Runs, 2 Hits, 0 Errors
+Casper 1, Maine 0
+
+
+Bottom of the 5th inning:  Maine batting
+
+John Dorian struck out looking.
+Gus Ashby walked.
+Leon Czolgosz doubled, Ashby to third.
+Elbert Folk hit a sacrifice fly, Ashby SCORED.
+Dwight Manfredi grounded out to second.
+
+1 Run, 1 Hit, 0 Errors
+Casper 1, Maine 1
+
+
+Top of the 6th inning:  Casper batting
+
+Newsy Lalonde flied out to center.
+Peter LaFleur doubled.
+Pete Moller struck out swinging.
+Harry Sauro singled, LaFleur SCORED.
+Tim Kono grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Casper 2, Maine 1
+
+
+Bottom of the 6th inning:  Maine batting
+
+Casey Paul Jr. flied out to center.
+Shawn Martin singled.
+Billie Murray flied out to right.
+Earl Cohen flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Casper 2, Maine 1
+
+
+Top of the 7th inning:  Casper batting
+
+Cole Ward relieved Bill Browning.
+James Kanae grounded out to third.
+Michael Dodge grounded out to first.
+George Knouff flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 2, Maine 1
+
+
+Bottom of the 7th inning:  Maine batting
+
+John Dorian struck out swinging.
+Gus Ashby walked.
+Leon Czolgosz grounded out to third, Ashby to second.
+Elbert Folk fouled out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 2, Maine 1
+
+
+Top of the 8th inning:  Casper batting
+
+Varvatos Vex struck out looking.
+Newsy Lalonde flied out to right.
+Peter LaFleur grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 2, Maine 1
+
+
+Bottom of the 8th inning:  Maine batting
+
+Ray Minecci relieved Justice Wargrave.
+Dwight Manfredi fouled out to first.
+Casey Paul Jr. grounded out to shortstop.
+Shawn Martin struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 2, Maine 1
+
+
+Top of the 9th inning:  Casper batting
+
+Pete Moller struck out swinging.
+Harry Sauro singled.
+Tim Kono fouled out to first.
+James Kanae singled.
+
+0 Runs, 2 Hits, 0 Errors
+Casper 2, Maine 1
+
+
+Bottom of the 9th inning:  Maine batting
+
+Rod Loncaric relieved Ray Minecci.
+Billie Murray struck out looking.
+Earl Cohen fouled out to third.
+John Dorian HOMERED.
+Gus Ashby flied out to right.
+
+1 Run, 1 Hit, 0 Errors
+Casper 2, Maine 2
+
+
+Top of the 10th inning:  Casper batting
+
+Michael Dodge walked.
+Xander Jones ran for Michael Dodge.
+Jones stole second base.
+George Knouff struck out looking.
+Varvatos Vex walked.
+Bill Slovick relieved Cole Ward.
+Newsy Lalonde struck out looking.
+Peter LaFleur grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Casper 2, Maine 2
+
+
+Bottom of the 10th inning:  Maine batting
+
+Walter Miller relieved Rod Loncaric.
+Leon Czolgosz singled.
+Elbert Folk walked, Czolgosz to second.
+Dwight Manfredi popped out to catcher.
+Casey Paul Jr. flied out to center.
+Shawn Martin flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Casper 2, Maine 2
+
+
+Top of the 11th inning:  Casper batting
+
+Pete Moller hit by pitch.
+Jorge Orta ran for Pete Moller.
+Billy Hand hit for Harry Sauro.
+Billy Hand singled, Orta to third.
+Tim Kono fouled out to catcher.
+James Kanae sacrificed, Orta SCORED, Hand to second.
+Xander Jones struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+Casper 3, Maine 2
+
+
+Bottom of the 11th inning:  Maine batting
+
+Mo Jacobs came in for Jorge Orta at catcher.
+Billie Murray grounded out to second.
+Earl Cohen singled.
+John Dorian walked, Cohen to second.
+Glen Obringer relieved Walter Miller.
+Gus Ashby singled, Cohen SCORED, Dorian to third.
+Leon Czolgosz grounded out to first, Ashby to second.
+Elbert Folk singled, Dorian SCORED, Ashby to third.
+
+2 Runs, 3 Hits, 0 Errors
+Casper 3, Maine 4
+
+
+END

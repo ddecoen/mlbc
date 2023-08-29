@@ -1,0 +1,287 @@
+
+Date of game:  June 13, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Wisconsin          1 0 0  0 0 0  0 0 1     2  6  0
+Bowie              0 3 1  0 0 0  1 0 X     5 11  0
+
+
+Wisconsin                          AB  R  H BI BB SO LO   AVG
+
+George Lemieux 1b                   5  1  1  0  0  1  3  .290
+Michael Flaugher rf                 4  0  0  0  0  0  1  .320
+Theodore Johnson lf                 3  0  1  0  1  1  1  .287
+Derek Hooey cf                      3  0  0  0  1  0  0  .256
+Somerset Hall c                     3  0  1  0  1  0  1  .335
+Henry Robertson 2b                  4  1  2  1  0  0  4  .267
+Rolando Ledbetter 3b                4  0  1  1  0  1  2  .328
+Raymond Bresett dh                  2  0  0  0  1  2  5  .323
+  Joe Altomari ph                   1  0  0  0  0  0  0  .282
+Nelson Joyner ss                    4  0  0  0  0  1  1  .310
+
+TOTALS:                            33  2  6  2  4  6 18
+
+
+BATTING
+2B: Ledbetter (8, Hayes).  RBI: Robertson (35); Ledbetter (18).  2-OUT RBI:
+Robertson.  Runners left in scoring position, 2 outs: Bresett; Lemieux;
+Flaugher.  Team LOB: 8.  
+
+
+Bowie                              AB  R  H BI BB SO LO   AVG
+
+Ashton Appelbaum lf                 4  0  1  0  0  1  3  .361
+Louis Chevalier 3b                  4  1  2  1  0  1  2  .286
+Raymond Sucharski 1b                4  0  1  1  0  1  1  .338
+  Charles Lalli ph-pr               0  0  0  0  0  0  0  .394
+James Holden dh                     4  0  1  0  0  0  3  .323
+Mo Ascher rf                        4  1  1  0  0  0  1  .291
+Johnny Lawrence 2b                  4  1  1  0  0  1  2  .384
+Cary Harness c                      2  1  0  0  2  0  1  .311
+Johnnie Edwards ss                  4  1  2  2  0  0  0  .314
+Carl Toro cf                        3  0  2  1  0  0  0  .340
+
+TOTALS:                            33  5 11  5  2  4 13
+
+
+BATTING
+2B: Chevalier (17, Canady).  RBI: Edwards 2 (41); Toro (40); Chevalier (42);
+Sucharski (53).  2-OUT RBI: Chevalier; Edwards.  Runners left in scoring
+position, 2 outs: Holden; Appelbaum; Lawrence.  GIDP: Ascher.  Team LOB: 6.  
+
+BASERUNNING
+CS: Toro (7, 2nd base by Canady/Hall).  
+
+
+Wisconsin                        IP     H  R ER BB SO HR   ERA
+
+Bill Tafoya (L, 0-2)            2 2/3   7  4  4  2  3  0  6.86
+Jarrett Canady                  5 1/3   4  1  1  0  1  0  4.00
+
+
+Bowie                            IP     H  R ER BB SO HR   ERA
+
+Danny James (W, 5-2)            8       5  2  2  4  6  0  4.83
+Archibald Hayes                 0       1  0  0  0  0  0  3.84
+Terry Cohen (S, 3)              1       0  0  0  0  0  0  7.88
+
+James pitched to 1 batter in the 9th.  Hayes pitched to 1 batter in the 9th.  
+
+Pitches-Strikes:  James 136-99; Hayes 1-1; Cohen 10-6; Tafoya 80-61; Canady
+65-49.  Ground balls-Fly balls:  James 11-12; Hayes 0-1; Cohen 2-1; Tafoya 6-6;
+Canady 6-11.  Batters faced:  James 33; Hayes 1; Cohen 3; Tafoya 17; Canady 18.
+ 
+
+Umpires:  HP: Scott Barcik.  1B: Brian Nestor.  2B: Sam Sheth.  3B: Mike
+Dunhour.  T: 3:11.  Att: 36,905.  Weather: 69 degrees, clear.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Danny James
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Wisconsin batting
+
+George Lemieux singled.
+Michael Flaugher fouled out to third.
+Theodore Johnson singled, Lemieux to third.
+Derek Hooey walked, Johnson to second.
+Somerset Hall fouled out to first.
+Henry Robertson singled, Lemieux SCORED, Hooey to second, Johnson to third.
+Rolando Ledbetter popped out to third.
+
+1 Run, 3 Hits, 0 Errors
+Wisconsin 1, Bowie 0
+
+
+Bottom of the 1st inning:  Bowie batting
+
+Ashton Appelbaum singled.
+Louis Chevalier flied out to right.
+Raymond Sucharski struck out swinging.
+James Holden flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 1, Bowie 0
+
+
+Top of the 2nd inning:  Wisconsin batting
+
+Raymond Bresett struck out swinging.
+Nelson Joyner struck out looking.
+George Lemieux grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 0
+
+
+Bottom of the 2nd inning:  Bowie batting
+
+Mo Ascher singled.
+Johnny Lawrence struck out looking.
+Cary Harness walked, Ascher to second.
+Johnnie Edwards singled, Ascher SCORED, Harness to third.
+Carl Toro singled, Harness SCORED, Edwards to third.
+Ashton Appelbaum struck out looking.
+Louis Chevalier singled, Edwards SCORED, Toro to third.
+Raymond Sucharski fouled out to first.
+
+3 Runs, 4 Hits, 0 Errors
+Wisconsin 1, Bowie 3
+
+
+Top of the 3rd inning:  Wisconsin batting
+
+Michael Flaugher grounded out to third.
+Theodore Johnson fouled out to first.
+Derek Hooey flied out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 3
+
+
+Bottom of the 3rd inning:  Bowie batting
+
+James Holden popped out to first.
+Mo Ascher flied out to left.
+Johnny Lawrence singled.
+Cary Harness walked, Lawrence to second.
+Johnnie Edwards singled, Lawrence SCORED, Harness to third.
+Jarrett Canady relieved Bill Tafoya.
+Carl Toro flied out to right.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Top of the 4th inning:  Wisconsin batting
+
+Somerset Hall walked.
+Henry Robertson flied out to left.
+Rolando Ledbetter struck out looking.
+Raymond Bresett walked, Hall to second.
+Nelson Joyner flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Bottom of the 4th inning:  Bowie batting
+
+Ashton Appelbaum fouled out to third.
+Louis Chevalier struck out looking.
+Raymond Sucharski fouled out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Top of the 5th inning:  Wisconsin batting
+
+George Lemieux grounded out to third.
+Michael Flaugher flied out to center.
+Theodore Johnson struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Bottom of the 5th inning:  Bowie batting
+
+James Holden fouled out to first.
+Mo Ascher grounded out to third.
+Johnny Lawrence popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Top of the 6th inning:  Wisconsin batting
+
+Derek Hooey flied out to center.
+Somerset Hall singled.
+Henry Robertson flied out to right.
+Rolando Ledbetter flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Bottom of the 6th inning:  Bowie batting
+
+Cary Harness grounded out to third.
+Johnnie Edwards fouled out to third.
+Carl Toro singled.
+Toro caught stealing second base.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Top of the 7th inning:  Wisconsin batting
+
+Raymond Bresett struck out swinging.
+Nelson Joyner grounded out to shortstop.
+George Lemieux struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 4
+
+
+Bottom of the 7th inning:  Bowie batting
+
+Ashton Appelbaum flied out to left.
+Louis Chevalier doubled.
+Raymond Sucharski singled, Chevalier SCORED.
+Raymond Sucharski was injured on the play.
+Charles Lalli hit for Raymond Sucharski.
+Charles Lalli ran for Raymond Sucharski.
+James Holden singled, Lalli to third.
+Mo Ascher grounded into double play to shortstop.
+
+1 Run, 3 Hits, 0 Errors
+Wisconsin 1, Bowie 5
+
+
+Top of the 8th inning:  Wisconsin batting
+
+Michael Flaugher grounded out to first.
+Theodore Johnson walked.
+Derek Hooey grounded into fielder's choice to first.
+Somerset Hall popped out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 5
+
+
+Bottom of the 8th inning:  Bowie batting
+
+Johnny Lawrence grounded out to second.
+Cary Harness flied out to left.
+Johnnie Edwards grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 1, Bowie 5
+
+
+Top of the 9th inning:  Wisconsin batting
+
+Henry Robertson singled.
+Archibald Hayes relieved Danny James.
+Rolando Ledbetter doubled, Robertson SCORED.
+Terry Cohen relieved Archibald Hayes.
+Joe Altomari hit for Raymond Bresett.
+Joe Altomari popped out to second.
+Nelson Joyner grounded out to second.
+George Lemieux grounded out to second.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 2, Bowie 5
+
+
+END

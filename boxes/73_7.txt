@@ -1,0 +1,335 @@
+
+Date of game:  June 12, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Corpus Christi     0 3 0  0 4 0  1 0 1     9 17  0
+Mahoning Valley    0 0 2  1 0 3  1 0 3    10 12  0
+
+Two outs when winning run scored.
+
+
+
+Corpus Christi                     AB  R  H BI BB SO LO   AVG
+
+Bruno King 2b                       6  0  0  0  0  0  2  .361
+Rufus Brown lf                      5  1  2  0  0  1  7  .339
+Steve Larsen 1b                     4  0  0  0  1  2  2  .364
+Razor T. Shines dh                  5  1  2  1  0  1  2  .323
+Tex Robleto ss                      5  2  2  0  0  1  3  .333
+Francisco Bench cf                  5  2  3  2  0  0  3  .396
+Bradley Munroe c                    4  3  3  2  1  0  1  .358
+Mark Severa 3b                      4  0  2  1  1  0  2  .283
+Chris Hernandez rf                  4  0  3  3  1  0  1  .339
+
+TOTALS:                            42  9 17  9  4  5 23
+
+
+BATTING
+2B: Robleto (1, Velasco); Shines (23, Zaccaria); Bench (4, Fry); Munroe (12,
+Fry).  3B: Bench (1, Hildring).  HR: Shines (13, 2nd inning off Velasco, 0 on,
+0 out).  RBI: Shines (58); Hernandez 3 (12); Bench 2 (10); Munroe 2 (38);
+Severa (29).  2-OUT RBI: Bench 2; Munroe; Severa; Hernandez.  Runners left in
+scoring position, 2 outs: Larsen; Severa; Brown 2; Bench.  GIDP: King;
+Hernandez.  Team LOB: 10.  
+
+BASERUNNING
+SB: Munroe 2 (18, 2nd base off Hildring/Vassar, 2nd base off Hildring/Vassar).  
+
+
+Mahoning Valley                    AB  R  H BI BB SO LO   AVG
+
+Ken Nettles cf                      4  1  1  0  1  0  2  .328
+Martin Brooks lf                    4  1  2  1  1  0  3  .339
+Ray Ratliff 1b                      5  1  2  2  0  1  1  .329
+Bryan Nardecchia dh                 5  0  0  0  0  1  2  .327
+Joel Woodruff 2b                    4  2  2  2  1  1  4  .309
+Chris Whisby rf                     2  2  0  0  3  1  1  .286
+Lester Flowers ss                   4  0  1  0  1  0  1  .287
+Paul Vassar c                       4  1  1  1  1  1  1  .385
+Greg London 3b                      4  2  3  3  0  0  0  .330
+
+TOTALS:                            36 10 12  9  8  5 15
+
+
+BATTING
+2B: Brooks (14, Guinn); London (9, Bitler).  HR: London (4, 6th inning off
+Guinn, 2 on, 1 out); Ratliff (5, 7th inning off Sparks, 0 on, 0 out); Woodruff
+(11, 9th inning off Thomas, 1 on, 2 out).  RBI: Brooks (30); Ratliff 2 (24);
+London 3 (15); Woodruff 2 (45); Vassar (21).  2-OUT RBI: Brooks; Ratliff;
+Woodruff 2; Vassar.  Runners left in scoring position, 2 outs: Woodruff; Brooks
+2; Whisby; London.  GIDP: Brooks; Whisby.  Team LOB: 8.  
+
+
+Corpus Christi                   IP     H  R ER BB SO HR   ERA
+
+Rich Guinn                      5 1/3   6  6  6  5  5  1  6.12
+Sterling Sparks (H, 3)          1       2  1  1  1  0  1  6.69
+John Bitler (H, 1)              1 2/3   1  0  0  0  0  0  4.65
+Jose Thomas (BS, 2)               2/3   1  2  2  1  0  1  4.43
+Rob Atterson (L, 2-3)           0       2  1  1  1  0  0  6.21
+
+
+Mahoning Valley                  IP     H  R ER BB SO HR   ERA
+
+Steve Velasco                   1 1/3   4  3  3  1  0  1  4.85
+Frank Penttila                  3 1/3   3  2  2  2  2  0  5.40
+Willie Hildring                 0       4  2  2  0  0  0 10.13
+Rodney Zaccaria                 2 1/3   4  1  1  0  0  0  4.70
+Richard Fry                     1       2  1  1  0  3  0  3.49
+Mike Hansche (W, 1-1)           1       0  0  0  1  0  0  5.31
+
+Hildring pitched to 4 batters in the 5th.  Zaccaria pitched to 1 batter in the
+8th.  Fry pitched to 2 batters in the 9th.  Atterson pitched to 3 batters in
+the 9th.  
+
+Balk: Guinn.  Pitches-Strikes:  Velasco 36-25; Penttila 56-39; Hildring 13-10;
+Zaccaria 36-30; Fry 22-18; Hansche 12-5; Guinn 113-73; Sparks 23-14; Bitler
+18-15; Thomas 15-8; Atterson 10-6.  Ground balls-Fly balls:  Velasco 3-5;
+Penttila 7-3; Hildring 3-1; Zaccaria 6-5; Fry 0-2; Hansche 1-1; Guinn 9-8;
+Sparks 2-2; Bitler 1-4; Thomas 1-2; Atterson 2-0.  Batters faced:  Velasco 9;
+Penttila 14; Hildring 4; Zaccaria 11; Fry 5; Hansche 3; Guinn 27; Sparks 5;
+Bitler 5; Thomas 4; Atterson 3.  
+
+Umpires:  HP: John Bolton.  1B: Mike Dunhour.  2B: Brian Nestor.  3B: Trip
+Hawkins.  T: 3:46.  Att: 16,712.  Weather: 79 degrees, clear.  Wind: 6 mph,
+across, right to left and slightly in.  
+
+
+High Heat Baseball Player of the Game:  Joel Woodruff
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Corpus Christi batting
+
+Bruno King fouled out to third.
+Rufus Brown grounded out to third.
+Steve Larsen fouled out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Mahoning Valley 0
+
+
+Bottom of the 1st inning:  Mahoning Valley batting
+
+Ken Nettles grounded out to catcher.
+Martin Brooks grounded out to third.
+Ray Ratliff struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Mahoning Valley 0
+
+
+Top of the 2nd inning:  Corpus Christi batting
+
+Razor T. Shines HOMERED.
+Tex Robleto doubled.
+Francisco Bench flied out to center.
+Bradley Munroe walked.
+Mark Severa singled, Munroe to second, Robleto to third.
+Chris Hernandez singled, Robleto SCORED, Munroe SCORED, Severa to third.
+Frank Penttila relieved Steve Velasco.
+Bruno King grounded out to first, Hernandez to second.
+Rufus Brown struck out looking.
+
+3 Runs, 4 Hits, 0 Errors
+Corpus Christi 3, Mahoning Valley 0
+
+
+Bottom of the 2nd inning:  Mahoning Valley batting
+
+Bryan Nardecchia flied out to right.
+Joel Woodruff struck out swinging.
+Chris Whisby struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 3, Mahoning Valley 0
+
+
+Top of the 3rd inning:  Corpus Christi batting
+
+Steve Larsen walked.
+Razor T. Shines grounded into fielder's choice to first.
+Tex Robleto fouled out to catcher.
+Francisco Bench singled, Shines to third.
+Bradley Munroe grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 3, Mahoning Valley 0
+
+
+Bottom of the 3rd inning:  Mahoning Valley batting
+
+Lester Flowers fouled out to catcher.
+Paul Vassar struck out looking.
+Greg London singled.
+Ken Nettles walked, London to second.
+Martin Brooks singled, London SCORED, Nettles to third.
+Ray Ratliff singled, Nettles SCORED, Brooks to third.
+Bryan Nardecchia popped out to third.
+
+2 Runs, 3 Hits, 0 Errors
+Corpus Christi 3, Mahoning Valley 2
+
+
+Top of the 4th inning:  Corpus Christi batting
+
+Mark Severa grounded out to second.
+Chris Hernandez walked.
+Bruno King grounded into double play to third.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 3, Mahoning Valley 2
+
+
+Bottom of the 4th inning:  Mahoning Valley batting
+
+Joel Woodruff singled.
+Chris Whisby walked, Woodruff to second.
+Lester Flowers walked, Whisby to second, Woodruff to third.
+Rich Guinn committed a balk, Woodruff SCORED, Flowers to second, Whisby to third.
+Paul Vassar popped out to second.
+Greg London flied out to center.
+Ken Nettles grounded out to third.
+
+1 Run, 1 Hit, 0 Errors
+Corpus Christi 3, Mahoning Valley 3
+
+
+Top of the 5th inning:  Corpus Christi batting
+
+Rufus Brown singled.
+Steve Larsen struck out swinging.
+Razor T. Shines fouled out to catcher.
+Tex Robleto singled, Brown to third.
+Frank Penttila was injured on the play.
+Willie Hildring relieved Frank Penttila.
+Francisco Bench tripled, Brown SCORED, Robleto SCORED.
+Bradley Munroe singled, Bench SCORED.
+Munroe stole second base.
+Mark Severa singled, Munroe SCORED.
+Chris Hernandez singled, Severa to third.
+Rodney Zaccaria relieved Willie Hildring.
+Bruno King popped out to third.
+
+4 Runs, 6 Hits, 0 Errors
+Corpus Christi 7, Mahoning Valley 3
+
+
+Bottom of the 5th inning:  Mahoning Valley batting
+
+Martin Brooks doubled.
+Ray Ratliff grounded out to first, Brooks to third.
+Bryan Nardecchia struck out looking.
+Joel Woodruff grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 7, Mahoning Valley 3
+
+
+Top of the 6th inning:  Corpus Christi batting
+
+Rufus Brown grounded out to second.
+Steve Larsen fouled out to left.
+Razor T. Shines doubled.
+Tex Robleto grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 7, Mahoning Valley 3
+
+
+Bottom of the 6th inning:  Mahoning Valley batting
+
+Chris Whisby walked.
+Lester Flowers flied out to right.
+Paul Vassar walked, Whisby to second.
+Greg London HOMERED, Whisby SCORED, Vassar SCORED.
+Sterling Sparks relieved Rich Guinn.
+Ken Nettles singled.
+Martin Brooks grounded into double play to first.
+
+3 Runs, 2 Hits, 0 Errors
+Corpus Christi 7, Mahoning Valley 6
+
+
+Top of the 7th inning:  Corpus Christi batting
+
+Francisco Bench grounded out to third.
+Bradley Munroe singled.
+Munroe stole second base.
+Mark Severa grounded out to second, Munroe to third.
+Chris Hernandez singled, Munroe SCORED.
+Bruno King grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Corpus Christi 8, Mahoning Valley 6
+
+
+Bottom of the 7th inning:  Mahoning Valley batting
+
+Ray Ratliff HOMERED.
+Bryan Nardecchia grounded out to second.
+Joel Woodruff walked.
+John Bitler relieved Sterling Sparks.
+Chris Whisby grounded into double play to shortstop.
+
+1 Run, 1 Hit, 0 Errors
+Corpus Christi 8, Mahoning Valley 7
+
+
+Top of the 8th inning:  Corpus Christi batting
+
+Rufus Brown singled.
+Richard Fry relieved Rodney Zaccaria.
+Steve Larsen struck out looking.
+Razor T. Shines struck out looking.
+Tex Robleto struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 8, Mahoning Valley 7
+
+
+Bottom of the 8th inning:  Mahoning Valley batting
+
+Lester Flowers flied out to left.
+Paul Vassar flied out to left.
+Greg London doubled.
+Ken Nettles popped out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 8, Mahoning Valley 7
+
+
+Top of the 9th inning:  Corpus Christi batting
+
+Francisco Bench doubled.
+Bradley Munroe doubled, Bench SCORED.
+Mike Hansche relieved Richard Fry.
+Mark Severa walked.
+Chris Hernandez grounded into double play to pitcher, Severa to second.
+Bruno King flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Corpus Christi 9, Mahoning Valley 7
+
+
+Bottom of the 9th inning:  Mahoning Valley batting
+
+Jose Thomas relieved John Bitler.
+Martin Brooks walked.
+Ray Ratliff grounded out to second, Brooks to second.
+Bryan Nardecchia flied out to right.
+Joel Woodruff HOMERED, Brooks SCORED.
+Rob Atterson relieved Jose Thomas.
+Chris Whisby walked.
+Lester Flowers singled, Whisby to third.
+Paul Vassar singled, Whisby SCORED, Flowers to third.
+
+3 Runs, 3 Hits, 0 Errors
+Corpus Christi 9, Mahoning Valley 10
+
+
+END

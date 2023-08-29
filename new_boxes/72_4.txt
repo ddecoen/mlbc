@@ -1,0 +1,302 @@
+Team17 vs Team19 (Day 72)
+
+Date of game:  June 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Scranton           0 4 1  0 0 0  0 0 0     5 13  5
+Bowie              1 0 2  1 2 0  3 0 X     9 10  0
+
+
+Scranton                           AB  R  H BI BB SO LO   AVG
+
+Cash Case 2b                        5  0  4  0  0  0  1  .294
+Joss Whedon c                       5  0  1  1  0  1  0  .224
+Sergei Bobinsky 3b                  5  0  0  0  0  2  5  .342
+Ray Massar lf                       3  1  1  0  0  0  7  .258
+Jose Largen ss                      4  1  1  1  0  0  1  .235
+Dominick Konarski 1b                4  1  1  1  0  1  1  .313
+Brandon Eubanks cf                  4  1  2  1  0  0  1  .310
+Mark Hamill rf                      3  1  1  0  0  0  0  .265
+  Danny Allen ph                    1  0  1  0  0  0  0  .281
+Salvador Maxwell dh                 2  0  1  1  0  0  1  .304
+  Jeffrey Whitney ph                1  0  0  0  0  0  0  .322
+
+TOTALS:                            37  5 13  5  0  4 17
+
+
+BATTING
+2B: Massar (14, Kaase).  HR: Konarski (7, 3rd inning off Kaase, 0 on, 2 out). 
+SF: Maxwell.  RBI: Largen (35); Eubanks (32); Maxwell (38); Whedon (6);
+Konarski (21).  2-OUT RBI: Whedon; Konarski.  Runners left in scoring position,
+2 outs: Massar 3.  GIDP: Largen; Hamill.  Team LOB: 7.  
+
+FIELDING
+PB: Whedon 3.  E: Whedon (1, foul fly); Bobinsky (7, ground ball); Eubanks (2,
+fly ball); Hamill (10, fly ball); Grant (1, throw).  
+
+
+Bowie                              AB  R  H BI BB SO LO   AVG
+
+Ashton Appelbaum lf                 5  3  5  2  0  0  1  .363
+Louis Chevalier 3b                  5  0  0  0  0  3  0  .282
+Raymond Sucharski 1b                4  1  1  3  0  0  5  .340
+James Holden dh                     4  1  2  2  0  0  2  .324
+Mo Ascher rf                        3  1  0  0  2  0  1  .291
+Jerry Livingston 2b                 4  0  0  0  0  3  0  .111
+  Adrian Dlouhy 2b                  0  0  0  0  0  0  0  .216
+Cary Harness c                      4  0  1  0  0  0  2  .314
+Johnnie Edwards ss                  4  1  0  0  0  0  5  .311
+Carl Toro cf                        4  2  1  0  0  0  0  .336
+
+TOTALS:                            37  9 10  7  2  6 16
+
+
+BATTING
+2B: Appelbaum 2 (16, Curtsinger, Curtsinger); Holden (12, Grant).  3B:
+Appelbaum (6, Curtsinger).  HR: Holden (13, 5th inning off Curtsinger, 1 on, 2
+out); Sucharski (13, 7th inning off Grant, 2 on, 1 out).  RBI: Appelbaum 2
+(40); Holden 2 (53); Sucharski 3 (52).  2-OUT RBI: Holden 2.  Runners left in
+scoring position, 2 outs: Ascher; Appelbaum; Edwards.  Team LOB: 5.  
+
+BASERUNNING
+CS: Harness (6, 2nd base by Curtsinger/Whedon).  
+
+
+Scranton                         IP     H  R ER BB SO HR   ERA
+
+Aubrey Curtsinger (L, 0-4)      4 2/3   6  6  3  0  2  1  7.19
+Don Grant                       3 1/3   4  3  2  1  4  1  4.20
+
+
+Bowie                            IP     H  R ER BB SO HR   ERA
+
+Jeffrey Kaase                   3       7  5  5  0  2  1  6.99
+Arquimedez Timpone (W, 2-2)     6       6  0  0  0  2  0  5.93
+
+
+WP: Kaase.  IBB: Ascher (by Grant).  HBP: Massar (by Kaase).  Pitches-Strikes: 
+Kaase 58-39; Timpone 90-70; Curtsinger 88-61; Grant 58-46.  Ground balls-Fly
+balls:  Kaase 7-6; Timpone 12-9; Curtsinger 7-13; Grant 4-7.  Batters faced: 
+Kaase 16; Timpone 23; Curtsinger 22; Grant 16.  
+
+Umpires:  HP: John Yellott.  1B: Ross Borden.  2B: Alice Qiao.  3B: Mike
+Coustier.  T: 3:13.  Att: 21,497.  Weather: 76 degrees, clear.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Ashton Appelbaum
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Scranton batting
+
+Cash Case flied out to right.
+Joss Whedon struck out looking.
+Sergei Bobinsky struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Bowie 0
+
+
+Bottom of the 1st inning:  Bowie batting
+
+Ashton Appelbaum tripled.
+Passed ball by Joss Whedon, Appelbaum SCORED.
+Louis Chevalier popped out to third.
+Raymond Sucharski grounded out to third.
+James Holden flied out to center.
+
+1 Run, 1 Hit, 0 Errors
+Scranton 0, Bowie 1
+
+
+Top of the 2nd inning:  Scranton batting
+
+Ray Massar doubled.
+Jose Largen singled, Massar SCORED.
+Wild pitch by Jeffrey Kaase, Largen to second.
+Dominick Konarski grounded out to second, Largen to third.
+Brandon Eubanks singled, Largen SCORED.
+Mark Hamill singled, Eubanks to third.
+Salvador Maxwell hit a sacrifice fly, Eubanks SCORED.
+Cash Case singled, Hamill to third.
+Joss Whedon singled, Hamill SCORED, Case to third.
+Sergei Bobinsky flied out to left.
+
+4 Runs, 6 Hits, 0 Errors
+Scranton 4, Bowie 1
+
+
+Bottom of the 2nd inning:  Bowie batting
+
+Mo Ascher grounded out to third.
+Jerry Livingston struck out swinging.
+Cary Harness was safe after Joss Whedon committed a fielding error.
+Cary Harness singled.
+Harness caught stealing second base.
+
+0 Runs, 1 Hit, 1 Error
+Scranton 4, Bowie 1
+
+
+Top of the 3rd inning:  Scranton batting
+
+Ray Massar hit by pitch.
+Jose Largen grounded into double play to second.
+Dominick Konarski HOMERED.
+Brandon Eubanks grounded out to first.
+
+1 Run, 1 Hit, 0 Errors
+Scranton 5, Bowie 1
+
+
+Bottom of the 3rd inning:  Bowie batting
+
+Johnnie Edwards was safe after Sergei Bobinsky committed a fielding error.
+Carl Toro singled, Edwards to third.
+Ashton Appelbaum doubled, Edwards SCORED, Toro SCORED.
+Louis Chevalier flied out to left.
+Raymond Sucharski flied out to center.
+James Holden flied out to center.
+
+2 Runs, 2 Hits, 1 Error
+Scranton 5, Bowie 3
+
+
+Top of the 4th inning:  Scranton batting
+
+Arquimedez Timpone relieved Jeffrey Kaase.
+Mark Hamill grounded out to first.
+Salvador Maxwell singled.
+Cash Case singled, Maxwell to third.
+Joss Whedon flied out to center.
+Sergei Bobinsky grounded out to shortstop.
+
+0 Runs, 2 Hits, 0 Errors
+Scranton 5, Bowie 3
+
+
+Bottom of the 4th inning:  Bowie batting
+
+Mo Ascher was safe after Brandon Eubanks committed a fielding error.
+Jerry Livingston was safe after Mark Hamill committed a fielding error,
+Cary Harness fouled out to third.
+Passed ball by Joss Whedon, Ascher SCORED, Livingston to third.
+Johnnie Edwards flied out to left.
+Carl Toro flied out to center.
+
+1 Run, 0 Hits, 2 Errors
+Scranton 5, Bowie 4
+
+
+Top of the 5th inning:  Scranton batting
+
+Ray Massar grounded out to third.
+Jose Largen grounded out to pitcher.
+Dominick Konarski struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 5, Bowie 4
+
+
+Bottom of the 5th inning:  Bowie batting
+
+Ashton Appelbaum doubled.
+Louis Chevalier struck out looking.
+Raymond Sucharski flied out to right.
+James Holden HOMERED, Appelbaum SCORED.
+Don Grant relieved Aubrey Curtsinger.
+Mo Ascher flied out to center.
+
+2 Runs, 2 Hits, 0 Errors
+Scranton 5, Bowie 6
+
+
+Top of the 6th inning:  Scranton batting
+
+Brandon Eubanks singled.
+Mark Hamill grounded into double play to first.
+Salvador Maxwell grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 5, Bowie 6
+
+
+Bottom of the 6th inning:  Bowie batting
+
+Jerry Livingston struck out swinging.
+Cary Harness grounded out to first.
+Johnnie Edwards flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 5, Bowie 6
+
+
+Top of the 7th inning:  Scranton batting
+
+Cash Case singled.
+Joss Whedon flied out to right.
+Sergei Bobinsky grounded into fielder's choice to second.
+Ray Massar flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 5, Bowie 6
+
+
+Bottom of the 7th inning:  Bowie batting
+
+Carl Toro was safe after Don Grant committed a throwing error.
+Ashton Appelbaum singled, Toro to second.
+Passed ball by Joss Whedon, Appelbaum to second, Toro to third.
+Louis Chevalier struck out looking.
+Raymond Sucharski HOMERED, Toro SCORED, Appelbaum SCORED.
+James Holden doubled.
+Mo Ascher was walked intentionally.
+Jerry Livingston struck out looking.
+Cary Harness flied out to shortstop.
+
+3 Runs, 3 Hits, 1 Error
+Scranton 5, Bowie 9
+
+
+Top of the 8th inning:  Scranton batting
+
+Adrian Dlouhy came in for Jerry Livingston at second.
+Jose Largen flied out to left.
+Dominick Konarski flied out to right.
+Brandon Eubanks fouled out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 5, Bowie 9
+
+
+Bottom of the 8th inning:  Bowie batting
+
+Johnnie Edwards flied out to right.
+Carl Toro grounded out to shortstop.
+Ashton Appelbaum singled.
+Louis Chevalier struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 5, Bowie 9
+
+
+Top of the 9th inning:  Scranton batting
+
+Danny Allen hit for Mark Hamill.
+Danny Allen singled.
+Jeffrey Whitney hit for Salvador Maxwell.
+Jeffrey Whitney fouled out to third.
+Cash Case singled, Allen to second.
+Joss Whedon flied out to left.
+Sergei Bobinsky struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+Scranton 5, Bowie 9
+
+
+END

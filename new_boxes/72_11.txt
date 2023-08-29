@@ -1,0 +1,340 @@
+Team1 vs Team2 (Day 72)
+
+Date of game:  June 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Chattanooga        0 5 0  0 0 7  0 0 0    12 16  1
+Bangor             0 0 0  3 0 0  0 1 0     4  6  1
+
+
+Chattanooga                        AB  R  H BI BB SO LO   AVG
+
+Bill Lanctot rf                     4  1  2  1  0  1  5  .261
+  Booker Crosno rf                  1  0  0  0  0  1  1  .352
+Mike Haroldsen ss                   5  1  2  2  0  0  2  .350
+Damon Marshall cf                   4  1  0  0  1  2  2  .324
+John Edwards 1b                     4  1  1  2  0  0  2  .240
+  Archie Cobbs Jr 1b                1  0  0  0  0  1  0  .345
+John Childress dh                   5  1  2  0  0  1  2  .253
+Charlie Dooley 3b                   4  2  1  1  0  0  2  .255
+  Jaime Krug 3b                     1  0  0  0  0  0  0  .260
+Eugene Schissler c                  4  2  2  4  1  1  1  .341
+Reagan Hathaway lf                  4  1  4  0  0  0  0  .309
+  Buzz Keyser lf                    1  0  1  0  0  0  0  .182
+Cooter Stith 2b                     4  2  1  2  0  0  0  .362
+  Chris McKendree 2b                1  0  0  0  0  0  0  .370
+
+TOTALS:                            43 12 16 12  2  7 17
+
+
+BATTING
+2B: Hathaway (9, Goldstein); Haroldsen (14, Goldstein); Childress (15, Copus);
+Schissler (14, Murphy).  RBI: Schissler 4 (38); Stith 2 (28); Haroldsen 2 (39);
+Lanctot (28); Edwards 2 (33); Dooley (35).  2-OUT RBI: Dooley; Schissler 2. 
+Runners left in scoring position, 2 outs: Childress; Schissler; Lanctot.  Team
+LOB: 6.  
+
+BASERUNNING
+Picked off: Keyser (1st base, Jennings).  
+
+FIELDING
+E: Hathaway (2, fly ball).  
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Jeffery Houston rf                  4  0  1  0  1  1  1  .291
+Frederic Oromocto dh                4  1  1  0  1  1  0  .356
+Gerald Rodriguez 2b                 2  1  1  2  1  0  0  .336
+  Emil Salzman 2b                   2  0  0  0  0  0  3  .304
+King Slender 1b                     2  1  1  0  1  1  0  .288
+  Lenny Offermann 1b                1  1  1  0  0  0  3 1.000
+Shosei Go cf                        4  0  1  0  0  1  2  .299
+Emilio Rowles c                     4  0  0  0  0  2  2  .290
+Teodoro St. Croix lf                3  0  0  1  0  0  3  .285
+Ron Saults 3b                       3  0  0  0  1  2  2  .260
+Alexis Whaley ss                    4  0  0  0  0  3  2  .292
+
+TOTALS:                            33  4  6  3  5 11 18
+
+
+BATTING
+2B: Go (20, Evelo); Houston (18, Yount).  HR: Rodriguez (6, 4th inning off
+Yaggi, 1 on, 0 out).  SF: St. Croix.  RBI: Rodriguez 2 (29); St. Croix (27). 
+Runners left in scoring position, 2 outs: Whaley 2; Go; Offermann 2.  Team LOB:
+8.  
+
+FIELDING
+PB: Rowles.  E: Houston (1, fly ball).  
+
+
+Chattanooga                      IP     H  R ER BB SO HR   ERA
+
+Tracy Yaggi (W, 4-3)            6       3  3  2  3 10  1  6.86
+Cody Rowe Jr                      1/3   0  0  0  2  1  0  5.55
+Peach McGeachy                    2/3   1  1  1  0  0  0  3.38
+Larry Evelo                     1       1  0  0  0  0  0  5.02
+Chris Yount                     1       1  0  0  0  0  0  7.19
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Emmanuel Goldstein (L, 3-3)     3       6  5  4  0  2  0  5.50
+David Copus                     2 1/3   5  4  4  1  2  0  4.08
+Milo Murphy                       1/3   4  3  3  1  1  0  5.49
+Tom Benson                      1 1/3   0  0  0  0  1  0  0.00
+Paul Kimball                    1       0  0  0  0  1  0  6.60
+Paul Jennings                   1       1  0  0  0  0  0  3.73
+
+McGeachy pitched to 1 batter in the 8th.  
+
+Pitches-Strikes:  Goldstein 56-43; Copus 56-40; Murphy 22-12; Benson 16-12;
+Kimball 10-8; Jennings 12-11; Yaggi 98-69; Rowe Jr 19-11; McGeachy 11-10; Evelo
+13-10; Yount 10-9.  Ground balls-Fly balls:  Goldstein 7-7; Copus 4-6; Murphy
+3-1; Benson 2-1; Kimball 2-0; Jennings 1-2; Yaggi 6-6; Rowe Jr 0-0; McGeachy
+2-1; Evelo 2-2; Yount 1-3.  Batters faced:  Goldstein 16; Copus 13; Murphy 6;
+Benson 4; Kimball 3; Jennings 3; Yaggi 25; Rowe Jr 3; McGeachy 3; Evelo 4;
+Yount 4.  
+
+Umpires:  HP: Ross Borden.  1B: Ed Montague.  2B: Mike Saperstein.  3B: John
+Bolton.  T: 3:24.  Att: 42,085.  Weather: 82 degrees, clear.  Wind: 2 mph,
+across, right to left.  
+
+
+High Heat Baseball Player of the Game:  Eugene Schissler
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Chattanooga batting
+
+Bill Lanctot singled.
+Mike Haroldsen flied out to center.
+Damon Marshall struck out swinging.
+John Edwards fouled out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 0, Bangor 0
+
+
+Bottom of the 1st inning:  Bangor batting
+
+Jeffery Houston grounded out to third.
+Frederic Oromocto struck out swinging.
+Gerald Rodriguez flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 0, Bangor 0
+
+
+Top of the 2nd inning:  Chattanooga batting
+
+John Childress singled.
+Charlie Dooley was safe after Jeffery Houston committed a fielding error,
+Eugene Schissler singled, Childress SCORED, Dooley SCORED.
+Reagan Hathaway doubled, Schissler to third.
+Cooter Stith singled, Schissler SCORED, Hathaway SCORED.
+Passed ball by Emilio Rowles, Stith to second.
+Bill Lanctot grounded out to pitcher, Stith to third.
+Mike Haroldsen doubled, Stith SCORED.
+Damon Marshall grounded out to second, Haroldsen to third.
+John Edwards fouled out to third.
+
+5 Runs, 5 Hits, 1 Error
+Chattanooga 5, Bangor 0
+
+
+Bottom of the 2nd inning:  Bangor batting
+
+King Slender walked.
+Shosei Go flied out to left.
+Emilio Rowles struck out swinging.
+Teodoro St. Croix flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 5, Bangor 0
+
+
+Top of the 3rd inning:  Chattanooga batting
+
+John Childress grounded out to pitcher.
+Charlie Dooley fouled out to right.
+Eugene Schissler struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 5, Bangor 0
+
+
+Bottom of the 3rd inning:  Bangor batting
+
+Ron Saults struck out looking.
+Alexis Whaley struck out looking.
+Jeffery Houston grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 5, Bangor 0
+
+
+Top of the 4th inning:  Chattanooga batting
+
+David Copus relieved Emmanuel Goldstein.
+Reagan Hathaway singled.
+Cooter Stith flied out to right.
+Bill Lanctot struck out looking.
+Mike Haroldsen flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 5, Bangor 0
+
+
+Bottom of the 4th inning:  Bangor batting
+
+Frederic Oromocto singled.
+Gerald Rodriguez HOMERED, Oromocto SCORED.
+King Slender singled.
+Shosei Go struck out looking.
+Emilio Rowles was safe after Reagan Hathaway committed a fielding error,
+Teodoro St. Croix grounded out to first.
+Ron Saults struck out looking.
+
+3 Runs, 3 Hits, 1 Error
+Chattanooga 5, Bangor 3
+
+
+Top of the 5th inning:  Chattanooga batting
+
+Damon Marshall struck out looking.
+John Edwards grounded out to second.
+John Childress doubled.
+Charlie Dooley flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 5, Bangor 3
+
+
+Bottom of the 5th inning:  Bangor batting
+
+Alexis Whaley struck out swinging.
+Jeffery Houston struck out looking.
+Frederic Oromocto walked.
+Gerald Rodriguez walked, Oromocto to second.
+King Slender struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 5, Bangor 3
+
+
+Top of the 6th inning:  Chattanooga batting
+
+Eugene Schissler walked.
+Reagan Hathaway singled, Schissler to third.
+Cooter Stith grounded into fielder's choice to first.
+Bill Lanctot singled, Schissler SCORED, Stith to third.
+Mike Haroldsen singled, Stith SCORED, Lanctot to third.
+Milo Murphy relieved David Copus.
+Damon Marshall walked, Haroldsen to second.
+John Edwards singled, Lanctot SCORED, Haroldsen SCORED, Marshall to third.
+John Childress struck out looking.
+Charlie Dooley singled, Marshall SCORED, Edwards to third.
+Eugene Schissler doubled, Edwards SCORED, Dooley SCORED.
+Reagan Hathaway singled, Schissler to third.
+Tom Benson relieved Milo Murphy.
+Cooter Stith flied out to right.
+
+7 Runs, 7 Hits, 0 Errors
+Chattanooga 12, Bangor 3
+
+
+Bottom of the 6th inning:  Bangor batting
+
+Booker Crosno came in for Bill Lanctot in right.
+Archie Cobbs Jr came in for John Edwards at first.
+Shosei Go flied out to center.
+Emilio Rowles struck out looking.
+Teodoro St. Croix flied out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 12, Bangor 3
+
+
+Top of the 7th inning:  Chattanooga batting
+
+Emil Salzman came in for Gerald Rodriguez at second.
+Lenny Offermann came in for King Slender at first.
+Booker Crosno struck out looking.
+Mike Haroldsen grounded out to shortstop.
+Damon Marshall grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 12, Bangor 3
+
+
+Bottom of the 7th inning:  Bangor batting
+
+Cody Rowe Jr relieved Tracy Yaggi.
+Jaime Krug came in for Charlie Dooley at third.
+Buzz Keyser came in for Reagan Hathaway in left.
+Ron Saults walked.
+Alexis Whaley struck out looking.
+Jeffery Houston walked, Saults to second.
+Peach McGeachy relieved Cody Rowe Jr.
+Frederic Oromocto grounded out to second, Houston to second, Saults to third.
+Emil Salzman popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 12, Bangor 3
+
+
+Top of the 8th inning:  Chattanooga batting
+
+Paul Kimball relieved Tom Benson.
+Archie Cobbs Jr struck out swinging.
+John Childress grounded out to third.
+Jaime Krug grounded out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Chattanooga 12, Bangor 3
+
+
+Bottom of the 8th inning:  Bangor batting
+
+Chris McKendree came in for Cooter Stith at second.
+Lenny Offermann singled.
+Larry Evelo relieved Peach McGeachy.
+Shosei Go doubled, Offermann to third.
+Emilio Rowles grounded out to shortstop.
+Teodoro St. Croix hit a sacrifice fly, Offermann SCORED.
+Ron Saults grounded out to third.
+
+1 Run, 2 Hits, 0 Errors
+Chattanooga 12, Bangor 4
+
+
+Top of the 9th inning:  Chattanooga batting
+
+Paul Jennings relieved Paul Kimball.
+Eugene Schissler grounded out to first.
+Buzz Keyser singled.
+Keyser was picked off first base by Jennings.
+Chris McKendree fouled out to catcher.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 12, Bangor 4
+
+
+Bottom of the 9th inning:  Bangor batting
+
+Chris Yount relieved Larry Evelo.
+Alexis Whaley grounded out to first.
+Jeffery Houston doubled.
+Frederic Oromocto flied out to right.
+Emil Salzman flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Chattanooga 12, Bangor 4
+
+
+END

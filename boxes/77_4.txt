@@ -1,0 +1,270 @@
+
+Date of game:  June 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Peoria             0 0 0  0 0 0  0 0 0     0  5  0
+Hartford           1 0 0  0 0 0  2 0 X     3  7  0
+
+
+Peoria                             AB  R  H BI BB SO LO   AVG
+
+Ken Slaney ss                       4  0  0  0  0  1  0  .338
+Jim Fritchman 3b                    4  0  1  0  0  0  1  .321
+Francisco Stewart 2b                4  0  0  0  0  1  0  .259
+Ron Zukowski c                      3  0  1  0  0  0  1  .360
+Walt Pidgeon 1b                     3  0  1  0  0  0  1  .270
+Zager Evans lf                      3  0  0  0  0  0  1  .272
+James Vonbargen dh                  3  0  1  0  0  0  2  .283
+Juan Gregory rf                     2  0  0  0  0  1  1  .217
+  Ruben Auna ph-rf                  1  0  0  0  0  0  0  .305
+Will White cf                       3  0  1  0  0  0  1  .353
+
+TOTALS:                            30  0  5  0  0  3  8
+
+
+BATTING
+2B: Vonbargen (10, Bobb).  Runners left in scoring position, 2 outs: White. 
+GIDP: Zukowski; Slaney.  Team LOB: 3.  
+
+
+Hartford                           AB  R  H BI BB SO LO   AVG
+
+Dave Ingwerson cf                   4  0  0  0  0  0  1  .340
+Dwight Crosby rf                    4  0  2  0  0  0  1  .269
+Guy Chancy dh                       2  1  0  0  3  0  0  .259
+Marshall Sleestak ss                3  0  1  1  0  0  1  .269
+Paul Baumer 3b                      4  0  0  0  0  0  1  .309
+Harold Dildy 2b                     3  1  2  0  0  1  1  .239
+  Jack Compton 2b                   0  0  0  0  0  0  3  .306
+Charlie Nancy 1b                    3  0  0  0  0  0  0  .290
+Woody Selley lf                     3  1  1  2  0  0  2  .258
+Bennie Ronda c                      3  0  1  0  0  1  1  .278
+  Clyde Lafleur c                   0  0  0  0  0  0  0  .333
+
+TOTALS:                            29  3  7  3  3  2 11
+
+
+BATTING
+2B: Sleestak (8, Sutherland); Crosby (10, Pringle).  HR: Selley (3, 7th inning
+off Sutherland, 1 on, 2 out).  RBI: Sleestak (33); Selley 2 (22).  2-OUT RBI:
+Sleestak; Selley 2.  Runners left in scoring position, 2 outs: Dildy;
+Ingwerson; Compton.  GIDP: Ingwerson; Baumer.  Team LOB: 5.  
+
+
+Peoria                           IP     H  R ER BB SO HR   ERA
+
+Tui T. Sutherland (L, 4-4)      7       6  3  3  1  2  1  4.43
+Leslie Pringle                  1       1  0  0  1  0  0  4.42
+
+
+Hartford                         IP     H  R ER BB SO HR   ERA
+
+Fred Bobb (W, 2-4)              8       5  0  0  0  3  0  3.48
+Bob Lehnhoff (S, 1)             1       0  0  0  0  0  0  6.68
+
+
+IBB: Chancy (by Pringle).  HBP: Sleestak (by Pringle).  Pitches-Strikes:  Bobb
+100-79; Lehnhoff 9-6; Sutherland 109-81; Pringle 23-15.  Ground balls-Fly
+balls:  Bobb 17-7; Lehnhoff 1-2; Sutherland 17-7; Pringle 1-2.  Batters faced: 
+Bobb 27; Lehnhoff 3; Sutherland 27; Pringle 5.  
+
+Umpires:  HP: Alice Qiao.  1B: Mike Dunhour.  2B: Mike Coustier.  3B: Ed
+Montague.  T: 2:38.  Att: 24,419.  Weather: 84 degrees, clear.  Wind: 7 mph,
+out to left-center.  
+
+
+High Heat Baseball Player of the Game:  Fred Bobb
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Peoria batting
+
+Ken Slaney grounded out to pitcher.
+Jim Fritchman flied out to center.
+Francisco Stewart struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 0, Hartford 0
+
+
+Bottom of the 1st inning:  Hartford batting
+
+Dave Ingwerson grounded out to first.
+Dwight Crosby grounded out to second.
+Guy Chancy walked.
+Marshall Sleestak doubled, Chancy SCORED.
+Paul Baumer flied out to right.
+
+1 Run, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Top of the 2nd inning:  Peoria batting
+
+Ron Zukowski grounded out to second.
+Walt Pidgeon singled.
+Zager Evans grounded into fielder's choice to shortstop.
+James Vonbargen grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Bottom of the 2nd inning:  Hartford batting
+
+Harold Dildy singled.
+Charlie Nancy grounded out to second, Dildy to second.
+Woody Selley grounded out to first.
+Bennie Ronda grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Top of the 3rd inning:  Peoria batting
+
+Juan Gregory grounded out to third.
+Will White grounded out to second.
+Ken Slaney struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 0, Hartford 1
+
+
+Bottom of the 3rd inning:  Hartford batting
+
+Dave Ingwerson flied out to right.
+Dwight Crosby singled.
+Guy Chancy flied out to right.
+Marshall Sleestak grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Top of the 4th inning:  Peoria batting
+
+Jim Fritchman singled.
+Francisco Stewart fouled out to first.
+Ron Zukowski grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Bottom of the 4th inning:  Hartford batting
+
+Paul Baumer flied out to center.
+Harold Dildy struck out looking.
+Charlie Nancy grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 0, Hartford 1
+
+
+Top of the 5th inning:  Peoria batting
+
+Walt Pidgeon grounded out to first.
+Zager Evans grounded out to shortstop.
+James Vonbargen doubled.
+Juan Gregory struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Bottom of the 5th inning:  Hartford batting
+
+Woody Selley grounded out to pitcher.
+Bennie Ronda singled.
+Dave Ingwerson grounded into double play to third.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Top of the 6th inning:  Peoria batting
+
+Will White singled.
+Ken Slaney grounded into double play to pitcher.
+Jim Fritchman grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Bottom of the 6th inning:  Hartford batting
+
+Dwight Crosby grounded out to third.
+Guy Chancy grounded out to shortstop.
+Marshall Sleestak grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 0, Hartford 1
+
+
+Top of the 7th inning:  Peoria batting
+
+Francisco Stewart grounded out to pitcher.
+Ron Zukowski singled.
+Walt Pidgeon flied out to left.
+Zager Evans grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 1
+
+
+Bottom of the 7th inning:  Hartford batting
+
+Paul Baumer flied out to center.
+Harold Dildy singled.
+Charlie Nancy grounded out to shortstop, Dildy to second.
+Woody Selley HOMERED, Dildy SCORED.
+Bennie Ronda struck out looking.
+
+2 Runs, 2 Hits, 0 Errors
+Peoria 0, Hartford 3
+
+
+Top of the 8th inning:  Peoria batting
+
+Jack Compton came in for Harold Dildy at second.
+Clyde Lafleur came in for Bennie Ronda at catcher.
+James Vonbargen grounded out to third.
+Ruben Auna hit for Juan Gregory.
+Ruben Auna flied out to left.
+Will White grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 0, Hartford 3
+
+
+Bottom of the 8th inning:  Hartford batting
+
+Leslie Pringle relieved Tui T. Sutherland.
+Dave Ingwerson flied out to center.
+Dwight Crosby doubled.
+Guy Chancy was walked intentionally.
+Marshall Sleestak hit by pitch, Chancy to second, Crosby to third.
+Paul Baumer grounded into double play to second, Sleestak to second, Chancy to third.
+
+0 Runs, 1 Hit, 0 Errors
+Peoria 0, Hartford 3
+
+
+Top of the 9th inning:  Peoria batting
+
+Bob Lehnhoff relieved Fred Bobb.
+Ken Slaney grounded out to first.
+Jim Fritchman flied out to center.
+Francisco Stewart flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Peoria 0, Hartford 3
+
+
+END

@@ -1,0 +1,300 @@
+Team26 vs Team23 (Day 77)
+
+Date of game:  June 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Corpus Christi     2 1 0  0 0 3  0 0 0     6 10  1
+Altoona            0 0 0  0 4 0  0 0 1     5 11  1
+
+
+Corpus Christi                     AB  R  H BI BB SO LO   AVG
+
+Bruno King 2b                       5  0  2  1  0  1  1  .363
+Rufus Brown lf                      5  1  0  0  0  1  0  .324
+Steve Larsen 1b                     4  0  1  0  0  1  3  .357
+Razor T. Shines dh                  4  2  1  2  0  2  1  .321
+Mike Thaxton ss                     4  0  0  0  0  1  1  .269
+Joe Carpenter cf                    4  1  2  0  0  0  1  .295
+Bradley Munroe c                    3  1  1  0  1  1  0  .363
+Mark Severa 3b                      4  1  2  2  0  0  1  .289
+Chris Hernandez rf                  4  0  1  0  0  0  1  .341
+
+TOTALS:                            37  6 10  5  1  7  9
+
+
+BATTING
+2B: Carpenter (13, Fisher).  HR: Shines (14, 1st inning off Marmas, 1 on, 2
+out).  RBI: Shines 2 (61); King (33); Severa 2 (32).  2-OUT RBI: Shines 2;
+King; Severa 2.  Runners left in scoring position, 2 outs: Larsen; King;
+Severa.  GIDP: Severa.  Team LOB: 5.  
+
+FIELDING
+E: Thaxton (5, throw).  
+
+
+Altoona                            AB  R  H BI BB SO LO   AVG
+
+Kevin Crockett cf                   4  1  3  0  1  0  0  .333
+Andy Tinnin rf                      4  1  1  2  0  1  0  .287
+Ronnie Harris lf                    4  1  2  1  1  0  3  .311
+Wilson Allen 1b                     4  0  0  0  0  1  3  .350
+Benedict Depedro 3b                 4  0  1  2  0  0  5  .365
+Darwin Rodriguez dh                 4  0  1  0  0  1  0  .314
+Jeffery Brimfield c                 4  0  1  0  0  1  1  .309
+Edgar Hill 2b                       4  0  0  0  0  1  1  .314
+Mike Medina ss                      4  2  2  0  0  0  1  .311
+
+TOTALS:                            36  5 11  5  2  5 14
+
+
+BATTING
+2B: Brimfield (14, Zange); Rodriguez (11, Zange); Medina (12, Zange); Harris
+(24, Zange); Depedro (22, Zange).  SF: Tinnin.  RBI: Tinnin 2 (11); Harris
+(49); Depedro 2 (46).  2-OUT RBI: Depedro 2.  Runners left in scoring position,
+2 outs: Medina; Allen; Hill; Brimfield; Depedro.  GIDP: Harris; Allen.  Team
+LOB: 7.  
+
+FIELDING
+E: Depedro (3, ground ball).  
+
+
+Corpus Christi                   IP     H  R ER BB SO HR   ERA
+
+Mathew Zange                    4 2/3   7  4  4  2  5  0  5.97
+Jim Coven (W, 3-0)              3 1/3   2  0  0  0  0  0  3.54
+Jose Thomas (S, 16)             1       2  1  1  0  0  0  4.25
+
+
+Altoona                          IP     H  R ER BB SO HR   ERA
+
+Leonardo Marmas (L, 5-3)        5 2/3   8  6  4  1  4  1  4.61
+James Fisher                    3 1/3   2  0  0  0  3  0  4.55
+
+
+WP: Marmas; Fisher.  Pitches-Strikes:  Marmas 107-77; Fisher 43-35; Zange
+106-78; Coven 36-30; Thomas 14-12.  Ground balls-Fly balls:  Marmas 15-6;
+Fisher 3-6; Zange 9-7; Coven 6-5; Thomas 1-4.  Batters faced:  Marmas 26;
+Fisher 12; Zange 23; Coven 11; Thomas 5.  
+
+Umpires:  HP: James Coliz, Jr.  1B: Chuck Woo.  2B: Tony Ragano.  3B: Mike
+Saperstein.  T: 3:10.  Att: 18,481.  Weather: 69 degrees, clear.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Mark Severa
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Corpus Christi batting
+
+Bruno King grounded out to shortstop.
+Rufus Brown was safe after Benedict Depedro committed a fielding error.
+Steve Larsen struck out looking.
+Razor T. Shines HOMERED, Brown SCORED.
+Mike Thaxton flied out to right.
+
+2 Runs, 1 Hit, 1 Error
+Corpus Christi 2, Altoona 0
+
+
+Bottom of the 1st inning:  Altoona batting
+
+Kevin Crockett flied out to shortstop.
+Andy Tinnin grounded out to second.
+Ronnie Harris walked.
+Wilson Allen grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 2, Altoona 0
+
+
+Top of the 2nd inning:  Corpus Christi batting
+
+Joe Carpenter grounded out to pitcher.
+Bradley Munroe struck out swinging.
+Mark Severa singled.
+Chris Hernandez singled, Severa to third.
+Bruno King singled, Severa SCORED, Hernandez to third.
+Rufus Brown grounded out to shortstop.
+
+1 Run, 3 Hits, 0 Errors
+Corpus Christi 3, Altoona 0
+
+
+Bottom of the 2nd inning:  Altoona batting
+
+Benedict Depedro fouled out to first.
+Darwin Rodriguez struck out looking.
+Jeffery Brimfield doubled.
+Edgar Hill struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 3, Altoona 0
+
+
+Top of the 3rd inning:  Corpus Christi batting
+
+Steve Larsen fouled out to catcher.
+Razor T. Shines struck out looking.
+Mike Thaxton struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 3, Altoona 0
+
+
+Bottom of the 3rd inning:  Altoona batting
+
+Mike Medina was safe after Mike Thaxton committed a throwing error.
+Kevin Crockett singled, Medina to second.
+Andy Tinnin struck out looking.
+Ronnie Harris grounded into double play to third, Crockett to second.
+
+0 Runs, 1 Hit, 1 Error
+Corpus Christi 3, Altoona 0
+
+
+Top of the 4th inning:  Corpus Christi batting
+
+Joe Carpenter grounded out to second.
+Bradley Munroe singled.
+Mark Severa grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 3, Altoona 0
+
+
+Bottom of the 4th inning:  Altoona batting
+
+Wilson Allen struck out looking.
+Benedict Depedro grounded out to third.
+Darwin Rodriguez doubled.
+Jeffery Brimfield struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 3, Altoona 0
+
+
+Top of the 5th inning:  Corpus Christi batting
+
+Chris Hernandez grounded out to first.
+Bruno King grounded out to shortstop.
+Rufus Brown flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 3, Altoona 0
+
+
+Bottom of the 5th inning:  Altoona batting
+
+Edgar Hill grounded out to third.
+Mike Medina doubled.
+Kevin Crockett walked.
+Andy Tinnin singled, Medina SCORED, Crockett to third.
+Ronnie Harris doubled, Crockett SCORED, Tinnin to third.
+Wilson Allen grounded out to first.
+Benedict Depedro doubled, Tinnin SCORED, Harris SCORED.
+Jim Coven relieved Mathew Zange.
+Darwin Rodriguez grounded out to third.
+
+4 Runs, 4 Hits, 0 Errors
+Corpus Christi 3, Altoona 4
+
+
+Top of the 6th inning:  Corpus Christi batting
+
+Steve Larsen singled.
+Razor T. Shines grounded into fielder's choice to first.
+Mike Thaxton flied out to right.
+Joe Carpenter singled, Shines to third.
+Bradley Munroe walked, Carpenter to second.
+Wild pitch by Leonardo Marmas, Shines SCORED, Munroe to second, Carpenter to third.
+Mark Severa singled, Carpenter SCORED, Munroe SCORED.
+James Fisher relieved Leonardo Marmas.
+Wild pitch by James Fisher, Severa to second.
+Chris Hernandez flied out to left.
+
+3 Runs, 3 Hits, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Bottom of the 6th inning:  Altoona batting
+
+Jeffery Brimfield flied out to center.
+Edgar Hill grounded out to second.
+Mike Medina grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Top of the 7th inning:  Corpus Christi batting
+
+Bruno King struck out looking.
+Rufus Brown popped out to first.
+Steve Larsen flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Bottom of the 7th inning:  Altoona batting
+
+Kevin Crockett singled.
+Andy Tinnin flied out to right.
+Ronnie Harris singled, Crockett to third.
+Wilson Allen grounded into double play to first.
+
+0 Runs, 2 Hits, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Top of the 8th inning:  Corpus Christi batting
+
+Razor T. Shines struck out looking.
+Mike Thaxton grounded out to shortstop.
+Joe Carpenter doubled.
+Bradley Munroe flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Bottom of the 8th inning:  Altoona batting
+
+Benedict Depedro flied out to shortstop.
+Darwin Rodriguez flied out to center.
+Jeffery Brimfield flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Top of the 9th inning:  Corpus Christi batting
+
+Mark Severa grounded out to third.
+Chris Hernandez flied out to left.
+Bruno King singled.
+Rufus Brown struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 6, Altoona 4
+
+
+Bottom of the 9th inning:  Altoona batting
+
+Jose Thomas relieved Jim Coven.
+Edgar Hill flied out to center.
+Mike Medina singled.
+Kevin Crockett singled, Medina to third.
+Andy Tinnin hit a sacrifice fly, Medina SCORED.
+Ronnie Harris flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Corpus Christi 6, Altoona 5
+
+
+END

@@ -1,0 +1,305 @@
+Team24 vs Team27 (Day 78)
+
+Date of game:  June 17, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Wisconsin          0 2 0  0 4 0  0 2 0     8 12  0
+Portland           0 0 2  1 0 0  1 0 0     4 10  0
+
+
+Wisconsin                          AB  R  H BI BB SO LO   AVG
+
+George Lemieux 1b                   4  1  1  1  1  0  2  .290
+Rolando Ledbetter 3b                4  1  2  1  1  1  2  .316
+Theodore Johnson lf                 5  1  1  1  0  1  0  .288
+  Joe Altomari lf                   0  0  0  0  0  0  0  .278
+Derek Hooey cf                      5  1  2  0  0  0  3  .261
+Somerset Hall c                     5  1  2  1  0  0  0  .335
+Nelson Joyner rf                    3  1  1  1  0  1  1  .303
+Henry Robertson 2b                  3  0  1  0  2  1  1  .264
+Raymond Bresett dh                  5  1  2  2  0  1  1  .324
+Orestes Saunders ss                 3  1  0  0  1  0  5  .249
+
+TOTALS:                            37  8 12  7  5  5 15
+
+
+BATTING
+2B: Hall (11, Dunston); Ledbetter (9, Khalaf).  RBI: Bresett 2 (27); Johnson
+(44); Hall (31); Joyner (21); Lemieux (24); Ledbetter (19).  2-OUT RBI:
+Lemieux; Ledbetter.  Runners left in scoring position, 2 outs: Ledbetter;
+Saunders 2; Hooey.  GIDP: Johnson.  Team LOB: 9.  
+
+FIELDING
+PB: Hall.  
+
+
+Portland                           AB  R  H BI BB SO LO   AVG
+
+Ricky Steamboat 3b                  4  0  4  2  0  0  3  .398
+Ramon Howard dh                     4  0  2  0  0  0  1  .281
+Jason Frost 2b                      3  0  0  0  1  2  3  .335
+Vaughn Ivy 1b                       4  1  1  0  0  1  2  .259
+Joe Green ss                        3  0  0  1  0  0  2  .307
+Sergio Clark cf                     4  0  0  0  0  2  2  .294
+John Owens lf                       3  1  1  0  1  0  0  .363
+Steve Guidry rf                     3  1  1  0  1  1  0  .303
+Mike Byrne c                        4  1  1  1  0  1  1  .349
+
+TOTALS:                            32  4 10  4  3  7 14
+
+
+BATTING
+2B: Ivy (9, Dieringer); Howard (22, Dieringer).  HR: Byrne (3, 7th inning off
+Dieringer, 0 on, 2 out).  RBI: Steamboat 2 (49); Green (50); Byrne (28).  2-OUT
+RBI: Byrne.  Runners left in scoring position, 2 outs: Ivy; Clark.  GIDP:
+Howard; Green.  Team LOB: 5.  
+
+BASERUNNING
+CS: Steamboat (5, 2nd base by Easter/Hall).  
+
+
+Wisconsin                        IP     H  R ER BB SO HR   ERA
+
+Howard Dieringer (W, 2-3)       6 2/3   7  4  4  2  5  1  3.00
+Jordan Easter (S, 1)            2 1/3   3  0  0  1  2  0  6.24
+
+
+Portland                         IP     H  R ER BB SO HR   ERA
+
+Chris Maynard (L, 8-4)          4 1/3   6  6  6  3  1  0  5.00
+Quentin Dunston                 3 1/3   3  2  2  2  2  0  4.00
+Rodney Khalaf                   1 1/3   3  0  0  0  2  0  3.00
+
+
+WP: Maynard.  HBP: Joyner (by Maynard).  Pitches-Strikes:  Maynard 90-58;
+Dunston 61-40; Khalaf 23-20; Dieringer 117-84; Easter 41-31.  Ground balls-Fly
+balls:  Maynard 12-5; Dunston 5-6; Khalaf 3-2; Dieringer 12-8; Easter 5-1. 
+Batters faced:  Maynard 22; Dunston 15; Khalaf 7; Dieringer 27; Easter 9.  
+
+Umpires:  HP: James Coliz, Jr.  1B: Trip Hawkins.  2B: Ross Borden.  3B: Chuck
+Woo.  T: 3:14.  Att: 50,514.  Weather: 80 degrees, cloudy.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Raymond Bresett
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Wisconsin batting
+
+George Lemieux grounded out to shortstop.
+Rolando Ledbetter struck out looking.
+Theodore Johnson grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 0, Portland 0
+
+
+Bottom of the 1st inning:  Portland batting
+
+Ricky Steamboat singled.
+Ramon Howard grounded into double play to second.
+Jason Frost struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 0, Portland 0
+
+
+Top of the 2nd inning:  Wisconsin batting
+
+Derek Hooey flied out to left.
+Somerset Hall singled.
+Nelson Joyner hit by pitch, Hall to second.
+Henry Robertson walked, Joyner to second, Hall to third.
+Raymond Bresett singled, Hall SCORED, Joyner SCORED, Robertson to second.
+Orestes Saunders grounded out to pitcher, Bresett to second, Robertson to third.
+George Lemieux fouled out to first.
+
+2 Runs, 2 Hits, 0 Errors
+Wisconsin 2, Portland 0
+
+
+Bottom of the 2nd inning:  Portland batting
+
+Vaughn Ivy grounded out to second.
+Joe Green grounded out to first.
+Sergio Clark flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 2, Portland 0
+
+
+Top of the 3rd inning:  Wisconsin batting
+
+Rolando Ledbetter singled.
+Theodore Johnson grounded into double play to shortstop.
+Derek Hooey flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 2, Portland 0
+
+
+Bottom of the 3rd inning:  Portland batting
+
+John Owens walked.
+Steve Guidry walked, Owens to second.
+Mike Byrne grounded out to shortstop, Guidry to second, Owens to third.
+Ricky Steamboat singled, Owens SCORED, Guidry SCORED.
+Ramon Howard flied out to left.
+Jason Frost struck out looking.
+
+2 Runs, 1 Hit, 0 Errors
+Wisconsin 2, Portland 2
+
+
+Top of the 4th inning:  Wisconsin batting
+
+Somerset Hall grounded out to first.
+Nelson Joyner singled.
+Henry Robertson flied out to left.
+Raymond Bresett grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 2, Portland 2
+
+
+Bottom of the 4th inning:  Portland batting
+
+Vaughn Ivy doubled.
+Passed ball by Somerset Hall, Ivy to third.
+Joe Green grounded out to second, Ivy SCORED.
+Sergio Clark struck out looking.
+John Owens singled.
+Steve Guidry grounded out to third.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 2, Portland 3
+
+
+Top of the 5th inning:  Wisconsin batting
+
+Orestes Saunders grounded out to second.
+George Lemieux walked.
+Rolando Ledbetter walked, Lemieux to second.
+Theodore Johnson singled, Lemieux SCORED, Ledbetter to third.
+Wild pitch by Chris Maynard, Ledbetter SCORED, Johnson to second.
+Derek Hooey singled, Johnson to third.
+Quentin Dunston relieved Chris Maynard.
+Somerset Hall doubled, Johnson SCORED, Hooey to third.
+Nelson Joyner grounded out to shortstop, Hooey SCORED.
+Henry Robertson walked.
+Raymond Bresett struck out looking.
+
+4 Runs, 3 Hits, 0 Errors
+Wisconsin 6, Portland 3
+
+
+Bottom of the 5th inning:  Portland batting
+
+Mike Byrne struck out swinging.
+Ricky Steamboat singled.
+Ramon Howard doubled.
+Jason Frost grounded out to first.
+
+0 Runs, 2 Hits, 0 Errors
+Wisconsin 6, Portland 3
+
+
+Top of the 6th inning:  Wisconsin batting
+
+Orestes Saunders flied out to center.
+George Lemieux flied out to left.
+Rolando Ledbetter grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 6, Portland 3
+
+
+Bottom of the 6th inning:  Portland batting
+
+Vaughn Ivy flied out to shortstop.
+Joe Green flied out to left.
+Sergio Clark flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 6, Portland 3
+
+
+Top of the 7th inning:  Wisconsin batting
+
+Theodore Johnson grounded out to third.
+Derek Hooey flied out to right.
+Somerset Hall flied out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 6, Portland 3
+
+
+Bottom of the 7th inning:  Portland batting
+
+John Owens grounded out to third.
+Steve Guidry struck out swinging.
+Mike Byrne HOMERED.
+Jordan Easter relieved Howard Dieringer.
+Ricky Steamboat singled.
+Steamboat caught stealing second base.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 6, Portland 4
+
+
+Top of the 8th inning:  Wisconsin batting
+
+Nelson Joyner popped out to third.
+Henry Robertson struck out swinging.
+Raymond Bresett singled.
+Orestes Saunders walked, Bresett to second.
+George Lemieux singled, Bresett SCORED, Saunders to second.
+Rodney Khalaf relieved Quentin Dunston.
+Rolando Ledbetter doubled, Saunders SCORED, Lemieux to third.
+Theodore Johnson struck out looking.
+
+2 Runs, 3 Hits, 0 Errors
+Wisconsin 8, Portland 4
+
+
+Bottom of the 8th inning:  Portland batting
+
+Joe Altomari came in for Theodore Johnson in left.
+Ramon Howard singled.
+Jason Frost walked, Howard to second.
+Vaughn Ivy struck out looking.
+Joe Green grounded into double play to pitcher, Frost to second.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 8, Portland 4
+
+
+Top of the 9th inning:  Wisconsin batting
+
+Derek Hooey singled.
+Somerset Hall flied out to left.
+Nelson Joyner struck out looking.
+Henry Robertson singled, Hooey to third.
+Raymond Bresett grounded out to shortstop.
+
+0 Runs, 2 Hits, 0 Errors
+Wisconsin 8, Portland 4
+
+
+Bottom of the 9th inning:  Portland batting
+
+Sergio Clark struck out swinging.
+John Owens grounded out to first.
+Steve Guidry singled.
+Mike Byrne flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 8, Portland 4
+
+
+END

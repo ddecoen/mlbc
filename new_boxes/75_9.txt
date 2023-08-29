@@ -1,0 +1,338 @@
+Team20 vs Team29 (Day 75)
+
+Date of game:  June 14, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+El Paso            0 1 2  0 1 0  3 0 5    12 17  0
+Billings           0 1 2  1 0 2  2 0 2    10 14  1
+
+
+El Paso                            AB  R  H BI BB SO LO   AVG
+
+Chris Pilar cf                      6  1  3  0  0  1  0  .341
+Barry Bounsweet rf                  6  2  2  2  0  2  3  .363
+Pax au Telemanus 1b                 6  1  2  0  0  2  4  .298
+Matthew Stewart 2b                  4  1  1  1  1  0  4  .363
+Jensi Babblos c                     5  1  2  2  1  0  3  .294
+  Xavier Gonzales c                 0  0  0  0  0  0  0  .255
+Freddie Johnson 3b                  4  1  1  2  2  1  4  .316
+  Louis Babineaux 3b                0  0  0  0  0  0  0  .170
+Rowan Damisch dh                    4  3  1  2  2  0  1  .328
+Willis Whittler lf                  5  1  2  2  0  1  5  .302
+  Larry Wilson lf                   0  0  0  0  0  0  0  .287
+Bill Aranda ss                      4  1  3  0  1  0  0  .298
+
+TOTALS:                            44 12 17 11  7  7 24
+
+
+BATTING
+2B: Aranda (14, Lubinsky).  HR: Bounsweet (6, 3rd inning off Culbertson, 0 on,
+0 out); Stewart (17, 3rd inning off Culbertson, 0 on, 1 out); Babblos (17, 7th
+inning off Lubinsky, 0 on, 1 out); Whittler (12, 7th inning off Lubinsky, 1 on,
+2 out); Damisch (10, 9th inning off Whitehead, 1 on, 0 out).  RBI: Bounsweet 2
+(45); Stewart (50); Johnson 2 (28); Babblos 2 (57); Whittler 2 (37); Damisch 2
+(46).  2-OUT RBI: Johnson 2; Whittler 2; Babblos.  Runners left in scoring
+position, 2 outs: Johnson; Bounsweet 2; Stewart; Whittler.  Team LOB: 13.  
+
+
+Billings                           AB  R  H BI BB SO LO   AVG
+
+Waldo Riney cf                      5  2  3  3  0  1  3  .307
+Bernard Leong ss                    4  0  0  0  0  2  0  .306
+Brandt Broussard 2b                 5  2  2  0  0  1  2  .306
+Marcus Skundrich lf                 5  2  3  2  0  0  2  .272
+Freddy Achecar 1b                   4  1  2  1  0  0  1  .324
+Francis Scott dh                    4  1  1  1  0  0  2  .253
+Jeremiah Carpenter 3b               5  0  2  2  0  1  2  .411
+Anthony Amicangelo rf               3  1  0  0  1  2  1  .291
+Mike Lamons c                       4  1  1  1  0  1  2  .268
+
+TOTALS:                            39 10 14 10  1  8 15
+
+
+BATTING
+2B: Riney 2 (12, Vey, Vey); Scott (10, Vey).  HR: Skundrich (1, 2nd inning off
+Vey, 0 on, 0 out); Lamons (2, 6th inning off Beery, 0 on, 2 out); Riney (4, 6th
+inning off Beery, 0 on, 2 out).  S: Scott.  RBI: Skundrich 2 (8); Riney 3 (35);
+Lamons (16); Scott (23); Carpenter 2 (8); Achecar (34).  2-OUT RBI: Skundrich;
+Riney 2; Lamons; Carpenter 2.  Runners left in scoring position, 2 outs: Scott;
+Broussard.  Team LOB: 7.  
+
+FIELDING
+E: Amicangelo (1, foul fly).  
+
+
+El Paso                          IP     H  R ER BB SO HR   ERA
+
+Michael Vey                     3 2/3   5  4  4  1  1  1  5.62
+Bob Beery                       2       3  2  2  0  4  2  5.00
+Gilbert Reynolds                1       3  2  2  0  1  0  2.77
+Enrique Pannell (W, 2-0)        2       3  2  2  0  1  0  7.41
+Vean Garza (S, 10)                1/3   0  0  0  0  1  0  6.28
+
+
+Billings                         IP     H  R ER BB SO HR   ERA
+
+Peyton Culbertson               6       9  4  4  3  4  2  5.33
+Larry Lubinsky (BS, 1)            2/3   3  3  3  1  1  2  5.84
+Beaux Bonvillain                1 1/3   0  0  0  1  1  0  4.97
+Quintin Whitehead (L, 0-1) (BS, 1)1       5  5  5  2  1  1  7.84
+
+
+WP: Vey.  Balk: Culbertson.  HBP: Leong (by Vey); Amicangelo (by Vey); Stewart
+(by Whitehead).  Pitches-Strikes:  Culbertson 113-76; Lubinsky 27-20;
+Bonvillain 21-14; Whitehead 48-27; Vey 74-58; Beery 39-31; Reynolds 23-18;
+Pannell 36-27; Garza 6-5.  Ground balls-Fly balls:  Culbertson 13-10; Lubinsky
+1-3; Bonvillain 1-2; Whitehead 4-3; Vey 10-5; Beery 3-2; Reynolds 4-1; Pannell
+6-2; Garza 0-0.  Batters faced:  Culbertson 30; Lubinsky 6; Bonvillain 5;
+Whitehead 11; Vey 19; Beery 9; Reynolds 6; Pannell 9; Garza 1.  
+
+Umpires:  HP: Tony Ragano.  1B: Trip Hawkins.  2B: John Yellott.  3B: Scott
+Barcik.  T: 3:59.  Att: 19,091.  Weather: 73 degrees, partly cloudy.  Wind: 0
+mph.  
+
+
+High Heat Baseball Player of the Game:  Rowan Damisch
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  El Paso batting
+
+Chris Pilar singled.
+Barry Bounsweet fouled out to first.
+Pax au Telemanus singled, Pilar to third.
+Matthew Stewart popped out to second.
+Jensi Babblos flied out to right.
+
+0 Runs, 2 Hits, 0 Errors
+El Paso 0, Billings 0
+
+
+Bottom of the 1st inning:  Billings batting
+
+Waldo Riney grounded out to second.
+Bernard Leong grounded out to second.
+Brandt Broussard grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 0, Billings 0
+
+
+Top of the 2nd inning:  El Paso batting
+
+Freddie Johnson fouled out to third.
+Rowan Damisch walked.
+Willis Whittler singled, Damisch to third.
+Peyton Culbertson committed a balk, Damisch SCORED, Whittler to second.
+Bill Aranda grounded out to shortstop, Whittler to third.
+Chris Pilar grounded out to second.
+
+1 Run, 1 Hit, 0 Errors
+El Paso 1, Billings 0
+
+
+Bottom of the 2nd inning:  Billings batting
+
+Marcus Skundrich HOMERED.
+Freddy Achecar grounded out to shortstop.
+Francis Scott grounded out to pitcher.
+Jeremiah Carpenter grounded out to third.
+
+1 Run, 1 Hit, 0 Errors
+El Paso 1, Billings 1
+
+
+Top of the 3rd inning:  El Paso batting
+
+Barry Bounsweet HOMERED.
+Pax au Telemanus was safe after Anthony Amicangelo committed a fielding error.
+Pax au Telemanus grounded out to third.
+Matthew Stewart HOMERED.
+Jensi Babblos walked.
+Freddie Johnson grounded into fielder's choice to shortstop.
+Rowan Damisch popped out to second.
+
+2 Runs, 2 Hits, 1 Error
+El Paso 3, Billings 1
+
+
+Bottom of the 3rd inning:  Billings batting
+
+Anthony Amicangelo walked.
+Mike Lamons grounded out to first, Amicangelo to second.
+Wild pitch by Michael Vey, Amicangelo to third.
+Waldo Riney doubled, Amicangelo SCORED.
+Bernard Leong hit by pitch.
+Brandt Broussard flied out to shortstop.
+Marcus Skundrich singled, Riney SCORED, Leong to second.
+Freddy Achecar grounded out to second.
+
+2 Runs, 2 Hits, 0 Errors
+El Paso 3, Billings 3
+
+
+Top of the 4th inning:  El Paso batting
+
+Willis Whittler struck out swinging.
+Bill Aranda singled.
+Chris Pilar struck out looking.
+Barry Bounsweet grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+El Paso 3, Billings 3
+
+
+Bottom of the 4th inning:  Billings batting
+
+Francis Scott doubled.
+Jeremiah Carpenter grounded out to first, Scott to third.
+Anthony Amicangelo hit by pitch.
+Mike Lamons struck out looking.
+Waldo Riney doubled, Scott SCORED, Amicangelo to third.
+Bob Beery relieved Michael Vey.
+Bernard Leong struck out looking.
+
+1 Run, 2 Hits, 0 Errors
+El Paso 3, Billings 4
+
+
+Top of the 5th inning:  El Paso batting
+
+Pax au Telemanus singled.
+Matthew Stewart flied out to right.
+Jensi Babblos grounded out to second, au Telemanus to second.
+Freddie Johnson singled, au Telemanus SCORED.
+Rowan Damisch fouled out to first.
+
+1 Run, 2 Hits, 0 Errors
+El Paso 4, Billings 4
+
+
+Bottom of the 5th inning:  Billings batting
+
+Brandt Broussard struck out looking.
+Marcus Skundrich grounded out to second.
+Freddy Achecar singled.
+Francis Scott grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+El Paso 4, Billings 4
+
+
+Top of the 6th inning:  El Paso batting
+
+Willis Whittler flied out to left.
+Bill Aranda walked.
+Chris Pilar singled, Aranda to second.
+Barry Bounsweet struck out looking.
+Pax au Telemanus struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+El Paso 4, Billings 4
+
+
+Bottom of the 6th inning:  Billings batting
+
+Jeremiah Carpenter struck out swinging.
+Anthony Amicangelo struck out looking.
+Mike Lamons HOMERED.
+Waldo Riney HOMERED.
+Gilbert Reynolds relieved Bob Beery.
+Bernard Leong struck out looking.
+
+2 Runs, 2 Hits, 0 Errors
+El Paso 4, Billings 6
+
+
+Top of the 7th inning:  El Paso batting
+
+Larry Lubinsky relieved Peyton Culbertson.
+Matthew Stewart grounded out to shortstop.
+Jensi Babblos HOMERED.
+Freddie Johnson struck out looking.
+Rowan Damisch walked.
+Willis Whittler HOMERED, Damisch SCORED.
+Bill Aranda doubled.
+Beaux Bonvillain relieved Larry Lubinsky.
+Chris Pilar grounded out to shortstop.
+
+3 Runs, 3 Hits, 0 Errors
+El Paso 7, Billings 6
+
+
+Bottom of the 7th inning:  Billings batting
+
+Brandt Broussard singled.
+Marcus Skundrich flied out to center.
+Freddy Achecar singled, Broussard to third.
+Francis Scott sacrificed, Broussard SCORED, Achecar to second.
+Jeremiah Carpenter singled, Achecar SCORED.
+Enrique Pannell relieved Gilbert Reynolds.
+Anthony Amicangelo grounded out to shortstop.
+
+2 Runs, 3 Hits, 0 Errors
+El Paso 7, Billings 8
+
+
+Top of the 8th inning:  El Paso batting
+
+Barry Bounsweet struck out looking.
+Pax au Telemanus flied out to right.
+Matthew Stewart walked.
+Jensi Babblos flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 7, Billings 8
+
+
+Bottom of the 8th inning:  Billings batting
+
+Mike Lamons flied out to right.
+Waldo Riney struck out looking.
+Bernard Leong grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 7, Billings 8
+
+
+Top of the 9th inning:  El Paso batting
+
+Quintin Whitehead relieved Beaux Bonvillain.
+Freddie Johnson walked.
+Rowan Damisch HOMERED, Johnson SCORED.
+Willis Whittler flied out to left.
+Bill Aranda singled.
+Chris Pilar singled, Aranda to third.
+Barry Bounsweet singled, Aranda SCORED, Pilar to third.
+Pax au Telemanus struck out swinging.
+Matthew Stewart hit by pitch, Bounsweet to second.
+Jensi Babblos singled, Pilar SCORED, Stewart to second, Bounsweet to third.
+Freddie Johnson walked, Bounsweet SCORED, Babblos to second, Stewart to third.
+Rowan Damisch flied out to right.
+
+5 Runs, 5 Hits, 0 Errors
+El Paso 12, Billings 8
+
+
+Bottom of the 9th inning:  Billings batting
+
+Xavier Gonzales came in for Jensi Babblos at catcher.
+Louis Babineaux came in for Freddie Johnson at third.
+Larry Wilson came in for Willis Whittler in left.
+Brandt Broussard singled.
+Marcus Skundrich singled, Broussard to third.
+Freddy Achecar grounded out to pitcher, Broussard SCORED, Skundrich to second.
+Francis Scott flied out to center.
+Jeremiah Carpenter singled, Skundrich SCORED.
+Vean Garza relieved Enrique Pannell.
+Anthony Amicangelo struck out looking.
+
+2 Runs, 3 Hits, 0 Errors
+El Paso 12, Billings 10
+
+
+END

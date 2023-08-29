@@ -1,0 +1,297 @@
+Team2 vs Team11 (Day 80)
+
+Date of game:  June 19, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bangor             0 1 0  0 0 0  1 1 0     3  6  0
+San Jose           0 0 0  0 2 0  0 0 0     2  7  3
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Jeffery Houston rf                  4  0  0  0  0  0  2  .289
+Frederic Oromocto dh                3  0  0  0  1  1  2  .326
+Gerald Rodriguez 2b                 3  1  1  0  1  1  0  .336
+King Slender 1b                     4  0  0  0  0  1  1  .278
+Shosei Go cf                        4  1  3  2  0  1  4  .306
+Emilio Rowles c                     4  1  1  0  0  0  1  .284
+Teodoro St. Croix lf                3  0  1  0  1  0  2  .284
+Ron Saults 3b                       3  0  0  0  1  0  0  .255
+Alexis Whaley ss                    3  0  0  0  0  0  1  .282
+
+TOTALS:                            31  3  6  2  4  4 13
+
+
+BATTING
+2B: St. Croix (10, Fritzman).  HR: Go (13, 2nd inning off Fritzman, 0 on, 0
+out).  RBI: Go 2 (48).  2-OUT RBI: Go.  Runners left in scoring position, 2
+outs: Houston; Oromocto.  GIDP: Rowles; Houston; Whaley.  Team LOB: 6.  
+
+BASERUNNING
+CS: Whaley (5, 2nd base by Connell/Defoore).  
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Todd Brumit dh                      4  0  0  0  0  0  0  .276
+Lee Defoore c                       4  0  3  0  0  0  0  .288
+Ricky Spanish rf                    3  0  1  0  1  1  0  .311
+Anthony DiNozzo Jr. lf              4  0  0  0  0  2  1  .251
+Ezra Snyder 1b                      4  0  1  0  0  0  4  .209
+Casey Collier 2b                    4  0  0  0  0  2  4  .125
+Howard Bruns cf                     3  0  0  0  0  0  1  .165
+  Jaden Miedema ph                  1  0  0  0  0  0  0  .233
+George Fogler ss                    4  1  1  0  0  1  0  .249
+Harold Wayman 3b                    3  1  1  2  0  0  0  .224
+
+TOTALS:                            34  2  7  2  1  6 10
+
+
+BATTING
+2B: Defoore (10, Herring).  HR: Wayman (3, 5th inning off Herring, 1 on, 1
+out).  RBI: Wayman 2 (8).  Runners left in scoring position, 2 outs: Collier 2.
+ Team LOB: 6.  
+
+BASERUNNING
+SB: Fogler (24, 2nd base off Herring/Rowles).  
+
+FIELDING
+E: Wayman (1, fly ball); Snyder (1, fly ball); DiNozzo Jr. (1, fly ball).  
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Wolfie Herring (W, 7-3)         7 1/3   7  2  2  1  5  1  4.05
+Paul Jennings (S, 1)            1 2/3   0  0  0  0  1  0  3.47
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Daniel Fritzman                 6       4  2  2  4  3  1  4.89
+Allen Whittington (L, 2-9) (BS, 3)1 2/3   2  1  1  0  1  0  4.93
+Myron Connell                   1 1/3   0  0  0  0  0  0  3.70
+
+Fritzman pitched to 3 batters in the 7th.  
+
+Pitches-Strikes:  Fritzman 105-74; Whittington 20-17; Connell 13-10; Herring
+121-92; Jennings 20-15.  Ground balls-Fly balls:  Fritzman 10-9; Whittington
+4-1; Connell 2-2; Herring 13-11; Jennings 1-3.  Batters faced:  Fritzman 26;
+Whittington 6; Connell 5; Herring 30; Jennings 5.  
+
+Umpires:  HP: John Bolton.  1B: Tony Peng.  2B: Ed Montague.  3B: Mike Mangano.
+ T: 3:11.  Att: 10,584.  Weather: 77 degrees, partly cloudy.  Wind: 11 mph, out
+to center.  
+
+
+High Heat Baseball Player of the Game:  Shosei Go
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bangor batting
+
+Jeffery Houston flied out to left.
+Frederic Oromocto flied out to left.
+Gerald Rodriguez was safe after Harold Wayman committed a fielding error.
+King Slender grounded out to third.
+
+0 Runs, 0 Hits, 1 Error
+Bangor 0, San Jose 0
+
+
+Bottom of the 1st inning:  San Jose batting
+
+Todd Brumit grounded out to pitcher.
+Lee Defoore doubled.
+Ricky Spanish walked.
+Anthony DiNozzo Jr. struck out looking.
+Ezra Snyder flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 0, San Jose 0
+
+
+Top of the 2nd inning:  Bangor batting
+
+Shosei Go HOMERED.
+Emilio Rowles grounded out to third.
+Teodoro St. Croix doubled.
+Ron Saults grounded out to first, St. Croix to third.
+Alexis Whaley flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 1, San Jose 0
+
+
+Bottom of the 2nd inning:  San Jose batting
+
+Casey Collier struck out swinging.
+Howard Bruns grounded out to shortstop.
+George Fogler flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, San Jose 0
+
+
+Top of the 3rd inning:  Bangor batting
+
+Jeffery Houston fouled out to first.
+Frederic Oromocto grounded out to shortstop.
+Gerald Rodriguez walked.
+King Slender flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, San Jose 0
+
+
+Bottom of the 3rd inning:  San Jose batting
+
+Harold Wayman grounded out to third.
+Todd Brumit grounded out to third.
+Lee Defoore grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, San Jose 0
+
+
+Top of the 4th inning:  Bangor batting
+
+Shosei Go singled.
+Emilio Rowles grounded into double play to first.
+Teodoro St. Croix flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 1, San Jose 0
+
+
+Bottom of the 4th inning:  San Jose batting
+
+Ricky Spanish grounded out to first.
+Anthony DiNozzo Jr. grounded out to second.
+Ezra Snyder singled.
+Casey Collier struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 1, San Jose 0
+
+
+Top of the 5th inning:  Bangor batting
+
+Ron Saults flied out to right.
+Alexis Whaley was safe after Ezra Snyder committed a fielding error.
+Jeffery Houston grounded into double play to shortstop.
+
+0 Runs, 0 Hits, 1 Error
+Bangor 1, San Jose 0
+
+
+Bottom of the 5th inning:  San Jose batting
+
+Howard Bruns flied out to left.
+George Fogler singled.
+Fogler stole second base.
+Harold Wayman HOMERED, Fogler SCORED.
+Todd Brumit flied out to shortstop.
+Lee Defoore singled.
+Ricky Spanish struck out looking.
+
+2 Runs, 3 Hits, 0 Errors
+Bangor 1, San Jose 2
+
+
+Top of the 6th inning:  Bangor batting
+
+Frederic Oromocto walked.
+Gerald Rodriguez struck out looking.
+King Slender struck out looking.
+Shosei Go struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, San Jose 2
+
+
+Bottom of the 6th inning:  San Jose batting
+
+Anthony DiNozzo Jr. grounded out to second.
+Ezra Snyder fouled out to first.
+Casey Collier flied out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, San Jose 2
+
+
+Top of the 7th inning:  Bangor batting
+
+Emilio Rowles singled.
+Teodoro St. Croix walked, Rowles to second.
+Ron Saults walked, St. Croix to second, Rowles to third.
+Allen Whittington relieved Daniel Fritzman.
+Alexis Whaley grounded into double play to second, Rowles SCORED, Saults to second.
+Jeffery Houston flied out to center.
+
+1 Run, 1 Hit, 0 Errors
+Bangor 2, San Jose 2
+
+
+Bottom of the 7th inning:  San Jose batting
+
+Howard Bruns grounded out to pitcher.
+George Fogler struck out looking.
+Harold Wayman flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 2, San Jose 2
+
+
+Top of the 8th inning:  Bangor batting
+
+Frederic Oromocto struck out swinging.
+Gerald Rodriguez singled.
+King Slender grounded out to shortstop, Rodriguez to second.
+Shosei Go singled, Rodriguez SCORED.
+Myron Connell relieved Allen Whittington.
+Emilio Rowles flied out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 3, San Jose 2
+
+
+Bottom of the 8th inning:  San Jose batting
+
+Todd Brumit flied out to left.
+Lee Defoore singled.
+Ricky Spanish singled, Defoore to second.
+Paul Jennings relieved Wolfie Herring.
+Anthony DiNozzo Jr. struck out looking.
+Ezra Snyder flied out to center.
+
+0 Runs, 2 Hits, 0 Errors
+Bangor 3, San Jose 2
+
+
+Top of the 9th inning:  Bangor batting
+
+Teodoro St. Croix grounded out to pitcher.
+Ron Saults popped out to third.
+Alexis Whaley was safe after Anthony DiNozzo Jr. committed a fielding error.
+Whaley caught stealing second base.
+
+0 Runs, 0 Hits, 1 Error
+Bangor 3, San Jose 2
+
+
+Bottom of the 9th inning:  San Jose batting
+
+Casey Collier grounded out to second.
+Jaden Miedema hit for Howard Bruns.
+Jaden Miedema flied out to left.
+George Fogler flied out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 3, San Jose 2
+
+
+END

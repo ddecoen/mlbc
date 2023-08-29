@@ -1,0 +1,319 @@
+Team13 vs Team3 (Day 73)
+
+Date of game:  June 12, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Oklahoma City      0 0 0  1 1 0  0 0 2     4  9  1
+Hartford           0 0 0  0 1 0  0 1 0     2  3  0
+
+
+Oklahoma City                      AB  R  H BI BB SO LO   AVG
+
+Joe Pajtas 3b                       4  0  2  1  0  1  2  .279
+Norman Hilderbrand cf               5  2  4  0  0  0  1  .316
+Jesse Campbell 1b                   3  1  0  0  2  0  1  .342
+Henry Stark 2b                      4  0  2  3  1  1  4  .309
+Dan Matos dh                        3  0  0  0  2  1  4  .239
+Sterling Marlin rf                  5  0  0  0  0  3  4  .294
+Frank Vroom lf                      4  0  0  0  1  0  8  .200
+Otis Gojcaj ss                      3  1  0  0  1  1  4  .259
+Ron Curington c                     3  0  1  0  1  0  2  .231
+
+TOTALS:                            34  4  9  4  8  7 30
+
+
+BATTING
+2B: Stark (13, Grove).  RBI: Stark 3 (42); Pajtas (8).  Runners left in scoring
+position, 2 outs: Gojcaj 3; Matos; Pajtas; Vroom.  GIDP: Hilderbrand.  Team
+LOB: 12.  
+
+BASERUNNING
+SB: Stark (2, 2nd base off Momon/Ronda).  
+
+FIELDING
+E: Stark (5, throw).  
+
+
+Hartford                           AB  R  H BI BB SO LO   AVG
+
+Dave Ingwerson cf                   3  0  0  1  1  0  3  .348
+Dwight Crosby rf                    4  0  0  0  0  0  0  .268
+Guy Chancy dh                       4  0  0  0  0  1  4  .244
+Marshall Sleestak ss                4  0  1  0  0  2  1  .271
+Paul Baumer 3b                      2  1  0  0  2  0  0  .304
+Harold Dildy 2b                     1  0  0  0  1  0  0  .226
+  Jack Compton ph-2b                1  0  0  0  1  0  1  .306
+Charlie Nancy 1b                    3  0  1  0  0  0  1  .295
+  Silas McGinnis ph                 1  0  0  0  0  0  0  .265
+Woody Selley lf                     2  0  0  0  1  0  5  .253
+Bennie Ronda c                      3  0  1  0  0  1  1  .282
+  Bill Korn pr                      0  1  0  0  0  0  0  .000
+  Clyde Lafleur c                   0  0  0  0  0  0  0  .364
+
+TOTALS:                            28  2  3  1  6  4 16
+
+
+BATTING
+RBI: Ingwerson (42).  2-OUT RBI: Ingwerson.  Runners left in scoring position,
+2 outs: Chancy.  GIDP: Selley; Chancy; McGinnis.  Team LOB: 5.  
+
+BASERUNNING
+SB: Korn (1, 2nd base off Geringer/Curington).  
+
+
+Oklahoma City                    IP     H  R ER BB SO HR   ERA
+
+Kelly Tuttle                    6 1/3   1  1  1  5  4  0  6.64
+Giovanni Geringer (BS, 1)         2/3   1  1  0  0  0  0  4.30
+Jerry Huseman (W, 1-0)          1       0  0  0  0  0  0  7.11
+Eduardo Anzures (S, 13)         1       1  0  0  1  0  0  2.60
+
+
+Hartford                         IP     H  R ER BB SO HR   ERA
+
+Eliseo Momon                    3       3  1  1  2  2  0  5.91
+Ruben Deroberts                 3       3  1  1  3  2  0  6.36
+Fernando Grove (L, 2-4)         2       3  2  2  3  1  0  3.09
+Nicholas Watkinson              1       0  0  0  0  2  0  4.95
+
+Momon pitched to 3 batters in the 4th.  Deroberts pitched to 1 batter in the
+7th.  Grove pitched to 3 batters in the 9th.  Geringer pitched to 2 batters in
+the 8th.  
+
+WP: Anzures.  Balk: Momon.  Pitches-Strikes:  Momon 52-32; Deroberts 66-41;
+Grove 45-25; Watkinson 14-10; Tuttle 109-65; Geringer 12-7; Huseman 9-6;
+Anzures 22-14.  Ground balls-Fly balls:  Momon 7-2; Deroberts 6-4; Grove 3-5;
+Watkinson 1-0; Tuttle 7-9; Geringer 3-0; Huseman 2-0; Anzures 3-0.  Batters
+faced:  Momon 13; Deroberts 15; Grove 12; Watkinson 3; Tuttle 25; Geringer 3;
+Huseman 2; Anzures 4.  
+
+Umpires:  HP: Sam Sheth.  1B: Alice Qiao.  2B: Mike Saperstein.  3B: Ed
+Montague.  T: 3:23.  Att: 10,279.  Weather: 86 degrees, partly cloudy.  Wind:
+17 mph, in from right-center.  
+
+
+High Heat Baseball Player of the Game:  Henry Stark
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Oklahoma City batting
+
+Joe Pajtas singled.
+Norman Hilderbrand grounded into double play to pitcher.
+Jesse Campbell flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Oklahoma City 0, Hartford 0
+
+
+Bottom of the 1st inning:  Hartford batting
+
+Dave Ingwerson flied out to center.
+Dwight Crosby grounded out to first.
+Guy Chancy struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 0, Hartford 0
+
+
+Top of the 2nd inning:  Oklahoma City batting
+
+Henry Stark walked.
+Dan Matos popped out to second.
+Sterling Marlin struck out looking.
+Eliseo Momon committed a balk, Stark stole second base.
+Frank Vroom grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 0, Hartford 0
+
+
+Bottom of the 2nd inning:  Hartford batting
+
+Marshall Sleestak struck out looking.
+Paul Baumer walked.
+Harold Dildy grounded into fielder's choice to third.
+Charlie Nancy grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 0, Hartford 0
+
+
+Top of the 3rd inning:  Oklahoma City batting
+
+Otis Gojcaj struck out looking.
+Ron Curington grounded out to shortstop.
+Joe Pajtas grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 0, Hartford 0
+
+
+Bottom of the 3rd inning:  Hartford batting
+
+Woody Selley flied out to right.
+Bennie Ronda fouled out to right.
+Dave Ingwerson grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 0, Hartford 0
+
+
+Top of the 4th inning:  Oklahoma City batting
+
+Norman Hilderbrand singled.
+Jesse Campbell walked, Hilderbrand to second.
+Henry Stark singled, Hilderbrand SCORED, Campbell to third.
+Ruben Deroberts relieved Eliseo Momon.
+Dan Matos fouled out to third.
+Sterling Marlin grounded into fielder's choice to third.
+Frank Vroom fouled out to third.
+
+1 Run, 2 Hits, 0 Errors
+Oklahoma City 1, Hartford 0
+
+
+Bottom of the 4th inning:  Hartford batting
+
+Dwight Crosby popped out to third.
+Guy Chancy flied out to left.
+Marshall Sleestak struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 1, Hartford 0
+
+
+Top of the 5th inning:  Oklahoma City batting
+
+Otis Gojcaj walked.
+Ron Curington singled, Gojcaj to third.
+Joe Pajtas grounded out to third, Gojcaj SCORED, Curington to second.
+Norman Hilderbrand singled, Curington to third.
+Jesse Campbell fouled out to third.
+Henry Stark struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Oklahoma City 2, Hartford 0
+
+
+Bottom of the 5th inning:  Hartford batting
+
+Paul Baumer walked.
+Harold Dildy walked, Baumer to second.
+Charlie Nancy flied out to shortstop.
+Woody Selley walked, Dildy to second, Baumer to third.
+Bennie Ronda struck out swinging.
+Dave Ingwerson walked, Baumer SCORED, Selley to second, Dildy to third.
+Dwight Crosby grounded out to second.
+
+1 Run, 0 Hits, 0 Errors
+Oklahoma City 2, Hartford 1
+
+
+Top of the 6th inning:  Oklahoma City batting
+
+Dan Matos walked.
+Sterling Marlin struck out looking.
+Frank Vroom walked, Matos to second.
+Otis Gojcaj grounded out to third, Vroom to second, Matos to third.
+Ron Curington flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 2, Hartford 1
+
+
+Bottom of the 6th inning:  Hartford batting
+
+Guy Chancy flied out to center.
+Marshall Sleestak flied out to right.
+Paul Baumer flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 2, Hartford 1
+
+
+Top of the 7th inning:  Oklahoma City batting
+
+Joe Pajtas singled.
+Fernando Grove relieved Ruben Deroberts.
+Norman Hilderbrand singled, Pajtas to second.
+Jesse Campbell flied out to right.
+Henry Stark popped out to first.
+Dan Matos walked, Hilderbrand to second, Pajtas to third.
+Sterling Marlin popped out to catcher.
+
+0 Runs, 2 Hits, 0 Errors
+Oklahoma City 2, Hartford 1
+
+
+Bottom of the 7th inning:  Hartford batting
+
+Jack Compton hit for Harold Dildy.
+Jack Compton grounded out to shortstop.
+Charlie Nancy singled.
+Giovanni Geringer relieved Kelly Tuttle.
+Woody Selley grounded into double play to third.
+
+0 Runs, 1 Hit, 0 Errors
+Oklahoma City 2, Hartford 1
+
+
+Top of the 8th inning:  Oklahoma City batting
+
+Frank Vroom grounded out to shortstop.
+Otis Gojcaj grounded out to third.
+Ron Curington walked.
+Joe Pajtas struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Oklahoma City 2, Hartford 1
+
+
+Bottom of the 8th inning:  Hartford batting
+
+Bennie Ronda singled.
+Bill Korn ran for Bennie Ronda.
+Korn stole second base.
+Dave Ingwerson was safe after Henry Stark committed a throwing error, Korn SCORED.
+Jerry Huseman relieved Giovanni Geringer.
+Dwight Crosby grounded into fielder's choice to pitcher.
+Guy Chancy grounded into double play to first.
+
+1 Run, 1 Hit, 1 Error
+Oklahoma City 2, Hartford 2
+
+
+Top of the 9th inning:  Oklahoma City batting
+
+Clyde Lafleur came in for Bill Korn at catcher.
+Norman Hilderbrand singled.
+Jesse Campbell walked, Hilderbrand to second.
+Henry Stark doubled, Hilderbrand SCORED, Campbell SCORED.
+Nicholas Watkinson relieved Fernando Grove.
+Dan Matos struck out looking.
+Sterling Marlin struck out swinging.
+Frank Vroom grounded out to shortstop.
+
+2 Runs, 2 Hits, 0 Errors
+Oklahoma City 4, Hartford 2
+
+
+Bottom of the 9th inning:  Hartford batting
+
+Eduardo Anzures relieved Jerry Huseman.
+Marshall Sleestak singled.
+Wild pitch by Eduardo Anzures, Sleestak to second.
+Paul Baumer grounded out to second.
+Jack Compton walked.
+Silas McGinnis hit for Charlie Nancy.
+Silas McGinnis grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Oklahoma City 4, Hartford 2
+
+
+END

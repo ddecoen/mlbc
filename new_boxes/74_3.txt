@@ -1,0 +1,299 @@
+Team0 vs Team6 (Day 74)
+
+Date of game:  June 13, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Richmond           0 0 0  1 0 4  0 0 0     5  8  1
+Lynchburg          0 0 1  0 0 0  6 3 X    10  9  0
+
+
+Richmond                           AB  R  H BI BB SO LO   AVG
+
+Leap Day William cf                 4  1  1  0  0  0  1  .387
+Terry Kincaid 1b                    4  1  2  1  0  1  1  .312
+Dalton Trumbull lf                  4  1  1  2  0  0  1  .347
+Ken Griffey VII rf                  4  2  2  1  0  0  1  .287
+Glen Caron 3b                       4  0  1  1  0  0  1  .300
+Phil Robinson c                     2  0  0  0  3  1  0  .242
+Wilbur Shaw 2b                      4  0  0  0  0  0  0  .324
+Alfred Harrison dh                  4  0  1  0  0  1  3  .313
+Jack Gallegos ss                    3  0  0  0  0  1  0  .222
+
+TOTALS:                            33  5  8  5  3  4  8
+
+
+BATTING
+2B: Kincaid (10, Jigsaw); William (21, Jigsaw); Caron (10, Fingers).  HR:
+Griffey VII (17, 4th inning off Jigsaw, 0 on, 2 out); Trumbull (18, 6th inning
+off Jigsaw, 1 on, 1 out).  RBI: Griffey VII (56); Kincaid (44); Trumbull 2
+(73); Caron (45).  2-OUT RBI: Griffey VII.  Runners left in scoring position, 2
+outs: Caron; Harrison.  GIDP: Shaw 2.  Team LOB: 3.  
+
+BASERUNNING
+SB: Griffey VII (10, 2nd base off Fingers/Thomas).  
+
+FIELDING
+E: Kincaid (3, ground ball).  Outfield assist: William (Beniov at 3rd base).  
+
+
+Lynchburg                          AB  R  H BI BB SO LO   AVG
+
+Gilbert Palmer cf                   5  1  1  0  0  0  3  .316
+Crenshaw Thomas c                   2  0  1  0  1  0  1  .352
+  Normand Dagg ph-c                 0  2  0  0  2  0  2  .345
+Lev Beniov 1b                       3  1  1  2  2  0  0  .274
+B.J. Blazkowicz ss                  4  1  1  3  1  0  1  .261
+Puddnhead Wilson rf                 2  0  0  0  1  0  3  .304
+  Frank Castle ph-rf                1  1  1  4  0  0  0  .230
+Leroy Vantrump lf                   4  0  0  0  0  1  0  .281
+Sheridan Whiteside dh               4  1  3  1  0  0  1  .285
+Dave Hershenson 3b                  3  1  0  0  1  1  0  .230
+Santos Engquist 2b                  4  2  1  0  0  0  3  .283
+
+TOTALS:                            32 10  9 10  8  2 14
+
+
+BATTING
+HR: Whiteside (9, 7th inning off Perona, 0 on, 0 out); Castle (7, 7th inning
+off Prochazka, 3 on, 2 out).  RBI: Beniov 2 (47); Whiteside (32); Blazkowicz 3
+(40); Castle 4 (17).  2-OUT RBI: Beniov 2; Blazkowicz 3; Castle 4.  Runners
+left in scoring position, 2 outs: Wilson; Palmer.  Team LOB: 6.  
+
+
+Richmond                         IP     H  R ER BB SO HR   ERA
+
+Jacob Perona                    6 2/3   6  3  3  3  2  1  4.61
+Chris Prochazka (L, 0-3) (BS, 2)0       1  4  4  3  0  1  7.30
+Steve Mante                     1       1  3  0  2  0  0  5.57
+Bret Miles                        1/3   1  0  0  0  0  0  4.65
+
+
+Lynchburg                        IP     H  R ER BB SO HR   ERA
+
+Jonathan Jigsaw                 5 1/3   5  4  4  0  1  2  3.19
+Rollie Fingers (W, 6-2)         3 2/3   3  1  1  2  3  0  5.01
+
+Prochazka pitched to 4 batters in the 7th.  
+
+WP: Perona.  IBB: Robinson (by Fingers).  Pitches-Strikes:  Jigsaw 64-51;
+Fingers 50-34; Perona 115-83; Prochazka 26-13; Mante 29-17; Miles 3-3.  Ground
+balls-Fly balls:  Jigsaw 4-16; Fingers 6-3; Perona 12-11; Prochazka 0-1; Mante
+4-1; Miles 1-0.  Batters faced:  Jigsaw 21; Fingers 14; Perona 28; Prochazka 4;
+Mante 7; Miles 1.  
+
+Umpires:  HP: Chuck Woo.  1B: Brian Nestor.  2B: John Yellott.  3B: Ed
+Montague.  T: 3:08.  Att: 37,671.  Weather: 86 degrees, clear.  Wind: 9 mph, in
+from left.  
+
+
+High Heat Baseball Player of the Game:  Frank Castle
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Richmond batting
+
+Leap Day William flied out to center.
+Terry Kincaid doubled.
+Dalton Trumbull flied out to left.
+Ken Griffey VII flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 0, Lynchburg 0
+
+
+Bottom of the 1st inning:  Lynchburg batting
+
+Gilbert Palmer grounded out to shortstop.
+Crenshaw Thomas singled.
+Lev Beniov flied out to left.
+B.J. Blazkowicz flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 0, Lynchburg 0
+
+
+Top of the 2nd inning:  Richmond batting
+
+Glen Caron flied out to left.
+Phil Robinson struck out looking.
+Wilbur Shaw flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 0, Lynchburg 0
+
+
+Bottom of the 2nd inning:  Lynchburg batting
+
+Puddnhead Wilson grounded out to third.
+Leroy Vantrump grounded out to second.
+Sheridan Whiteside popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 0, Lynchburg 0
+
+
+Top of the 3rd inning:  Richmond batting
+
+Alfred Harrison grounded out to second.
+Jack Gallegos grounded out to second.
+Leap Day William flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 0, Lynchburg 0
+
+
+Bottom of the 3rd inning:  Lynchburg batting
+
+Dave Hershenson walked.
+Wild pitch by Jacob Perona, Hershenson to second.
+Santos Engquist singled.
+Gilbert Palmer grounded out to second, Engquist to second.
+Crenshaw Thomas walked.
+Lev Beniov singled, Engquist SCORED, Thomas to third.
+B.J. Blazkowicz flied out to right.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 0, Lynchburg 1
+
+
+Top of the 4th inning:  Richmond batting
+
+Terry Kincaid fouled out to catcher.
+Dalton Trumbull fouled out to third.
+Ken Griffey VII HOMERED.
+Glen Caron flied out to center.
+
+1 Run, 1 Hit, 0 Errors
+Richmond 1, Lynchburg 1
+
+
+Bottom of the 4th inning:  Lynchburg batting
+
+Puddnhead Wilson walked.
+Leroy Vantrump struck out looking.
+Sheridan Whiteside singled, Wilson to third.
+Dave Hershenson struck out looking.
+Santos Engquist grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 1, Lynchburg 1
+
+
+Top of the 5th inning:  Richmond batting
+
+Phil Robinson flied out to left.
+Wilbur Shaw fouled out to first.
+Alfred Harrison grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, Lynchburg 1
+
+
+Bottom of the 5th inning:  Lynchburg batting
+
+Gilbert Palmer grounded out to third.
+Crenshaw Thomas grounded out to shortstop.
+Lev Beniov popped out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, Lynchburg 1
+
+
+Top of the 6th inning:  Richmond batting
+
+Jack Gallegos flied out to center.
+Leap Day William doubled.
+Terry Kincaid singled, William SCORED.
+Dalton Trumbull HOMERED, Kincaid SCORED.
+Rollie Fingers relieved Jonathan Jigsaw.
+Ken Griffey VII singled.
+Griffey VII stole second base.
+Glen Caron doubled, Griffey VII SCORED.
+Phil Robinson was walked intentionally.
+Wilbur Shaw grounded into double play to third, Robinson to second.
+
+4 Runs, 5 Hits, 0 Errors
+Richmond 5, Lynchburg 1
+
+
+Bottom of the 6th inning:  Lynchburg batting
+
+B.J. Blazkowicz flied out to right.
+Puddnhead Wilson popped out to catcher.
+Leroy Vantrump popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 5, Lynchburg 1
+
+
+Top of the 7th inning:  Richmond batting
+
+Alfred Harrison singled.
+Jack Gallegos struck out swinging.
+Leap Day William flied out to center.
+Terry Kincaid struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 5, Lynchburg 1
+
+
+Bottom of the 7th inning:  Lynchburg batting
+
+Sheridan Whiteside HOMERED.
+Dave Hershenson flied out to center.
+Santos Engquist grounded out to third.
+Gilbert Palmer singled.
+Normand Dagg hit for Crenshaw Thomas.
+Chris Prochazka relieved Jacob Perona.
+Normand Dagg walked, Palmer to second.
+Lev Beniov walked, Dagg to second, Palmer to third.
+B.J. Blazkowicz walked, Palmer SCORED, Beniov to second, Dagg to third.
+Frank Castle hit for Puddnhead Wilson.
+Frank Castle HOMERED, Dagg SCORED, Beniov SCORED, Blazkowicz SCORED.
+Steve Mante relieved Chris Prochazka.
+Leroy Vantrump grounded out to third.
+
+6 Runs, 3 Hits, 0 Errors
+Richmond 5, Lynchburg 7
+
+
+Top of the 8th inning:  Richmond batting
+
+Dalton Trumbull grounded out to shortstop.
+Ken Griffey VII grounded out to third.
+Glen Caron grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 5, Lynchburg 7
+
+
+Bottom of the 8th inning:  Lynchburg batting
+
+Sheridan Whiteside singled.
+Dave Hershenson grounded into fielder's choice to third.
+Santos Engquist was safe after Terry Kincaid committed a fielding error,
+Gilbert Palmer fouled out to first.
+Normand Dagg walked, Engquist to second.
+Lev Beniov walked, Hershenson SCORED, Dagg to second, Engquist to third.
+Bret Miles relieved Steve Mante.
+B.J. Blazkowicz singled, Engquist SCORED, Dagg SCORED, Lev Beniov out at third base.
+
+3 Runs, 2 Hits, 1 Error
+Richmond 5, Lynchburg 10
+
+
+Top of the 9th inning:  Richmond batting
+
+Phil Robinson walked.
+Wilbur Shaw grounded into double play to second.
+Alfred Harrison struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 5, Lynchburg 10
+
+
+END

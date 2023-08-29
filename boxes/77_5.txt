@@ -1,0 +1,284 @@
+
+Date of game:  June 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Scranton           0 0 0  0 0 0  0 0 1     1  3  0
+Rocket City        0 2 2  0 0 0  0 3 X     7 13  1
+
+
+Scranton                           AB  R  H BI BB SO LO   AVG
+
+Cash Case 2b                        4  0  0  0  0  1  0  .281
+Jeffrey Whitney c                   4  0  1  0  0  0  0  .319
+Sergei Bobinsky 3b                  3  0  1  0  0  0  0  .344
+Ray Massar lf                       3  0  0  0  0  0  1  .251
+Jose Largen ss                      3  0  0  0  0  3  2  .238
+Dominick Konarski 1b                3  0  0  0  0  0  1  .311
+Brandon Eubanks cf                  3  0  0  0  0  0  1  .303
+Mark Hamill rf                      2  0  0  0  0  1  1  .270
+  Danny Allen ph                    1  1  1  1  0  0  0  .286
+Salvador Maxwell dh                 2  0  0  0  0  0  0  .296
+  Joss Whedon ph                    1  0  0  0  0  0  0  .235
+
+TOTALS:                            29  1  3  1  0  5  6
+
+
+BATTING
+HR: Allen (4, 9th inning off Yutani, 0 on, 0 out).  RBI: Allen (6).  GIDP:
+Massar 2.  Team LOB: 1.  
+
+FIELDING
+Outfield assist: Hamill (Heywood at home plate).  
+
+
+Rocket City                        AB  R  H BI BB SO LO   AVG
+
+Bob Pritchard ss                    4  1  1  0  0  1  0  .304
+Garrick Emerson 1b                  4  1  2  1  0  0  0  .295
+Clewd Heywood rf                    4  1  2  2  0  0  1  .360
+Jack Parkman 3b                     4  1  2  0  0  0  1  .315
+  Rob Morales 3b                    0  0  0  0  0  0  0  .269
+Elmer Alamillo lf                   3  0  1  0  0  1  1  .311
+  Terry Savage lf                   1  1  1  0  0  0  1  .258
+Ward Burton dh                      4  2  2  4  0  0  2  .307
+Charlie Potra 2b                    4  0  2  0  0  1  2  .288
+Gary Stowers c                      4  0  0  0  0  0  0  .283
+Chuck Woolery cf                    3  0  0  0  0  0  2  .182
+
+TOTALS:                            35  7 13  7  0  3 10
+
+
+BATTING
+2B: Parkman (12, Ellard); Emerson (16, Ellard); Heywood (20, Stem); Potra (16,
+Gorsline).  HR: Burton 2 (14, 2nd inning off Ellard, 1 on, 1 out, 8th inning
+off McDonald, 1 on, 2 out); Heywood (23, 3rd inning off Ellard, 1 on, 2 out);
+Emerson (12, 8th inning off Stem, 0 on, 0 out).  RBI: Burton 4 (42); Heywood 2
+(54); Emerson (46).  2-OUT RBI: Heywood 2; Burton 2.  Runners left in scoring
+position, 2 outs: Potra; Alamillo; Woolery.  GIDP: Stowers.  Team LOB: 4.  
+
+FIELDING
+E: Stowers (5, fly ball).  
+
+
+Scranton                         IP     H  R ER BB SO HR   ERA
+
+Moises Ellard (L, 2-6)          6       8  4  4  0  3  2  6.91
+Irwin Stem                      1       2  1  1  0  0  1  5.60
+Nick McDonald                     2/3   2  2  2  0  0  1  6.58
+Hugh Gorsline                     1/3   1  0  0  0  0  0 10.44
+
+
+Rocket City                      IP     H  R ER BB SO HR   ERA
+
+Weyland Yutani (W, 8-3)         9       3  1  1  0  5  1  3.58
+
+Stem pitched to 2 batters in the 8th.  
+
+Pitches-Strikes:  Yutani 100-80; Ellard 98-75; Stem 14-12; McDonald 12-10;
+Gorsline 8-8.  Ground balls-Fly balls:  Yutani 14-10; Ellard 9-13; Stem 1-4;
+McDonald 1-2; Gorsline 1-1.  Batters faced:  Yutani 29; Ellard 25; Stem 5;
+McDonald 3; Gorsline 2.  
+
+Umpires:  HP: Mike Mangano.  1B: Chuck Woo.  2B: Tony Peng.  3B: Joe Damon.  T:
+2:37.  Att: 5,975.  Weather: 83 degrees, clear.  Wind: 5 mph, out to center.  
+
+
+High Heat Baseball Player of the Game:  Ward Burton
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Scranton batting
+
+Cash Case struck out swinging.
+Jeffrey Whitney grounded out to third.
+Sergei Bobinsky popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 0
+
+
+Bottom of the 1st inning:  Rocket City batting
+
+Bob Pritchard struck out swinging.
+Garrick Emerson grounded out to first.
+Clewd Heywood flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 0
+
+
+Top of the 2nd inning:  Scranton batting
+
+Ray Massar was safe after Gary Stowers committed a fielding error.
+Jose Largen struck out swinging.
+Dominick Konarski flied out to center.
+Brandon Eubanks grounded out to shortstop.
+
+0 Runs, 0 Hits, 1 Error
+Scranton 0, Rocket City 0
+
+
+Bottom of the 2nd inning:  Rocket City batting
+
+Jack Parkman doubled.
+Elmer Alamillo grounded out to third.
+Ward Burton HOMERED, Parkman SCORED.
+Charlie Potra grounded out to shortstop.
+Gary Stowers flied out to center.
+
+2 Runs, 2 Hits, 0 Errors
+Scranton 0, Rocket City 2
+
+
+Top of the 3rd inning:  Scranton batting
+
+Mark Hamill popped out to catcher.
+Salvador Maxwell grounded out to shortstop.
+Cash Case flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 2
+
+
+Bottom of the 3rd inning:  Rocket City batting
+
+Chuck Woolery grounded out to second.
+Bob Pritchard singled.
+Garrick Emerson popped out to catcher.
+Clewd Heywood HOMERED, Pritchard SCORED.
+Jack Parkman singled.
+Elmer Alamillo singled, Parkman to third.
+Ward Burton grounded out to second.
+
+2 Runs, 4 Hits, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Top of the 4th inning:  Scranton batting
+
+Jeffrey Whitney singled.
+Sergei Bobinsky flied out to center.
+Ray Massar grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Bottom of the 4th inning:  Rocket City batting
+
+Charlie Potra singled.
+Gary Stowers grounded into double play to first.
+Chuck Woolery flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Top of the 5th inning:  Scranton batting
+
+Jose Largen struck out swinging.
+Dominick Konarski grounded out to second.
+Brandon Eubanks grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Bottom of the 5th inning:  Rocket City batting
+
+Bob Pritchard grounded out to second.
+Garrick Emerson doubled.
+Clewd Heywood grounded out to second, Emerson to third.
+Jack Parkman flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Top of the 6th inning:  Scranton batting
+
+Mark Hamill struck out looking.
+Salvador Maxwell popped out to catcher.
+Cash Case flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Bottom of the 6th inning:  Rocket City batting
+
+Elmer Alamillo struck out looking.
+Ward Burton fouled out to third.
+Charlie Potra struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Top of the 7th inning:  Scranton batting
+
+Jeffrey Whitney flied out to center.
+Sergei Bobinsky singled.
+Ray Massar grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Bottom of the 7th inning:  Rocket City batting
+
+Irwin Stem relieved Moises Ellard.
+Gary Stowers flied out to center.
+Chuck Woolery flied out to left.
+Bob Pritchard grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Top of the 8th inning:  Scranton batting
+
+Terry Savage came in for Elmer Alamillo in left.
+Jose Largen struck out looking.
+Dominick Konarski grounded out to shortstop.
+Brandon Eubanks flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 0, Rocket City 4
+
+
+Bottom of the 8th inning:  Rocket City batting
+
+Garrick Emerson HOMERED.
+Clewd Heywood doubled.
+Nick McDonald relieved Irwin Stem.
+Jack Parkman popped out to catcher.
+Terry Savage singled, Clewd Heywood out at home plate.
+Ward Burton HOMERED, Savage SCORED.
+Hugh Gorsline relieved Nick McDonald.
+Charlie Potra doubled.
+Gary Stowers grounded out to third.
+
+3 Runs, 5 Hits, 0 Errors
+Scranton 0, Rocket City 7
+
+
+Top of the 9th inning:  Scranton batting
+
+Rob Morales came in for Jack Parkman at third.
+Danny Allen hit for Mark Hamill.
+Danny Allen HOMERED.
+Joss Whedon hit for Salvador Maxwell.
+Joss Whedon grounded out to first.
+Cash Case grounded out to second.
+Jeffrey Whitney grounded out to first.
+
+1 Run, 1 Hit, 0 Errors
+Scranton 1, Rocket City 7
+
+
+END

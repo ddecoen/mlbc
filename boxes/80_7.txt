@@ -1,0 +1,290 @@
+
+Date of game:  June 19, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Corpus Christi     0 0 0  0 0 0  3 0 1     4  9  0
+Billings           2 0 0  3 0 0  3 0 X     8 10  0
+
+
+Corpus Christi                     AB  R  H BI BB SO LO   AVG
+
+Bruno King 2b                       4  0  2  0  0  0  3  .360
+Rufus Brown lf                      4  0  1  0  0  0  2  .316
+Steve Larsen 1b                     4  1  1  0  0  1  1  .350
+Razor T. Shines dh                  3  1  0  0  1  0  2  .312
+Mike Thaxton ss                     3  2  1  1  1  1  1  .277
+Joe Carpenter cf                    4  0  2  1  0  1  0  .298
+Bradley Munroe c                    4  0  0  0  0  2  0  .351
+Mark Severa 3b                      2  0  1  1  1  0  3  .291
+Chris Hernandez rf                  4  0  1  0  0  1  1  .333
+
+TOTALS:                            32  4  9  3  3  6 13
+
+
+BATTING
+SF: Severa.  RBI: Thaxton (35); Carpenter (40); Severa (37).  Runners left in
+scoring position, 2 outs: Brown; Thaxton; King.  GIDP: King; Hernandez; Larsen.
+ Team LOB: 5.  
+
+
+Billings                           AB  R  H BI BB SO LO   AVG
+
+Waldo Riney cf                      4  1  0  0  1  0  1  .306
+Bernard Leong ss                    3  1  0  0  1  0  2  .291
+Brandt Broussard 2b                 4  0  0  0  0  1  2  .307
+Vernon Deleon lf                    4  2  2  0  0  1  2  .317
+Freddy Achecar 1b                   3  1  2  1  1  1  0  .319
+Francis Scott dh                    4  1  2  4  0  0  2  .275
+Ray Deguzman 3b                     4  1  2  1  0  0  2  .295
+  Jeremiah Carpenter 3b             0  0  0  0  0  0  0  .404
+Anthony Amicangelo rf               4  1  1  1  0  0  2  .291
+  Marcus Skundrich rf               0  0  0  0  0  0  0  .268
+Mike Lamons c                       4  0  1  1  0  0  1  .259
+
+TOTALS:                            34  8 10  8  3  3 14
+
+
+BATTING
+2B: Deguzman 2 (11, Bitler, Atterson); Amicangelo (9, Bitler).  HR: Scott (8,
+7th inning off Atterson, 2 on, 2 out).  RBI: Achecar (36); Scott 4 (32);
+Deguzman (46); Amicangelo (29); Lamons (17).  2-OUT RBI: Achecar; Scott 4. 
+Runners left in scoring position, 2 outs: Amicangelo; Leong.  Team LOB: 5.  
+
+
+Corpus Christi                   IP     H  R ER BB SO HR   ERA
+
+Bobby Getz (L, 4-6)               2/3   2  2  2  1  0  0  6.09
+John Bitler                     2 2/3   4  3  3  0  2  0  5.08
+Jim Coven                       1 1/3   1  0  0  1  0  0  3.41
+Rob Atterson                    2 1/3   3  3  3  1  1  1  6.67
+Sterling Sparks                 1       0  0  0  0  0  0  6.11
+
+
+Billings                         IP     H  R ER BB SO HR   ERA
+
+Angel Marvel (W, 4-9)           6       6  3  3  2  5  0  5.38
+John Mancini (S, 1)             3       3  1  1  1  1  0  6.57
+
+Marvel pitched to 4 batters in the 7th.  
+
+Balk: Marvel.  Pitches-Strikes:  Marvel 92-73; Mancini 43-27; Getz 18-10;
+Bitler 37-32; Coven 30-18; Atterson 43-27; Sparks 11-8.  Ground balls-Fly
+balls:  Marvel 9-8; Mancini 6-4; Getz 2-2; Bitler 5-5; Coven 2-3; Atterson 2-7;
+Sparks 2-1.  Batters faced:  Marvel 24; Mancini 12; Getz 5; Bitler 12; Coven 6;
+Atterson 11; Sparks 3.  
+
+Umpires:  HP: Scott Barcik.  1B: John Bolton.  2B: Trip Hawkins.  3B: Paul
+Terry.  T: 3:06.  Att: 14,537.  Weather: 85 degrees, partly cloudy.  Wind: 24
+mph, in from left.  
+
+
+High Heat Baseball Player of the Game:  Francis Scott
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Corpus Christi batting
+
+Bruno King fouled out to catcher.
+Rufus Brown grounded out to shortstop.
+Steve Larsen struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 0
+
+
+Bottom of the 1st inning:  Billings batting
+
+Waldo Riney walked.
+Bernard Leong popped out to first.
+Brandt Broussard flied out to center.
+Vernon Deleon singled, Riney to third.
+Freddy Achecar singled, Riney SCORED, Deleon to third.
+John Bitler relieved Bobby Getz.
+Francis Scott singled, Deleon SCORED, Achecar to third.
+Ray Deguzman grounded out to third.
+
+2 Runs, 3 Hits, 0 Errors
+Corpus Christi 0, Billings 2
+
+
+Top of the 2nd inning:  Corpus Christi batting
+
+Razor T. Shines fouled out to first.
+Mike Thaxton struck out looking.
+Joe Carpenter popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 2
+
+
+Bottom of the 2nd inning:  Billings batting
+
+Anthony Amicangelo grounded out to first.
+Mike Lamons fouled out to catcher.
+Waldo Riney popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 2
+
+
+Top of the 3rd inning:  Corpus Christi batting
+
+Bradley Munroe struck out looking.
+Mark Severa singled.
+Chris Hernandez singled, Severa to third.
+Bruno King grounded into double play to first.
+
+0 Runs, 2 Hits, 0 Errors
+Corpus Christi 0, Billings 2
+
+
+Bottom of the 3rd inning:  Billings batting
+
+Bernard Leong grounded out to pitcher.
+Brandt Broussard struck out looking.
+Vernon Deleon struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 2
+
+
+Top of the 4th inning:  Corpus Christi batting
+
+Rufus Brown flied out to left.
+Steve Larsen flied out to center.
+Razor T. Shines grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 2
+
+
+Bottom of the 4th inning:  Billings batting
+
+Freddy Achecar singled.
+Francis Scott grounded out to second, Achecar to second.
+Ray Deguzman doubled, Achecar SCORED.
+Anthony Amicangelo doubled, Deguzman SCORED.
+Jim Coven relieved John Bitler.
+Mike Lamons singled, Amicangelo SCORED.
+Waldo Riney flied out to center.
+Bernard Leong grounded out to second.
+
+3 Runs, 4 Hits, 0 Errors
+Corpus Christi 0, Billings 5
+
+
+Top of the 5th inning:  Corpus Christi batting
+
+Mike Thaxton flied out to right.
+Joe Carpenter struck out looking.
+Bradley Munroe struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 5
+
+
+Bottom of the 5th inning:  Billings batting
+
+Brandt Broussard grounded out to third.
+Vernon Deleon flied out to right.
+Freddy Achecar walked.
+Jim Coven was injured on the play.
+Rob Atterson relieved Jim Coven.
+Francis Scott flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 0, Billings 5
+
+
+Top of the 6th inning:  Corpus Christi batting
+
+Mark Severa walked.
+Chris Hernandez grounded into double play to third.
+Bruno King singled.
+Rufus Brown grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 0, Billings 5
+
+
+Bottom of the 6th inning:  Billings batting
+
+Ray Deguzman doubled.
+Anthony Amicangelo flied out to right.
+Mike Lamons grounded out to second, Deguzman to third.
+Waldo Riney flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Corpus Christi 0, Billings 5
+
+
+Top of the 7th inning:  Corpus Christi batting
+
+Steve Larsen singled.
+Razor T. Shines walked, Larsen to second.
+Mike Thaxton singled, Larsen SCORED, Shines to third.
+Angel Marvel committed a balk, Shines SCORED, Thaxton to second.
+Joe Carpenter singled, Thaxton SCORED.
+John Mancini relieved Angel Marvel.
+Bradley Munroe flied out to left.
+Mark Severa grounded into fielder's choice to shortstop.
+Chris Hernandez grounded out to second.
+
+3 Runs, 3 Hits, 0 Errors
+Corpus Christi 3, Billings 5
+
+
+Bottom of the 7th inning:  Billings batting
+
+Bernard Leong walked.
+Brandt Broussard flied out to center.
+Vernon Deleon singled, Leong to third.
+Freddy Achecar struck out looking.
+Francis Scott HOMERED, Leong SCORED, Deleon SCORED.
+Ray Deguzman flied out to shortstop.
+
+3 Runs, 2 Hits, 0 Errors
+Corpus Christi 3, Billings 8
+
+
+Top of the 8th inning:  Corpus Christi batting
+
+Jeremiah Carpenter came in for Ray Deguzman at third.
+Bruno King singled.
+Rufus Brown singled, King to third.
+Steve Larsen grounded into double play to third.
+Razor T. Shines popped out to catcher.
+
+0 Runs, 2 Hits, 0 Errors
+Corpus Christi 3, Billings 8
+
+
+Bottom of the 8th inning:  Billings batting
+
+Sterling Sparks relieved Rob Atterson.
+Anthony Amicangelo grounded out to first.
+Mike Lamons flied out to center.
+Waldo Riney grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Corpus Christi 3, Billings 8
+
+
+Top of the 9th inning:  Corpus Christi batting
+
+Marcus Skundrich came in for Anthony Amicangelo in right.
+Mike Thaxton walked.
+Joe Carpenter singled, Thaxton to second.
+Bradley Munroe grounded out to shortstop, Carpenter to second, Thaxton to third.
+Mark Severa hit a sacrifice fly, Thaxton SCORED.
+Chris Hernandez struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+Corpus Christi 4, Billings 8
+
+
+END

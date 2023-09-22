@@ -1,0 +1,360 @@
+Team11 vs Team13 (Day 135)
+
+Date of game:  Aug 13, 1987
+
+FINAL IN 11        1 2 3  4 5 6  7 8 9 1011    R  H  E
+
+San Jose           0 0 2  0 0 4  0 0 0  0 0    6 13  0
+Oklahoma City      1 0 2  0 0 3  0 0 0  0 1    7 12  0
+
+One out when winning run scored.
+
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Ken Nettles cf                      6  1  2  2  0  0  5  .297
+Jaden Miedema 2b                    6  0  1  0  0  1  4  .256
+Ricky Spanish rf                    5  1  2  0  0  0  2  .296
+Carl Heath 1b                       5  1  2  0  0  0  1  .255
+Wallace Bruender dh                 3  1  0  0  2  0  0  .233
+Lee Defoore c                       4  1  2  2  1  0  2  .289
+Anthony DiNozzo Jr. lf              4  1  1  2  1  1  1  .236
+Clem Stanforth 3b                   3  0  2  0  0  0  3  .240
+  Todd Brumit ph                    1  0  1  0  0  0  0  .279
+  Dave Ramos 3b                     0  0  0  0  0  0  1  .206
+  Ezra Snyder ph                    1  0  0  0  0  0  0  .205
+  Harold Wayman 3b                  0  0  0  0  0  0  0  .286
+George Fogler ss                    5  0  0  0  0  2  1  .266
+
+TOTALS:                            43  6 13  6  4  4 20
+
+
+BATTING
+2B: Stanforth (8, Shiro); DiNozzo Jr. (10, Shiro).  HR: Nettles (20, 3rd inning
+off Shiro, 1 on, 2 out).  RBI: Nettles 2 (71); Defoore 2 (43); DiNozzo Jr. 2
+(46).  2-OUT RBI: Nettles 2.  Runners left in scoring position, 2 outs: Heath;
+Miedema 2; Stanforth.  GIDP: Defoore; DiNozzo Jr..  Team LOB: 8.  
+
+BASERUNNING
+SB: Miedema (13, 2nd base off Shiro/Pajtas).  CS: Nettles (14, 2nd base by
+Shiro/Pajtas).  
+
+
+Oklahoma City                      AB  R  H BI BB SO LO   AVG
+
+Frank Vroom 3b                      4  2  1  0  1  0  0  .264
+Larry Demiel cf                     5  2  3  1  0  1  3  .327
+Jesse Campbell 1b                   3  1  2  4  0  0  0  .322
+  Ron Curington pr-1b               0  0  0  0  1  0  0  .241
+Henry Stark 2b                      5  0  1  0  0  0  0  .284
+Khrusher Khruschev lf               4  0  0  0  1  1  3  .311
+Sterling Marlin rf                  5  0  0  0  0  2  2  .279
+Otis Gojcaj ss                      5  1  1  0  0  2  2  .276
+Dan Matos dh                        5  1  3  2  0  1  0  .268
+Joe Pajtas c                        3  0  1  0  1  1  0  .283
+
+TOTALS:                            39  7 12  7  4  8 10
+
+
+BATTING
+2B: Matos (16, Rodgers).  HR: Matos (11, 3rd inning off Hayes, 0 on, 0 out);
+Demiel (23, 3rd inning off Hayes, 0 on, 2 out); Campbell (19, 6th inning off
+Hayes, 2 on, 0 out).  SF: Campbell.  RBI: Campbell 4 (66); Matos 2 (53); Demiel
+(74).  2-OUT RBI: Demiel.  Runners left in scoring position, 2 outs: Gojcaj;
+Marlin.  GIDP: Stark; Khruschev; Vroom.  Team LOB: 6.  
+
+BASERUNNING
+SB: Stark (7, 2nd base off Rodgers/Defoore); Curington (10, 2nd base off
+Rodgers/Defoore); Gojcaj (14, 2nd base off Rodgers/Defoore).  
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Glenn Hayes                     5       7  6  6  1  6  3  5.74
+Bill Rodgers (L, 1-4)           5 1/3   5  1  1  3  2  0  3.71
+
+
+Oklahoma City                    IP     H  R ER BB SO HR   ERA
+
+Ken Shiro                       5 1/3   8  6  6  3  1  1  4.23
+Sydney Barnes                   3 2/3   4  0  0  1  3  0  2.82
+Eduardo Anzures (W, 3-4)        2       1  0  0  0  0  0  5.12
+
+Hayes pitched to 3 batters in the 6th.  
+
+Pitches-Strikes:  Shiro 102-81; Barnes 63-49; Anzures 20-19; Hayes 84-61;
+Rodgers 98-70.  Ground balls-Fly balls:  Shiro 13-8; Barnes 7-5; Anzures 4-2;
+Hayes 7-7; Rodgers 9-9.  Batters faced:  Shiro 25; Barnes 16; Anzures 6; Hayes
+21; Rodgers 23.  
+
+Umpires:  HP: Trip Hawkins.  1B: Tony Peng.  2B: Ed Montague.  3B: Mike
+Coustier.  T: 3:57.  Att: 18,943.  Weather: 71 degrees, clear.  Wind: 12 mph,
+out to right.  
+
+
+High Heat Baseball Player of the Game:  Dan Matos
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  San Jose batting
+
+Ken Nettles singled.
+Nettles caught stealing second base.
+Jaden Miedema grounded out to third.
+Ricky Spanish grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 0, Oklahoma City 0
+
+
+Bottom of the 1st inning:  Oklahoma City batting
+
+Frank Vroom walked.
+Larry Demiel singled, Vroom to third.
+Jesse Campbell hit a sacrifice fly, Vroom SCORED.
+Henry Stark grounded into double play to pitcher.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 0, Oklahoma City 1
+
+
+Top of the 2nd inning:  San Jose batting
+
+Carl Heath flied out to center.
+Wallace Bruender walked.
+Lee Defoore grounded into double play to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Oklahoma City 1
+
+
+Bottom of the 2nd inning:  Oklahoma City batting
+
+Khrusher Khruschev struck out looking.
+Sterling Marlin struck out looking.
+Otis Gojcaj struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Oklahoma City 1
+
+
+Top of the 3rd inning:  San Jose batting
+
+Anthony DiNozzo Jr. walked.
+Clem Stanforth grounded out to shortstop, DiNozzo Jr. to second.
+George Fogler grounded out to shortstop, DiNozzo Jr. to third.
+Ken Nettles HOMERED, DiNozzo Jr. SCORED.
+Jaden Miedema singled.
+Miedema stole second base.
+Ricky Spanish grounded out to pitcher.
+
+2 Runs, 2 Hits, 0 Errors
+San Jose 2, Oklahoma City 1
+
+
+Bottom of the 3rd inning:  Oklahoma City batting
+
+Dan Matos HOMERED.
+Joe Pajtas flied out to left.
+Frank Vroom grounded out to first.
+Larry Demiel HOMERED.
+Jesse Campbell grounded out to shortstop.
+
+2 Runs, 2 Hits, 0 Errors
+San Jose 2, Oklahoma City 3
+
+
+Top of the 4th inning:  San Jose batting
+
+Carl Heath popped out to catcher.
+Wallace Bruender grounded out to second.
+Lee Defoore flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 2, Oklahoma City 3
+
+
+Bottom of the 4th inning:  Oklahoma City batting
+
+Henry Stark singled.
+Khrusher Khruschev grounded into double play to second.
+Sterling Marlin struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 2, Oklahoma City 3
+
+
+Top of the 5th inning:  San Jose batting
+
+Anthony DiNozzo Jr. grounded out to pitcher.
+Clem Stanforth doubled.
+George Fogler struck out looking.
+Ken Nettles grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 2, Oklahoma City 3
+
+
+Bottom of the 5th inning:  Oklahoma City batting
+
+Otis Gojcaj struck out looking.
+Dan Matos fouled out to catcher.
+Joe Pajtas struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 2, Oklahoma City 3
+
+
+Top of the 6th inning:  San Jose batting
+
+Jaden Miedema flied out to left.
+Ricky Spanish singled.
+Carl Heath singled, Spanish to third.
+Wallace Bruender walked, Heath to second.
+Lee Defoore singled, Spanish SCORED, Heath SCORED, Bruender to second.
+Anthony DiNozzo Jr. doubled, Bruender SCORED, Defoore SCORED.
+Sydney Barnes relieved Ken Shiro.
+Clem Stanforth singled, DiNozzo Jr. to third.
+George Fogler struck out looking.
+Ken Nettles grounded out to shortstop.
+
+4 Runs, 5 Hits, 0 Errors
+San Jose 6, Oklahoma City 3
+
+
+Bottom of the 6th inning:  Oklahoma City batting
+
+Frank Vroom singled.
+Larry Demiel singled, Vroom to third.
+Jesse Campbell HOMERED, Vroom SCORED, Demiel SCORED.
+Bill Rodgers relieved Glenn Hayes.
+Henry Stark flied out to left.
+Khrusher Khruschev grounded out to third.
+Sterling Marlin flied out to right.
+
+3 Runs, 3 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Top of the 7th inning:  San Jose batting
+
+Jaden Miedema grounded out to first.
+Ricky Spanish singled.
+Carl Heath singled, Spanish to second.
+Wallace Bruender fouled out to first.
+Lee Defoore walked, Heath to second, Spanish to third.
+Anthony DiNozzo Jr. struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Bottom of the 7th inning:  Oklahoma City batting
+
+Otis Gojcaj popped out to second.
+Dan Matos struck out swinging.
+Joe Pajtas walked.
+Frank Vroom grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Top of the 8th inning:  San Jose batting
+
+Todd Brumit hit for Clem Stanforth.
+Todd Brumit singled.
+George Fogler flied out to right.
+Ken Nettles flied out to left.
+Jaden Miedema struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Bottom of the 8th inning:  Oklahoma City batting
+
+Dave Ramos came in for Todd Brumit at third.
+Larry Demiel struck out swinging.
+Jesse Campbell singled.
+Ron Curington ran for Jesse Campbell.
+Henry Stark grounded into fielder's choice to third.
+Stark stole second base.
+Khrusher Khruschev walked.
+Sterling Marlin flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Top of the 9th inning:  San Jose batting
+
+Ricky Spanish grounded out to shortstop.
+Carl Heath grounded out to shortstop.
+Wallace Bruender fouled out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Bottom of the 9th inning:  Oklahoma City batting
+
+Otis Gojcaj grounded out to second.
+Dan Matos doubled.
+Joe Pajtas singled, Matos to third.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Top of the 10th inning:  San Jose batting
+
+Eduardo Anzures relieved Sydney Barnes.
+Lee Defoore singled.
+Anthony DiNozzo Jr. grounded into double play to shortstop.
+Ezra Snyder hit for Dave Ramos.
+Ezra Snyder flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Bottom of the 10th inning:  Oklahoma City batting
+
+Harold Wayman came in for Ezra Snyder at third.
+Larry Demiel fouled out to third.
+Ron Curington walked.
+Curington stole second base.
+Henry Stark flied out to center.
+Khrusher Khruschev grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Top of the 11th inning:  San Jose batting
+
+George Fogler grounded out to third.
+Ken Nettles grounded out to first.
+Jaden Miedema flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 6, Oklahoma City 6
+
+
+Bottom of the 11th inning:  Oklahoma City batting
+
+Sterling Marlin grounded out to shortstop.
+Otis Gojcaj singled.
+Gojcaj stole second base.
+Dan Matos singled, Gojcaj SCORED.
+
+1 Run, 2 Hits, 0 Errors
+San Jose 6, Oklahoma City 7
+
+
+END

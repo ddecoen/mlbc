@@ -1,0 +1,329 @@
+
+Date of game:  Aug 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bowie              0 1 2  0 1 5  3 0 0    12 16  0
+Louisville         0 0 0  1 0 0  0 0 0     1  8  2
+
+
+Bowie                              AB  R  H BI BB SO LO   AVG
+
+Ashton Appelbaum lf                 4  1  2  1  0  1  3  .341
+  Adrian Dlouhy lf                  2  0  1  1  0  0  1  .272
+Louis Chevalier 3b                  2  3  0  0  3  1  1  .321
+  Charles Lalli 3b                  2  0  1  0  0  1  0  .315
+Hector Moffitt 1b                   6  1  0  0  0  0  3  .226
+James Holden dh                     3  2  2  3  2  0  5  .321
+Mo Ascher rf                        5  1  2  3  0  0  0  .288
+Johnny Lawrence 2b                  3  1  1  0  2  0  4  .344
+Cary Harness c                      5  1  2  0  0  0  3  .312
+Johnnie Edwards ss                  5  1  4  2  0  0  3  .303
+Carl Toro cf                        3  1  1  1  1  0  1  .324
+
+TOTALS:                            40 12 16 11  8  3 24
+
+
+BATTING
+2B: Ascher (32, Torres); Edwards (22, Torres).  3B: Appelbaum (8, Sanders). 
+HR: Holden (31, 6th inning off Wolfard, 2 on, 2 out).  RBI: Edwards 2 (74);
+Ascher 3 (77); Appelbaum (63); Holden 3 (101); Toro (54); Dlouhy (25).  2-OUT
+RBI: Edwards; Ascher 2; Appelbaum; Holden 3.  Runners left in scoring position,
+2 outs: Appelbaum; Harness 2; Chevalier; Lawrence.  GIDP: Harness; Moffitt. 
+Team LOB: 8.  
+
+BASERUNNING
+SB: Toro (9, 2nd base off Sanders/Emery).  CS: Harness (9, 2nd base by
+Torres/Emery).  Picked off: Edwards (1st base, Torres); Ascher (1st base,
+Sanders).  
+
+
+Louisville                         AB  R  H BI BB SO LO   AVG
+
+Dwight Crosby rf                    3  0  0  0  0  0  1  .274
+  Ferdinand Perreira rf             1  0  0  0  1  0  0  .188
+Diego Cafaro 2b                     4  0  1  0  0  2  0  .265
+Freddie Christopher 1b              3  1  2  1  0  0  0  .322
+  Bob Letchworth 1b                 1  0  0  0  0  0  3  .293
+Alfred Emery c                      3  0  1  0  0  1  0  .276
+  Jose Flannery c                   1  0  1  0  0  0  0  .250
+Eduardo Vanous dh                   2  0  0  0  2  1  2  .272
+MC Zwart lf                         4  0  0  0  0  1  2  .291
+Joe Pickett 3b                      4  0  1  0  0  1  4  .314
+Ray Massar cf                       4  0  1  0  0  0  3  .276
+Abel Hinkle ss                      4  0  1  0  0  0  1  .276
+
+TOTALS:                            34  1  8  1  3  6 16
+
+
+BATTING
+HR: Christopher (30, 4th inning off James, 0 on, 1 out).  RBI: Christopher
+(95).  Runners left in scoring position, 2 outs: Massar 2; Zwart; Letchworth. 
+GIDP: Zwart.  Team LOB: 9.  
+
+FIELDING
+E: Zwart (9, fly ball); Christopher (9, throw).  
+
+
+Bowie                            IP     H  R ER BB SO HR   ERA
+
+Danny James (W, 10-5)           6       5  1  1  1  4  1  4.71
+Santiago Sullivan                 2/3   2  0  0  1  0  0  4.50
+Arquimedez Timpone              2 1/3   1  0  0  1  2  0  4.47
+
+
+Louisville                       IP     H  R ER BB SO HR   ERA
+
+Tito Torres (L, 3-5)            4       6  4  3  3  2  0  5.53
+Lynn Sanders                    1 2/3   2  4  1  2  0  0  3.60
+Rich Wolfard                      1/3   2  3  2  1  0  1  6.22
+Brandon Maxwell                 1       3  1  1  1  1  0  5.40
+Pete Moon                       2       3  0  0  0  0  0  5.24
+
+Torres pitched to 1 batter in the 5th.  Wolfard pitched to 2 batters in the
+7th.  
+
+IBB: Chevalier (by Sanders).  Pitches-Strikes:  Torres 88-59; Sanders 48-32;
+Wolfard 17-10; Maxwell 32-19; Moon 23-17; James 98-74; Sullivan 16-12; Timpone
+38-32.  Ground balls-Fly balls:  Torres 6-8; Sanders 5-3; Wolfard 1-2; Maxwell
+4-1; Moon 3-4; James 8-10; Sullivan 3-1; Timpone 5-1.  Batters faced:  Torres
+20; Sanders 10; Wolfard 4; Maxwell 7; Moon 7; James 23; Sullivan 5; Timpone 9.  
+
+Umpires:  HP: John Bolton.  1B: Ross Borden.  2B: Ed Montague.  3B: Sam Sheth. 
+T: 3:33.  Att: 42,559.  Weather: 75 degrees, clear.  Wind: 16 mph, across, left
+to right.  
+
+
+High Heat Baseball Player of the Game:  Johnnie Edwards
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bowie batting
+
+Ashton Appelbaum struck out swinging.
+Louis Chevalier struck out looking.
+Hector Moffitt flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 0, Louisville 0
+
+
+Bottom of the 1st inning:  Louisville batting
+
+Dwight Crosby flied out to left.
+Diego Cafaro struck out swinging.
+Freddie Christopher grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 0, Louisville 0
+
+
+Top of the 2nd inning:  Bowie batting
+
+James Holden singled.
+Mo Ascher grounded into fielder's choice to third.
+Johnny Lawrence walked, Ascher to second.
+Cary Harness flied out to left.
+Johnnie Edwards singled, Ascher SCORED, Lawrence to third.
+Edwards was picked off first base by Torres.
+
+1 Run, 2 Hits, 0 Errors
+Bowie 1, Louisville 0
+
+
+Bottom of the 2nd inning:  Louisville batting
+
+Alfred Emery singled.
+Eduardo Vanous walked, Emery to second.
+MC Zwart grounded into double play to second, Vanous to second.
+Joe Pickett grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 1, Louisville 0
+
+
+Top of the 3rd inning:  Bowie batting
+
+Ashton Appelbaum singled.
+Louis Chevalier grounded into fielder's choice to first.
+Hector Moffitt popped out to third.
+James Holden walked, Chevalier to second.
+Mo Ascher doubled, Chevalier SCORED, Holden SCORED.
+Johnny Lawrence fouled out to third.
+
+2 Runs, 2 Hits, 0 Errors
+Bowie 3, Louisville 0
+
+
+Bottom of the 3rd inning:  Louisville batting
+
+Ray Massar flied out to center.
+Abel Hinkle grounded out to third.
+Dwight Crosby flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 3, Louisville 0
+
+
+Top of the 4th inning:  Bowie batting
+
+Cary Harness singled.
+Harness caught stealing second base.
+Johnnie Edwards doubled.
+Carl Toro flied out to shortstop.
+Ashton Appelbaum flied out to left.
+
+0 Runs, 2 Hits, 0 Errors
+Bowie 3, Louisville 0
+
+
+Bottom of the 4th inning:  Louisville batting
+
+Diego Cafaro struck out looking.
+Freddie Christopher HOMERED.
+Alfred Emery flied out to right.
+Eduardo Vanous flied out to center.
+
+1 Run, 1 Hit, 0 Errors
+Bowie 3, Louisville 1
+
+
+Top of the 5th inning:  Bowie batting
+
+Louis Chevalier walked.
+Lynn Sanders relieved Tito Torres.
+Hector Moffitt fouled out to third.
+James Holden was safe after MC Zwart committed a fielding error, Chevalier to second.
+Mo Ascher singled, Chevalier SCORED, Holden to third.
+Ascher was picked off first base by Sanders.
+Johnny Lawrence grounded out to first.
+
+1 Run, 1 Hit, 1 Error
+Bowie 4, Louisville 1
+
+
+Bottom of the 5th inning:  Louisville batting
+
+MC Zwart flied out to left.
+Joe Pickett singled.
+Ray Massar popped out to catcher.
+Abel Hinkle flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 4, Louisville 1
+
+
+Top of the 6th inning:  Bowie batting
+
+Cary Harness fouled out to first.
+Johnnie Edwards grounded out to shortstop.
+Carl Toro walked.
+Toro stole second base.
+Ashton Appelbaum tripled, Toro SCORED.
+Louis Chevalier was walked intentionally.
+Hector Moffitt was safe after Freddie Christopher committed a throwing error,
+Rich Wolfard relieved Lynn Sanders.
+James Holden HOMERED, Chevalier SCORED, Moffitt SCORED.
+Mo Ascher popped out to second.
+
+5 Runs, 2 Hits, 1 Error
+Bowie 9, Louisville 1
+
+
+Bottom of the 6th inning:  Louisville batting
+
+Adrian Dlouhy came in for Ashton Appelbaum in left.
+Charles Lalli came in for Louis Chevalier at third.
+Dwight Crosby grounded out to third.
+Diego Cafaro singled.
+Freddie Christopher singled, Cafaro to third.
+Alfred Emery struck out looking.
+Eduardo Vanous struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+Bowie 9, Louisville 1
+
+
+Top of the 7th inning:  Bowie batting
+
+Ferdinand Perreira came in for Dwight Crosby in right.
+Bob Letchworth came in for Freddie Christopher at first.
+Jose Flannery came in for Alfred Emery at catcher.
+Johnny Lawrence walked.
+Cary Harness singled, Lawrence to third.
+Brandon Maxwell relieved Rich Wolfard.
+Johnnie Edwards singled, Lawrence SCORED, Harness to third.
+Carl Toro singled, Harness SCORED, Edwards to third.
+Adrian Dlouhy singled, Edwards SCORED, Toro to second.
+Charles Lalli struck out looking.
+Hector Moffitt grounded into fielder's choice to second, Dlouhy to second.
+James Holden walked, Moffitt to second, Dlouhy to third.
+Mo Ascher grounded out to first.
+
+3 Runs, 4 Hits, 0 Errors
+Bowie 12, Louisville 1
+
+
+Bottom of the 7th inning:  Louisville batting
+
+Santiago Sullivan relieved Danny James.
+MC Zwart fouled out to third.
+Joe Pickett grounded out to second.
+Ray Massar singled.
+Abel Hinkle singled, Massar to third.
+Ferdinand Perreira walked, Hinkle to second.
+Arquimedez Timpone relieved Santiago Sullivan.
+Diego Cafaro grounded out to second.
+
+0 Runs, 2 Hits, 0 Errors
+Bowie 12, Louisville 1
+
+
+Top of the 8th inning:  Bowie batting
+
+Pete Moon relieved Brandon Maxwell.
+Johnny Lawrence singled.
+Cary Harness grounded into double play to pitcher.
+Johnnie Edwards singled.
+Carl Toro flied out to left.
+
+0 Runs, 2 Hits, 0 Errors
+Bowie 12, Louisville 1
+
+
+Bottom of the 8th inning:  Louisville batting
+
+Bob Letchworth grounded out to first.
+Jose Flannery singled.
+Eduardo Vanous walked, Flannery to second.
+MC Zwart struck out looking.
+Joe Pickett struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 12, Louisville 1
+
+
+Top of the 9th inning:  Bowie batting
+
+Adrian Dlouhy grounded out to third.
+Charles Lalli singled.
+Hector Moffitt grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 12, Louisville 1
+
+
+Bottom of the 9th inning:  Louisville batting
+
+Ray Massar grounded out to pitcher.
+Abel Hinkle grounded out to shortstop.
+Ferdinand Perreira grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 12, Louisville 1
+
+
+END

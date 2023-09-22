@@ -1,0 +1,306 @@
+Team7 vs Team3 (Day 135)
+
+Date of game:  Aug 13, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Amarillo           0 3 0  0 0 0  0 0 0     3  7  4
+Hartford           0 0 2  0 2 0  3 2 X     9 10  2
+
+
+Amarillo                           AB  R  H BI BB SO LO   AVG
+
+John Grant 3b                       4  0  1  0  0  0  1  .369
+Wayne Pipkins 1b                    4  0  0  0  0  0  1  .309
+John McCauley dh                    4  0  1  0  0  1  1  .321
+George Laurenzano rf                4  1  1  0  0  0  0  .263
+Mike Rexroat lf                     4  1  2  2  0  0  1  .305
+Brock Heishman ss                   3  0  1  0  1  0  0  .288
+Isiah Rann cf                       4  1  1  0  0  1  2  .256
+Bryan Breheny 2b                    4  0  0  0  0  1  3  .242
+Willie Schuett c                    2  0  0  0  0  0  0  .255
+  Edwin Gobble ph-c                 1  0  0  0  0  1  2  .258
+
+TOTALS:                            34  3  7  2  1  4 11
+
+
+BATTING
+2B: Rann (33, Bobb).  HR: Rexroat (8, 2nd inning off Bobb, 1 on, 0 out).  RBI:
+Rexroat 2 (37).  Runners left in scoring position, 2 outs: Pipkins; Rann;
+Gobble.  GIDP: Pipkins.  Team LOB: 5.  
+
+BASERUNNING
+CS: Heishman (7, 2nd base by Bobb/Ronda).  
+
+FIELDING
+E: Grant (2, foul fly); Pipkins (4, throw); Rexroat (6, fly ball); Rann (14,
+fly ball).  
+
+
+Hartford                           AB  R  H BI BB SO LO   AVG
+
+Dave Ingwerson 3b                   4  2  1  0  1  0  1  .324
+  Jack Compton 3b                   0  0  0  0  0  0  0  .310
+Guy Chancy rf                       5  1  1  1  0  2  3  .246
+Bill Korn dh                        4  2  1  2  1  0  2  .267
+Paul Baumer ss                      5  2  3  1  0  0  0  .290
+Harold Dildy 2b                     3  1  0  0  3  1  0  .267
+Charlie Nancy 1b                    4  1  2  0  1  0  4  .308
+Woody Selley lf                     5  0  1  1  0  1  0  .272
+Silas McGinnis cf                   3  0  1  0  1  1  7  .287
+Bennie Ronda c                      2  0  0  1  2  0  3  .294
+  Clyde Lafleur c                   0  0  0  0  0  0  0  .241
+
+TOTALS:                            35  9 10  6  9  5 20
+
+
+BATTING
+2B: Ingwerson (37, Gonzalez); Baumer (26, Martinez).  HR: Korn (7, 3rd inning
+off Gonzalez, 1 on, 2 out).  RBI: Korn 2 (28); Chancy (35); Baumer (83); Selley
+(42); Ronda (45).  2-OUT RBI: Korn 2; Selley; Ronda.  Runners left in scoring
+position, 2 outs: Ronda; McGinnis 2; Chancy.  GIDP: Chancy; Ronda.  Team LOB:
+10.  
+
+FIELDING
+E: Chancy (2, fly ball); Dildy (8, throw).  
+
+
+Amarillo                         IP     H  R ER BB SO HR   ERA
+
+Elliott Gonzalez (L, 7-8)       4 1/3   5  4  4  3  3  1  5.52
+Cleveland Garcia                2 1/3   2  3  0  3  2  0  5.67
+Roberto Martinez                1       3  2  0  2  0  0  5.45
+Nathan Neal                       1/3   0  0  0  0  0  0  5.56
+
+
+Hartford                         IP     H  R ER BB SO HR   ERA
+
+Fred Bobb (W, 3-6)              8 1/3   6  3  2  1  4  1  4.23
+Ray Stvrestil                     2/3   1  0  0  0  0  0 20.25
+
+
+IBB: Dildy (by Martinez).  Pitches-Strikes:  Bobb 131-98; Stvrestil 14-11;
+Gonzalez 95-68; Garcia 58-41; Martinez 32-18; Neal 5-3.  Ground balls-Fly
+balls:  Bobb 15-12; Stvrestil 1-2; Gonzalez 6-8; Garcia 6-2; Martinez 5-2; Neal
+1-0.  Batters faced:  Bobb 32; Stvrestil 3; Gonzalez 20; Garcia 13; Martinez 9;
+Neal 1.  
+
+Umpires:  HP: Sam Sheth.  1B: John Yellott.  2B: Ed Montague.  3B: Mike
+Coustier.  T: 3:23.  Att: 23,487.  Weather: 84 degrees, clear.  Wind: 3 mph,
+out to right.  
+
+
+High Heat Baseball Player of the Game:  Bill Korn
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Amarillo batting
+
+John Grant singled.
+Wayne Pipkins grounded into double play to third.
+John McCauley struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Amarillo 0, Hartford 0
+
+
+Bottom of the 1st inning:  Hartford batting
+
+Dave Ingwerson grounded out to third.
+Guy Chancy struck out swinging.
+Bill Korn flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 0, Hartford 0
+
+
+Top of the 2nd inning:  Amarillo batting
+
+George Laurenzano singled.
+Mike Rexroat HOMERED, Laurenzano SCORED.
+Brock Heishman grounded out to second.
+Isiah Rann doubled.
+Bryan Breheny was safe after Guy Chancy committed a fielding error, Rann
+Willie Schuett grounded out to third, Breheny to third.
+John Grant grounded out to first.
+
+3 Runs, 3 Hits, 1 Error
+Amarillo 3, Hartford 0
+
+
+Bottom of the 2nd inning:  Hartford batting
+
+Paul Baumer flied out to center.
+Harold Dildy walked.
+Charlie Nancy singled, Dildy to third.
+Woody Selley struck out looking.
+Silas McGinnis flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Amarillo 3, Hartford 0
+
+
+Top of the 3rd inning:  Amarillo batting
+
+Wayne Pipkins flied out to right.
+John McCauley grounded out to shortstop.
+George Laurenzano popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 3, Hartford 0
+
+
+Bottom of the 3rd inning:  Hartford batting
+
+Bennie Ronda walked.
+Dave Ingwerson walked, Ronda to second.
+Guy Chancy grounded into double play to shortstop, Ingwerson to second.
+Bill Korn HOMERED, Ingwerson SCORED.
+Paul Baumer was safe after John Grant committed a fielding error.
+Paul Baumer fouled out to first.
+
+2 Runs, 1 Hit, 1 Error
+Amarillo 3, Hartford 2
+
+
+Top of the 4th inning:  Amarillo batting
+
+Mike Rexroat flied out to center.
+Brock Heishman walked.
+Heishman caught stealing second base.
+Isiah Rann grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 3, Hartford 2
+
+
+Bottom of the 4th inning:  Hartford batting
+
+Harold Dildy grounded out to catcher.
+Charlie Nancy singled.
+Woody Selley flied out to right.
+Silas McGinnis struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Amarillo 3, Hartford 2
+
+
+Top of the 5th inning:  Amarillo batting
+
+Bryan Breheny grounded out to first.
+Willie Schuett fouled out to catcher.
+John Grant popped out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 3, Hartford 2
+
+
+Bottom of the 5th inning:  Hartford batting
+
+Bennie Ronda popped out to first.
+Dave Ingwerson doubled.
+Guy Chancy singled, Ingwerson SCORED.
+Cleveland Garcia relieved Elliott Gonzalez.
+Bill Korn walked, Chancy to second.
+Paul Baumer singled, Chancy SCORED, Korn to third.
+Harold Dildy popped out to third.
+Charlie Nancy walked, Baumer to second.
+Woody Selley grounded out to pitcher.
+
+2 Runs, 3 Hits, 0 Errors
+Amarillo 3, Hartford 4
+
+
+Top of the 6th inning:  Amarillo batting
+
+Wayne Pipkins grounded out to first.
+John McCauley singled.
+George Laurenzano flied out to center.
+Mike Rexroat singled, McCauley to third.
+Brock Heishman fouled out to first.
+
+0 Runs, 2 Hits, 0 Errors
+Amarillo 3, Hartford 4
+
+
+Bottom of the 6th inning:  Hartford batting
+
+Silas McGinnis walked.
+Bennie Ronda grounded into double play to first.
+Dave Ingwerson grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 3, Hartford 4
+
+
+Top of the 7th inning:  Amarillo batting
+
+Isiah Rann struck out looking.
+Bryan Breheny struck out looking.
+Edwin Gobble hit for Willie Schuett.
+Edwin Gobble struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 3, Hartford 4
+
+
+Bottom of the 7th inning:  Hartford batting
+
+Guy Chancy struck out swinging.
+Bill Korn was safe after Wayne Pipkins committed a throwing error.
+Paul Baumer singled, Korn to third.
+Harold Dildy struck out swinging.
+Charlie Nancy was safe after Mike Rexroat committed a fielding error, Korn
+Roberto Martinez relieved Cleveland Garcia.
+Woody Selley singled, Baumer SCORED, Nancy to second.
+Silas McGinnis singled, Selley to second, Nancy to third.
+Bennie Ronda walked, Nancy SCORED, McGinnis to second, Selley to third.
+Dave Ingwerson grounded out to third.
+
+3 Runs, 3 Hits, 2 Errors
+Amarillo 3, Hartford 7
+
+
+Top of the 8th inning:  Amarillo batting
+
+Jack Compton came in for Dave Ingwerson at third.
+Clyde Lafleur came in for Bennie Ronda at catcher.
+John Grant popped out to first.
+Wayne Pipkins grounded out to second.
+John McCauley grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Amarillo 3, Hartford 7
+
+
+Bottom of the 8th inning:  Hartford batting
+
+Guy Chancy grounded out to second.
+Bill Korn flied out to shortstop.
+Paul Baumer doubled.
+Harold Dildy was walked intentionally.
+Charlie Nancy was safe after Isiah Rann committed a fielding error, Baumer
+Nathan Neal relieved Roberto Martinez.
+Woody Selley grounded out to first.
+
+2 Runs, 1 Hit, 1 Error
+Amarillo 3, Hartford 9
+
+
+Top of the 9th inning:  Amarillo batting
+
+George Laurenzano flied out to right.
+Mike Rexroat was safe after Harold Dildy committed a throwing error.
+Ray Stvrestil relieved Fred Bobb.
+Brock Heishman singled, Rexroat to third.
+Isiah Rann flied out to right.
+Bryan Breheny grounded out to second.
+
+0 Runs, 1 Hit, 1 Error
+Amarillo 3, Hartford 9
+
+
+END

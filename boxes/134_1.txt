@@ -1,0 +1,321 @@
+
+Date of game:  Aug 12, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Richmond           0 1 0  0 1 4  1 1 1     9 14  0
+San Jose           0 0 0  0 0 5  0 1 0     6  8  0
+
+
+Richmond                           AB  R  H BI BB SO LO   AVG
+
+Leap Day William cf                 4  1  2  1  0  0  1  .363
+Alfred Harrison rf                  5  1  2  1  0  1  0  .312
+Dutch van der Linde dh              4  1  1  1  1  2  3  .339
+Dalton Trumbull lf                  3  1  1  2  0  0  0  .329
+  Jack Gallegos lf                  2  0  0  0  0  0  1  .234
+Terry Kincaid 1b                    3  2  2  0  0  0  0  .319
+  Ken Gooch 1b                      2  1  1  0  0  0  2  .239
+Andrew Rice 2b                      4  1  3  3  0  0  1  .267
+Wilbur Shaw ss                      3  1  2  1  0  1  0  .316
+Glen Caron 3b                       3  0  0  0  1  0  1  .286
+Patrick Alvarez c                   3  0  0  0  1  0  3  .284
+
+TOTALS:                            36  9 14  9  3  4 12
+
+
+BATTING
+2B: Rice (13, James); Harrison (12, Leffler); van der Linde (27, Leffler).  HR:
+Trumbull (32, 6th inning off James, 1 on, 0 out); Rice (9, 6th inning off
+Whittington, 1 on, 0 out).  SF: William; Shaw.  RBI: Rice 3 (35); William (56);
+Trumbull 2 (121); Harrison (43); Shaw (54); van der Linde (81).  Runners left
+in scoring position, 2 outs: Alvarez; van der Linde; Rice.  GIDP: Harrison;
+Caron.  Team LOB: 5.  
+
+BASERUNNING
+SB: William (44, 2nd base off Connell/Defoore).  CS: Harrison (3, 2nd base by
+Connell/Defoore).  
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Ken Nettles cf                      3  1  0  0  1  1  1  .296
+Lee Defoore c                       4  1  1  1  0  1  1  .287
+Ricky Spanish rf                    4  0  0  0  0  3  1  .294
+Carl Heath 1b                       4  1  2  2  0  1  2  .253
+Anthony DiNozzo Jr. lf              4  1  1  1  0  1  0  .236
+Wallace Bruender dh                 2  1  1  2  1  0  2  .243
+  Ezra Snyder ph-dh                 1  0  0  0  0  1  0  .206
+Jaden Miedema 2b                    3  0  1  0  1  0  0  .257
+George Fogler ss                    4  0  1  0  0  2  3  .270
+Clem Stanforth 3b                   3  1  1  0  0  2  3  .235
+
+TOTALS:                            32  6  8  6  3 12 13
+
+
+BATTING
+2B: Heath (25, Thurston).  HR: Bruender (6, 6th inning off Thurston, 1 on, 2
+out); DiNozzo Jr. (15, 8th inning off Lage, 0 on, 2 out).  RBI: Defoore (41);
+Heath 2 (73); Bruender 2 (13); DiNozzo Jr. (44).  2-OUT RBI: Bruender 2;
+DiNozzo Jr..  Runners left in scoring position, 2 outs: Stanforth.  GIDP:
+Fogler.  Team LOB: 3.  
+
+BASERUNNING
+CS: Miedema (9, 2nd base by Lage/Alvarez).  
+
+
+Richmond                         IP     H  R ER BB SO HR   ERA
+
+Michael Thurston (W, 10-4)      5 2/3   6  5  5  3  7  1  5.16
+Ricardo Lage (H, 1)             2       2  1  1  0  3  1  5.32
+Skeeter Davis (H, 3)              1/3   0  0  0  0  1  0  3.77
+Ray Manues (S, 3)               1       0  0  0  0  2  0  5.15
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Brian James (L, 6-9)            5       5  4  4  3  3  1  3.83
+Allen Whittington               1       3  2  2  0  0  1  4.22
+Myron Connell                   1       2  1  1  0  1  0  3.09
+Bill Leffler                    1 1/3   4  2  2  0  0  0  5.98
+Bill Rodgers                      2/3   0  0  0  0  0  0  4.00
+
+James pitched to 2 batters in the 6th.  
+
+Pitches-Strikes:  James 93-66; Whittington 17-16; Connell 17-15; Leffler 23-14;
+Rodgers 7-4; Thurston 103-75; Lage 35-29; Davis 6-4; Manues 14-11.  Ground
+balls-Fly balls:  James 8-8; Whittington 3-2; Connell 2-1; Leffler 2-6; Rodgers
+2-0; Thurston 9-6; Lage 3-1; Davis 0-0; Manues 0-1.  Batters faced:  James 22;
+Whittington 5; Connell 4; Leffler 8; Rodgers 2; Thurston 25; Lage 7; Davis 1;
+Manues 3.  
+
+Umpires:  HP: Tony Peng.  1B: Scott Barcik.  2B: Paul Terry.  3B: Mike Dunhour.
+ T: 3:10.  Att: 21,621.  Weather: 82 degrees, cloudy.  Wind: 12 mph, across,
+right to left and slightly out.  
+
+
+High Heat Baseball Player of the Game:  Andrew Rice
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Richmond batting
+
+Leap Day William grounded out to shortstop.
+Alfred Harrison struck out swinging.
+Dutch van der Linde grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 0, San Jose 0
+
+
+Bottom of the 1st inning:  San Jose batting
+
+Ken Nettles grounded out to second.
+Lee Defoore grounded out to second.
+Ricky Spanish grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 0, San Jose 0
+
+
+Top of the 2nd inning:  Richmond batting
+
+Dalton Trumbull flied out to center.
+Terry Kincaid singled.
+Andrew Rice doubled, Kincaid SCORED.
+Wilbur Shaw struck out swinging.
+Glen Caron popped out to second.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 1, San Jose 0
+
+
+Bottom of the 2nd inning:  San Jose batting
+
+Carl Heath singled.
+Anthony DiNozzo Jr. flied out to center.
+Wallace Bruender walked, Heath to second.
+Jaden Miedema grounded out to third, Bruender to second, Heath to third.
+George Fogler struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 1, San Jose 0
+
+
+Top of the 3rd inning:  Richmond batting
+
+Patrick Alvarez fouled out to catcher.
+Leap Day William singled.
+Alfred Harrison grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 1, San Jose 0
+
+
+Bottom of the 3rd inning:  San Jose batting
+
+Clem Stanforth struck out looking.
+Ken Nettles struck out looking.
+Lee Defoore struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, San Jose 0
+
+
+Top of the 4th inning:  Richmond batting
+
+Dutch van der Linde struck out looking.
+Dalton Trumbull flied out to left.
+Terry Kincaid grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, San Jose 0
+
+
+Bottom of the 4th inning:  San Jose batting
+
+Ricky Spanish struck out looking.
+Carl Heath flied out to left.
+Anthony DiNozzo Jr. grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, San Jose 0
+
+
+Top of the 5th inning:  Richmond batting
+
+Andrew Rice flied out to center.
+Wilbur Shaw singled.
+Glen Caron walked, Shaw to second.
+Patrick Alvarez walked, Caron to second, Shaw to third.
+Leap Day William hit a sacrifice fly, Shaw SCORED.
+Alfred Harrison grounded out to third.
+
+1 Run, 1 Hit, 0 Errors
+Richmond 2, San Jose 0
+
+
+Bottom of the 5th inning:  San Jose batting
+
+Wallace Bruender flied out to right.
+Jaden Miedema singled.
+George Fogler grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 2, San Jose 0
+
+
+Top of the 6th inning:  Richmond batting
+
+Dutch van der Linde walked.
+Dalton Trumbull HOMERED, van der Linde SCORED.
+Allen Whittington relieved Brian James.
+Terry Kincaid singled.
+Andrew Rice HOMERED, Kincaid SCORED.
+Wilbur Shaw singled.
+Glen Caron grounded into double play to second.
+Patrick Alvarez popped out to third.
+
+4 Runs, 4 Hits, 0 Errors
+Richmond 6, San Jose 0
+
+
+Bottom of the 6th inning:  San Jose batting
+
+Jack Gallegos came in for Dalton Trumbull in left.
+Ken Gooch came in for Terry Kincaid at first.
+Clem Stanforth singled.
+Ken Nettles walked, Stanforth to second.
+Lee Defoore singled, Stanforth SCORED, Nettles to third.
+Ricky Spanish struck out looking.
+Carl Heath doubled, Nettles SCORED, Defoore SCORED.
+Anthony DiNozzo Jr. struck out looking.
+Wallace Bruender HOMERED, Heath SCORED.
+Jaden Miedema walked.
+Ricardo Lage relieved Michael Thurston.
+Miedema caught stealing second base.
+
+5 Runs, 4 Hits, 0 Errors
+Richmond 6, San Jose 5
+
+
+Top of the 7th inning:  Richmond batting
+
+Myron Connell relieved Allen Whittington.
+Leap Day William singled.
+William stole second base.
+Alfred Harrison singled, William SCORED.
+Dutch van der Linde struck out looking.
+Harrison caught stealing second base.
+Jack Gallegos flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 7, San Jose 5
+
+
+Bottom of the 7th inning:  San Jose batting
+
+George Fogler singled.
+Clem Stanforth struck out looking.
+Ken Nettles grounded into fielder's choice to second.
+Lee Defoore grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 7, San Jose 5
+
+
+Top of the 8th inning:  Richmond batting
+
+Bill Leffler relieved Myron Connell.
+Ken Gooch singled.
+Andrew Rice singled, Gooch to third.
+Wilbur Shaw hit a sacrifice fly, Gooch SCORED.
+Glen Caron flied out to right.
+Patrick Alvarez flied out to right.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 8, San Jose 5
+
+
+Bottom of the 8th inning:  San Jose batting
+
+Ricky Spanish struck out looking.
+Carl Heath struck out swinging.
+Anthony DiNozzo Jr. HOMERED.
+Ezra Snyder hit for Wallace Bruender.
+Skeeter Davis relieved Ricardo Lage.
+Ezra Snyder struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+Richmond 8, San Jose 6
+
+
+Top of the 9th inning:  Richmond batting
+
+Leap Day William popped out to first.
+Alfred Harrison doubled.
+Dutch van der Linde doubled, Harrison SCORED.
+Bill Rodgers relieved Bill Leffler.
+Jack Gallegos grounded out to first, van der Linde to third.
+Ken Gooch grounded out to first.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 9, San Jose 6
+
+
+Bottom of the 9th inning:  San Jose batting
+
+Ray Manues relieved Skeeter Davis.
+Jaden Miedema fouled out to third.
+George Fogler struck out looking.
+Todd Brumit hit for Clem Stanforth.
+Todd Brumit struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 9, San Jose 6
+
+
+END

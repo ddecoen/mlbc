@@ -1,0 +1,340 @@
+
+Date of game:  Aug 15, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bowie              2 3 5  0 1 1  4 0 0    16 17  0
+Scranton           2 0 1  0 0 1  0 0 0     4 12  0
+
+
+Bowie                              AB  R  H BI BB SO LO   AVG
+
+Ashton Appelbaum lf                 4  1  3  4  0  0  0  .339
+  Hector Moffitt lf                 2  1  1  1  0  0  0  .235
+Louis Chevalier 3b                  4  2  1  0  0  0  1  .323
+  Charles Lalli 3b                  2  0  0  0  0  0  0  .310
+Raymond Sucharski 1b                4  1  2  3  0  2  2  .331
+  Adrian Dlouhy 1b                  2  1  1  1  0  1  1  .269
+James Holden dh                     5  1  0  0  1  0  1  .319
+Mo Ascher rf                        4  0  0  0  1  0  2  .286
+Johnny Lawrence 2b                  3  3  3  2  2  0  2  .344
+Cary Harness c                      4  1  2  1  1  0  0  .311
+Johnnie Edwards ss                  5  3  2  1  0  1  4  .297
+Carl Toro cf                        3  2  2  3  0  0  3  .324
+
+TOTALS:                            42 16 17 16  5  4 16
+
+
+BATTING
+2B: Appelbaum (25, Stewart); Harness (27, Mochel); Edwards (21, Gorsline);
+Moffitt (9, Gorsline).  3B: Chevalier (1, Mochel).  HR: Sucharski (16, 1st
+inning off Stewart, 1 on, 1 out); Lawrence (22, 2nd inning off Stewart, 0 on, 0
+out); Appelbaum (9, 3rd inning off Stem, 1 on, 2 out).  SF: Toro.  RBI:
+Sucharski 3 (66); Lawrence 2 (86); Appelbaum 4 (62); Harness (54); Edwards
+(72); Toro 3 (53); Moffitt (14); Dlouhy (24).  2-OUT RBI: Appelbaum 2;
+Lawrence.  Runners left in scoring position, 2 outs: Holden; Chevalier; Edwards
+2.  Team LOB: 6.  
+
+
+Scranton                           AB  R  H BI BB SO LO   AVG
+
+Cash Case 2b                        5  0  0  0  0  1  0  .278
+Jeffrey Whitney c                   4  1  2  0  1  1  5  .321
+Sergei Bobinsky 3b                  5  1  2  0  0  1  2  .314
+Danny Allen dh                      3  1  2  2  2  0  2  .281
+Jose Largen ss                      5  0  2  0  0  1  1  .248
+Dominick Konarski 1b                2  0  1  1  0  0  4  .303
+  Johnny Silverhand 1b              2  0  0  0  0  1  0  .308
+  Joss Whedon ph                    1  0  0  0  0  0  0  .256
+Brandon Eubanks cf                  3  0  0  0  1  0  5  .264
+Lorenzo Spencer lf                  4  1  1  1  0  3  1  .257
+Mark Hamill rf                      2  0  2  0  2  0  1  .303
+
+TOTALS:                            36  4 12  4  6  8 21
+
+
+BATTING
+2B: Bobinsky (44, Kaase); Allen 2 (8, Kaase, Kaase); Konarski (11, Kaase).  3B:
+Hamill (4, Hayes).  HR: Spencer (12, 6th inning off Kaase, 0 on, 2 out).  RBI:
+Allen 2 (15); Konarski (49); Spencer (45).  2-OUT RBI: Konarski; Spencer. 
+Runners left in scoring position, 2 outs: Eubanks 3; Bobinsky; Spencer;
+Konarski; Whitney.  GIDP: Largen; Case; Bobinsky.  Team LOB: 11.  
+
+
+Bowie                            IP     H  R ER BB SO HR   ERA
+
+Jeffrey Kaase (W, 10-5)         5 2/3   9  4  4  3  4  1  5.88
+Archibald Hayes                   1/3   1  0  0  1  0  0  4.17
+Quentin Kirkpatrick               2/3   1  0  0  0  1  0  4.84
+Reginald Dickerson              1       0  0  0  1  2  0  3.77
+Joe Grossman                    1       0  0  0  1  1  0  4.39
+Santiago Sullivan                 1/3   1  0  0  0  0  0  4.66
+
+
+Scranton                         IP     H  R ER BB SO HR   ERA
+
+Carl Stewart (L, 7-6)           2 1/3   5  7  7  3  1  2  5.18
+Irwin Stem                      1 2/3   3  3  3  0  1  1  5.68
+Joe Mochel                      1       4  2  2  0  0  0  4.82
+Nick McDonald                   1       0  0  0  1  0  0  7.70
+Hugh Gorsline                   0       3  3  3  0  0  0  9.47
+Frank Texiera                   3       2  1  1  1  2  0  1.93
+
+Mochel pitched to 2 batters in the 6th.  Gorsline pitched to 3 batters in the
+7th.  Hayes pitched to 1 batter in the 7th.  
+
+WP: Texiera.  Pitches-Strikes:  Stewart 65-46; Stem 27-23; Mochel 25-23;
+McDonald 19-15; Gorsline 10-9; Texiera 52-35; Kaase 109-80; Hayes 12-7;
+Kirkpatrick 11-9; Dickerson 20-13; Grossman 13-9; Sullivan 4-4.  Ground
+balls-Fly balls:  Stewart 6-5; Stem 4-3; Mochel 6-1; McDonald 1-2; Gorsline
+1-2; Texiera 4-5; Kaase 10-9; Hayes 0-2; Kirkpatrick 1-1; Dickerson 0-1;
+Grossman 1-1; Sullivan 1-1.  Batters faced:  Stewart 15; Stem 8; Mochel 7;
+McDonald 4; Gorsline 3; Texiera 12; Kaase 26; Hayes 3; Kirkpatrick 3; Dickerson
+4; Grossman 4; Sullivan 2.  
+
+Umpires:  HP: Mike Coustier.  1B: Joe Damon.  2B: Chuck Woo.  3B: Ed Montague. 
+T: 3:42.  Att: 19,446.  Weather: 68 degrees, partly cloudy.  Wind: 1 mph,
+across, right to left and slightly in.  
+
+
+High Heat Baseball Player of the Game:  Ashton Appelbaum
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bowie batting
+
+Ashton Appelbaum singled.
+Louis Chevalier grounded into fielder's choice to second.
+Raymond Sucharski HOMERED, Chevalier SCORED.
+James Holden fouled out to first.
+Mo Ascher flied out to right.
+
+2 Runs, 2 Hits, 0 Errors
+Bowie 2, Scranton 0
+
+
+Bottom of the 1st inning:  Scranton batting
+
+Cash Case flied out to right.
+Jeffrey Whitney singled.
+Sergei Bobinsky doubled, Whitney to third.
+Danny Allen doubled, Whitney SCORED, Bobinsky SCORED.
+Jose Largen struck out looking.
+Dominick Konarski grounded out to first.
+
+2 Runs, 3 Hits, 0 Errors
+Bowie 2, Scranton 2
+
+
+Top of the 2nd inning:  Bowie batting
+
+Johnny Lawrence HOMERED.
+Cary Harness walked.
+Johnnie Edwards grounded into fielder's choice to second.
+Carl Toro singled, Edwards to third.
+Ashton Appelbaum doubled, Edwards SCORED, Toro SCORED.
+Louis Chevalier grounded out to second, Appelbaum to third.
+Raymond Sucharski struck out looking.
+
+3 Runs, 3 Hits, 0 Errors
+Bowie 5, Scranton 2
+
+
+Bottom of the 2nd inning:  Scranton batting
+
+Brandon Eubanks walked.
+Lorenzo Spencer struck out looking.
+Mark Hamill singled, Eubanks to third.
+Cash Case grounded out to shortstop, Hamill to second.
+Jeffrey Whitney struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 5, Scranton 2
+
+
+Top of the 3rd inning:  Bowie batting
+
+James Holden walked.
+Mo Ascher flied out to right.
+Johnny Lawrence walked, Holden to second.
+Irwin Stem relieved Carl Stewart.
+Cary Harness singled, Holden SCORED, Lawrence to third.
+Johnnie Edwards singled, Lawrence SCORED, Harness to third.
+Carl Toro hit a sacrifice fly, Harness SCORED.
+Ashton Appelbaum HOMERED, Edwards SCORED.
+Louis Chevalier flied out to right.
+
+5 Runs, 3 Hits, 0 Errors
+Bowie 10, Scranton 2
+
+
+Bottom of the 3rd inning:  Scranton batting
+
+Sergei Bobinsky singled.
+Danny Allen walked, Bobinsky to second.
+Jose Largen grounded into double play to third, Allen to second.
+Dominick Konarski doubled, Allen SCORED.
+Brandon Eubanks flied out to left.
+
+1 Run, 2 Hits, 0 Errors
+Bowie 10, Scranton 3
+
+
+Top of the 4th inning:  Bowie batting
+
+Raymond Sucharski struck out swinging.
+James Holden grounded out to third.
+Mo Ascher grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 10, Scranton 3
+
+
+Bottom of the 4th inning:  Scranton batting
+
+Lorenzo Spencer struck out looking.
+Mark Hamill walked.
+Cash Case grounded into double play to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 10, Scranton 3
+
+
+Top of the 5th inning:  Bowie batting
+
+Joe Mochel relieved Irwin Stem.
+Johnny Lawrence singled.
+Cary Harness doubled, Lawrence to third.
+Johnnie Edwards grounded out to second.
+Carl Toro grounded out to shortstop, Lawrence SCORED.
+Ashton Appelbaum grounded out to pitcher.
+
+1 Run, 2 Hits, 0 Errors
+Bowie 11, Scranton 3
+
+
+Bottom of the 5th inning:  Scranton batting
+
+Jeffrey Whitney singled.
+Sergei Bobinsky grounded into double play to first.
+Danny Allen doubled.
+Jose Largen flied out to center.
+
+0 Runs, 2 Hits, 0 Errors
+Bowie 11, Scranton 3
+
+
+Top of the 6th inning:  Bowie batting
+
+Johnny Silverhand came in for Dominick Konarski at first.
+Louis Chevalier tripled.
+Raymond Sucharski singled, Chevalier SCORED.
+Nick McDonald relieved Joe Mochel.
+James Holden flied out to center.
+Mo Ascher grounded into fielder's choice to third.
+Johnny Lawrence walked, Ascher to second.
+Cary Harness flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Bowie 12, Scranton 3
+
+
+Bottom of the 6th inning:  Scranton batting
+
+Hector Moffitt came in for Ashton Appelbaum in left.
+Charles Lalli came in for Louis Chevalier at third.
+Adrian Dlouhy came in for Raymond Sucharski at first.
+Johnny Silverhand popped out to third.
+Brandon Eubanks grounded out to second.
+Lorenzo Spencer HOMERED.
+Archibald Hayes relieved Jeffrey Kaase.
+Mark Hamill tripled.
+Cash Case fouled out to first.
+
+1 Run, 2 Hits, 0 Errors
+Bowie 12, Scranton 4
+
+
+Top of the 7th inning:  Bowie batting
+
+Hugh Gorsline relieved Nick McDonald.
+Johnnie Edwards doubled.
+Carl Toro singled, Edwards SCORED.
+Hector Moffitt doubled, Toro SCORED.
+Frank Texiera relieved Hugh Gorsline.
+Charles Lalli grounded out to second, Moffitt to third.
+Adrian Dlouhy singled, Moffitt SCORED.
+James Holden popped out to catcher.
+Mo Ascher walked, Dlouhy to second.
+Wild pitch by Frank Texiera, Ascher to second, Dlouhy to third.
+Johnny Lawrence singled, Dlouhy SCORED, Ascher to third.
+Cary Harness fouled out to catcher.
+
+4 Runs, 5 Hits, 0 Errors
+Bowie 16, Scranton 4
+
+
+Bottom of the 7th inning:  Scranton batting
+
+Jeffrey Whitney walked.
+Quentin Kirkpatrick relieved Archibald Hayes.
+Sergei Bobinsky struck out swinging.
+Danny Allen popped out to third.
+Jose Largen singled, Whitney to third.
+Reginald Dickerson relieved Quentin Kirkpatrick.
+Johnny Silverhand struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 16, Scranton 4
+
+
+Top of the 8th inning:  Bowie batting
+
+Johnnie Edwards struck out looking.
+Carl Toro grounded out to second.
+Hector Moffitt fouled out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 16, Scranton 4
+
+
+Bottom of the 8th inning:  Scranton batting
+
+Brandon Eubanks popped out to first.
+Lorenzo Spencer struck out looking.
+Mark Hamill walked.
+Joe Grossman relieved Reginald Dickerson.
+Cash Case struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 16, Scranton 4
+
+
+Top of the 9th inning:  Bowie batting
+
+Charles Lalli flied out to shortstop.
+Adrian Dlouhy struck out swinging.
+James Holden flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Bowie 16, Scranton 4
+
+
+Bottom of the 9th inning:  Scranton batting
+
+Jeffrey Whitney flied out to right.
+Sergei Bobinsky grounded out to second.
+Danny Allen walked.
+Santiago Sullivan relieved Joe Grossman.
+Jose Largen singled, Allen to second.
+Joss Whedon hit for Johnny Silverhand.
+Joss Whedon grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Bowie 16, Scranton 4
+
+
+END

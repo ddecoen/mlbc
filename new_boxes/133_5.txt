@@ -1,0 +1,307 @@
+Team2 vs Team8 (Day 133)
+
+Date of game:  Aug 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bangor             1 0 3  0 0 0  1 0 0     5 12  2
+Peoria             0 2 5  0 0 0  0 2 X     9 14  1
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Gerald Rodriguez 2b                 5  1  1  0  0  1  1  .323
+Frederic Oromocto dh                5  2  2  0  0  1  1  .333
+Corey Kemnitz 3b                    5  1  3  0  0  0  0  .331
+Bryan Nardecchia lf                 4  1  2  1  1  0  3  .304
+Shosei Go cf                        5  0  2  3  0  2  2  .290
+King Slender 1b                     4  0  0  0  0  1  3  .260
+Ron Saults c                        4  0  2  1  0  1  5  .251
+Alexis Whaley ss                    4  0  0  0  0  0  2  .272
+Jeffery Houston rf                  4  0  0  0  0  0  3  .275
+
+TOTALS:                            40  5 12  5  1  6 20
+
+
+BATTING
+2B: Saults (11, Torrance).  RBI: Go 3 (76); Saults (55); Nardecchia (77). 
+2-OUT RBI: Go; Saults.  Runners left in scoring position, 2 outs: Saults;
+Houston; Oromocto; Whaley.  Team LOB: 9.  
+
+BASERUNNING
+SB: Go (15, 2nd base off Jacobs/Roche).  
+
+FIELDING
+E: Slender 2 (17, throw, ground ball).  
+
+
+Peoria                             AB  R  H BI BB SO LO   AVG
+
+Ken Slaney ss                       5  0  1  1  0  1  1  .323
+Walt Pidgeon dh                     5  0  1  1  0  2  4  .265
+Jimmie McKinney 2b                  5  1  2  0  0  1  3  .342
+Sheridan Whiteside 1b               3  1  1  0  0  0  2  .305
+Mike Roche c                        4  2  2  1  0  0  1  .317
+Zager Evans lf                      4  1  1  0  0  0  0  .296
+  Ruben Auna lf                     0  0  0  0  0  0  0  .291
+Gregg Battiest rf                   4  3  3  5  0  0  3  .297
+  Ron Zukowski rf                   0  0  0  0  0  0  0  .347
+Francisco Stewart 3b                4  1  1  0  0  0  0  .311
+Will White cf                       4  0  2  0  0  0  1  .353
+
+TOTALS:                            38  9 14  8  0  4 15
+
+
+BATTING
+2B: Roche (31, Jackson); Slaney (24, Jennings); Evans (19, Jennings).  HR:
+Battiest (1, 2nd inning off Jackson, 1 on, 1 out).  RBI: Battiest 5 (20); Roche
+(91); Slaney (70); Pidgeon (50).  2-OUT RBI: Battiest 2; Slaney; Pidgeon. 
+Runners left in scoring position, 2 outs: Pidgeon; McKinney; Whiteside.  GIDP:
+Pidgeon.  Team LOB: 5.  
+
+BASERUNNING
+Picked off: McKinney (1st base, Jackson).  
+
+FIELDING
+E: Stewart (6, fly ball).  
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Sriracha Jackson (L, 8-11)      2 2/3   8  6  5  0  1  1  5.86
+Paul Jennings                   5 1/3   6  3  2  0  3  0  3.79
+
+
+Peoria                           IP     H  R ER BB SO HR   ERA
+
+Glenn Jacobs                    2 2/3   7  4  4  1  2  0  4.72
+Lawrence Torrance (W, 5-4)      3 2/3   4  1  1  0  1  0  5.20
+Paul Herman (S, 7)              2 2/3   1  0  0  0  3  0  4.50
+
+
+WP: Torrance.  Pitches-Strikes:  Jacobs 64-51; Torrance 55-44; Herman 29-24;
+Jackson 49-39; Jennings 87-67.  Ground balls-Fly balls:  Jacobs 9-4; Torrance
+8-6; Herman 3-4; Jackson 10-4; Jennings 11-9.  Batters faced:  Jacobs 16;
+Torrance 15; Herman 10; Jackson 16; Jennings 23.  
+
+Umpires:  HP: Trip Hawkins.  1B: Tony Peng.  2B: John Yellott.  3B: Mike
+Coustier.  T: 5:54.  Att: 50,821.  Weather: 84 degrees, partly cloudy.  Wind: 3
+mph, in from left-center.  
+
+
+High Heat Baseball Player of the Game:  Gregg Battiest
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bangor batting
+
+Gerald Rodriguez struck out looking.
+Frederic Oromocto flied out to center.
+Corey Kemnitz singled.
+Bryan Nardecchia singled, Kemnitz to second.
+Shosei Go singled, Kemnitz SCORED, Nardecchia to third.
+Go stole second base.
+King Slender grounded out to first.
+
+1 Run, 3 Hits, 0 Errors
+Bangor 1, Peoria 0
+
+
+Bottom of the 1st inning:  Peoria batting
+
+Ken Slaney grounded out to shortstop.
+Walt Pidgeon struck out looking.
+Jimmie McKinney singled.
+McKinney was picked off first base by Jackson.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 1, Peoria 0
+
+
+Top of the 2nd inning:  Bangor batting
+
+Ron Saults flied out to center.
+Alexis Whaley flied out to right.
+Jeffery Houston grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 1, Peoria 0
+
+
+Bottom of the 2nd inning:  Peoria batting
+
+Mike Roche singled.
+Zager Evans flied out to center.
+Gregg Battiest HOMERED, Roche SCORED.
+Francisco Stewart singled.
+Will White grounded out to pitcher, Stewart to second.
+Ken Slaney grounded out to second.
+
+2 Runs, 3 Hits, 0 Errors
+Bangor 1, Peoria 2
+
+
+Top of the 3rd inning:  Bangor batting
+
+Gerald Rodriguez singled.
+Frederic Oromocto singled, Rodriguez to third.
+Corey Kemnitz flied out to right.
+Bryan Nardecchia walked, Oromocto to second.
+Shosei Go singled, Rodriguez SCORED, Oromocto SCORED, Nardecchia to third.
+King Slender struck out looking.
+Ron Saults singled, Nardecchia SCORED, Go to third.
+Lawrence Torrance relieved Glenn Jacobs.
+Alexis Whaley grounded out to third.
+
+3 Runs, 4 Hits, 0 Errors
+Bangor 4, Peoria 2
+
+
+Bottom of the 3rd inning:  Peoria batting
+
+Walt Pidgeon fouled out to third.
+Jimmie McKinney singled.
+Sheridan Whiteside singled, McKinney to third.
+Mike Roche doubled, McKinney SCORED, Whiteside to third.
+Zager Evans grounded out to first.
+Gregg Battiest singled, Whiteside SCORED, Roche SCORED.
+Paul Jennings relieved Sriracha Jackson.
+Francisco Stewart was safe after King Slender committed a throwing error,
+Will White was safe after King Slender committed a fielding error, Battiest
+Ken Slaney doubled, Stewart SCORED, White to third.
+Walt Pidgeon struck out swinging.
+
+5 Runs, 5 Hits, 2 Errors
+Bangor 4, Peoria 7
+
+
+Top of the 4th inning:  Bangor batting
+
+Jeffery Houston popped out to first.
+Gerald Rodriguez grounded out to shortstop.
+Frederic Oromocto grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 4, Peoria 7
+
+
+Bottom of the 4th inning:  Peoria batting
+
+Jimmie McKinney struck out looking.
+Sheridan Whiteside fouled out to third.
+Mike Roche grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 4, Peoria 7
+
+
+Top of the 5th inning:  Bangor batting
+
+Corey Kemnitz singled.
+Bryan Nardecchia popped out to first.
+Bryan Nardecchia popped out to first.
+Shosei Go struck out swinging.
+King Slender grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 4, Peoria 7
+
+
+Bottom of the 5th inning:  Peoria batting
+
+Zager Evans flied out to right.
+Gregg Battiest flied out to shortstop.
+Francisco Stewart grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 4, Peoria 7
+
+
+Top of the 6th inning:  Bangor batting
+
+Ron Saults doubled.
+Alexis Whaley flied out to shortstop.
+Jeffery Houston flied out to left.
+Gerald Rodriguez flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 4, Peoria 7
+
+
+Bottom of the 6th inning:  Peoria batting
+
+Will White singled.
+Will White singled.
+Ken Slaney fouled out to left.
+Walt Pidgeon grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 4, Peoria 7
+
+
+Top of the 7th inning:  Bangor batting
+
+Frederic Oromocto singled.
+Corey Kemnitz flied out to right.
+Wild pitch by Lawrence Torrance, Oromocto to second.
+Bryan Nardecchia singled, Oromocto SCORED.
+Paul Herman relieved Lawrence Torrance.
+Shosei Go struck out looking.
+King Slender was safe after Francisco Stewart committed a fielding error,
+Ron Saults struck out swinging.
+
+1 Run, 2 Hits, 1 Error
+Bangor 5, Peoria 7
+
+
+Bottom of the 7th inning:  Peoria batting
+
+Jimmie McKinney grounded out to pitcher.
+Sheridan Whiteside fouled out to first.
+Mike Roche flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 5, Peoria 7
+
+
+Top of the 8th inning:  Bangor batting
+
+Alexis Whaley flied out to center.
+Jeffery Houston grounded out to third.
+Gerald Rodriguez popped out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 5, Peoria 7
+
+
+Bottom of the 8th inning:  Peoria batting
+
+Zager Evans doubled.
+Gregg Battiest singled, Evans SCORED.
+Francisco Stewart grounded out to second, Battiest to second.
+Will White singled, Battiest to third.
+Ken Slaney struck out looking.
+Walt Pidgeon singled, Battiest SCORED, White to third.
+Jimmie McKinney flied out to left.
+
+2 Runs, 4 Hits, 0 Errors
+Bangor 5, Peoria 9
+
+
+Top of the 9th inning:  Bangor batting
+
+Ruben Auna came in for Zager Evans in left.
+Ron Zukowski came in for Gregg Battiest in right.
+Frederic Oromocto struck out looking.
+Corey Kemnitz singled.
+Bryan Nardecchia fouled out to third.
+Shosei Go flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 5, Peoria 9
+
+
+END

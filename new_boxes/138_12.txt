@@ -1,0 +1,303 @@
+Team17 vs Team27 (Day 138)
+
+Date of game:  Aug 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Scranton           1 0 0  0 0 2  1 0 2     6 14  1
+Portland           1 2 0  0 0 0  0 0 0     3  8  0
+
+
+Scranton                           AB  R  H BI BB SO LO   AVG
+
+Cash Case 2b                        4  1  1  0  1  1  1  .278
+Jeffrey Whitney c                   5  0  3  1  0  0  2  .324
+Sergei Bobinsky 3b                  5  1  2  0  0  1  1  .315
+Danny Allen dh                      3  2  2  1  4  1  4  .290
+Jose Largen ss                      5  1  2  1  0  1  2  .250
+Dominick Konarski 1b                5  0  2  3  0  0  4  .304
+Brandon Eubanks cf                  5  0  0  0  0  1  0  .261
+Lorenzo Spencer lf                  3  0  1  0  1  0  3  .258
+Mark Hamill rf                      4  1  1  0  0  2  0  .302
+
+TOTALS:                            39  6 14  6  6  7 17
+
+
+BATTING
+2B: Case (27, Bollocks); Konarski (12, Bollocks); Bobinsky (45, Auerbach). 
+RBI: Allen (16); Konarski 3 (52); Whitney (70); Largen (71).  2-OUT RBI: Allen;
+Konarski 2.  Runners left in scoring position, 2 outs: Largen; Spencer;
+Konarski; Whitney.  GIDP: Bobinsky; Eubanks.  Team LOB: 10.  
+
+FIELDING
+E: Bobinsky (18, ground ball).  
+
+
+Portland                           AB  R  H BI BB SO LO   AVG
+
+John Owens dh                       5  1  1  0  0  0  2  .367
+Jason Frost 2b                      4  0  1  2  0  0  2  .319
+Joe Green ss                        4  1  1  0  0  1  1  .324
+Vaughn Ivy 1b                       4  0  2  1  0  0  1  .271
+  Max Francesco pr-1b               0  0  0  0  0  0  0  .257
+Billy Joe Baker lf                  3  0  1  0  1  1  0  .250
+Sergio Clark cf                     3  0  0  0  0  1  1  .280
+  Terry Plunkett ph-cf              1  0  0  0  0  0  0  .323
+Keith Kearley rf                    3  1  0  0  1  1  5  .323
+Mike Byrne c                        4  0  2  0  0  1  3  .330
+Ricky Steamboat 3b                  3  0  0  0  1  2  1  .347
+
+TOTALS:                            34  3  8  3  3  7 16
+
+
+BATTING
+2B: Green (22, Johnson); Frost (30, Johnson).  RBI: Ivy (74); Frost 2 (89). 
+2-OUT RBI: Ivy; Frost 2.  Runners left in scoring position, 2 outs: Kearley;
+Ivy; Green; Byrne.  GIDP: Owens; Steamboat.  Team LOB: 7.  
+
+
+Scranton                         IP     H  R ER BB SO HR   ERA
+
+Scott Johnson (W, 4-12)         7 1/3   7  3  3  2  7  0  8.13
+Joe Mochel (S, 5)               1 2/3   1  0  0  1  0  0  4.59
+
+
+Portland                         IP     H  R ER BB SO HR   ERA
+
+Bartholomew Bollocks            6       8  3  3  0  6  0  3.35
+Rodney Khalaf (L, 4-3)            1/3   2  1  1  1  0  0  3.24
+Bill Auerbach                   2       3  2  2  3  1  0  4.37
+Terry Trotta                      2/3   1  0  0  0  0  0  4.80
+
+
+IBB: Allen 2 (by Auerbach, by Auerbach).  Pitches-Strikes:  Bollocks 96-78;
+Khalaf 17-11; Auerbach 48-31; Trotta 5-5; Johnson 127-87; Mochel 17-11.  Ground
+balls-Fly balls:  Bollocks 13-6; Khalaf 3-0; Auerbach 6-2; Trotta 2-0; Johnson
+10-12; Mochel 5-0.  Batters faced:  Bollocks 25; Khalaf 4; Auerbach 12; Trotta
+2; Johnson 31; Mochel 6.  
+
+Umpires:  HP: Brian Nestor.  1B: Mike Mangano.  2B: Joe Damon.  3B: James
+Coliz, Jr.  T: 3:27.  Att: 31,142.  Weather: 77 degrees, cloudy.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Jeffrey Whitney
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Scranton batting
+
+Cash Case doubled.
+Jeffrey Whitney grounded out to second, Case to third.
+Sergei Bobinsky struck out looking.
+Danny Allen singled, Case SCORED.
+Jose Largen fouled out to first.
+
+1 Run, 2 Hits, 0 Errors
+Scranton 1, Portland 0
+
+
+Bottom of the 1st inning:  Portland batting
+
+John Owens grounded out to shortstop.
+Jason Frost grounded out to first.
+Joe Green doubled.
+Vaughn Ivy singled, Green SCORED.
+Billy Joe Baker singled, Ivy to third.
+Sergio Clark popped out to second.
+
+1 Run, 3 Hits, 0 Errors
+Scranton 1, Portland 1
+
+
+Top of the 2nd inning:  Scranton batting
+
+Dominick Konarski grounded out to shortstop.
+Brandon Eubanks grounded out to second.
+Lorenzo Spencer grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 1, Portland 1
+
+
+Bottom of the 2nd inning:  Portland batting
+
+Keith Kearley walked.
+Mike Byrne struck out looking.
+Ricky Steamboat struck out looking.
+John Owens singled, Kearley to second.
+Jason Frost doubled, Kearley SCORED, Owens SCORED.
+Joe Green fouled out to catcher.
+
+2 Runs, 2 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Top of the 3rd inning:  Scranton batting
+
+Mark Hamill struck out looking.
+Cash Case flied out to left.
+Jeffrey Whitney singled.
+Sergei Bobinsky singled, Whitney to third.
+Danny Allen struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Bottom of the 3rd inning:  Portland batting
+
+Vaughn Ivy popped out to second.
+Billy Joe Baker struck out swinging.
+Sergio Clark struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Top of the 4th inning:  Scranton batting
+
+Jose Largen grounded out to first.
+Dominick Konarski grounded out to first.
+Brandon Eubanks grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Bottom of the 4th inning:  Portland batting
+
+Keith Kearley flied out to right.
+Mike Byrne flied out to right.
+Ricky Steamboat struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Top of the 5th inning:  Scranton batting
+
+Lorenzo Spencer flied out to center.
+Mark Hamill struck out swinging.
+Cash Case struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Bottom of the 5th inning:  Portland batting
+
+John Owens grounded out to third.
+Jason Frost grounded out to third.
+Joe Green struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Scranton 1, Portland 3
+
+
+Top of the 6th inning:  Scranton batting
+
+Jeffrey Whitney singled.
+Sergei Bobinsky grounded into double play to second.
+Danny Allen singled.
+Jose Largen singled, Allen to third.
+Dominick Konarski doubled, Allen SCORED, Largen SCORED.
+Brandon Eubanks struck out looking.
+
+2 Runs, 4 Hits, 0 Errors
+Scranton 3, Portland 3
+
+
+Bottom of the 6th inning:  Portland batting
+
+Vaughn Ivy was safe after Sergei Bobinsky committed a fielding error.
+Billy Joe Baker fouled out to third.
+Sergio Clark flied out to center.
+Keith Kearley struck out looking.
+
+0 Runs, 0 Hits, 1 Error
+Scranton 3, Portland 3
+
+
+Top of the 7th inning:  Scranton batting
+
+Rodney Khalaf relieved Bartholomew Bollocks.
+Lorenzo Spencer singled.
+Mark Hamill grounded into fielder's choice to third.
+Cash Case walked, Hamill to second.
+Jeffrey Whitney singled, Hamill SCORED, Case to third.
+Bill Auerbach relieved Rodney Khalaf.
+Sergei Bobinsky grounded out to shortstop, Whitney to second.
+Danny Allen was walked intentionally.
+Jose Largen struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Scranton 4, Portland 3
+
+
+Bottom of the 7th inning:  Portland batting
+
+Mike Byrne singled.
+Ricky Steamboat walked, Byrne to second.
+John Owens grounded into double play to second, Steamboat to second.
+Jason Frost grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 4, Portland 3
+
+
+Top of the 8th inning:  Scranton batting
+
+Dominick Konarski grounded out to second.
+Brandon Eubanks grounded out to third.
+Lorenzo Spencer walked.
+Mark Hamill singled, Spencer to third.
+Cash Case flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 4, Portland 3
+
+
+Bottom of the 8th inning:  Portland batting
+
+Joe Green flied out to center.
+Vaughn Ivy singled.
+Max Francesco ran for Vaughn Ivy.
+Joe Mochel relieved Scott Johnson.
+Billy Joe Baker walked, Francesco to second.
+Terry Plunkett hit for Sergio Clark.
+Terry Plunkett grounded into fielder's choice to first, Baker to second.
+Keith Kearley grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 4, Portland 3
+
+
+Top of the 9th inning:  Scranton batting
+
+Jeffrey Whitney grounded out to second.
+Sergei Bobinsky doubled.
+Danny Allen was walked intentionally.
+Jose Largen singled, Bobinsky SCORED, Allen to third.
+Terry Trotta relieved Bill Auerbach.
+Dominick Konarski singled, Allen SCORED, Largen to second.
+Brandon Eubanks grounded into double play to first.
+
+2 Runs, 3 Hits, 0 Errors
+Scranton 6, Portland 3
+
+
+Bottom of the 9th inning:  Portland batting
+
+Mike Byrne singled.
+Ricky Steamboat grounded into double play to third.
+John Owens grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Scranton 6, Portland 3
+
+
+END

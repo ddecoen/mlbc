@@ -1,0 +1,333 @@
+Team9 vs Team4 (Day 133)
+
+Date of game:  Aug 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Sugar Land         0 3 0  0 0 3  1 2 0     9 15  0
+Peninsula          3 0 1  2 0 6  2 1 X    15 19  0
+
+
+Sugar Land                         AB  R  H BI BB SO LO   AVG
+
+Ron Alsobrooks lf                   3  1  2  3  1  0  6  .309
+Matthew Keylon 2b                   5  1  2  2  0  1  0  .260
+Champ Hockey rf                     5  0  1  0  0  0  4  .301
+Dan Riddle 3b                       5  1  2  0  0  1  2  .290
+Gus Chiggins cf                     4  2  1  0  1  1  1  .306
+Samuel Ratchett ss                  5  1  2  0  0  0  2  .253
+John Cassetti dh                    1  2  1  1  4  0  1  .265
+Clarence Kunkel 1b                  5  1  4  3  0  0  0  .286
+Chris Napolitano c                  2  0  0  0  1  0  2  .235
+  Gabe Mariano ph                   1  0  0  0  0  0  0  .375
+  Mike Bloczynski c                 1  0  0  0  0  0  0  .500
+
+TOTALS:                            37  9 15  9  7  3 18
+
+
+BATTING
+2B: Keylon (14, Johnson); Riddle (30, Ramis).  HR: Keylon (9, 8th inning off
+Otte, 1 on, 1 out).  SF: Alsobrooks.  RBI: Kunkel 3 (23); Alsobrooks 3 (46);
+Cassetti (42); Keylon 2 (34).  2-OUT RBI: Kunkel; Alsobrooks 2; Cassetti. 
+Runners left in scoring position, 2 outs: Alsobrooks 2; Hockey; Napolitano;
+Ratchett.  GIDP: Napolitano; Hockey; Bloczynski.  Team LOB: 9.  
+
+
+Peninsula                          AB  R  H BI BB SO LO   AVG
+
+Frederick Haughey cf                5  2  3  1  1  0  0  .294
+Johnny Drama 2b                     4  2  1  1  2  0  1  .299
+Bo Jackson rf                       3  2  2  2  1  0  1  .315
+  Mike Stanford rf                  1  0  0  0  1  1  0  .262
+Eric Saglibene 1b                   4  2  2  0  0  1  1  .314
+  Scott Muske 1b                    2  1  1  0  0  0  0  .303
+Lyndon Turner 3b                    4  4  4  5  2  0  5  .316
+Jeffrey Fiorini ss                  5  1  2  2  0  1  0  .319
+Tom Spence dh                       4  1  3  4  1  0  2  .321
+Squints Palledorous lf              5  0  0  0  0  0  0  .268
+Guadalupe Stgermain c               4  0  1  0  0  0  4  .289
+  Aaron Cabrera c                   1  0  0  0  0  0  0  .269
+
+TOTALS:                            42 15 19 15  8  3 14
+
+
+BATTING
+2B: Haughey (26, Bumpers); Turner (21, Birkenholz); Saglibene (31, Pooler);
+Fiorini (32, Pooler); Stgermain (11, Pooler); Muske (5, Large).  3B: Haughey
+(4, Goheen).  HR: Turner 2 (26, 3rd inning off Bumpers, 0 on, 1 out, 7th inning
+off Large, 1 on, 2 out); Haughey (16, 6th inning off Birkenholz, 0 on, 0 out);
+Jackson (31, 6th inning off Birkenholz, 1 on, 0 out); Spence (6, 8th inning off
+Goheen, 0 on, 0 out).  RBI: Turner 5 (74); Fiorini 2 (57); Spence 4 (28); Drama
+(59); Haughey (49); Jackson 2 (84).  2-OUT RBI: Turner 4; Fiorini; Spence. 
+Runners left in scoring position, 2 outs: Stgermain; Saglibene; Spence; Drama;
+Turner.  GIDP: Palledorous.  Team LOB: 10.  
+
+BASERUNNING
+SB: Haughey (19, 2nd base off Bumpers/Napolitano).  
+
+
+Sugar Land                       IP     H  R ER BB SO HR   ERA
+
+Shawn Bumpers                   3 1/3   7  6  6  3  1  1  5.96
+Jorge Birkenholz (L, 1-2)       1 2/3   4  3  3  1  0  2  7.88
+Byron Pooler                    1       4  3  3  1  0  0 12.66
+Jonathan Large                    2/3   2  2  2  0  1  1 16.20
+Winston Goheen                  1 1/3   2  1  1  2  1  1 16.20
+
+
+Peninsula                        IP     H  R ER BB SO HR   ERA
+
+Po'Boy Johnson                  5 2/3   9  6  6  5  2  0  4.57
+Bill Younger (W, 1-0)           1       3  1  1  0  1  0 17.55
+Alexis Otte                       2/3   1  2  2  1  0  1  6.49
+Raymond Ramis                   1 2/3   2  0  0  1  0  0  1.75
+
+Birkenholz pitched to 3 batters in the 6th.  
+
+IBB: Turner (by Pooler).  Balk: Ramis.  Pitches-Strikes:  Johnson 110-74;
+Younger 29-23; Otte 23-14; Ramis 28-19; Bumpers 82-60; Birkenholz 31-20; Pooler
+27-18; Large 15-10; Goheen 30-20.  Ground balls-Fly balls:  Johnson 15-6;
+Younger 3-2; Otte 2-1; Ramis 3-3; Bumpers 8-8; Birkenholz 4-5; Pooler 2-4;
+Large 0-3; Goheen 2-3.  Batters faced:  Johnson 28; Younger 6; Otte 4; Ramis 7;
+Bumpers 20; Birkenholz 10; Pooler 7; Large 4; Goheen 8.  
+
+Umpires:  HP: Alice Qiao.  1B: Mike Mangano.  2B: Paul Terry.  3B: Scott
+Barcik.  T: 3:46.  Att: 8,463.  Weather: 68 degrees, cloudy.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Lyndon Turner
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Sugar Land batting
+
+Ron Alsobrooks popped out to second.
+Matthew Keylon doubled.
+Champ Hockey singled.
+Dan Riddle flied out to center.
+
+0 Runs, 2 Hits, 0 Errors
+Sugar Land 0, Peninsula 0
+
+
+Bottom of the 1st inning:  Peninsula batting
+
+Frederick Haughey grounded out to first.
+Johnny Drama grounded out to pitcher.
+Bo Jackson walked.
+Eric Saglibene singled, Jackson to third.
+Lyndon Turner singled, Jackson SCORED, Saglibene to third.
+Jeffrey Fiorini singled, Saglibene SCORED, Turner to second.
+Tom Spence singled, Turner SCORED, Fiorini to third.
+Squints Palledorous fouled out to first.
+
+3 Runs, 4 Hits, 0 Errors
+Sugar Land 0, Peninsula 3
+
+
+Top of the 2nd inning:  Sugar Land batting
+
+Gus Chiggins singled.
+Samuel Ratchett singled, Chiggins to second.
+John Cassetti walked, Ratchett to second, Chiggins to third.
+Clarence Kunkel singled, Chiggins SCORED, Ratchett SCORED, Cassetti to third.
+Chris Napolitano grounded into fielder's choice to first.
+Ron Alsobrooks hit a sacrifice fly, Cassetti SCORED.
+Matthew Keylon grounded out to third.
+
+3 Runs, 3 Hits, 0 Errors
+Sugar Land 3, Peninsula 3
+
+
+Bottom of the 2nd inning:  Peninsula batting
+
+Guadalupe Stgermain fouled out to catcher.
+Frederick Haughey doubled.
+Johnny Drama flied out to shortstop.
+Bo Jackson popped out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Sugar Land 3, Peninsula 3
+
+
+Top of the 3rd inning:  Sugar Land batting
+
+Champ Hockey grounded out to first.
+Dan Riddle struck out looking.
+Gus Chiggins grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 3, Peninsula 3
+
+
+Bottom of the 3rd inning:  Peninsula batting
+
+Eric Saglibene struck out swinging.
+Lyndon Turner HOMERED.
+Jeffrey Fiorini grounded out to shortstop.
+Tom Spence walked.
+Squints Palledorous flied out to center.
+
+1 Run, 1 Hit, 0 Errors
+Sugar Land 3, Peninsula 4
+
+
+Top of the 4th inning:  Sugar Land batting
+
+Samuel Ratchett flied out to center.
+John Cassetti walked.
+Clarence Kunkel singled, Cassetti to second.
+Chris Napolitano grounded into double play to shortstop, Cassetti to third.
+
+0 Runs, 1 Hit, 0 Errors
+Sugar Land 3, Peninsula 4
+
+
+Bottom of the 4th inning:  Peninsula batting
+
+Guadalupe Stgermain grounded out to third.
+Frederick Haughey walked.
+Haughey stole second base.
+Johnny Drama singled, Haughey SCORED.
+Jorge Birkenholz relieved Shawn Bumpers.
+Bo Jackson singled, Drama to third.
+Eric Saglibene flied out to center.
+Lyndon Turner doubled, Drama SCORED, Jackson to third.
+Jeffrey Fiorini grounded out to second.
+
+2 Runs, 3 Hits, 0 Errors
+Sugar Land 3, Peninsula 6
+
+
+Top of the 5th inning:  Sugar Land batting
+
+Ron Alsobrooks singled.
+Matthew Keylon struck out swinging.
+Champ Hockey grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Sugar Land 3, Peninsula 6
+
+
+Bottom of the 5th inning:  Peninsula batting
+
+Tom Spence grounded out to first.
+Squints Palledorous grounded out to shortstop.
+Guadalupe Stgermain flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Sugar Land 3, Peninsula 6
+
+
+Top of the 6th inning:  Sugar Land batting
+
+Dan Riddle grounded out to first.
+Gus Chiggins walked.
+Samuel Ratchett flied out to right.
+John Cassetti walked, Chiggins to second.
+Clarence Kunkel singled, Chiggins SCORED, Cassetti to second.
+Chris Napolitano walked, Kunkel to second, Cassetti to third.
+Ron Alsobrooks singled, Cassetti SCORED, Kunkel SCORED, Napolitano to third.
+Bill Younger relieved Po'Boy Johnson.
+Matthew Keylon flied out to right.
+
+3 Runs, 2 Hits, 0 Errors
+Sugar Land 6, Peninsula 6
+
+
+Bottom of the 6th inning:  Peninsula batting
+
+Frederick Haughey HOMERED.
+Johnny Drama walked.
+Bo Jackson HOMERED, Drama SCORED.
+Byron Pooler relieved Jorge Birkenholz.
+Eric Saglibene doubled.
+Lyndon Turner was walked intentionally.
+Jeffrey Fiorini doubled, Saglibene SCORED, Turner to third.
+Tom Spence singled, Turner SCORED, Fiorini SCORED.
+Squints Palledorous grounded into double play to shortstop.
+Guadalupe Stgermain doubled.
+Frederick Haughey flied out to right.
+
+6 Runs, 6 Hits, 0 Errors
+Sugar Land 6, Peninsula 12
+
+
+Top of the 7th inning:  Sugar Land batting
+
+Mike Stanford came in for Bo Jackson in right.
+Scott Muske came in for Eric Saglibene at first.
+Champ Hockey flied out to right.
+Dan Riddle singled.
+Gus Chiggins struck out swinging.
+Samuel Ratchett singled, Riddle to third.
+John Cassetti singled, Riddle SCORED, Ratchett to third.
+Alexis Otte relieved Bill Younger.
+Clarence Kunkel grounded out to third.
+
+1 Run, 3 Hits, 0 Errors
+Sugar Land 7, Peninsula 12
+
+
+Bottom of the 7th inning:  Peninsula batting
+
+Jonathan Large relieved Byron Pooler.
+Johnny Drama popped out to second.
+Mike Stanford struck out swinging.
+Scott Muske doubled.
+Lyndon Turner HOMERED, Muske SCORED.
+Winston Goheen relieved Jonathan Large.
+Jeffrey Fiorini struck out looking.
+
+2 Runs, 2 Hits, 0 Errors
+Sugar Land 7, Peninsula 14
+
+
+Top of the 8th inning:  Sugar Land batting
+
+Aaron Cabrera came in for Guadalupe Stgermain at catcher.
+Gabe Mariano hit for Chris Napolitano.
+Gabe Mariano grounded out to first.
+Ron Alsobrooks walked.
+Matthew Keylon HOMERED, Alsobrooks SCORED.
+Raymond Ramis relieved Alexis Otte.
+Champ Hockey grounded out to third.
+Dan Riddle doubled.
+Raymond Ramis committed a balk, Riddle to third.
+Gus Chiggins popped out to third.
+
+2 Runs, 2 Hits, 0 Errors
+Sugar Land 9, Peninsula 14
+
+
+Bottom of the 8th inning:  Peninsula batting
+
+Mike Bloczynski came in for Gabe Mariano at catcher.
+Tom Spence HOMERED.
+Squints Palledorous grounded out to shortstop.
+Aaron Cabrera flied out to right.
+Frederick Haughey tripled.
+Johnny Drama walked.
+Mike Stanford walked, Drama to second.
+Scott Muske grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Sugar Land 9, Peninsula 15
+
+
+Top of the 9th inning:  Sugar Land batting
+
+Samuel Ratchett grounded out to first.
+John Cassetti walked.
+Clarence Kunkel singled, Cassetti to third.
+Mike Bloczynski grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Sugar Land 9, Peninsula 15
+
+
+END

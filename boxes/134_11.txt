@@ -1,0 +1,350 @@
+
+Date of game:  Aug 12, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bangor             3 1 2  2 2 0  1 4 0    15 20  1
+Peoria             0 1 0  3 0 0  3 1 2    10 19  0
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Gerald Rodriguez 2b                 6  2  3  1  0  0  2  .325
+Frederic Oromocto dh                6  2  2  1  0  1  4  .333
+Corey Kemnitz 3b                    4  1  2  2  0  0  3  .333
+  Lenny Offermann 3b                1  0  1  0  0  0  0  .480
+Bryan Nardecchia lf                 3  1  1  0  1  0  1  .304
+  Keaton Helveston lf               0  1  0  1  0  0  0  .082
+Emil Salzman cf                     5  3  4  4  0  0  2  .332
+King Slender 1b                     3  1  1  2  0  1  1  .261
+  Emilio Rowles 1b                  2  1  1  3  0  1  0  .287
+Ron Saults c                        3  1  1  0  2  0  1  .252
+Alexis Whaley ss                    5  1  1  0  0  0  1  .271
+Jeffery Houston rf                  5  1  3  1  0  0  2  .279
+
+TOTALS:                            43 15 20 15  3  3 17
+
+
+BATTING
+2B: Oromocto (37, Helsey); Nardecchia (28, Helsey).  HR: Salzman (4, 1st inning
+off Helsey, 1 on, 2 out); Slender (23, 5th inning off Pringle, 1 on, 0 out);
+Rowles (3, 8th inning off Thorton, 2 on, 1 out).  RBI: Oromocto (62); Salzman 4
+(34); Rodriguez (53); Kemnitz 2 (62); Slender 2 (83); Houston (33); Helveston
+(9); Rowles 3 (20).  2-OUT RBI: Salzman 2; Rodriguez; Kemnitz 2.  Runners left
+in scoring position, 2 outs: Oromocto.  GIDP: Saults; Rodriguez 2.  Team LOB:
+5.  
+
+BASERUNNING
+SB: Whaley (7, 2nd base off Helsey/Roche).  
+
+FIELDING
+E: Rowles (3, throw).  Outfield assist: Salzman (Slaney at 3rd base).  
+
+
+Peoria                             AB  R  H BI BB SO LO   AVG
+
+Ken Slaney ss                       5  1  3  1  1  0  3  .326
+Walt Pidgeon dh                     5  2  2  2  1  0  3  .267
+Jimmie McKinney 2b                  6  1  4  4  0  1  2  .346
+Sheridan Whiteside 1b               2  0  2  1  1  0  0  .310
+  Ron Zukowski 1b                   3  0  1  0  0  0  0  .347
+Mike Roche c                        4  0  1  1  0  1  1  .316
+Zager Evans lf                      3  0  1  0  0  1  4  .296
+  Juan Gregory lf                   2  1  1  0  0  1  0  .224
+Gregg Battiest rf                   3  1  1  0  0  0  5  .298
+  Ruben Auna rf                     1  1  0  0  1  1  1  .290
+Francisco Stewart 3b                5  0  2  0  0  1  4  .313
+Will White cf                       4  3  1  0  1  0  3  .352
+
+TOTALS:                            43 10 19  9  5  6 26
+
+
+BATTING
+2B: McKinney 2 (40, Goldstein, Kimball); Slaney (25, Goldstein); Whiteside (11,
+Goldstein).  SF: Roche.  RBI: Slaney (71); McKinney 4 (97); Whiteside (52);
+Pidgeon 2 (52); Roche (92).  2-OUT RBI: Slaney; Pidgeon 2; McKinney 2.  Runners
+left in scoring position, 2 outs: Battiest; McKinney; Stewart; Evans; Pidgeon;
+Roche.  GIDP: White.  Team LOB: 12.  
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Emmanuel Goldstein              4      11  4  4  2  2  0  5.18
+David Copus                     2       2  0  0  0  1  0  3.78
+Milo Murphy                       1/3   1  2  0  1  0  0  3.64
+Tom Benson                        2/3   1  1  0  1  1  0  2.21
+Gary Wilson                     1       2  1  1  0  2  0  5.78
+Paul Kimball (W, 3-2)           1       2  2  2  1  0  0  6.43
+
+
+Peoria                           IP     H  R ER BB SO HR   ERA
+
+Larry Helsey (L, 16-6)          3 2/3  11  8  8  0  2  1  3.07
+Leslie Pringle                  1 1/3   2  2  2  1  0  1  4.43
+Larry Nickelson                 1 1/3   2  1  1  2  1  0  3.51
+George Kane                     1       3  3  3  0  0  0  5.62
+Alberto Thorton                 1 2/3   2  1  1  0  0  1  3.56
+
+
+WP: Helsey; Kimball.  Pitches-Strikes:  Helsey 77-57; Pringle 33-20; Nickelson
+45-29; Kane 16-13; Thorton 24-18; Goldstein 112-76; Copus 25-18; Murphy 11-5;
+Benson 22-13; Wilson 18-14; Kimball 27-17.  Ground balls-Fly balls:  Helsey
+13-6; Pringle 3-3; Nickelson 4-1; Kane 4-1; Thorton 2-4; Goldstein 13-6; Copus
+4-3; Murphy 2-0; Benson 1-1; Wilson 2-1; Kimball 4-1.  Batters faced:  Helsey
+21; Pringle 7; Nickelson 8; Kane 5; Thorton 6; Goldstein 23; Copus 8; Murphy 3;
+Benson 4; Wilson 5; Kimball 6.  
+
+Umpires:  HP: James Coliz, Jr.  1B: Trip Hawkins.  2B: John Yellott.  3B: Brian
+Nestor.  T: 7:00.  Att: 51,861.  Weather: 81 degrees, clear.  Wind: 2 mph, out
+to center.  
+
+
+High Heat Baseball Player of the Game:  Emil Salzman
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bangor batting
+
+Gerald Rodriguez singled.
+Wild pitch by Larry Helsey, Rodriguez to second.
+Frederic Oromocto doubled, Rodriguez SCORED.
+Corey Kemnitz flied out to left.
+Bryan Nardecchia grounded out to catcher, Oromocto to third.
+Emil Salzman HOMERED, Oromocto SCORED.
+King Slender struck out looking.
+
+3 Runs, 3 Hits, 0 Errors
+Bangor 3, Peoria 0
+
+
+Bottom of the 1st inning:  Peoria batting
+
+Ken Slaney singled.
+Walt Pidgeon grounded into fielder's choice to second.
+Jimmie McKinney doubled, Pidgeon to third.
+Sheridan Whiteside walked.
+Mike Roche struck out looking.
+Zager Evans struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+Bangor 3, Peoria 0
+
+
+Top of the 2nd inning:  Bangor batting
+
+Ron Saults singled.
+Alexis Whaley grounded into fielder's choice to shortstop.
+Whaley stole second base.
+Jeffery Houston grounded out to shortstop, Whaley to third.
+Gerald Rodriguez singled, Whaley SCORED.
+Frederic Oromocto struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 4, Peoria 0
+
+
+Bottom of the 2nd inning:  Peoria batting
+
+Gregg Battiest singled.
+Francisco Stewart singled, Battiest to third.
+Will White grounded into double play to pitcher.
+Ken Slaney doubled, Battiest SCORED.
+Walt Pidgeon grounded out to pitcher.
+
+1 Run, 3 Hits, 0 Errors
+Bangor 4, Peoria 1
+
+
+Top of the 3rd inning:  Bangor batting
+
+Corey Kemnitz singled.
+Bryan Nardecchia doubled, Kemnitz to third.
+Emil Salzman singled, Kemnitz SCORED, Nardecchia SCORED.
+King Slender popped out to first.
+Ron Saults grounded into double play to third.
+
+2 Runs, 3 Hits, 0 Errors
+Bangor 6, Peoria 1
+
+
+Bottom of the 3rd inning:  Peoria batting
+
+Jimmie McKinney grounded out to first.
+Sheridan Whiteside singled.
+Mike Roche singled, Whiteside to third.
+Zager Evans grounded into fielder's choice to second.
+Gregg Battiest popped out to third.
+
+0 Runs, 2 Hits, 0 Errors
+Bangor 6, Peoria 1
+
+
+Top of the 4th inning:  Bangor batting
+
+Alexis Whaley grounded out to second.
+Jeffery Houston singled.
+Gerald Rodriguez singled, Houston to third.
+Frederic Oromocto grounded out to first, Rodriguez to second.
+Corey Kemnitz singled, Houston SCORED, Rodriguez SCORED.
+Leslie Pringle relieved Larry Helsey.
+Bryan Nardecchia fouled out to third.
+
+2 Runs, 3 Hits, 0 Errors
+Bangor 8, Peoria 1
+
+
+Bottom of the 4th inning:  Peoria batting
+
+Francisco Stewart grounded out to third.
+Will White walked.
+Ken Slaney singled, White to second.
+Walt Pidgeon singled, Slaney to second, White to third.
+Jimmie McKinney singled, White SCORED, Slaney SCORED, Pidgeon to third.
+Sheridan Whiteside doubled, Pidgeon SCORED.
+Mike Roche flied out to center.
+
+3 Runs, 4 Hits, 0 Errors
+Bangor 8, Peoria 4
+
+
+Top of the 5th inning:  Bangor batting
+
+Emil Salzman singled.
+King Slender HOMERED, Salzman SCORED.
+Ron Saults walked.
+Ron Saults walked.
+Alexis Whaley fouled out to right.
+Jeffery Houston grounded into fielder's choice to third.
+Gerald Rodriguez grounded out to third.
+
+2 Runs, 2 Hits, 0 Errors
+Bangor 10, Peoria 4
+
+
+Bottom of the 5th inning:  Peoria batting
+
+David Copus relieved Emmanuel Goldstein.
+Zager Evans singled.
+Gregg Battiest flied out to center.
+Francisco Stewart flied out to right.
+Will White singled, Evans to second.
+Ken Slaney grounded out to second.
+
+0 Runs, 2 Hits, 0 Errors
+Bangor 10, Peoria 4
+
+
+Top of the 6th inning:  Bangor batting
+
+Larry Nickelson relieved Leslie Pringle.
+Ron Zukowski came in for Sheridan Whiteside at first.
+Frederic Oromocto grounded out to third.
+Corey Kemnitz popped out to catcher.
+Bryan Nardecchia walked.
+Emil Salzman grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 10, Peoria 4
+
+
+Bottom of the 6th inning:  Peoria batting
+
+Lenny Offermann came in for Corey Kemnitz at third.
+Keaton Helveston came in for Bryan Nardecchia in left.
+Emilio Rowles came in for King Slender at first.
+Walt Pidgeon grounded out to shortstop.
+Jimmie McKinney struck out swinging.
+Ron Zukowski grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 10, Peoria 4
+
+
+Top of the 7th inning:  Bangor batting
+
+Juan Gregory came in for Zager Evans in left.
+Ruben Auna came in for Gregg Battiest in right.
+Emilio Rowles struck out looking.
+Ron Saults walked.
+Alexis Whaley singled, Saults to third.
+Jeffery Houston singled, Saults SCORED, Whaley to third.
+George Kane relieved Larry Nickelson.
+Gerald Rodriguez grounded into double play to second.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 11, Peoria 4
+
+
+Bottom of the 7th inning:  Peoria batting
+
+Milo Murphy relieved David Copus.
+Mike Roche grounded out to third.
+Juan Gregory singled.
+Ruben Auna walked, Gregory to second.
+Tom Benson relieved Milo Murphy.
+Francisco Stewart struck out swinging.
+Will White was safe after Emilio Rowles committed a throwing error, Gregory
+Ken Slaney walked, White to second.
+Walt Pidgeon singled, Auna SCORED, White SCORED, Ken Slaney out at third base.
+
+3 Runs, 2 Hits, 1 Error
+Bangor 11, Peoria 7
+
+
+Top of the 8th inning:  Bangor batting
+
+Frederic Oromocto singled.
+Lenny Offermann singled, Oromocto to third.
+Keaton Helveston grounded into fielder's choice to first, Oromocto SCORED.
+Emil Salzman singled, Helveston to third.
+Alberto Thorton relieved George Kane.
+Emilio Rowles HOMERED, Helveston SCORED, Salzman SCORED.
+Ron Saults flied out to center.
+Alexis Whaley flied out to left.
+
+4 Runs, 4 Hits, 0 Errors
+Bangor 15, Peoria 7
+
+
+Bottom of the 8th inning:  Peoria batting
+
+Gary Wilson relieved Tom Benson.
+Jimmie McKinney singled.
+Ron Zukowski singled, McKinney to third.
+Mike Roche hit a sacrifice fly, McKinney SCORED.
+Juan Gregory struck out looking.
+Ruben Auna struck out looking.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 15, Peoria 8
+
+
+Top of the 9th inning:  Bangor batting
+
+Jeffery Houston singled.
+Gerald Rodriguez grounded into double play to second.
+Frederic Oromocto popped out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 15, Peoria 8
+
+
+Bottom of the 9th inning:  Peoria batting
+
+Paul Kimball relieved Gary Wilson.
+Francisco Stewart singled.
+Will White grounded into fielder's choice to second.
+Wild pitch by Paul Kimball, White to second.
+Ken Slaney grounded out to third.
+Walt Pidgeon walked.
+Jimmie McKinney doubled, White SCORED, Pidgeon SCORED.
+Ron Zukowski grounded out to pitcher.
+
+2 Runs, 2 Hits, 0 Errors
+Bangor 15, Peoria 10
+
+
+END

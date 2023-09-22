@@ -1,0 +1,306 @@
+
+Date of game:  Aug 12, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Maine              1 0 0  2 1 1  0 0 0     5 12  2
+Idaho Falls        4 0 1  0 1 0  6 0 X    12 16  0
+
+
+Maine                              AB  R  H BI BB SO LO   AVG
+
+Shawn Martin 1b                     5  0  1  0  0  1  2  .314
+Casey Paul Jr. 3b                   4  1  1  0  0  0  0  .278
+  Leon Czolgosz 3b                  1  0  0  0  0  0  0  .279
+John Forget c                       4  2  3  0  1  0  1  .285
+Billie Murray lf                    5  0  2  1  0  1  0  .290
+Earl Cohen cf                       4  1  2  0  0  0  2  .294
+Arthur Pena ss                      4  0  1  1  0  2  2  .297
+Gus Ashby rf                        4  1  2  2  0  0  3  .326
+Joe Garrett dh                      4  0  0  0  0  0  0  .268
+Elbert Folk 2b                      4  0  0  0  0  3  2  .287
+
+TOTALS:                            39  5 12  4  1  7 12
+
+
+BATTING
+2B: Forget (22, Manley).  HR: Ashby (19, 6th inning off Franceschi, 0 on, 0
+out).  RBI: Pena (48); Ashby 2 (65); Murray (93).  Runners left in scoring
+position, 2 outs: Pena; Martin; Ashby; Cohen.  Team LOB: 8.  
+
+FIELDING
+E: McLusky (1, ground ball); Paul Jr. (4, throw).  
+
+
+Idaho Falls                        AB  R  H BI BB SO LO   AVG
+
+Clement Cameron 3b                  5  1  1  0  0  0  3  .286
+  Kory Seumanu 3b                   0  0  0  0  0  0  0  .313
+Danny Lopez lf                      3  2  2  1  1  0  3  .340
+  Petey Sessoms lf                  1  0  0  0  0  0  0  .249
+Parker Maxenry dh                   5  1  1  0  0  2  0  .336
+Christopher Morger 1b               4  3  2  4  0  0  2  .306
+  Angel Maduena 1b                  1  0  1  0  0  0  0  .346
+Mike Varvaro 2b                     5  2  3  2  0  0  1  .262
+Butch Vick rf                       4  2  1  0  0  0  1  .379
+Victor Griffin ss                   4  1  2  2  0  1  2  .323
+Mark Krois c                        4  0  1  1  0  0  0  .290
+Luis Russum cf                      4  0  2  1  0  0  1  .293
+
+TOTALS:                            40 12 16 11  1  3 13
+
+
+BATTING
+2B: Cameron (19, McLusky); Morger (19, McLusky); Krois (7, McLusky); Maxenry
+(38, Pine); Griffin (17, Selmon).  HR: Varvaro (2, 3rd inning off McLusky, 0
+on, 1 out); Morger (22, 7th inning off Selmon, 2 on, 0 out).  RBI: Lopez (71);
+Morger 4 (77); Krois (25); Varvaro 2 (14); Griffin 2 (29); Russum (25).  2-OUT
+RBI: Krois; Varvaro.  Runners left in scoring position, 2 outs: Cameron.  GIDP:
+Cameron 2.  Team LOB: 5.  
+
+
+Maine                            IP     H  R ER BB SO HR   ERA
+
+Mike McLusky (L, 8-7)           2 1/3   6  5  3  0  1  1  5.43
+Scott Pine                      3 2/3   4  3  3  1  2  0  5.26
+Frank Selmon                      1/3   5  4  4  0  0  1  6.04
+Jeffery Ward                    1 2/3   1  0  0  0  0  0  5.89
+
+
+Idaho Falls                      IP     H  R ER BB SO HR   ERA
+
+Dennis Franceschi (W, 6-5)      6 2/3  11  5  5  1  5  1  4.74
+Paul Manley (S, 3)              2 1/3   1  0  0  0  2  0  5.31
+
+Pine pitched to 2 batters in the 7th.  
+
+WP: Franceschi; McLusky; Pine.  Pitches-Strikes:  Franceschi 124-97; Manley
+31-28; McLusky 47-34; Pine 60-49; Selmon 21-18; Ward 14-12.  Ground balls-Fly
+balls:  Franceschi 17-9; Manley 2-4; McLusky 4-9; Pine 5-8; Selmon 4-2; Ward
+3-2.  Batters faced:  Franceschi 32; Manley 8; McLusky 14; Pine 16; Selmon 6;
+Ward 5.  
+
+Umpires:  HP: Ross Borden.  1B: Trip Hawkins.  2B: Mike Dunhour.  3B: Brian
+Nestor.  T: 3:26.  Att: 6,600.  Weather: 85 degrees, partly cloudy.  Wind: 16
+mph, in from right-center.  
+
+
+High Heat Baseball Player of the Game:  Mike Varvaro
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Maine batting
+
+Shawn Martin struck out looking.
+Casey Paul Jr. flied out to center.
+John Forget singled.
+Billie Murray singled, Forget to third.
+Wild pitch by Dennis Franceschi, Forget SCORED, Murray to second.
+Earl Cohen flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Maine 1, Idaho Falls 0
+
+
+Bottom of the 1st inning:  Idaho Falls batting
+
+Clement Cameron doubled.
+Danny Lopez singled, Cameron SCORED.
+Wild pitch by Mike McLusky, Lopez to second.
+Parker Maxenry popped out to third.
+Christopher Morger doubled, Lopez SCORED.
+Mike Varvaro was safe after Mike McLusky committed a fielding error, Morger SCORED.
+Butch Vick grounded into fielder's choice to pitcher.
+Victor Griffin singled, Vick to third.
+Mark Krois doubled, Vick SCORED, Griffin to third.
+Luis Russum flied out to center.
+
+4 Runs, 5 Hits, 1 Error
+Maine 1, Idaho Falls 4
+
+
+Top of the 2nd inning:  Maine batting
+
+Arthur Pena struck out swinging.
+Gus Ashby grounded out to third.
+Joe Garrett grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 1, Idaho Falls 4
+
+
+Bottom of the 2nd inning:  Idaho Falls batting
+
+Clement Cameron flied out to center.
+Danny Lopez popped out to first.
+Parker Maxenry struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 1, Idaho Falls 4
+
+
+Top of the 3rd inning:  Maine batting
+
+Elbert Folk struck out swinging.
+Shawn Martin grounded out to second.
+Casey Paul Jr. grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 1, Idaho Falls 4
+
+
+Bottom of the 3rd inning:  Idaho Falls batting
+
+Christopher Morger grounded out to third.
+Mike Varvaro HOMERED.
+Scott Pine relieved Mike McLusky.
+Butch Vick flied out to center.
+Victor Griffin struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+Maine 1, Idaho Falls 5
+
+
+Top of the 4th inning:  Maine batting
+
+John Forget walked.
+Billie Murray flied out to right.
+Earl Cohen singled, Forget to second.
+Arthur Pena singled, Forget SCORED, Cohen to third.
+Gus Ashby singled, Cohen SCORED, Pena to third.
+Joe Garrett grounded into fielder's choice to second.
+Elbert Folk struck out looking.
+
+2 Runs, 3 Hits, 0 Errors
+Maine 3, Idaho Falls 5
+
+
+Bottom of the 4th inning:  Idaho Falls batting
+
+Mark Krois was safe after Casey Paul Jr. committed a throwing error.
+Luis Russum flied out to left.
+Clement Cameron grounded into double play to shortstop.
+
+0 Runs, 0 Hits, 1 Error
+Maine 3, Idaho Falls 5
+
+
+Top of the 5th inning:  Maine batting
+
+Shawn Martin grounded out to shortstop.
+Casey Paul Jr. singled.
+John Forget singled, Paul Jr. to third.
+Billie Murray singled, Paul Jr. SCORED, Forget to second.
+Earl Cohen flied out to center.
+Arthur Pena grounded out to second.
+
+1 Run, 3 Hits, 0 Errors
+Maine 4, Idaho Falls 5
+
+
+Bottom of the 5th inning:  Idaho Falls batting
+
+Danny Lopez walked.
+Parker Maxenry struck out looking.
+Christopher Morger grounded into fielder's choice to pitcher.
+Wild pitch by Scott Pine, Morger to second.
+Mike Varvaro singled, Morger SCORED.
+Butch Vick flied out to right.
+
+1 Run, 1 Hit, 0 Errors
+Maine 4, Idaho Falls 6
+
+
+Top of the 6th inning:  Maine batting
+
+Gus Ashby HOMERED.
+Joe Garrett grounded out to first.
+Elbert Folk grounded out to third.
+Shawn Martin singled.
+Casey Paul Jr. flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Maine 5, Idaho Falls 6
+
+
+Bottom of the 6th inning:  Idaho Falls batting
+
+Victor Griffin flied out to center.
+Mark Krois flied out to center.
+Luis Russum singled.
+Clement Cameron flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 5, Idaho Falls 6
+
+
+Top of the 7th inning:  Maine batting
+
+John Forget flied out to center.
+Billie Murray struck out looking.
+Earl Cohen singled.
+Paul Manley relieved Dennis Franceschi.
+Arthur Pena struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 5, Idaho Falls 6
+
+
+Bottom of the 7th inning:  Idaho Falls batting
+
+Danny Lopez singled.
+Parker Maxenry doubled, Lopez to third.
+Frank Selmon relieved Scott Pine.
+Christopher Morger HOMERED, Lopez SCORED, Maxenry SCORED.
+Mike Varvaro singled.
+Butch Vick singled, Varvaro to third.
+Victor Griffin doubled, Varvaro SCORED, Vick SCORED.
+Mark Krois grounded out to first, Griffin to third.
+Luis Russum singled, Griffin SCORED.
+Jeffery Ward relieved Frank Selmon.
+Clement Cameron grounded into double play to first.
+
+6 Runs, 7 Hits, 0 Errors
+Maine 5, Idaho Falls 12
+
+
+Top of the 8th inning:  Maine batting
+
+Kory Seumanu came in for Clement Cameron at third.
+Petey Sessoms came in for Danny Lopez in left.
+Angel Maduena came in for Christopher Morger at first.
+Gus Ashby popped out to second.
+Joe Garrett grounded out to shortstop.
+Elbert Folk struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Maine 5, Idaho Falls 12
+
+
+Bottom of the 8th inning:  Idaho Falls batting
+
+Leon Czolgosz came in for Casey Paul Jr. at third.
+Petey Sessoms flied out to center.
+Parker Maxenry grounded out to second.
+Angel Maduena singled.
+Mike Varvaro grounded out to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 5, Idaho Falls 12
+
+
+Top of the 9th inning:  Maine batting
+
+Shawn Martin flied out to shortstop.
+Leon Czolgosz fouled out to catcher.
+John Forget doubled.
+Billie Murray grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Maine 5, Idaho Falls 12
+
+
+END

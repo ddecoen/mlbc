@@ -1,0 +1,329 @@
+
+Date of game:  Aug 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Hartford           4 0 0  0 0 0  2 0 0     6 13  0
+Peoria             4 3 0  0 4 0  0 0 X    11 15  0
+
+
+Hartford                           AB  R  H BI BB SO LO   AVG
+
+Clyde Lafleur cf                    5  1  3  1  0  0  2  .284
+Paul Baumer 3b                      3  1  1  0  0  0  1  .292
+  Dave Ingwerson 3b                 2  1  0  0  0  0  0  .320
+Silas McGinnis lf                   3  1  3  1  0  0  1  .309
+  Bill Korn lf                      2  1  1  2  0  0  2  .276
+Harold Dildy 1b                     3  0  0  1  0  0  1  .266
+Woody Selley ss                     4  0  0  0  0  1  2  .266
+Guy Chancy rf                       3  1  2  0  1  1  0  .247
+Jack Compton c                      4  0  1  1  0  1  0  .301
+Charlie Nancy 2b                    4  0  1  0  0  1  2  .304
+Efrain Meres p                      1  0  0  0  0  1  0  .000
+  Ray Stvrestil p                   0  0  0  0  0  0  0  .000
+  Scott Humbird p                   1  0  1  0  0  0  0 1.000
+  Perch Perkins p                   0  0  0  0  0  0  0  .000
+  Bennie Ronda ph                   1  0  0  0  0  0  0  .292
+  Michael Afonso p                  1  0  0  0  0  0  1  .000
+
+TOTALS:                            37  6 13  6  1  5 12
+
+
+BATTING
+2B: Lafleur (4, Pringle).  3B: McGinnis (1, Jacobs).  HR: Lafleur (3, 1st
+inning off Jacobs, 0 on, 0 out); Korn (8, 7th inning off Thorton, 1 on, 2 out).
+ SF: Dildy.  RBI: Lafleur (6); McGinnis (9); Dildy (47); Compton (15); Korn 2
+(30).  2-OUT RBI: Compton; Korn 2.  Runners left in scoring position, 2 outs:
+Lafleur; McGinnis; Afonso; Dildy.  GIDP: Dildy; Compton.  Team LOB: 6.  
+
+BASERUNNING
+SB: Chancy 2 (22, 2nd base off Jacobs/Zukowski, 2nd base off Jacobs/Zukowski).  
+
+FIELDING
+PB: Compton 3.  
+
+
+Peoria                             AB  R  H BI BB SO LO   AVG
+
+Ken Slaney ss                       5  1  1  0  0  1  2  .328
+Will White rf                       4  2  4  2  0  0  4  .352
+Walt Pidgeon 1b                     4  2  2  3  0  0  0  .270
+  Jim Fritchman 1b                  1  0  0  0  0  0  0  .308
+Jimmie McKinney 2b                  5  0  0  0  0  3  4  .344
+Zager Evans lf                      5  2  3  2  0  0  6  .306
+Ron Zukowski c                      4  1  1  0  0  0  1  .343
+Ruben Auna cf                       3  1  1  2  0  1  1  .299
+Francisco Stewart 3b                3  2  1  0  0  0  0  .318
+Glenn Jacobs p                      0  0  0  0  0  0  0  .000
+  Juan Gregory ph                   1  0  1  0  0  0  0  .227
+  Lawrence Torrance p               2  0  1  1  0  0  2  .500
+  Alberto Thorton p                 0  0  0  0  0  0  0  .000
+  Leslie Pringle p                  1  0  0  0  0  0  0  .000
+
+TOTALS:                            38 11 15 10  0  5 20
+
+
+BATTING
+2B: Zukowski (6, Humbird).  3B: Evans (1, Meres).  HR: Pidgeon (7, 2nd inning
+off Stvrestil, 1 on, 2 out).  RBI: Pidgeon 3 (56); Evans 2 (42); White 2 (51);
+Auna 2 (49); Torrance (1).  2-OUT RBI: Pidgeon 2.  Runners left in scoring
+position, 2 outs: Slaney; Evans 2; Zukowski.  Team LOB: 6.  
+
+BASERUNNING
+SB: White (12, 2nd base off Humbird/Compton).  
+
+
+Hartford                         IP     H  R ER BB SO HR   ERA
+
+Efrain Meres                    1       4  4  4  0  2  0  4.56
+Ray Stvrestil (L, 0-1)          1       3  3  3  0  0  1 16.20
+Scott Humbird                   2       5  3  3  0  1  0  4.81
+Perch Perkins                   2       2  1  1  0  1  0  7.18
+Michael Afonso                  2       1  0  0  0  1  0  4.27
+
+
+Peoria                           IP     H  R ER BB SO HR   ERA
+
+Glenn Jacobs                    2       6  4  4  1  1  1  4.96
+Lawrence Torrance (W, 7-4)      4       3  0  0  0  3  0  4.88
+Alberto Thorton                   2/3   2  2  2  0  0  1  4.05
+Leslie Pringle                  2 1/3   2  0  0  0  1  0  4.53
+
+Humbird pitched to 3 batters in the 5th.  
+
+HBP: Auna (by Humbird); Stewart (by Perkins).  Pitches-Strikes:  Jacobs 53-37;
+Torrance 48-41; Thorton 15-13; Pringle 26-21; Meres 30-25; Stvrestil 23-22;
+Humbird 38-30; Perkins 33-30; Afonso 22-18.  Ground balls-Fly balls:  Jacobs
+6-5; Torrance 9-1; Thorton 3-1; Pringle 4-4; Meres 2-3; Stvrestil 4-2; Humbird
+6-4; Perkins 5-2; Afonso 5-1.  Batters faced:  Jacobs 13; Torrance 13; Thorton
+4; Pringle 9; Meres 7; Stvrestil 6; Humbird 12; Perkins 9; Afonso 7.  
+
+Umpires:  HP: Ross Borden.  1B: Chuck Woo.  2B: Mike Coustier.  3B: John
+Yellott.  T: 3:09.  Att: 46,507.  Weather: 85 degrees, partly cloudy.  Wind: 5
+mph, across, left to right and slightly in.  
+
+
+High Heat Baseball Player of the Game:  Walt Pidgeon
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Hartford batting
+
+Clyde Lafleur HOMERED.
+Paul Baumer singled.
+Silas McGinnis tripled, Baumer SCORED.
+Harold Dildy hit a sacrifice fly, McGinnis SCORED.
+Woody Selley grounded out to pitcher.
+Guy Chancy walked.
+Chancy stole second base.
+Jack Compton singled, Chancy SCORED.
+Charlie Nancy singled, Compton to third.
+Efrain Meres struck out swinging.
+
+4 Runs, 5 Hits, 0 Errors
+Hartford 4, Peoria 0
+
+
+Bottom of the 1st inning:  Peoria batting
+
+Ken Slaney singled.
+Will White singled, Slaney to third.
+Walt Pidgeon singled, Slaney SCORED, White to third.
+Jimmie McKinney struck out looking.
+Zager Evans tripled, White SCORED, Pidgeon SCORED.
+Passed ball by Jack Compton, Evans SCORED.
+Ron Zukowski flied out to left.
+Ruben Auna struck out looking.
+
+4 Runs, 4 Hits, 0 Errors
+Hartford 4, Peoria 4
+
+
+Top of the 2nd inning:  Hartford batting
+
+Clyde Lafleur grounded out to second.
+Paul Baumer grounded out to shortstop.
+Silas McGinnis singled.
+Harold Dildy flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 4, Peoria 4
+
+
+Bottom of the 2nd inning:  Peoria batting
+
+Ray Stvrestil relieved Efrain Meres.
+Francisco Stewart singled.
+Juan Gregory hit for Glenn Jacobs.
+Juan Gregory singled, Stewart to third.
+Ken Slaney grounded into fielder's choice to third.
+Will White grounded into fielder's choice to second, Stewart SCORED.
+Walt Pidgeon HOMERED, White SCORED.
+Jimmie McKinney popped out to first.
+
+3 Runs, 3 Hits, 0 Errors
+Hartford 4, Peoria 7
+
+
+Top of the 3rd inning:  Hartford batting
+
+Lawrence Torrance relieved Glenn Jacobs.
+Woody Selley grounded out to first.
+Guy Chancy struck out looking.
+Jack Compton grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Hartford 4, Peoria 7
+
+
+Bottom of the 3rd inning:  Peoria batting
+
+Scott Humbird relieved Ray Stvrestil.
+Zager Evans singled.
+Ron Zukowski flied out to right.
+Ruben Auna hit by pitch, Evans to second.
+Passed ball by Jack Compton, Auna to second, Evans to third.
+Francisco Stewart grounded out to shortstop.
+Lawrence Torrance grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 4, Peoria 7
+
+
+Top of the 4th inning:  Hartford batting
+
+Charlie Nancy grounded out to first.
+Scott Humbird singled.
+Clyde Lafleur grounded out to first, Humbird to second.
+Paul Baumer flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 4, Peoria 7
+
+
+Bottom of the 4th inning:  Peoria batting
+
+Ken Slaney popped out to catcher.
+Will White singled.
+White stole second base.
+Walt Pidgeon flied out to center.
+Jimmie McKinney struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 4, Peoria 7
+
+
+Top of the 5th inning:  Hartford batting
+
+Silas McGinnis singled.
+Harold Dildy grounded into double play to first.
+Woody Selley struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 4, Peoria 7
+
+
+Bottom of the 5th inning:  Peoria batting
+
+Zager Evans singled.
+Ron Zukowski doubled, Evans to third.
+Ruben Auna singled, Evans SCORED, Zukowski SCORED.
+Perch Perkins relieved Scott Humbird.
+Passed ball by Jack Compton, Auna to second.
+Francisco Stewart hit by pitch.
+Lawrence Torrance singled, Auna SCORED, Stewart to second.
+Ken Slaney flied out to left.
+Will White singled, Stewart SCORED, Torrance to third.
+Walt Pidgeon grounded into fielder's choice to shortstop.
+Jimmie McKinney struck out swinging.
+
+4 Runs, 5 Hits, 0 Errors
+Hartford 4, Peoria 11
+
+
+Top of the 6th inning:  Hartford batting
+
+Jim Fritchman came in for Walt Pidgeon at first.
+Guy Chancy singled.
+Jack Compton grounded into double play to third.
+Charlie Nancy struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 4, Peoria 11
+
+
+Bottom of the 6th inning:  Peoria batting
+
+Dave Ingwerson came in for Paul Baumer at third.
+Bill Korn came in for Silas McGinnis in left.
+Zager Evans grounded out to shortstop.
+Ron Zukowski flied out to right.
+Ruben Auna grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Hartford 4, Peoria 11
+
+
+Top of the 7th inning:  Hartford batting
+
+Alberto Thorton relieved Lawrence Torrance.
+Bennie Ronda hit for Perch Perkins.
+Bennie Ronda grounded out to shortstop.
+Clyde Lafleur singled.
+Dave Ingwerson grounded into fielder's choice to second.
+Bill Korn HOMERED, Ingwerson SCORED.
+Leslie Pringle relieved Alberto Thorton.
+Harold Dildy fouled out to left.
+
+2 Runs, 2 Hits, 0 Errors
+Hartford 6, Peoria 11
+
+
+Bottom of the 7th inning:  Peoria batting
+
+Michael Afonso relieved Perch Perkins.
+Francisco Stewart flied out to left.
+Leslie Pringle grounded out to shortstop.
+Ken Slaney struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Hartford 6, Peoria 11
+
+
+Top of the 8th inning:  Hartford batting
+
+Woody Selley popped out to catcher.
+Guy Chancy singled.
+Chancy stole second base, Jack Compton struck out looking, Chancy to second.
+Charlie Nancy grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 6, Peoria 11
+
+
+Bottom of the 8th inning:  Peoria batting
+
+Will White singled.
+Jim Fritchman grounded out to shortstop, White to second.
+Jimmie McKinney grounded out to second, White to third.
+Zager Evans grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 6, Peoria 11
+
+
+Top of the 9th inning:  Hartford batting
+
+Michael Afonso grounded out to shortstop.
+Clyde Lafleur doubled.
+Dave Ingwerson flied out to center.
+Bill Korn grounded out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Hartford 6, Peoria 11
+
+
+END

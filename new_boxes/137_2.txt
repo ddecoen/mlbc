@@ -1,0 +1,310 @@
+Team11 vs Team13 (Day 137)
+
+Date of game:  Aug 15, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+San Jose           0 0 0  4 0 0  4 0 2    10 14  0
+Oklahoma City      0 0 1  1 0 0  0 3 0     5  9  3
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Ricky Spanish cf                    5  1  0  0  0  2  1  .292
+Ezra Snyder rf                      4  2  2  0  1  0  3  .211
+Todd Brumit 1b                      5  2  2  1  0  1  0  .280
+Harold Wayman lf                    5  3  4  5  0  0  1  .320
+Lee Defoore c                       5  1  2  1  0  0  0  .290
+Dave Ramos 3b                       4  1  2  1  1  0  2  .212
+Jaden Miedema 2b                    5  0  1  0  0  0  2  .257
+George Fogler ss                    5  0  1  1  0  1  4  .263
+Kevin Crutsinger p                  4  0  0  0  0  1  5  .000
+  Francisco Rolfes p                0  0  0  0  0  0  0  .000
+
+TOTALS:                            42 10 14  9  2  5 18
+
+
+BATTING
+2B: Wayman (4, Geringer); Fogler (20, Anzures).  HR: Wayman (5, 7th inning off
+Huseman, 2 on, 0 out).  RBI: Wayman 5 (16); Defoore (44); Brumit (24); Ramos
+(40); Fogler (40).  2-OUT RBI: Fogler.  Runners left in scoring position, 2
+outs: Snyder; Miedema; Crutsinger; Rolfes.  GIDP: Fogler.  Team LOB: 7.  
+
+
+Oklahoma City                      AB  R  H BI BB SO LO   AVG
+
+Frank Vroom lf                      2  0  1  1  1  0  3  .278
+Russel Reynolds 3b                  4  1  2  0  0  0  0  .293
+Norman Hilderbrand cf               4  1  1  2  0  1  1  .259
+Khrusher Khruschev 1b               4  1  2  1  0  0  3  .313
+Sterling Marlin rf                  4  0  0  0  0  1  2  .276
+Otis Gojcaj ss                      4  0  0  0  0  1  1  .271
+Henry Stark 2b                      4  0  1  0  0  0  0  .281
+Ron Curington c                     3  2  2  0  1  0  0  .248
+Giovanni Geringer p                 0  0  0  1  0  0  0  .000
+  Jerry Huseman p                   1  0  0  0  0  0  0  .000
+  Joe Helm p                        0  0  0  0  0  0  0  .000
+  Jesse Campbell ph                 1  0  0  0  0  0  0  .321
+  Eduardo Anzures p                 0  0  0  0  0  0  1  .000
+
+TOTALS:                            31  5  9  5  2  3 11
+
+
+BATTING
+2B: Stark (23, Rolfes).  3B: Curington 2 (8, Crutsinger, Crutsinger).  HR:
+Khruschev (15, 4th inning off Crutsinger, 0 on, 2 out); Hilderbrand (3, 8th
+inning off Crutsinger, 1 on, 2 out).  SF: Vroom.  RBI: Geringer (1); Khruschev
+(58); Vroom (9); Hilderbrand 2 (18).  2-OUT RBI: Khruschev; Hilderbrand 2. 
+Runners left in scoring position, 2 outs: Marlin; Vroom.  GIDP: Hilderbrand;
+Khruschev.  Team LOB: 4.  
+
+FIELDING
+E: Reynolds (6, fly ball); Gojcaj (14, ground ball); Stark (7, throw). 
+Outfield assist: Hilderbrand (Miedema at home plate).  
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Kevin Crutsinger (W, 7-11)      7 2/3   7  5  5  2  1  2  4.58
+Francisco Rolfes (S, 4)         1 1/3   2  0  0  0  2  0  4.87
+
+
+Oklahoma City                    IP     H  R ER BB SO HR   ERA
+
+Giovanni Geringer (L, 5-4)      3 2/3   4  4  3  1  2  0  4.91
+Jerry Huseman                   2 1/3   4  4  3  1  2  1  6.22
+Joe Helm                        2       2  0  0  0  1  0  1.32
+Eduardo Anzures                 1       4  2  2  0  0  0  5.52
+
+Huseman pitched to 4 batters in the 7th.  
+
+Pitches-Strikes:  Geringer 63-52; Huseman 50-38; Helm 19-17; Anzures 24-17;
+Crutsinger 115-76; Rolfes 27-20.  Ground balls-Fly balls:  Geringer 10-5;
+Huseman 6-4; Helm 4-2; Anzures 4-2; Crutsinger 13-14; Rolfes 1-3.  Batters
+faced:  Geringer 18; Huseman 13; Helm 7; Anzures 6; Crutsinger 30; Rolfes 6.  
+
+Umpires:  HP: Trip Hawkins.  1B: Joe Damon.  2B: James Coliz, Jr.  3B: Mike
+Coustier.  T: 3:10.  Att: 20,360.  Weather: 78 degrees, cloudy.  Wind: 4 mph,
+in from left.  
+
+
+High Heat Baseball Player of the Game:  Harold Wayman
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  San Jose batting
+
+Ricky Spanish grounded out to first.
+Ezra Snyder grounded out to shortstop.
+Todd Brumit struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Oklahoma City 0
+
+
+Bottom of the 1st inning:  Oklahoma City batting
+
+Frank Vroom walked.
+Russel Reynolds flied out to left.
+Norman Hilderbrand grounded into double play to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Oklahoma City 0
+
+
+Top of the 2nd inning:  San Jose batting
+
+Harold Wayman grounded out to first.
+Lee Defoore grounded out to first.
+Dave Ramos grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Oklahoma City 0
+
+
+Bottom of the 2nd inning:  Oklahoma City batting
+
+Khrusher Khruschev popped out to first.
+Sterling Marlin fouled out to catcher.
+Otis Gojcaj grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 0, Oklahoma City 0
+
+
+Top of the 3rd inning:  San Jose batting
+
+Jaden Miedema was safe after Russel Reynolds committed a fielding error.
+George Fogler struck out looking.
+Kevin Crutsinger popped out to catcher.
+Ricky Spanish grounded out to third.
+
+0 Runs, 0 Hits, 1 Error
+San Jose 0, Oklahoma City 0
+
+
+Bottom of the 3rd inning:  Oklahoma City batting
+
+Henry Stark flied out to left.
+Ron Curington tripled.
+Giovanni Geringer grounded out to shortstop, Curington SCORED.
+Frank Vroom grounded out to first.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 0, Oklahoma City 1
+
+
+Top of the 4th inning:  San Jose batting
+
+Ezra Snyder singled.
+Todd Brumit singled, Snyder to third.
+Harold Wayman doubled, Snyder SCORED, Brumit SCORED.
+Lee Defoore singled, Wayman SCORED.
+Dave Ramos walked, Defoore to second.
+Jaden Miedema flied out to center.
+George Fogler grounded into fielder's choice to first, Ramos to second.
+Kevin Crutsinger was safe after Otis Gojcaj committed a fielding error, Ramos
+Jerry Huseman relieved Giovanni Geringer.
+Ricky Spanish struck out looking.
+
+4 Runs, 4 Hits, 1 Error
+San Jose 4, Oklahoma City 1
+
+
+Bottom of the 4th inning:  Oklahoma City batting
+
+Russel Reynolds popped out to third.
+Norman Hilderbrand struck out swinging.
+Khrusher Khruschev HOMERED.
+Sterling Marlin flied out to center.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Top of the 5th inning:  San Jose batting
+
+Ezra Snyder walked.
+Todd Brumit flied out to right.
+Harold Wayman singled, Snyder to third.
+Lee Defoore popped out to third.
+Dave Ramos grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Bottom of the 5th inning:  Oklahoma City batting
+
+Otis Gojcaj grounded out to first.
+Henry Stark grounded out to second.
+Ron Curington walked.
+Jerry Huseman grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Top of the 6th inning:  San Jose batting
+
+Jaden Miedema grounded out to third.
+George Fogler popped out to catcher.
+Kevin Crutsinger struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Bottom of the 6th inning:  Oklahoma City batting
+
+Frank Vroom singled.
+Russel Reynolds singled, Vroom to third.
+Norman Hilderbrand fouled out to third.
+Khrusher Khruschev grounded into double play to first.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Top of the 7th inning:  San Jose batting
+
+Ricky Spanish was safe after Henry Stark committed a throwing error.
+Ezra Snyder singled, Spanish to third.
+Todd Brumit singled, Spanish SCORED, Snyder to third.
+Harold Wayman HOMERED, Snyder SCORED, Brumit SCORED.
+Joe Helm relieved Jerry Huseman.
+Lee Defoore grounded out to first.
+Dave Ramos singled.
+Jaden Miedema singled, Ramos to third.
+George Fogler grounded into double play to third.
+
+4 Runs, 5 Hits, 1 Error
+San Jose 8, Oklahoma City 2
+
+
+Bottom of the 7th inning:  Oklahoma City batting
+
+Sterling Marlin grounded out to third.
+Otis Gojcaj grounded out to first.
+Henry Stark flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 8, Oklahoma City 2
+
+
+Top of the 8th inning:  San Jose batting
+
+Kevin Crutsinger grounded out to shortstop.
+Ricky Spanish struck out looking.
+Ezra Snyder flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 8, Oklahoma City 2
+
+
+Bottom of the 8th inning:  Oklahoma City batting
+
+Ron Curington tripled.
+Jesse Campbell hit for Joe Helm.
+Jesse Campbell flied out to right.
+Frank Vroom hit a sacrifice fly, Curington SCORED.
+Russel Reynolds singled.
+Norman Hilderbrand HOMERED, Reynolds SCORED.
+Francisco Rolfes relieved Kevin Crutsinger.
+Khrusher Khruschev singled.
+Sterling Marlin struck out looking.
+
+3 Runs, 4 Hits, 0 Errors
+San Jose 8, Oklahoma City 5
+
+
+Top of the 9th inning:  San Jose batting
+
+Eduardo Anzures relieved Joe Helm.
+Todd Brumit grounded out to second.
+Harold Wayman singled.
+Lee Defoore singled, Wayman to third.
+Dave Ramos singled, Wayman SCORED, Defoore to third.
+Jaden Miedema grounded into fielder's choice to shortstop.
+George Fogler doubled, Defoore SCORED, Jaden Miedema out at home plate.
+
+2 Runs, 4 Hits, 0 Errors
+San Jose 10, Oklahoma City 5
+
+
+Bottom of the 9th inning:  Oklahoma City batting
+
+Otis Gojcaj struck out looking.
+Henry Stark doubled.
+Ron Curington popped out to third.
+Joe Pajtas hit for Eduardo Anzures.
+Joe Pajtas flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 10, Oklahoma City 5
+
+
+END

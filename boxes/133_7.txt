@@ -1,0 +1,308 @@
+
+Date of game:  Aug 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Lynchburg          2 0 0  0 2 0  1 0 0     5 11  1
+Las Vegas          0 0 0  2 1 0  0 0 1     4  8  0
+
+
+Lynchburg                          AB  R  H BI BB SO LO   AVG
+
+Gilbert Palmer cf                   5  2  2  0  0  0  3  .310
+Crenshaw Thomas c                   5  1  2  1  0  0  1  .326
+Leroy Vantrump lf                   4  0  1  1  1  0  1  .302
+Lev Beniov 1b                       3  0  2  2  0  0  1  .311
+Puddnhead Wilson dh                 3  0  0  0  1  2  0  .302
+B.J. Blazkowicz ss                  4  0  1  0  0  0  2  .231
+Santos Engquist 2b                  4  0  1  0  0  0  4  .273
+Dave Hershenson 3b                  3  1  1  0  1  1  2  .241
+Micheal Delprincipe rf              4  1  1  1  0  1  3  .284
+
+TOTALS:                            35  5 11  5  3  4 17
+
+
+BATTING
+2B: Thomas (26, Rule); Hershenson (11, Rule).  SF: Beniov.  RBI: Vantrump (44);
+Beniov 2 (84); Delprincipe (16); Thomas (58).  2-OUT RBI: Thomas; Beniov. 
+Runners left in scoring position, 2 outs: Delprincipe; Engquist.  GIDP:
+Delprincipe.  Team LOB: 7.  
+
+BASERUNNING
+SB: Palmer (52, 2nd base off Guzman/Bateman).  CS: Engquist (14, 2nd base by
+Rule/Bateman).  
+
+FIELDING
+E: Weimar (1, throw).  Outfield assist: Delprincipe (Meany at 3rd base).  
+
+
+Las Vegas                          AB  R  H BI BB SO LO   AVG
+
+Jeffrey Sumpter rf                  5  1  2  0  0  1  0  .208
+Tara Strong lf                      5  1  3  3  0  1  2  .271
+Darrel Dawson 1b                    3  0  0  0  2  0  1  .255
+Colt Seavers cf                     2  1  0  0  2  0  3  .318
+Guillermo Guerrero 3b               4  0  0  0  0  0  2  .277
+Justin Meany dh                     3  0  1  1  1  0  5  .255
+Rich Bateman c                      4  0  1  0  0  0  1  .303
+Ray Koenig 2b                       4  1  0  0  0  0  2  .280
+Jose Saldana ss                     4  0  1  0  0  0  2  .288
+
+TOTALS:                            34  4  8  4  5  2 18
+
+
+BATTING
+2B: Strong (14, Dupont).  HR: Strong (9, 4th inning off Dupont, 0 on, 0 out). 
+RBI: Strong 3 (43); Meany (30).  2-OUT RBI: Meany; Strong 2.  Runners left in
+scoring position, 2 outs: Guerrero; Meany; Bateman; Seavers.  Team LOB: 8.  
+
+BASERUNNING
+SB: Sumpter 2 (47, 2nd base off Dupont/Thomas, 2nd base off Dupont/Thomas);
+Seavers (20, 2nd base off Dupont/Thomas).  CS: Koenig (17, 2nd base by
+Dupont/Thomas).  
+
+
+Lynchburg                        IP     H  R ER BB SO HR   ERA
+
+Willie Dupont (W, 2-2)          7       6  3  3  4  2  1  4.23
+George Dobbs Jr (H, 1)          1       0  0  0  1  0  0  5.31
+Jim Weimar (S, 19)              1       2  1  0  0  0  0  4.04
+
+
+Las Vegas                        IP     H  R ER BB SO HR   ERA
+
+Hamlin Rule (L, 4-12)           6 1/3  10  5  5  0  4  0  6.38
+Jerrick Guzman                  2 2/3   1  0  0  3  0  0  8.10
+
+
+Pitches-Strikes:  Rule 105-78; Guzman 38-25; Dupont 127-94; Dobbs Jr 18-9;
+Weimar 21-16.  Ground balls-Fly balls:  Rule 17-7; Guzman 7-1; Dupont 8-15;
+Dobbs Jr 2-1; Weimar 4-2.  Batters faced:  Rule 28; Guzman 11; Dupont 29; Dobbs
+Jr 4; Weimar 6.  
+
+Umpires:  HP: Tony Ragano.  1B: Mike Coustier.  2B: John Bolton.  3B: Mike
+Mangano.  T: 3:20.  Att: 3,527.  Weather: 85 degrees, clear.  Wind: 26 mph, out
+to right.  
+
+
+High Heat Baseball Player of the Game:  Tara Strong
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Lynchburg batting
+
+Gilbert Palmer singled.
+Crenshaw Thomas doubled, Palmer to third.
+Leroy Vantrump singled, Palmer SCORED, Thomas to third.
+Lev Beniov hit a sacrifice fly, Thomas SCORED.
+Puddnhead Wilson struck out swinging.
+B.J. Blazkowicz grounded out to second.
+
+2 Runs, 3 Hits, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Bottom of the 1st inning:  Las Vegas batting
+
+Jeffrey Sumpter singled.
+Tara Strong struck out looking.
+Sumpter stole second base.
+Darrel Dawson grounded out to second, Sumpter to third.
+Colt Seavers fouled out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Top of the 2nd inning:  Lynchburg batting
+
+Santos Engquist singled.
+Dave Hershenson struck out looking.
+Micheal Delprincipe struck out swinging.
+Engquist caught stealing second base.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Bottom of the 2nd inning:  Las Vegas batting
+
+Guillermo Guerrero flied out to right.
+Justin Meany flied out to center.
+Rich Bateman flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Top of the 3rd inning:  Lynchburg batting
+
+Gilbert Palmer grounded out to shortstop.
+Crenshaw Thomas grounded out to shortstop.
+Leroy Vantrump flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Bottom of the 3rd inning:  Las Vegas batting
+
+Ray Koenig grounded out to first.
+Jose Saldana flied out to left.
+Jeffrey Sumpter fouled out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Top of the 4th inning:  Lynchburg batting
+
+Lev Beniov flied out to left.
+Puddnhead Wilson grounded out to second.
+B.J. Blazkowicz grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 2, Las Vegas 0
+
+
+Bottom of the 4th inning:  Las Vegas batting
+
+Tara Strong HOMERED.
+Darrel Dawson grounded out to pitcher.
+Colt Seavers walked.
+Seavers stole second base.
+Guillermo Guerrero flied out to center.
+Justin Meany singled, Seavers SCORED.
+Rich Bateman singled, Justin Meany out at third base.
+
+2 Runs, 3 Hits, 0 Errors
+Lynchburg 2, Las Vegas 2
+
+
+Top of the 5th inning:  Lynchburg batting
+
+Santos Engquist grounded out to second.
+Dave Hershenson doubled.
+Micheal Delprincipe singled, Hershenson SCORED.
+Gilbert Palmer grounded out to third, Delprincipe to second.
+Crenshaw Thomas singled, Delprincipe SCORED.
+Leroy Vantrump popped out to catcher.
+
+2 Runs, 3 Hits, 0 Errors
+Lynchburg 4, Las Vegas 2
+
+
+Bottom of the 5th inning:  Las Vegas batting
+
+Ray Koenig flied out to center.
+Jose Saldana popped out to first.
+Jeffrey Sumpter singled.
+Sumpter stole second base.
+Tara Strong doubled, Sumpter SCORED.
+Darrel Dawson walked.
+Colt Seavers walked, Dawson to second, Strong to third.
+Guillermo Guerrero flied out to left.
+
+1 Run, 2 Hits, 0 Errors
+Lynchburg 4, Las Vegas 3
+
+
+Top of the 6th inning:  Lynchburg batting
+
+Lev Beniov singled.
+Puddnhead Wilson struck out swinging.
+B.J. Blazkowicz singled, Beniov to third.
+Santos Engquist grounded into fielder's choice to first.
+Dave Hershenson grounded out to second.
+
+0 Runs, 2 Hits, 0 Errors
+Lynchburg 4, Las Vegas 3
+
+
+Bottom of the 6th inning:  Las Vegas batting
+
+Justin Meany walked.
+Rich Bateman grounded into fielder's choice to third.
+Ray Koenig grounded into fielder's choice to third.
+Koenig caught stealing second base.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 4, Las Vegas 3
+
+
+Top of the 7th inning:  Lynchburg batting
+
+Micheal Delprincipe popped out to catcher.
+Gilbert Palmer singled.
+Jerrick Guzman relieved Hamlin Rule.
+Palmer stole second base.
+Crenshaw Thomas grounded out to first, Palmer to third.
+Leroy Vantrump walked.
+Lev Beniov singled, Palmer SCORED, Vantrump to second.
+Puddnhead Wilson walked, Beniov to second, Vantrump to third.
+B.J. Blazkowicz flied out to left.
+
+1 Run, 2 Hits, 0 Errors
+Lynchburg 5, Las Vegas 3
+
+
+Bottom of the 7th inning:  Las Vegas batting
+
+Jose Saldana grounded out to first.
+Jeffrey Sumpter struck out looking.
+Tara Strong fouled out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 5, Las Vegas 3
+
+
+Top of the 8th inning:  Lynchburg batting
+
+Santos Engquist grounded out to third.
+Dave Hershenson walked.
+Micheal Delprincipe grounded into double play to third.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 5, Las Vegas 3
+
+
+Bottom of the 8th inning:  Las Vegas batting
+
+George Dobbs Jr relieved Willie Dupont.
+Darrel Dawson walked.
+Colt Seavers popped out to second.
+Guillermo Guerrero grounded out to second, Dawson to second.
+Justin Meany grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 5, Las Vegas 3
+
+
+Top of the 9th inning:  Lynchburg batting
+
+Gilbert Palmer grounded out to second.
+Crenshaw Thomas grounded out to shortstop.
+Leroy Vantrump grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 5, Las Vegas 3
+
+
+Bottom of the 9th inning:  Las Vegas batting
+
+Jim Weimar relieved George Dobbs Jr.
+Rich Bateman grounded out to second.
+Ray Koenig was safe after Jim Weimar committed a throwing error.
+Jose Saldana singled, Koenig to second.
+Jeffrey Sumpter grounded out to second, Saldana to second, Koenig to third.
+Tara Strong singled, Koenig SCORED, Saldana to third.
+Darrel Dawson flied out to left.
+
+1 Run, 2 Hits, 1 Error
+Lynchburg 5, Las Vegas 4
+
+
+END

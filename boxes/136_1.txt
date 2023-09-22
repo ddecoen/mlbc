@@ -1,0 +1,299 @@
+
+Date of game:  Aug 14, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Billings           0 0 0  0 2 1  3 0 0     6 14  0
+Altoona            2 0 2  3 0 0  2 1 X    10 16  0
+
+
+Billings                           AB  R  H BI BB SO LO   AVG
+
+Waldo Riney cf                      5  1  3  1  0  0  1  .321
+Francis Scott dh                    5  1  1  1  0  0  2  .308
+Brandt Broussard 2b                 4  0  2  1  0  1  1  .307
+  Marcus Skundrich pr               0  0  0  0  0  0  0  .248
+  Jose Raffaele 2b                  1  0  0  0  0  0  1  .257
+Anthony Amicangelo rf               4  1  1  1  0  0  2  .292
+Freddy Achecar 1b                   4  1  2  0  0  1  2  .316
+Ray Deguzman 3b                     3  0  1  0  1  0  1  .299
+Garland Deans lf                    4  1  1  0  0  1  1  .333
+Bernard Leong ss                    4  1  2  1  0  0  3  .290
+Rob Jock c                          4  0  1  1  0  0  0  .400
+
+TOTALS:                            38  6 14  6  1  3 14
+
+
+BATTING
+2B: Riney (18, Legerski); Scott (19, Legerski); Broussard (20, Lopez).  HR:
+Amicangelo (17, 6th inning off Morrison, 0 on, 2 out).  RBI: Leong (39); Jock
+(6); Amicangelo (62); Riney (61); Scott (52); Broussard (62).  2-OUT RBI:
+Amicangelo.  Runners left in scoring position, 2 outs: Scott; Leong; Deguzman. 
+GIDP: Broussard; Amicangelo; Riney.  Team LOB: 6.  
+
+
+Altoona                            AB  R  H BI BB SO LO   AVG
+
+Kevin Crockett cf                   4  1  2  2  0  0  3  .333
+Andy Tinnin rf                      5  2  4  2  0  1  0  .300
+Ronnie Harris lf                    5  2  2  1  0  1  0  .296
+Wilson Allen 1b                     4  1  3  3  0  0  4  .334
+Benedict Depedro 3b                 4  0  0  0  0  1  0  .343
+Darwin Rodriguez dh                 3  1  1  0  1  0  2  .331
+Jeffery Brimfield c                 4  2  2  0  0  2  1  .285
+Edgar Hill 2b                       4  1  2  2  0  0  1  .337
+Mike Medina ss                      4  0  0  0  0  1  0  .305
+
+TOTALS:                            37 10 16 10  1  6 11
+
+
+BATTING
+2B: Harris (38, Morgan); Allen (19, Morgan); Tinnin (14, Stone).  3B: Hill (6,
+Onstad).  HR: Tinnin (2, 3rd inning off Morgan, 1 on, 0 out); Allen (22, 7th
+inning off Bonvillain, 1 on, 1 out).  SF: Crockett.  RBI: Harris (81); Allen 3
+(55); Tinnin 2 (39); Hill 2 (55); Crockett 2 (93).  Runners left in scoring
+position, 2 outs: Brimfield; Allen 2.  GIDP: Depedro; Harris.  Team LOB: 5.  
+
+
+Billings                         IP     H  R ER BB SO HR   ERA
+
+Dexter Morgan (L, 3-2)          2 1/3   6  4  4  0  1  1  3.86
+Thomas Onstad                   1       4  3  3  0  0  0  6.12
+Beaux Bonvillain                3 2/3   5  3  3  1  3  1  4.10
+Kollin Stone                      2/3   1  0  0  0  1  0  7.02
+Larry Lubinsky                    1/3   0  0  0  0  1  0  5.30
+
+
+Altoona                          IP     H  R ER BB SO HR   ERA
+
+Russ Morrison (W, 9-4)          6       9  3  3  1  1  1  5.13
+Bob Legerski                      1/3   3  3  3  0  0  0  4.34
+Jasper Lopez (S, 2)             2 2/3   2  0  0  0  2  0  4.09
+
+Bonvillain pitched to 2 batters in the 8th.  
+
+Pitches-Strikes:  Morrison 92-64; Legerski 13-10; Lopez 36-28; Morgan 48-35;
+Onstad 16-12; Bonvillain 59-45; Stone 11-9; Lubinsky 5-5.  Ground balls-Fly
+balls:  Morrison 15-8; Legerski 1-3; Lopez 4-4; Morgan 7-5; Onstad 5-1;
+Bonvillain 6-6; Stone 1-1; Lubinsky 0-0.  Batters faced:  Morrison 25; Legerski
+4; Lopez 10; Morgan 13; Onstad 6; Bonvillain 16; Stone 3; Lubinsky 1.  
+
+Umpires:  HP: Mike Saperstein.  1B: John Yellott.  2B: Paul Terry.  3B: James
+Coliz, Jr.  T: 3:13.  Att: 17,414.  Weather: 71 degrees, clear.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Wilson Allen
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Billings batting
+
+Waldo Riney singled.
+Francis Scott grounded into fielder's choice to third.
+Brandt Broussard grounded into double play to third.
+
+0 Runs, 1 Hit, 0 Errors
+Billings 0, Altoona 0
+
+
+Bottom of the 1st inning:  Altoona batting
+
+Kevin Crockett flied out to left.
+Andy Tinnin singled.
+Ronnie Harris doubled, Tinnin SCORED.
+Wilson Allen doubled, Harris SCORED.
+Benedict Depedro grounded out to third, Allen to third.
+Darwin Rodriguez grounded out to first.
+
+2 Runs, 3 Hits, 0 Errors
+Billings 0, Altoona 2
+
+
+Top of the 2nd inning:  Billings batting
+
+Anthony Amicangelo flied out to shortstop.
+Freddy Achecar flied out to right.
+Ray Deguzman singled.
+Garland Deans grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Billings 0, Altoona 2
+
+
+Bottom of the 2nd inning:  Altoona batting
+
+Jeffery Brimfield struck out looking.
+Edgar Hill grounded out to first.
+Mike Medina grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Billings 0, Altoona 2
+
+
+Top of the 3rd inning:  Billings batting
+
+Bernard Leong grounded out to shortstop.
+Rob Jock grounded out to third.
+Waldo Riney grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Billings 0, Altoona 2
+
+
+Bottom of the 3rd inning:  Altoona batting
+
+Kevin Crockett singled.
+Andy Tinnin HOMERED, Crockett SCORED.
+Ronnie Harris flied out to left.
+Wilson Allen singled.
+Thomas Onstad relieved Dexter Morgan.
+Benedict Depedro grounded into double play to second.
+
+2 Runs, 3 Hits, 0 Errors
+Billings 0, Altoona 4
+
+
+Top of the 4th inning:  Billings batting
+
+Francis Scott grounded out to second.
+Brandt Broussard singled.
+Anthony Amicangelo grounded into double play to second.
+
+0 Runs, 1 Hit, 0 Errors
+Billings 0, Altoona 4
+
+
+Bottom of the 4th inning:  Altoona batting
+
+Darwin Rodriguez singled.
+Jeffery Brimfield singled, Rodriguez to second.
+Edgar Hill tripled, Rodriguez SCORED, Brimfield SCORED.
+Mike Medina grounded out to third.
+Kevin Crockett singled, Hill SCORED.
+Beaux Bonvillain relieved Thomas Onstad.
+Andy Tinnin singled, Crockett to third.
+Ronnie Harris grounded into double play to third.
+
+3 Runs, 5 Hits, 0 Errors
+Billings 0, Altoona 7
+
+
+Top of the 5th inning:  Billings batting
+
+Freddy Achecar singled.
+Ray Deguzman flied out to left.
+Garland Deans singled, Achecar to third.
+Bernard Leong singled, Achecar SCORED, Deans to second.
+Rob Jock singled, Deans SCORED, Leong to third.
+Waldo Riney grounded into double play to second.
+
+2 Runs, 4 Hits, 0 Errors
+Billings 2, Altoona 7
+
+
+Bottom of the 5th inning:  Altoona batting
+
+Wilson Allen flied out to left.
+Benedict Depedro flied out to right.
+Darwin Rodriguez walked.
+Jeffery Brimfield struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Billings 2, Altoona 7
+
+
+Top of the 6th inning:  Billings batting
+
+Francis Scott flied out to left.
+Brandt Broussard struck out looking.
+Anthony Amicangelo HOMERED.
+Freddy Achecar singled.
+Ray Deguzman walked, Achecar to second.
+Garland Deans grounded out to first.
+
+1 Run, 2 Hits, 0 Errors
+Billings 3, Altoona 7
+
+
+Bottom of the 6th inning:  Altoona batting
+
+Edgar Hill grounded out to first.
+Mike Medina grounded out to shortstop.
+Kevin Crockett grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Billings 3, Altoona 7
+
+
+Top of the 7th inning:  Billings batting
+
+Bob Legerski relieved Russ Morrison.
+Bernard Leong singled.
+Rob Jock flied out to center.
+Waldo Riney doubled, Leong SCORED.
+Francis Scott doubled, Riney SCORED.
+Jasper Lopez relieved Bob Legerski.
+Brandt Broussard doubled, Scott SCORED.
+Marcus Skundrich ran for Brandt Broussard.
+Anthony Amicangelo flied out to right.
+Freddy Achecar struck out swinging.
+
+3 Runs, 4 Hits, 0 Errors
+Billings 6, Altoona 7
+
+
+Bottom of the 7th inning:  Altoona batting
+
+Jose Raffaele came in for Marcus Skundrich at second.
+Andy Tinnin struck out looking.
+Ronnie Harris singled.
+Wilson Allen HOMERED, Harris SCORED.
+Benedict Depedro struck out looking.
+Darwin Rodriguez flied out to left.
+
+2 Runs, 2 Hits, 0 Errors
+Billings 6, Altoona 9
+
+
+Top of the 8th inning:  Billings batting
+
+Ray Deguzman grounded out to shortstop.
+Garland Deans struck out looking.
+Bernard Leong flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Billings 6, Altoona 9
+
+
+Bottom of the 8th inning:  Altoona batting
+
+Jeffery Brimfield singled.
+Edgar Hill singled, Brimfield to third.
+Kollin Stone relieved Beaux Bonvillain.
+Mike Medina struck out looking.
+Kevin Crockett hit a sacrifice fly, Brimfield SCORED.
+Andy Tinnin doubled, Hill to third.
+Kollin Stone was injured on the play.
+Larry Lubinsky relieved Kollin Stone.
+Ronnie Harris struck out swinging.
+
+1 Run, 3 Hits, 0 Errors
+Billings 6, Altoona 10
+
+
+Top of the 9th inning:  Billings batting
+
+Rob Jock grounded out to shortstop.
+Waldo Riney singled.
+Francis Scott popped out to catcher.
+Jose Raffaele grounded out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Billings 6, Altoona 10
+
+
+END

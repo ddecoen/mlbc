@@ -1,0 +1,536 @@
+Team0 vs Team1 (Day 137)
+
+Date of game:  Aug 15, 1987
+
+FINAL IN 17        1 2 3  4 5 6  7 8 9 101112 131415 1617    R  H  E
+
+Richmond           1 0 0  0 1 1  0 0 0  0 0 0  0 0 0  3 1    7 17  1
+Chattanooga        0 0 0  2 0 0  0 1 0  0 0 0  0 0 0  3 2    8 19  0
+
+One out when winning run scored.
+
+
+
+Richmond                           AB  R  H BI BB SO LO   AVG
+
+Jack Gallegos 2b                    8  0  1  0  0  3  3  .234
+Leap Day William cf                 8  2  2  0  0  0  2  .362
+Terry Kincaid lf                    8  2  4  0  0  0  3  .322
+Alfred Harrison rf                  7  0  2  2  0  2  1  .302
+Dutch van der Linde 1b              5  1  0  0  6  1  3  .333
+Ken Gooch 3b                        8  0  2  1  0  2  3  .250
+Alberto Scardino c                  7  2  3  1  0  0  6  .274
+Patrick Alvarez ss                  4  0  1  0  1  1  3  .282
+  Glen Caron ph-ss                  2  0  1  2  0  0  0  .282
+Elroy Fletcher p                    3  0  1  0  0  2  0  .333
+  Douglas Hernandez ph              1  0  0  0  0  0  0  .000
+  Ricardo Lage p                    0  0  0  0  0  0  0  .000
+  Andrew Rice ph                    1  0  0  0  0  0  0  .263
+  Miles Phillips p                  1  0  0  0  0  1  1  .000
+  Dalton Trumbull ph                1  0  0  0  0  1  0  .331
+  Craig Cook p                      0  0  0  0  0  0  0  .000
+  Ray Manues p                      0  0  0  0  0  0  0  .000
+
+TOTALS:                            64  7 17  6  7 13 25
+
+
+BATTING
+2B: Kincaid (30, Maphis); Fletcher (1, Evelo); Gooch (9, McGeachy); Scardino
+(16, Burt).  3B: Scardino (4, Zimmermann); Harrison (3, Rowe Jr).  RBI:
+Harrison 2 (45); Gooch (13); Scardino (30); Caron 2 (69).  2-OUT RBI: Gooch;
+Scardino; Caron 2; Harrison.  Runners left in scoring position, 2 outs: Gooch;
+Scardino 2; Alvarez 2; Kincaid 2.  GIDP: Caron; William.  Team LOB: 11.  
+
+BASERUNNING
+SB: William (45, 2nd base off Zimmermann/Crosno); Alvarez (6, 2nd base off
+McGeachy/Crosno).  CS: Alvarez (3, 2nd base by McGeachy/Crosno).  
+
+FIELDING
+E: Alvarez (5, throw).  
+
+
+Chattanooga                        AB  R  H BI BB SO LO   AVG
+
+Bill Lanctot lf                     9  2  4  2  0  0  7  .289
+Mike Haroldsen ss                   7  0  2  0  1  0  0  .308
+John Childress rf                   7  1  1  0  1  2  2  .251
+John Edwards 1b                     4  1  2  0  0  0  5  .264
+  Reagan Hathaway pr-1b             2  2  1  0  3  0  1  .311
+Charlie Dooley 3b                   7  1  1  1  1  3  4  .251
+Booker Crosno c                     8  0  2  2  0  0  6  .327
+Damon Marshall cf                   7  0  2  1  1  2  3  .295
+Cooter Stith 2b                     8  0  3  2  0  1  3  .344
+Ed Maphis p                         0  0  0  0  0  0  0  .000
+  Dwight Zimmermann p               2  0  0  0  0  1  1  .000
+  Chris McKendree ph                1  0  0  0  0  0  0  .292
+  Larry Evelo p                     0  0  0  0  0  0  0  .000
+  Jaime Krug ph                     1  0  0  0  0  0  0  .262
+  Peach McGeachy p                  1  0  0  0  0  0  0  .000
+  Archie Cobbs Jr ph                1  0  0  0  0  0  0  .349
+  Jeffrey Burt p                    0  0  0  0  0  0  0  .000
+  Buzz Keyser ph                    1  0  0  0  0  0  0  .143
+  Cody Rowe Jr p                    0  0  0  0  0  0  0  .000
+
+TOTALS:                            66  7 18  8  7  9 32
+
+
+BATTING
+2B: Lanctot (19, Fletcher); Hathaway (16, Phillips).  HR: Lanctot (16, 17th
+inning off Manues, 1 on, 1 out).  RBI: Marshall (77); Stith 2 (47); Dooley
+(62); Crosno 2 (16); Lanctot 2 (46).  2-OUT RBI: Stith; Dooley; Crosno 2. 
+Runners left in scoring position, 2 outs: Dooley; Edwards; Crosno 3; Lanctot;
+Stith.  GIDP: Zimmermann; Cobbs Jr.  Team LOB: 16.  
+
+BASERUNNING
+SB: Haroldsen (41, 2nd base off Phillips/Scardino).  
+
+FIELDING
+PB: Crosno.  
+
+
+Richmond                         IP     H  R ER BB SO HR   ERA
+
+Elroy Fletcher                  8      10  3  3  2  3  0  4.55
+Ricardo Lage                    3       0  0  0  1  1  0  5.08
+Miles Phillips                  4       4  0  0  1  4  0  2.06
+Craig Cook (H, 3)                 2/3   2  3  3  1  0  0  4.46
+Ray Manues (L, 1-1) (BS, 1)       2/3   3  2  2  1  1  1  5.82
+
+
+Chattanooga                      IP     H  R ER BB SO HR   ERA
+
+Ed Maphis                       1       2  1  1  0  0  0  5.65
+Dwight Zimmermann               5       4  2  2  1  8  0  2.90
+Larry Evelo                     2       2  0  0  0  1  0  5.31
+Peach McGeachy                  5       2  0  0  1  1  0  3.91
+Jeffrey Burt                    3       4  3  3  1  2  0  6.08
+Cody Rowe Jr (W, 5-2)           1       3  1  1  1  1  0  4.81
+
+
+WP: Zimmermann; Burt.  IBB: van der Linde 3 (by Zimmermann, by Burt, by Rowe
+Jr); Hathaway (by Phillips).  Pitches-Strikes:  Maphis 23-21; Zimmermann 94-68;
+Evelo 26-22; McGeachy 65-51; Burt 45-35; Rowe Jr 24-17; Fletcher 138-105; Lage
+48-32; Phillips 62-44; Cook 17-13; Manues 31-18.  Ground balls-Fly balls: 
+Maphis 4-1; Zimmermann 7-4; Evelo 4-3; McGeachy 4-11; Burt 7-3; Rowe Jr 3-1;
+Fletcher 22-9; Lage 5-3; Phillips 4-7; Cook 3-1; Manues 2-2.  Batters faced: 
+Maphis 5; Zimmermann 20; Evelo 8; McGeachy 17; Burt 13; Rowe Jr 6; Fletcher 36;
+Lage 10; Phillips 16; Cook 5; Manues 6.  
+
+Umpires:  HP: Paul Terry.  1B: Mike Saperstein.  2B: Mike Coustier.  3B: Chuck
+Woo.  T: 5:47.  Att: 28,729.  Weather: 72 degrees, partly cloudy.  Wind: 6 mph,
+out to right.  
+
+
+High Heat Baseball Player of the Game:  Bill Lanctot
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Richmond batting
+
+Jack Gallegos grounded out to second.
+Leap Day William singled.
+Terry Kincaid doubled, William to third.
+Alfred Harrison grounded out to second, William SCORED, Kincaid to third.
+Dutch van der Linde grounded out to pitcher.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 1, Chattanooga 0
+
+
+Bottom of the 1st inning:  Chattanooga batting
+
+Bill Lanctot was safe after Patrick Alvarez committed a throwing error.
+Mike Haroldsen grounded out to shortstop, Lanctot to second.
+John Childress flied out to center.
+John Edwards grounded out to shortstop.
+
+0 Runs, 0 Hits, 1 Error
+Richmond 1, Chattanooga 0
+
+
+Top of the 2nd inning:  Richmond batting
+
+Dwight Zimmermann relieved Ed Maphis.
+Ken Gooch popped out to first.
+Alberto Scardino grounded out to first.
+Patrick Alvarez struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, Chattanooga 0
+
+
+Bottom of the 2nd inning:  Chattanooga batting
+
+Charlie Dooley grounded out to second.
+Booker Crosno flied out to center.
+Damon Marshall flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, Chattanooga 0
+
+
+Top of the 3rd inning:  Richmond batting
+
+Elroy Fletcher struck out looking.
+Jack Gallegos flied out to right.
+Leap Day William grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 1, Chattanooga 0
+
+
+Bottom of the 3rd inning:  Chattanooga batting
+
+Cooter Stith struck out looking.
+Dwight Zimmermann struck out looking.
+Bill Lanctot singled.
+Mike Haroldsen singled, Lanctot to second.
+John Childress grounded out to shortstop.
+
+0 Runs, 2 Hits, 0 Errors
+Richmond 1, Chattanooga 0
+
+
+Top of the 4th inning:  Richmond batting
+
+Terry Kincaid singled.
+Passed ball by Booker Crosno, Kincaid to second.
+Alfred Harrison struck out looking.
+Dutch van der Linde struck out looking.
+Ken Gooch struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 1, Chattanooga 0
+
+
+Bottom of the 4th inning:  Chattanooga batting
+
+John Edwards singled.
+Charlie Dooley singled, Edwards to second.
+Booker Crosno grounded out to third, Dooley to second, Edwards to third.
+Damon Marshall singled, Edwards SCORED, Dooley to third.
+Cooter Stith singled, Dooley SCORED, Marshall to second.
+Dwight Zimmermann grounded into double play to pitcher.
+
+2 Runs, 4 Hits, 0 Errors
+Richmond 1, Chattanooga 2
+
+
+Top of the 5th inning:  Richmond batting
+
+Alberto Scardino tripled.
+Wild pitch by Dwight Zimmermann, Scardino SCORED.
+Patrick Alvarez flied out to center.
+Elroy Fletcher struck out looking.
+Jack Gallegos struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+Richmond 2, Chattanooga 2
+
+
+Bottom of the 5th inning:  Chattanooga batting
+
+Bill Lanctot doubled.
+Mike Haroldsen walked.
+John Childress flied out to center.
+John Edwards grounded into fielder's choice to shortstop, Haroldsen to second.
+Charlie Dooley fouled out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 2, Chattanooga 2
+
+
+Top of the 6th inning:  Richmond batting
+
+Leap Day William singled.
+William stole second base.
+Terry Kincaid grounded out to shortstop.
+Alfred Harrison struck out looking.
+Dutch van der Linde was walked intentionally.
+Ken Gooch singled, William SCORED, van der Linde to third.
+Alberto Scardino grounded out to second.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 3, Chattanooga 2
+
+
+Bottom of the 6th inning:  Chattanooga batting
+
+Booker Crosno singled.
+Damon Marshall grounded into fielder's choice to first.
+Cooter Stith flied out to right.
+Chris McKendree hit for Dwight Zimmermann.
+Chris McKendree flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 2
+
+
+Top of the 7th inning:  Richmond batting
+
+Larry Evelo relieved Dwight Zimmermann.
+Patrick Alvarez grounded out to shortstop.
+Elroy Fletcher doubled.
+Jack Gallegos struck out looking.
+Leap Day William grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 2
+
+
+Bottom of the 7th inning:  Chattanooga batting
+
+Bill Lanctot grounded out to shortstop.
+Mike Haroldsen grounded out to shortstop.
+John Childress flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 2
+
+
+Top of the 8th inning:  Richmond batting
+
+Terry Kincaid fouled out to first.
+Alfred Harrison singled.
+Dutch van der Linde grounded into fielder's choice to second.
+Ken Gooch flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 2
+
+
+Bottom of the 8th inning:  Chattanooga batting
+
+John Edwards singled.
+Reagan Hathaway ran for John Edwards.
+Charlie Dooley struck out swinging.
+Booker Crosno grounded out to catcher, Hathaway to second.
+Damon Marshall walked.
+Cooter Stith singled, Hathaway SCORED, Marshall to third.
+Jaime Krug hit for Larry Evelo.
+Jaime Krug grounded out to third.
+
+1 Run, 2 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 9th inning:  Richmond batting
+
+Peach McGeachy relieved Larry Evelo.
+Alberto Scardino popped out to first.
+Patrick Alvarez walked.
+Douglas Hernandez hit for Elroy Fletcher.
+Alvarez caught stealing second base.
+Douglas Hernandez flied out to left.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 9th inning:  Chattanooga batting
+
+Ricardo Lage relieved Elroy Fletcher.
+Bill Lanctot grounded out to shortstop.
+Mike Haroldsen grounded out to second.
+John Childress walked.
+Reagan Hathaway grounded out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 10th inning:  Richmond batting
+
+Jack Gallegos struck out looking.
+Leap Day William grounded out to third.
+Terry Kincaid flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 10th inning:  Chattanooga batting
+
+Charlie Dooley struck out looking.
+Booker Crosno flied out to shortstop.
+Damon Marshall grounded out to pitcher.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 11th inning:  Richmond batting
+
+Alfred Harrison grounded out to shortstop.
+Dutch van der Linde flied out to right.
+Ken Gooch doubled.
+Alberto Scardino grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 11th inning:  Chattanooga batting
+
+Cooter Stith flied out to right.
+Peach McGeachy grounded out to pitcher.
+Bill Lanctot flied out to center.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 12th inning:  Richmond batting
+
+Patrick Alvarez singled.
+Andrew Rice hit for Ricardo Lage.
+Alvarez stole second base.
+Andrew Rice flied out to center.
+Jack Gallegos flied out to center.
+Leap Day William flied out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 12th inning:  Chattanooga batting
+
+Miles Phillips relieved Ricardo Lage.
+Mike Haroldsen flied out to right.
+John Childress struck out swinging.
+Reagan Hathaway doubled.
+Charlie Dooley struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 13th inning:  Richmond batting
+
+Terry Kincaid fouled out to third.
+Alfred Harrison popped out to first.
+Dutch van der Linde popped out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 13th inning:  Chattanooga batting
+
+Booker Crosno grounded out to second.
+Damon Marshall singled.
+Cooter Stith singled, Marshall to third.
+Archie Cobbs Jr hit for Peach McGeachy.
+
+0 Runs, 2 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 14th inning:  Richmond batting
+
+Jeffrey Burt relieved Peach McGeachy.
+Ken Gooch grounded out to second.
+Alberto Scardino singled.
+Glen Caron hit for Patrick Alvarez.
+Glen Caron grounded into double play to first.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 14th inning:  Chattanooga batting
+
+Bill Lanctot fouled out to first.
+Mike Haroldsen singled.
+Haroldsen stole second base.
+John Childress struck out looking.
+Reagan Hathaway was walked intentionally.
+Charlie Dooley grounded out to second.
+
+0 Runs, 1 Hit, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 15th inning:  Richmond batting
+
+Miles Phillips struck out looking.
+Jack Gallegos grounded out to second.
+Leap Day William grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Bottom of the 15th inning:  Chattanooga batting
+
+Booker Crosno fouled out to catcher.
+Damon Marshall struck out looking.
+Cooter Stith popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Richmond 3, Chattanooga 3
+
+
+Top of the 16th inning:  Richmond batting
+
+Terry Kincaid singled.
+Wild pitch by Jeffrey Burt, Kincaid to second.
+Alfred Harrison flied out to right.
+Dutch van der Linde was walked intentionally.
+Ken Gooch popped out to third.
+Alberto Scardino doubled, Kincaid SCORED, van der Linde to third.
+Glen Caron singled, van der Linde SCORED, Scardino SCORED.
+Dalton Trumbull hit for Miles Phillips.
+Dalton Trumbull struck out looking.
+
+3 Runs, 3 Hits, 0 Errors
+Richmond 6, Chattanooga 3
+
+
+Bottom of the 16th inning:  Chattanooga batting
+
+Craig Cook relieved Miles Phillips.
+Buzz Keyser hit for Jeffrey Burt.
+Buzz Keyser grounded out to third.
+Bill Lanctot singled.
+Mike Haroldsen flied out to left.
+John Childress singled, Lanctot to third.
+Reagan Hathaway walked, Childress to second.
+Ray Manues relieved Craig Cook.
+Charlie Dooley walked, Lanctot SCORED, Hathaway to second, Childress to third.
+Booker Crosno singled, Childress SCORED, Hathaway SCORED, Dooley to second.
+Damon Marshall struck out looking.
+
+3 Runs, 3 Hits, 0 Errors
+Richmond 6, Chattanooga 6
+
+
+Top of the 17th inning:  Richmond batting
+
+Cody Rowe Jr relieved Jeffrey Burt.
+Jack Gallegos singled.
+Leap Day William grounded into double play to second.
+Terry Kincaid singled.
+Alfred Harrison tripled, Kincaid SCORED.
+Dutch van der Linde was walked intentionally.
+Ken Gooch struck out swinging.
+
+1 Run, 3 Hits, 0 Errors
+Richmond 7, Chattanooga 6
+
+
+Bottom of the 17th inning:  Chattanooga batting
+
+Cooter Stith grounded out to third.
+Eugene Schissler hit for Cody Rowe Jr.
+Eugene Schissler singled.
+Bill Lanctot HOMERED, Schissler SCORED.
+
+2 Runs, 2 Hits, 0 Errors
+Richmond 7, Chattanooga 8
+
+
+END

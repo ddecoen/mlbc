@@ -1,0 +1,321 @@
+
+Date of game:  Aug 16, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Bangor             0 0 0  0 1 0  2 0 1     4 10  1
+Omaha              1 0 0  0 0 0  0 0 4     5  6  0
+
+
+Bangor                             AB  R  H BI BB SO LO   AVG
+
+Jeffery Houston lf                  5  0  0  0  0  1  1  .272
+Emilio Rowles 2b                    3  0  1  0  2  0  2  .288
+Gerald Rodriguez cf                 5  0  1  0  0  0  0  .323
+Emil Salzman c                      4  0  0  0  0  2  4  .335
+Shosei Go 1b                        3  1  2  1  1  0  3  .298
+Keaton Helveston 3b                 4  0  0  0  0  1  0  .075
+  Lenny Offermann 3b                0  0  0  0  0  0  0  .462
+Ben Richmond ss                     4  1  2  1  0  0  3  .238
+Frederic Oromocto rf                4  2  2  0  0  0  0  .331
+Typhoon Laffoon p                   3  0  1  1  0  1  1  .333
+  Bryan Nardecchia ph               1  0  1  1  0  0  0  .306
+  David Copus p                     0  0  0  0  0  0  0  .000
+  Milo Murphy p                     0  0  0  0  0  0  0  .000
+  Paul Jennings p                   0  0  0  0  0  0  0  .000
+
+TOTALS:                            36  4 10  4  3  5 14
+
+
+BATTING
+2B: Richmond (5, Richmond); Oromocto (38, Walker); Nardecchia (29, Baker).  HR:
+Go (23, 5th inning off Richmond, 0 on, 0 out); Richmond (4, 7th inning off
+Richmond, 0 on, 2 out).  RBI: Go (80); Richmond (13); Laffoon (1); Nardecchia
+(82).  2-OUT RBI: Richmond; Laffoon.  Runners left in scoring position, 2 outs:
+Houston; Go; Richmond; Salzman.  Team LOB: 8.  
+
+BASERUNNING
+SB: Salzman (11, 2nd base off Walker/Elliot).  Picked off: Go (1st base,
+Richmond).  
+
+FIELDING
+PB: Salzman 4.  E: Rowles (4, fly ball).  
+
+
+Omaha                              AB  R  H BI BB SO LO   AVG
+
+John Merritt 1b                     5  0  0  0  0  1  2  .000
+Hubert Dorn rf                      4  1  1  0  0  0  0  .234
+Hosea Fox 2b                        4  2  2  0  0  0  0  .251
+Allen Elliot c                      4  0  0  0  0  1  0  .287
+Alphonso Navarro lf                 4  0  0  0  0  2  3  .248
+Gordon Shumway ss                   4  1  1  2  0  1  2  .265
+Jerry Bush 3b                       3  1  1  0  1  0  0  .288
+Jim Terry cf                        3  0  1  0  1  1  0  .257
+Victor Richmond p                   2  0  0  0  0  1  0  .000
+  Cal Walker p                      0  0  0  0  0  0  0  .000
+  Mark Baker p                      1  0  0  0  0  0  0  .000
+  Stephan Langer p                  0  0  0  0  0  0  0  .000
+
+TOTALS:                            34  5  6  2  2  7  7
+
+
+BATTING
+3B: Fox (2, Laffoon).  RBI: Shumway 2 (50); Burkhart (22).  2-OUT RBI: Shumway
+2; Burkhart.  Runners left in scoring position, 2 outs: Merritt; Dorn.  Team
+LOB: 5.  
+
+
+Bangor                           IP     H  R ER BB SO HR   ERA
+
+Typhoon Laffoon                 8       4  1  1  0  6  0  4.67
+David Copus (H, 7)                2/3   2  3  0  0  1  0  3.75
+Milo Murphy (L, 2-4) (BS, 4)    0       0  1  0  3  0  0  3.94
+Paul Jennings                     1/3   0  0  0  0  0  0  3.76
+
+
+Omaha                            IP     H  R ER BB SO HR   ERA
+
+Victor Richmond                 6 2/3   6  2  2  0  4  2  4.09
+Cal Walker                      1       2  1  1  2  1  0  5.34
+Mark Baker                        2/3   2  1  1  0  0  0  4.13
+Stephan Langer (W, 2-4)           2/3   0  0  0  1  0  0  9.57
+
+Murphy pitched to 3 batters in the 9th.  
+
+Pitches-Strikes:  Richmond 96-83; Walker 29-20; Baker 11-7; Langer 12-6;
+Laffoon 93-74; Copus 16-14; Murphy 14-2; Jennings 2-2.  Ground balls-Fly balls:
+ Richmond 10-11; Walker 3-1; Baker 3-1; Langer 0-2; Laffoon 13-9; Copus 2-2;
+Murphy 0-0; Jennings 0-1.  Batters faced:  Richmond 25; Walker 7; Baker 4;
+Langer 3; Laffoon 28; Copus 5; Murphy 3; Jennings 1.  
+
+Umpires:  HP: Mike Coustier.  1B: John Yellott.  2B: Paul Terry.  3B: Tony
+Peng.  T: 3:06.  Att: 25,572.  Weather: 74 degrees, clear.  Wind: 1 mph, in
+from right-center.  
+
+
+High Heat Baseball Player of the Game:  Typhoon Laffoon
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Bangor batting
+
+Jeffery Houston fouled out to first.
+Emilio Rowles fouled out to catcher.
+Gerald Rodriguez singled.
+Emil Salzman struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 0, Omaha 0
+
+
+Bottom of the 1st inning:  Omaha batting
+
+John Merritt flied out to center.
+Hubert Dorn fouled out to first.
+Hosea Fox tripled.
+Passed ball by Emil Salzman, Fox SCORED.
+Allen Elliot grounded out to third.
+
+1 Run, 1 Hit, 0 Errors
+Bangor 0, Omaha 1
+
+
+Top of the 2nd inning:  Bangor batting
+
+Shosei Go singled.
+Go was picked off first base by Richmond.
+Keaton Helveston fouled out to right.
+Ben Richmond flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 0, Omaha 1
+
+
+Bottom of the 2nd inning:  Omaha batting
+
+Alphonso Navarro struck out looking.
+Gordon Shumway grounded out to shortstop.
+Jerry Bush popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Omaha 1
+
+
+Top of the 3rd inning:  Bangor batting
+
+Frederic Oromocto grounded out to third.
+Typhoon Laffoon grounded out to shortstop.
+Jeffery Houston grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Omaha 1
+
+
+Bottom of the 3rd inning:  Omaha batting
+
+Jim Terry flied out to right.
+Victor Richmond grounded out to shortstop.
+John Merritt fouled out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Omaha 1
+
+
+Top of the 4th inning:  Bangor batting
+
+Emilio Rowles grounded out to shortstop.
+Gerald Rodriguez popped out to second.
+Emil Salzman grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Omaha 1
+
+
+Bottom of the 4th inning:  Omaha batting
+
+Hubert Dorn fouled out to first.
+Hosea Fox grounded out to third.
+Allen Elliot grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 0, Omaha 1
+
+
+Top of the 5th inning:  Bangor batting
+
+Shosei Go HOMERED.
+Keaton Helveston struck out swinging.
+Ben Richmond doubled.
+Frederic Oromocto grounded out to first.
+Typhoon Laffoon struck out swinging.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 1, Omaha 1
+
+
+Bottom of the 5th inning:  Omaha batting
+
+Alphonso Navarro grounded out to first.
+Gordon Shumway struck out looking.
+Jerry Bush singled.
+Jim Terry singled, Bush to second.
+Victor Richmond struck out swinging.
+
+0 Runs, 2 Hits, 0 Errors
+Bangor 1, Omaha 1
+
+
+Top of the 6th inning:  Bangor batting
+
+Jeffery Houston grounded out to second.
+Emilio Rowles singled.
+Gerald Rodriguez grounded out to second, Rowles to second.
+Emil Salzman struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 1, Omaha 1
+
+
+Bottom of the 6th inning:  Omaha batting
+
+John Merritt struck out looking.
+Hubert Dorn popped out to third.
+Hosea Fox singled.
+Allen Elliot struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Bangor 1, Omaha 1
+
+
+Top of the 7th inning:  Bangor batting
+
+Shosei Go flied out to left.
+Keaton Helveston flied out to center.
+Ben Richmond HOMERED.
+Cal Walker relieved Victor Richmond.
+Frederic Oromocto doubled.
+Typhoon Laffoon singled, Oromocto SCORED.
+Jeffery Houston struck out looking.
+
+2 Runs, 3 Hits, 0 Errors
+Bangor 3, Omaha 1
+
+
+Bottom of the 7th inning:  Omaha batting
+
+Alphonso Navarro grounded out to first.
+Gordon Shumway grounded out to first.
+Jerry Bush grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 3, Omaha 1
+
+
+Top of the 8th inning:  Bangor batting
+
+Emilio Rowles walked.
+Gerald Rodriguez grounded into fielder's choice to third.
+Emil Salzman grounded into fielder's choice to first.
+Salzman stole second base.
+Shosei Go walked.
+Mark Baker relieved Cal Walker.
+Keaton Helveston grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 3, Omaha 1
+
+
+Bottom of the 8th inning:  Omaha batting
+
+Jim Terry struck out looking.
+Mark Baker grounded out to pitcher.
+John Merritt popped out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Bangor 3, Omaha 1
+
+
+Top of the 9th inning:  Bangor batting
+
+Ben Richmond grounded out to first.
+Frederic Oromocto singled.
+Bryan Nardecchia hit for Typhoon Laffoon.
+Bryan Nardecchia doubled, Oromocto SCORED.
+Stephan Langer relieved Mark Baker.
+Jeffery Houston fouled out to first.
+Emilio Rowles walked.
+Gerald Rodriguez popped out to second.
+
+1 Run, 2 Hits, 0 Errors
+Bangor 4, Omaha 1
+
+
+Bottom of the 9th inning:  Omaha batting
+
+David Copus relieved Typhoon Laffoon.
+Lenny Offermann came in for Keaton Helveston at third.
+Hubert Dorn singled.
+Hosea Fox was safe after Emilio Rowles committed a fielding error, Dorn to second.
+Allen Elliot flied out to right.
+Alphonso Navarro struck out looking.
+Passed ball by Emil Salzman, Fox to second, Dorn to third.
+Gordon Shumway singled, Dorn SCORED, Fox SCORED.
+Milo Murphy relieved David Copus.
+Jerry Bush walked, Shumway to second.
+Passed ball by Emil Salzman, Bush to second, Shumway to third.
+Jim Terry walked.
+Paul Burkhart hit for Stephan Langer.
+Paul Burkhart walked, Shumway SCORED, Terry to second, Bush to third.
+Paul Jennings relieved Milo Murphy.
+Passed ball by Emil Salzman, Bush SCORED, Burkhart to second, Terry to third.
+John Merritt fouled out to first.
+
+4 Runs, 2 Hits, 1 Error
+Bangor 4, Omaha 5
+
+
+END

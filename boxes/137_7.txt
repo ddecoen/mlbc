@@ -1,0 +1,302 @@
+
+Date of game:  Aug 15, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Lynchburg          0 0 1  2 0 0  0 0 0     3 12  1
+Peninsula          0 0 0  0 0 1  1 2 X     4  8  0
+
+
+Lynchburg                          AB  R  H BI BB SO LO   AVG
+
+Gilbert Palmer cf                   4  1  2  0  0  1  1  .310
+Lev Beniov 1b                       4  0  3  1  0  0  1  .317
+Santos Engquist 2b                  4  0  0  0  0  0  1  .267
+B.J. Blazkowicz ss                  4  1  1  1  0  0  3  .240
+Kelvin Huntington lf                3  1  2  0  0  0  0  .370
+  Puddnhead Wilson ph               1  0  0  0  0  1  0  .302
+Dave Hershenson 3b                  4  0  2  1  0  1  0  .251
+Frank Castle rf                     3  0  0  0  0  2  1  .239
+  Leroy Vantrump ph                 1  0  0  0  0  0  0  .300
+Crenshaw Thomas c                   3  0  1  0  0  0  3  .326
+Duke Nukem p                        3  0  1  0  0  1  0  .333
+
+TOTALS:                            34  3 12  3  0  6 10
+
+
+BATTING
+2B: Beniov (24, Palinski); Thomas (27, Palinski); Huntington (10, Palinski). 
+3B: Huntington (3, Palinski).  HR: Blazkowicz (18, 4th inning off Palinski, 0
+on, 0 out).  RBI: Beniov (86); Blazkowicz (69); Hershenson (55).  2-OUT RBI:
+Beniov.  Runners left in scoring position, 2 outs: Blazkowicz; Palmer; Thomas. 
+GIDP: Engquist 2; Castle; Beniov; Palmer.  Team LOB: 4.  
+
+BASERUNNING
+SB: Palmer (53, 2nd base off Palinski/Cabrera).  
+
+FIELDING
+E: Nukem (1, throw).  
+
+
+Peninsula                          AB  R  H BI BB SO LO   AVG
+
+Tom Spence 2b                       4  1  3  1  0  1  4  .316
+Eric Saglibene 1b                   3  0  0  0  0  0  0  .314
+Bo Jackson rf                       4  1  1  2  0  0  3  .313
+Johnny Drama lf                     3  0  0  0  1  1  2  .297
+Jeffrey Fiorini ss                  4  0  1  0  0  0  0  .318
+Aaron Cabrera c                     3  1  1  0  0  1  2  .274
+Mike Stanford cf                    2  0  1  0  1  0  1  .257
+Guadalupe Stgermain 3b              2  0  0  0  0  0  1  .285
+  Squints Palledorous ph            1  0  0  0  0  0  0  .267
+  Scott Muske 3b                    0  0  0  0  0  0  0  .310
+Toby Palinski p                     1  0  0  0  0  1  1  .000
+  Lyndon Turner ph                  1  1  1  0  0  0  0  .313
+  Raymond Ramis p                   0  0  0  0  0  0  0  .000
+  Frederick Haughey ph              1  0  0  0  0  1  0  .295
+  Alexis Otte p                     0  0  0  0  0  0  0  .000
+  Matthew Countryman p              0  0  0  0  0  0  0  .000
+
+TOTALS:                            29  4  8  3  2  5 14
+
+
+BATTING
+2B: Cabrera (23, Nukem).  HR: Jackson (32, 8th inning off Nukem, 1 on, 1 out). 
+S: Saglibene.  RBI: Spence (29); Jackson 2 (86).  Runners left in scoring
+position, 2 outs: Spence.  GIDP: Jackson.  Team LOB: 4.  
+
+BASERUNNING
+SB: Stanford (19, 2nd base off Nukem/Thomas).  CS: Stanford (5, 3rd base by
+Nukem/Thomas); Fiorini (10, 2nd base by Nukem/Thomas).  
+
+
+Lynchburg                        IP     H  R ER BB SO HR   ERA
+
+Duke Nukem (L, 8-9)             8       8  4  3  2  5  1  4.73
+
+
+Peninsula                        IP     H  R ER BB SO HR   ERA
+
+Toby Palinski                   6      10  3  3  0  4  1  4.78
+Raymond Ramis                   1       1  0  0  0  0  0  1.67
+Alexis Otte (W, 2-4)            1       1  0  0  0  0  0  6.37
+Matthew Countryman (S, 11)      1       0  0  0  0  2  0  7.65
+
+
+WP: Palinski; Nukem.  Pitches-Strikes:  Palinski 94-70; Ramis 8-8; Otte 9-6;
+Countryman 9-8; Nukem 130-99.  Ground balls-Fly balls:  Palinski 11-10; Ramis
+3-0; Otte 2-1; Countryman 0-1; Nukem 14-11.  Batters faced:  Palinski 25; Ramis
+3; Otte 3; Countryman 3; Nukem 33.  
+
+Umpires:  HP: Mike Dunhour.  1B: Trip Hawkins.  2B: Tony Peng.  3B: Tony
+Ragano.  T: 2:43.  Att: 13,377.  Weather: 75 degrees, cloudy.  Wind: Domed
+stadium.  
+
+
+High Heat Baseball Player of the Game:  Bo Jackson
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Lynchburg batting
+
+Gilbert Palmer struck out looking.
+Lev Beniov singled.
+Santos Engquist grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 0, Peninsula 0
+
+
+Bottom of the 1st inning:  Peninsula batting
+
+Tom Spence singled.
+Eric Saglibene flied out to right.
+Bo Jackson grounded into double play to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 0, Peninsula 0
+
+
+Top of the 2nd inning:  Lynchburg batting
+
+B.J. Blazkowicz flied out to center.
+Kelvin Huntington fouled out to third.
+Dave Hershenson singled.
+Frank Castle struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 0, Peninsula 0
+
+
+Bottom of the 2nd inning:  Peninsula batting
+
+Johnny Drama grounded out to first.
+Jeffrey Fiorini grounded out to pitcher.
+Aaron Cabrera popped out to third.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 0, Peninsula 0
+
+
+Top of the 3rd inning:  Lynchburg batting
+
+Crenshaw Thomas grounded out to third.
+Duke Nukem struck out looking.
+Gilbert Palmer singled.
+Wild pitch by Toby Palinski, Palmer stole second base.
+Lev Beniov doubled, Palmer SCORED.
+Santos Engquist grounded out to first.
+
+1 Run, 2 Hits, 0 Errors
+Lynchburg 1, Peninsula 0
+
+
+Bottom of the 3rd inning:  Peninsula batting
+
+Mike Stanford singled.
+Stanford stole second base.
+Guadalupe Stgermain flied out to center.
+Toby Palinski struck out looking.
+Stanford caught stealing third base.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 1, Peninsula 0
+
+
+Top of the 4th inning:  Lynchburg batting
+
+B.J. Blazkowicz HOMERED.
+Kelvin Huntington tripled.
+Dave Hershenson singled, Huntington SCORED.
+Frank Castle grounded into double play to pitcher.
+Crenshaw Thomas doubled.
+Duke Nukem grounded out to shortstop.
+
+2 Runs, 4 Hits, 0 Errors
+Lynchburg 3, Peninsula 0
+
+
+Bottom of the 4th inning:  Peninsula batting
+
+Tom Spence struck out swinging.
+Eric Saglibene flied out to left.
+Bo Jackson grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 3, Peninsula 0
+
+
+Top of the 5th inning:  Lynchburg batting
+
+Gilbert Palmer singled.
+Lev Beniov grounded into double play to first.
+Santos Engquist grounded out to first.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 3, Peninsula 0
+
+
+Bottom of the 5th inning:  Peninsula batting
+
+Johnny Drama walked.
+Jeffrey Fiorini fouled out to third.
+Aaron Cabrera struck out looking.
+Mike Stanford grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 3, Peninsula 0
+
+
+Top of the 6th inning:  Lynchburg batting
+
+B.J. Blazkowicz fouled out to third.
+Kelvin Huntington doubled.
+Dave Hershenson fouled out to catcher.
+Frank Castle struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 3, Peninsula 0
+
+
+Bottom of the 6th inning:  Peninsula batting
+
+Guadalupe Stgermain flied out to left.
+Lyndon Turner hit for Toby Palinski.
+Lyndon Turner singled.
+Wild pitch by Duke Nukem, Turner to second.
+Tom Spence singled, Turner SCORED.
+Eric Saglibene flied out to shortstop.
+Bo Jackson grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Lynchburg 3, Peninsula 1
+
+
+Top of the 7th inning:  Lynchburg batting
+
+Raymond Ramis relieved Toby Palinski.
+Crenshaw Thomas grounded out to first.
+Duke Nukem singled.
+Gilbert Palmer grounded into double play to first.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 3, Peninsula 1
+
+
+Bottom of the 7th inning:  Peninsula batting
+
+Johnny Drama struck out looking.
+Jeffrey Fiorini grounded out to shortstop.
+Aaron Cabrera doubled.
+Mike Stanford walked.
+Squints Palledorous hit for Guadalupe Stgermain.
+Squints Palledorous was safe after Duke Nukem committed a throwing error,
+Frederick Haughey hit for Raymond Ramis.
+Frederick Haughey struck out swinging.
+
+1 Run, 1 Hit, 1 Error
+Lynchburg 3, Peninsula 2
+
+
+Top of the 8th inning:  Lynchburg batting
+
+Alexis Otte relieved Raymond Ramis.
+Scott Muske came in for Squints Palledorous at third.
+Lev Beniov singled.
+Santos Engquist grounded into double play to third.
+B.J. Blazkowicz flied out to center.
+
+0 Runs, 1 Hit, 0 Errors
+Lynchburg 3, Peninsula 2
+
+
+Bottom of the 8th inning:  Peninsula batting
+
+Tom Spence singled.
+Eric Saglibene sacrificed, Spence to second.
+Bo Jackson HOMERED, Spence SCORED.
+Johnny Drama flied out to shortstop.
+Jeffrey Fiorini singled.
+Fiorini caught stealing second base.
+
+2 Runs, 3 Hits, 0 Errors
+Lynchburg 3, Peninsula 4
+
+
+Top of the 9th inning:  Lynchburg batting
+
+Matthew Countryman relieved Alexis Otte.
+Puddnhead Wilson hit for Kelvin Huntington.
+Puddnhead Wilson struck out looking.
+Dave Hershenson struck out swinging.
+Leroy Vantrump hit for Frank Castle.
+Leroy Vantrump popped out to catcher.
+
+0 Runs, 0 Hits, 0 Errors
+Lynchburg 3, Peninsula 4
+
+
+END

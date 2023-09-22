@@ -1,0 +1,296 @@
+Team11 vs Team13 (Day 136)
+
+Date of game:  Aug 14, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+San Jose           1 2 0  0 0 1  0 0 0     4 11  0
+Oklahoma City      0 0 1  1 0 0  0 0 0     2  7  0
+
+
+San Jose                           AB  R  H BI BB SO LO   AVG
+
+Ken Nettles cf                      5  1  2  0  0  1  1  .298
+Lee Defoore c                       4  0  1  0  0  0  3  .289
+Ricky Spanish rf                    3  0  1  1  0  1  3  .296
+Carl Heath 1b                       4  0  0  0  0  1  4  .252
+Anthony DiNozzo Jr. lf              4  1  2  1  0  2  4  .239
+Wallace Bruender dh                 4  1  1  0  0  2  0  .234
+Jaden Miedema 2b                    4  1  2  2  0  0  1  .258
+George Fogler ss                    3  0  0  0  1  0  0  .264
+Clem Stanforth 3b                   3  0  2  0  1  0  2  .246
+
+TOTALS:                            34  4 11  4  2  7 18
+
+
+BATTING
+2B: Nettles (25, Turkleton).  HR: Miedema (10, 2nd inning off Turkleton, 1 on,
+1 out); DiNozzo Jr. (16, 6th inning off Turkleton, 0 on, 0 out).  SF: Spanish. 
+RBI: Spanish (61); Miedema 2 (45); DiNozzo Jr. (47).  Runners left in scoring
+position, 2 outs: Stanforth; DiNozzo Jr.; Heath; Defoore.  GIDP: Fogler;
+Spanish.  Team LOB: 6.  
+
+BASERUNNING
+SB: Fogler (36, 2nd base off McGarvey/Pajtas).  CS: Spanish (18, 2nd base by
+Turkleton/Pajtas).  
+
+
+Oklahoma City                      AB  R  H BI BB SO LO   AVG
+
+Russel Reynolds 3b                  3  1  2  1  1  0  2  .291
+Larry Demiel cf                     3  0  0  0  1  1  0  .325
+Jesse Campbell 1b                   3  1  1  0  1  0  1  .322
+Henry Stark 2b                      4  0  0  0  0  1  2  .282
+Norman Hilderbrand lf               3  0  0  0  1  3  4  .259
+Ron Curington rf                    4  0  2  1  0  1  2  .244
+Otis Gojcaj ss                      4  0  0  0  0  1  0  .273
+Dan Matos dh                        3  0  1  0  0  0  3  .268
+  Frank Vroom ph                    1  0  1  0  0  0  0  .273
+Joe Pajtas c                        4  0  0  0  0  3  0  .277
+
+TOTALS:                            32  2  7  2  4 10 14
+
+
+BATTING
+HR: Reynolds (16, 3rd inning off Lasso, 0 on, 2 out).  RBI: Reynolds (46);
+Curington (28).  2-OUT RBI: Reynolds.  Runners left in scoring position, 2
+outs: Matos; Curington.  GIDP: Gojcaj 2.  Team LOB: 7.  
+
+
+San Jose                         IP     H  R ER BB SO HR   ERA
+
+Ted Lasso (W, 8-3)              7       4  2  2  3  9  1  3.70
+Allen Whittington (H, 3)        1       1  0  0  1  1  0  4.17
+Jackie Daytona (S, 17)          1       2  0  0  0  0  0  2.80
+
+
+Oklahoma City                    IP     H  R ER BB SO HR   ERA
+
+Turk Turkleton (L, 9-10)        6      10  4  4  1  4  2  4.45
+Wilfredo McGarvey               3       1  0  0  1  3  0  6.27
+
+Turkleton pitched to 1 batter in the 7th.  
+
+Pitches-Strikes:  Turkleton 119-91; McGarvey 47-32; Lasso 121-87; Whittington
+20-12; Daytona 8-6.  Ground balls-Fly balls:  Turkleton 13-9; McGarvey 3-3;
+Lasso 6-9; Whittington 1-2; Daytona 4-0.  Batters faced:  Turkleton 27;
+McGarvey 10; Lasso 27; Whittington 5; Daytona 4.  
+
+Umpires:  HP: Mike Saperstein.  1B: Tony Peng.  2B: Brian Nestor.  3B: Mike
+Coustier.  T: 3:05.  Att: 21,388.  Weather: 83 degrees, clear.  Wind: 15 mph,
+in from left.  
+
+
+High Heat Baseball Player of the Game:  Jaden Miedema
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  San Jose batting
+
+Ken Nettles doubled.
+Lee Defoore grounded out to second, Nettles to third.
+Ricky Spanish hit a sacrifice fly, Nettles SCORED.
+Carl Heath popped out to first.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 1, Oklahoma City 0
+
+
+Bottom of the 1st inning:  Oklahoma City batting
+
+Russel Reynolds grounded out to third.
+Larry Demiel flied out to right.
+Jesse Campbell singled.
+Henry Stark struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 1, Oklahoma City 0
+
+
+Top of the 2nd inning:  San Jose batting
+
+Anthony DiNozzo Jr. struck out swinging.
+Wallace Bruender singled.
+Jaden Miedema HOMERED, Bruender SCORED.
+George Fogler flied out to left.
+Clem Stanforth singled.
+Ken Nettles grounded out to pitcher.
+
+2 Runs, 3 Hits, 0 Errors
+San Jose 3, Oklahoma City 0
+
+
+Bottom of the 2nd inning:  Oklahoma City batting
+
+Norman Hilderbrand struck out looking.
+Ron Curington struck out looking.
+Otis Gojcaj struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 3, Oklahoma City 0
+
+
+Top of the 3rd inning:  San Jose batting
+
+Lee Defoore flied out to left.
+Ricky Spanish singled.
+Carl Heath flied out to left.
+Spanish caught stealing second base.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 3, Oklahoma City 0
+
+
+Bottom of the 3rd inning:  Oklahoma City batting
+
+Dan Matos flied out to center.
+Joe Pajtas struck out swinging.
+Russel Reynolds HOMERED.
+Larry Demiel flied out to left.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 3, Oklahoma City 1
+
+
+Top of the 4th inning:  San Jose batting
+
+Anthony DiNozzo Jr. singled.
+Wallace Bruender struck out looking.
+Jaden Miedema singled, DiNozzo Jr. to third.
+George Fogler grounded into double play to second.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 3, Oklahoma City 1
+
+
+Bottom of the 4th inning:  Oklahoma City batting
+
+Jesse Campbell walked.
+Henry Stark flied out to center.
+Norman Hilderbrand walked, Campbell to second.
+Ron Curington singled, Campbell SCORED, Hilderbrand to third.
+Otis Gojcaj grounded into double play to first.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 3, Oklahoma City 2
+
+
+Top of the 5th inning:  San Jose batting
+
+Clem Stanforth singled.
+Ken Nettles singled, Stanforth to third.
+Lee Defoore grounded into fielder's choice to third.
+Ricky Spanish struck out swinging.
+Carl Heath struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 3, Oklahoma City 2
+
+
+Bottom of the 5th inning:  Oklahoma City batting
+
+Dan Matos fouled out to catcher.
+Joe Pajtas struck out looking.
+Russel Reynolds walked.
+Larry Demiel struck out swinging.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 3, Oklahoma City 2
+
+
+Top of the 6th inning:  San Jose batting
+
+Anthony DiNozzo Jr. HOMERED.
+Wallace Bruender grounded out to second.
+Jaden Miedema grounded out to shortstop.
+George Fogler grounded out to shortstop.
+
+1 Run, 1 Hit, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Bottom of the 6th inning:  Oklahoma City batting
+
+Jesse Campbell flied out to left.
+Henry Stark fouled out to first.
+Norman Hilderbrand struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Top of the 7th inning:  San Jose batting
+
+Clem Stanforth walked.
+Wilfredo McGarvey relieved Turk Turkleton.
+Ken Nettles struck out looking.
+Lee Defoore singled, Stanforth to third.
+Ricky Spanish grounded into double play to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Bottom of the 7th inning:  Oklahoma City batting
+
+Ron Curington grounded out to first.
+Otis Gojcaj flied out to right.
+Dan Matos singled.
+Joe Pajtas struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Top of the 8th inning:  San Jose batting
+
+Carl Heath fouled out to right.
+Anthony DiNozzo Jr. struck out looking.
+Wallace Bruender struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Bottom of the 8th inning:  Oklahoma City batting
+
+Allen Whittington relieved Ted Lasso.
+Russel Reynolds singled.
+Larry Demiel walked, Reynolds to second.
+Jesse Campbell flied out to shortstop.
+Henry Stark fouled out to first.
+Norman Hilderbrand struck out swinging.
+
+0 Runs, 1 Hit, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Top of the 9th inning:  San Jose batting
+
+Jaden Miedema grounded out to shortstop.
+George Fogler walked.
+Fogler stole second base.
+Clem Stanforth flied out to left.
+Ken Nettles flied out to right.
+
+0 Runs, 0 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+Bottom of the 9th inning:  Oklahoma City batting
+
+Jackie Daytona relieved Allen Whittington.
+Ron Curington singled.
+Otis Gojcaj grounded into double play to second.
+Frank Vroom hit for Dan Matos.
+Frank Vroom singled.
+Joe Pajtas grounded out to first.
+
+0 Runs, 2 Hits, 0 Errors
+San Jose 4, Oklahoma City 2
+
+
+END

@@ -1,0 +1,339 @@
+Team20 vs Team24 (Day 133)
+
+Date of game:  Aug 11, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+El Paso            2 0 0  1 2 4  4 0 4    17 18  0
+Wisconsin          0 0 1  1 0 1  0 2 0     5  8  1
+
+
+El Paso                            AB  R  H BI BB SO LO   AVG
+
+Chris Pilar cf                      5  4  4  0  2  0  1  .316
+Barry Bounsweet rf                  5  3  3  3  1  0  0  .336
+Pax au Telemanus 1b                 4  2  1  1  2  1  1  .305
+Matthew Stewart 2b                  3  1  2  4  1  0  4  .335
+  Xavier Gonzales 2b                2  2  2  4  0  0  1  .271
+Willis Whittler lf                  6  1  1  1  0  0  0  .317
+Jensi Babblos c                     3  0  0  1  1  2  5  .290
+  Larry Wilson c                    2  0  1  1  0  0  0  .260
+Rowan Damisch dh                    6  0  0  0  0  0  1  .305
+Bill Aranda ss                      4  2  1  0  1  0  4  .290
+Freddie Johnson 3b                  4  2  3  2  0  0  0  .302
+  Louis Babineaux 3b                1  0  0  0  0  0  0  .182
+
+TOTALS:                            45 17 18 17  8  3 17
+
+
+BATTING
+2B: Johnson (25, Easter); Pilar 2 (18, Show, Carlson); Gonzales (10, Carlson);
+Whittler (17, Carlson).  HR: Johnson (7, 4th inning off Presley, 0 on, 2 out);
+Stewart (25, 5th inning off Presley, 1 on, 1 out); Gonzales (3, 7th inning off
+Handy, 1 on, 2 out).  RBI: au Telemanus (78); Stewart 4 (83); Johnson 2 (47);
+Bounsweet 3 (64); Babblos (86); Gonzales 4 (32); Whittler (66); Wilson (21). 
+2-OUT RBI: Johnson; Babblos; Gonzales 4; Whittler; Wilson.  Runners left in
+scoring position, 2 outs: Damisch; Stewart; Aranda.  GIDP: Whittler.  Team LOB:
+8.  
+
+
+Wisconsin                          AB  R  H BI BB SO LO   AVG
+
+George Lemieux dh                   4  1  1  1  0  0  1  .289
+Somerset Hall c                     3  0  1  0  0  1  0  .313
+  Shad Johnson c                    1  0  0  0  0  0  0  .250
+Bart Harley Jarvis lf               3  1  1  1  0  0  0  .347
+  Joe Altomari lf                   1  0  0  0  0  0  1  .311
+Dean Gelzinis 3b                    3  0  0  0  0  0  1  .200
+  Freeman Westmoreland 3b           1  0  1  1  0  0  1  .333
+Emile Fadale rf                     4  1  1  1  0  0  1  .190
+Henry Robertson 2b                  4  0  0  0  0  1  1  .258
+Nelson Joyner ss                    3  0  1  0  1  2  0  .275
+Rolando Ledbetter 1b                3  1  1  1  0  1  0  .257
+  Michael Flaugher 1b               1  0  0  0  0  0  0  .245
+Orestes Saunders cf                 3  1  1  0  0  0  2  .252
+
+TOTALS:                            34  5  8  5  1  5  8
+
+
+BATTING
+2B: Lemieux (14, Vey).  HR: Ledbetter (3, 3rd inning off Martinez Jr, 0 on, 0
+out); Fadale (2, 4th inning off Martinez Jr, 0 on, 2 out); Jarvis (17, 6th
+inning off Martinez Jr, 0 on, 2 out).  RBI: Ledbetter (27); Fadale (6); Jarvis
+(56); Lemieux (31); Westmoreland (2).  2-OUT RBI: Fadale; Jarvis; Westmoreland.
+ GIDP: Saunders.  Team LOB: 3.  
+
+FIELDING
+E: Fadale (2, fly ball).  
+
+
+El Paso                          IP     H  R ER BB SO HR   ERA
+
+Petey Martinez Jr (W, 10-6)     6       5  3  3  0  4  3  3.95
+Jeffrey Jacks Jr.               1       0  0  0  1  0  0  2.90
+Michael Vey                       2/3   3  2  2  0  0  0  4.85
+Enrique Pannell                 1 1/3   0  0  0  0  1  0  5.40
+
+
+Wisconsin                        IP     H  R ER BB SO HR   ERA
+
+Jim Presley (L, 5-3)            4 1/3   8  5  3  1  1  2  4.30
+Jordan Easter                   1       1  2  2  1  1  0  5.72
+Jarrett Canady                    2/3   1  2  2  4  0  0  4.13
+Sam Show                          1/3   3  3  3  0  0  0  8.24
+Robert Handy                      2/3   1  1  1  0  1  1  5.97
+Franklin Carlson                1 2/3   3  4  4  1  0  0  5.12
+Dave Rodgers                      1/3   1  0  0  0  0  0  5.54
+
+
+WP: Easter.  IBB: Pilar (by Canady).  Pitches-Strikes:  Presley 84-58; Easter
+25-19; Canady 36-17; Show 17-12; Handy 13-9; Carlson 38-28; Rodgers 8-5;
+Martinez Jr 88-70; Jacks Jr. 13-8; Vey 21-14; Pannell 16-11.  Ground balls-Fly
+balls:  Presley 12-8; Easter 0-3; Canady 1-2; Show 1-3; Handy 0-2; Carlson 5-3;
+Rodgers 2-0; Martinez Jr 11-7; Jacks Jr. 2-1; Vey 1-4; Pannell 3-0.  Batters
+faced:  Presley 22; Easter 5; Canady 7; Show 4; Handy 3; Carlson 9; Rodgers 2;
+Martinez Jr 22; Jacks Jr. 4; Vey 5; Pannell 4.  
+
+Umpires:  HP: Scott Barcik.  1B: Mike Dunhour.  2B: Alice Qiao.  3B: Chuck Woo.
+ T: 3:43.  Att: 29,320.  Weather: 82 degrees, clear.  Wind: 9 mph, across,
+right to left.  
+
+
+High Heat Baseball Player of the Game:  Freddie Johnson
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  El Paso batting
+
+Chris Pilar singled.
+Barry Bounsweet was safe after Emile Fadale committed a fielding error, Pilar
+Pax au Telemanus singled, Pilar SCORED, Bounsweet to third.
+Matthew Stewart singled, Bounsweet SCORED, au Telemanus to second.
+Willis Whittler grounded into double play to first, au Telemanus to third.
+Jensi Babblos struck out swinging.
+
+2 Runs, 3 Hits, 1 Error
+El Paso 2, Wisconsin 0
+
+
+Bottom of the 1st inning:  Wisconsin batting
+
+George Lemieux grounded out to first.
+Somerset Hall singled.
+Bart Harley Jarvis flied out to center.
+Dean Gelzinis flied out to shortstop.
+
+0 Runs, 1 Hit, 0 Errors
+El Paso 2, Wisconsin 0
+
+
+Top of the 2nd inning:  El Paso batting
+
+Rowan Damisch popped out to catcher.
+Bill Aranda grounded out to first.
+Freddie Johnson singled.
+Chris Pilar singled, Johnson to third.
+Barry Bounsweet walked, Pilar to second.
+Pax au Telemanus grounded out to first.
+
+0 Runs, 2 Hits, 0 Errors
+El Paso 2, Wisconsin 0
+
+
+Bottom of the 2nd inning:  Wisconsin batting
+
+Emile Fadale grounded out to shortstop.
+Henry Robertson grounded out to first.
+Nelson Joyner struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 2, Wisconsin 0
+
+
+Top of the 3rd inning:  El Paso batting
+
+Matthew Stewart flied out to center.
+Willis Whittler fouled out to third.
+Jensi Babblos grounded out to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 2, Wisconsin 0
+
+
+Bottom of the 3rd inning:  Wisconsin batting
+
+Rolando Ledbetter HOMERED.
+Orestes Saunders grounded out to second.
+George Lemieux grounded out to shortstop.
+Somerset Hall grounded out to shortstop.
+
+1 Run, 1 Hit, 0 Errors
+El Paso 2, Wisconsin 1
+
+
+Top of the 4th inning:  El Paso batting
+
+Rowan Damisch grounded out to third.
+Bill Aranda grounded out to third.
+Freddie Johnson HOMERED.
+Chris Pilar grounded out to first.
+
+1 Run, 1 Hit, 0 Errors
+El Paso 3, Wisconsin 1
+
+
+Bottom of the 4th inning:  Wisconsin batting
+
+Bart Harley Jarvis flied out to left.
+Dean Gelzinis grounded out to second.
+Emile Fadale HOMERED.
+Henry Robertson struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+El Paso 3, Wisconsin 2
+
+
+Top of the 5th inning:  El Paso batting
+
+Barry Bounsweet singled.
+Pax au Telemanus grounded into fielder's choice to third.
+Matthew Stewart HOMERED, au Telemanus SCORED.
+Jordan Easter relieved Jim Presley.
+Willis Whittler popped out to first.
+Jensi Babblos struck out swinging.
+
+2 Runs, 2 Hits, 0 Errors
+El Paso 5, Wisconsin 2
+
+
+Bottom of the 5th inning:  Wisconsin batting
+
+Nelson Joyner singled.
+Rolando Ledbetter struck out looking.
+Orestes Saunders grounded into double play to pitcher.
+
+0 Runs, 1 Hit, 0 Errors
+El Paso 5, Wisconsin 2
+
+
+Top of the 6th inning:  El Paso batting
+
+Rowan Damisch popped out to second.
+Bill Aranda walked.
+Wild pitch by Jordan Easter, Aranda to second.
+Freddie Johnson doubled, Aranda SCORED.
+Jarrett Canady relieved Jordan Easter.
+Chris Pilar was walked intentionally.
+Barry Bounsweet singled, Johnson SCORED, Pilar to third.
+Pax au Telemanus walked, Bounsweet to second.
+Matthew Stewart walked, Pilar SCORED, au Telemanus to second, Bounsweet to third.
+Willis Whittler fouled out to right.
+Jensi Babblos walked, Bounsweet SCORED, Stewart to second, au Telemanus to third.
+Rowan Damisch grounded out to first.
+
+4 Runs, 2 Hits, 0 Errors
+El Paso 9, Wisconsin 2
+
+
+Bottom of the 6th inning:  Wisconsin batting
+
+Xavier Gonzales came in for Matthew Stewart at second.
+George Lemieux grounded out to second.
+Somerset Hall struck out swinging.
+Bart Harley Jarvis HOMERED.
+Dean Gelzinis grounded out to third.
+
+1 Run, 1 Hit, 0 Errors
+El Paso 9, Wisconsin 3
+
+
+Top of the 7th inning:  El Paso batting
+
+Sam Show relieved Jarrett Canady.
+Shad Johnson came in for Somerset Hall at catcher.
+Joe Altomari came in for Bart Harley Jarvis in left.
+Freeman Westmoreland came in for Dean Gelzinis at third.
+Bill Aranda singled.
+Freddie Johnson flied out to center.
+Chris Pilar doubled, Aranda to third.
+Barry Bounsweet singled, Aranda SCORED, Pilar SCORED.
+Robert Handy relieved Sam Show.
+Pax au Telemanus struck out looking.
+Xavier Gonzales HOMERED, Bounsweet SCORED.
+Willis Whittler fouled out to right.
+
+4 Runs, 4 Hits, 0 Errors
+El Paso 13, Wisconsin 3
+
+
+Bottom of the 7th inning:  Wisconsin batting
+
+Jeffrey Jacks Jr. relieved Petey Martinez Jr.
+Larry Wilson came in for Jensi Babblos at catcher.
+Louis Babineaux came in for Freddie Johnson at third.
+Emile Fadale grounded out to first.
+Henry Robertson popped out to catcher.
+Nelson Joyner walked.
+Rolando Ledbetter grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 13, Wisconsin 3
+
+
+Top of the 8th inning:  El Paso batting
+
+Franklin Carlson relieved Robert Handy.
+Michael Flaugher came in for Rolando Ledbetter at first.
+Larry Wilson grounded out to first.
+Rowan Damisch grounded out to shortstop.
+Bill Aranda grounded out to first.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 13, Wisconsin 3
+
+
+Bottom of the 8th inning:  Wisconsin batting
+
+Michael Vey relieved Jeffrey Jacks Jr..
+Orestes Saunders singled.
+George Lemieux doubled, Saunders SCORED.
+Shad Johnson flied out to shortstop.
+Joe Altomari grounded out to pitcher, Lemieux to third.
+Freeman Westmoreland singled, Lemieux SCORED.
+Enrique Pannell relieved Michael Vey.
+Emile Fadale grounded out to second.
+
+2 Runs, 3 Hits, 0 Errors
+El Paso 13, Wisconsin 5
+
+
+Top of the 9th inning:  El Paso batting
+
+Louis Babineaux popped out to catcher.
+Chris Pilar doubled.
+Barry Bounsweet grounded out to first, Pilar to third.
+Pax au Telemanus walked.
+Xavier Gonzales doubled, Pilar SCORED, au Telemanus SCORED.
+Willis Whittler doubled, Gonzales SCORED.
+Dave Rodgers relieved Franklin Carlson.
+Larry Wilson singled, Whittler SCORED.
+Rowan Damisch grounded out to shortstop.
+
+4 Runs, 4 Hits, 0 Errors
+El Paso 17, Wisconsin 5
+
+
+Bottom of the 9th inning:  Wisconsin batting
+
+Henry Robertson grounded out to third.
+Nelson Joyner struck out looking.
+Michael Flaugher grounded out to second.
+
+0 Runs, 0 Hits, 0 Errors
+El Paso 17, Wisconsin 5
+
+
+END

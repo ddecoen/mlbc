@@ -1,0 +1,298 @@
+Team24 vs Team22 (Day 137)
+
+Date of game:  Aug 15, 1987
+
+FINAL              1 2 3  4 5 6  7 8 9     R  H  E
+
+Wisconsin          0 0 0  1 0 1  1 0 0     3 13  0
+Edmonton           2 1 0  0 0 1  0 0 X     4 11  1
+
+
+Wisconsin                          AB  R  H BI BB SO LO   AVG
+
+George Lemieux dh                   5  0  2  0  0  1  1  .287
+Somerset Hall c                     3  0  0  0  1  1  1  .313
+Bart Harley Jarvis lf               5  0  1  0  0  0  3  .338
+Dean Gelzinis 3b                    5  2  2  1  0  0  4  .232
+Emile Fadale rf                     4  0  2  0  0  0  2  .200
+Henry Robertson 2b                  4  0  3  1  0  1  3  .259
+  Joe Altomari pr                   0  0  0  0  0  0  0  .304
+  Shad Johnson 2b                   0  0  0  0  0  0  0  .250
+Nelson Joyner ss                    4  0  1  1  0  1  2  .274
+Rolando Ledbetter 1b                4  0  0  0  0  1  4  .256
+Orestes Saunders cf                 4  1  2  0  0  1  5  .259
+
+TOTALS:                            38  3 13  3  1  6 25
+
+
+BATTING
+2B: Gelzinis (6, Cruz); Robertson (25, Jefferson).  RBI: Robertson (61); Joyner
+(40); Gelzinis (12).  2-OUT RBI: Robertson; Joyner; Gelzinis.  Runners left in
+scoring position, 2 outs: Saunders 2; Ledbetter; Jarvis; Robertson; Lemieux. 
+GIDP: Jarvis; Hall.  Team LOB: 10.  
+
+FIELDING
+Outfield assist: Fadale (Martinez at home plate).  
+
+
+Edmonton                           AB  R  H BI BB SO LO   AVG
+
+Claude Holmon ss                    5  0  1  0  0  0  3  .260
+Dallas Romeo 2b                     3  1  2  1  1  0  3  .333
+Stefan Fleischacker cf              4  1  1  1  0  2  1  .282
+Carl Felarca dh                     4  0  2  0  0  0  4  .295
+Howie Stjean c                      4  0  1  1  0  1  1  .260
+Joseph Kelly lf                     3  0  0  0  1  1  2  .256
+Salvatore Blanca 3b                 4  0  1  0  0  0  2  .295
+Charlie Martinez 1b                 2  2  1  0  2  0  2  .275
+Larry Brooks rf                     4  0  2  1  0  0  1  .355
+
+TOTALS:                            33  4 11  4  4  4 19
+
+
+BATTING
+2B: Fleischacker (28, Dieringer); Brooks (21, Dieringer).  3B: Brooks (6,
+Easter).  RBI: Fleischacker (52); Stjean (60); Romeo (61); Brooks (57).  2-OUT
+RBI: Stjean; Romeo.  Runners left in scoring position, 2 outs: Martinez;
+Felarca; Fleischacker.  GIDP: Kelly.  Team LOB: 9.  
+
+FIELDING
+E: Cruz (1, ground ball).  
+
+
+Wisconsin                        IP     H  R ER BB SO HR   ERA
+
+Howard Dieringer (L, 4-8)       3 2/3   6  3  3  4  2  0  4.49
+Jordan Easter                   2 1/3   3  1  1  0  1  0  5.58
+Jarrett Canady                  2       2  0  0  0  1  0  4.11
+
+
+Edmonton                         IP     H  R ER BB SO HR   ERA
+
+Hilario Cruz (W, 9-8)           6 1/3  10  3  2  1  4  0  4.87
+Gordon Jefferson (H, 5)         1 2/3   2  0  0  0  1  0  6.64
+Will Wells (S, 18)              1       1  0  0  0  1  0  4.62
+
+
+WP: Cruz.  HBP: Hall (by Cruz).  Pitches-Strikes:  Cruz 115-92; Jefferson
+23-16; Wells 12-10; Dieringer 83-55; Easter 33-26; Canady 33-27.  Ground
+balls-Fly balls:  Cruz 18-5; Jefferson 2-4; Wells 1-2; Dieringer 8-6; Easter
+4-4; Canady 2-5.  Batters faced:  Cruz 29; Jefferson 7; Wells 4; Dieringer 20;
+Easter 9; Canady 8.  
+
+Umpires:  HP: Sam Sheth.  1B: Tony Ragano.  2B: Mike Dunhour.  3B: Trip
+Hawkins.  T: 3:09.  Att: 19,108.  Weather: 69 degrees, partly cloudy.  Wind: 4
+mph, in from right-center.  
+
+
+High Heat Baseball Player of the Game:  Dallas Romeo
+
+
+
+GAME SUMMARY
+
+
+Top of the 1st inning:  Wisconsin batting
+
+George Lemieux flied out to left.
+Somerset Hall walked.
+Bart Harley Jarvis grounded into double play to shortstop.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 0, Edmonton 0
+
+
+Bottom of the 1st inning:  Edmonton batting
+
+Claude Holmon grounded out to third.
+Dallas Romeo singled.
+Stefan Fleischacker doubled, Romeo SCORED.
+Carl Felarca flied out to left.
+Howie Stjean singled, Fleischacker SCORED.
+Joseph Kelly walked, Stjean to second.
+Salvatore Blanca grounded out to second.
+
+2 Runs, 3 Hits, 0 Errors
+Wisconsin 0, Edmonton 2
+
+
+Top of the 2nd inning:  Wisconsin batting
+
+Dean Gelzinis grounded out to pitcher.
+Emile Fadale singled.
+Henry Robertson singled, Fadale to second.
+Nelson Joyner struck out looking.
+Rolando Ledbetter struck out looking.
+
+0 Runs, 2 Hits, 0 Errors
+Wisconsin 0, Edmonton 2
+
+
+Bottom of the 2nd inning:  Edmonton batting
+
+Charlie Martinez walked.
+Larry Brooks flied out to right.
+Claude Holmon grounded out to third, Martinez to second.
+Dallas Romeo singled, Martinez SCORED.
+Stefan Fleischacker struck out looking.
+
+1 Run, 1 Hit, 0 Errors
+Wisconsin 0, Edmonton 3
+
+
+Top of the 3rd inning:  Wisconsin batting
+
+Orestes Saunders grounded out to pitcher.
+George Lemieux grounded out to third.
+Somerset Hall fouled out to right.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 0, Edmonton 3
+
+
+Bottom of the 3rd inning:  Edmonton batting
+
+Carl Felarca flied out to center.
+Howie Stjean flied out to left.
+Joseph Kelly struck out looking.
+
+0 Runs, 0 Hits, 0 Errors
+Wisconsin 0, Edmonton 3
+
+
+Top of the 4th inning:  Wisconsin batting
+
+Bart Harley Jarvis grounded out to third.
+Dean Gelzinis doubled.
+Emile Fadale grounded out to first, Gelzinis to third.
+Henry Robertson singled, Gelzinis SCORED.
+Wild pitch by Hilario Cruz, Robertson to second.
+Nelson Joyner grounded out to shortstop.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 1, Edmonton 3
+
+
+Bottom of the 4th inning:  Edmonton batting
+
+Salvatore Blanca grounded out to third.
+Charlie Martinez walked.
+Larry Brooks doubled, Charlie Martinez out at home plate.
+Claude Holmon singled, Brooks to third.
+Dallas Romeo walked, Holmon to second.
+Jordan Easter relieved Howard Dieringer.
+Stefan Fleischacker fouled out to catcher.
+
+0 Runs, 2 Hits, 0 Errors
+Wisconsin 1, Edmonton 3
+
+
+Top of the 5th inning:  Wisconsin batting
+
+Rolando Ledbetter grounded out to second.
+Orestes Saunders singled.
+George Lemieux singled, Saunders to third.
+Somerset Hall grounded into double play to first.
+
+0 Runs, 2 Hits, 0 Errors
+Wisconsin 1, Edmonton 3
+
+
+Bottom of the 5th inning:  Edmonton batting
+
+Carl Felarca singled.
+Howie Stjean struck out looking.
+Joseph Kelly grounded into double play to third.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 1, Edmonton 3
+
+
+Top of the 6th inning:  Wisconsin batting
+
+Bart Harley Jarvis singled.
+Dean Gelzinis was safe after Hilario Cruz committed a fielding error.
+Emile Fadale singled, Gelzinis to second.
+Henry Robertson struck out swinging.
+Nelson Joyner singled, Gelzinis SCORED, Fadale to third.
+Rolando Ledbetter grounded out to third.
+
+1 Run, 3 Hits, 1 Error
+Wisconsin 2, Edmonton 3
+
+
+Bottom of the 6th inning:  Edmonton batting
+
+Salvatore Blanca grounded out to third.
+Charlie Martinez singled.
+Larry Brooks tripled, Martinez SCORED.
+Claude Holmon flied out to center.
+Dallas Romeo flied out to center.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 2, Edmonton 4
+
+
+Top of the 7th inning:  Wisconsin batting
+
+Orestes Saunders singled.
+George Lemieux struck out looking.
+Somerset Hall hit by pitch, Saunders to second.
+Gordon Jefferson relieved Hilario Cruz.
+Bart Harley Jarvis flied out to left.
+Dean Gelzinis singled, Saunders SCORED, Hall to third.
+Emile Fadale popped out to catcher.
+
+1 Run, 2 Hits, 0 Errors
+Wisconsin 3, Edmonton 4
+
+
+Bottom of the 7th inning:  Edmonton batting
+
+Jarrett Canady relieved Jordan Easter.
+Stefan Fleischacker struck out looking.
+Carl Felarca singled.
+Howie Stjean flied out to right.
+Joseph Kelly flied out to left.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 3, Edmonton 4
+
+
+Top of the 8th inning:  Wisconsin batting
+
+Henry Robertson doubled.
+Joe Altomari ran for Henry Robertson.
+Nelson Joyner grounded out to pitcher.
+Rolando Ledbetter popped out to catcher.
+Orestes Saunders struck out looking.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 3, Edmonton 4
+
+
+Bottom of the 8th inning:  Edmonton batting
+
+Shad Johnson came in for Joe Altomari at second.
+Salvatore Blanca singled.
+Charlie Martinez fouled out to catcher.
+Larry Brooks flied out to center.
+Claude Holmon flied out to right.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 3, Edmonton 4
+
+
+Top of the 9th inning:  Wisconsin batting
+
+Will Wells relieved Gordon Jefferson.
+George Lemieux singled.
+Somerset Hall struck out swinging.
+Bart Harley Jarvis flied out to center.
+Dean Gelzinis fouled out to third.
+
+0 Runs, 1 Hit, 0 Errors
+Wisconsin 3, Edmonton 4
+
+
+END
